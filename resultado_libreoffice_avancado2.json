@@ -1,0 +1,3425 @@
+{
+  "metadata": {
+    "app": "LibreOffice",
+    "duration_seconds": 39.52865552902222,
+    "config": "ExtractorConfig(app_path='C:\\\\Program Files\\\\LibreOffice\\\\program\\\\swriter.exe', output_file='resultado_libreoffice_avancado.json', use_multithreading=False, max_workers=4, take_screenshots=True, screenshot_dir='imgs_lo_avancado', max_depth=30, connect_timeout=10)",
+    "banlist": "BanlistConfig(nomes_exatos={'AplicativoArquivo', 'Barra de título', 'Ajuda', 'System', 'Fechar', 'Restaurar', 'Minimizar'}, classes={'ToolTip', 'SysShadow', 'MSCTFIME UI'}, nomes_parciais={'Novo', 'Arquivo', 'Ajuda'})"
+  },
+  "ui_structure": {
+    "nome": "Sem título 2 — LibreOffice Writer",
+    "classe": "SALFRAME",
+    "tipo_controle": "Window",
+    "nivel": 0,
+    "posicao": {
+      "x": 116,
+      "y": 114,
+      "w": 1440,
+      "h": 753
+    },
+    "visivel": true,
+    "habilitado": true,
+    "id_automacao": "",
+    "ignorado": false,
+    "screenshot": "L0_Sem_título_2_—_LibreOffice_Writer_1764098640485.png",
+    "filhos": [
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "TitleBar",
+        "nivel": 1,
+        "posicao": {
+          "x": 140,
+          "y": 117,
+          "w": 1408,
+          "h": 28
+        },
+        "visivel": true,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": "L1__1764098640534.png",
+        "filhos": [
+          {
+            "nome": "Sistema",
+            "classe": "",
+            "tipo_controle": "MenuBar",
+            "nivel": 2,
+            "posicao": {
+              "x": 124,
+              "y": 122,
+              "w": 22,
+              "h": 22
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "MenuBar",
+            "ignorado": false,
+            "screenshot": "L2_Sistema_1764098640569.png",
+            "filhos": [
+              {
+                "nome": "Sistema",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 124,
+                  "y": 122,
+                  "w": 22,
+                  "h": 22
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Sistema_1764098641702.png",
+                "filhos": []
+              }
+            ],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Sistema_1764098641669.png"
+          },
+          {
+            "nome": "Maximizar",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 2,
+            "posicao": {
+              "x": 1456,
+              "y": 115,
+              "w": 46,
+              "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Maximizar_1764098641984.png",
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "MenuBar",
+        "nivel": 1,
+        "posicao": {
+          "x": 124,
+          "y": 145,
+          "w": 1424,
+          "h": 27
+        },
+        "visivel": true,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": "L1__1764098642018.png",
+        "filhos": [
+          {
+            "nome": "Editar",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 182,
+              "y": 145,
+              "w": 46,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Editar_1764098642868.png",
+            "filhos": [
+              {
+                "nome": "Desfazer",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 184,
+                  "y": 173,
+                  "w": 220,
+                  "h": 22
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Desfazer_1764098643484.png",
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Desfazer_1764098644018.png"
+              },
+              {
+                "nome": "Refazer",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 184,
+                  "y": 169,
+                  "w": 220,
+                  "h": 22
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Refazer_1764098644052.png",
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Repetir",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Cortar",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Copiar",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Colar",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Colar especial",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [
+                  {
+                    "nome": "Colar texto sem formatação",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 495,
+                      "y": 307,
+                      "w": 297,
+                      "h": 22
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4_Colar_texto_sem_formatação_1764098647319.png",
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": "MENU_Colar_texto_sem_formatação_1764098647870.png"
+                  },
+                  {
+                    "nome": "Colar especial...",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 186,
+                      "y": 307,
+                      "w": 297,
+                      "h": 22
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4_Colar_especial..._1764098647902.png",
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Colar como tabela embutida",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Colar como linhas acima",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Colar como colunas antes",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  }
+                ],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Colar_especial_1764098647287.png"
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Selecionar tudo",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Modo de seleção",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [
+                  {
+                    "nome": "Padrão",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 495,
+                      "y": 355,
+                      "w": 192,
+                      "h": 22
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4_Padrão_1764098651385.png",
+                    "filhos": []
+                  },
+                  {
+                    "nome": "Bloco",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 495,
+                      "y": 377,
+                      "w": 192,
+                      "h": 22
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4_Bloco_1764098651419.png",
+                    "filhos": []
+                  }
+                ],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Modo_de_seleção_1764098651352.png"
+              },
+              {
+                "nome": "Selecionar texto",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 184,
+                  "y": 379,
+                  "w": 312,
+                  "h": 22
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Selecionar_texto_1764098651701.png",
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Selecionar_texto_1764098652236.png"
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 184,
+                  "y": 375,
+                  "w": 312,
+                  "h": 4
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098652268.png",
+                "filhos": []
+              },
+              {
+                "nome": "Localizar...",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 184,
+                  "y": 379,
+                  "w": 312,
+                  "h": 22
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar..._1764098652303.png",
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Localizar e substituir...",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Ir para a página...",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Registrar alterações",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [
+                  {
+                    "nome": "Registrar",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 495,
+                      "y": 473,
+                      "w": 236,
+                      "h": 22
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4_Registrar_1764098654518.png",
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": "MENU_Registrar_1764098655070.png"
+                  },
+                  {
+                    "nome": "Mostrar",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 186,
+                      "y": 473,
+                      "w": 236,
+                      "h": 22
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4_Mostrar_1764098655102.png",
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Separator",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": []
+                  },
+                  {
+                    "nome": "Gerenciar...",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Anterior",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Próxima",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Aceitar",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Aceitar e avançar para a seguinte",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Aceitar todas",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Rejeitar",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Rejeitar e avançar para a seguinte",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Rejeitar todas",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Separator",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": []
+                  },
+                  {
+                    "nome": "Anotação...",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": false,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Proteger...",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Separator",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": []
+                  },
+                  {
+                    "nome": "Comparar documento...",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  },
+                  {
+                    "nome": "Mesclar documento...",
+                    "classe": "",
+                    "tipo_controle": "MenuItem",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 0,
+                      "y": 0,
+                      "w": 0,
+                      "h": 0
+                    },
+                    "visivel": false,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": null,
+                    "filhos": [],
+                    "submenu_expandido": true,
+                    "screenshot_expandido": null
+                  }
+                ],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Registrar_alterações_1764098654469.png"
+              },
+              {
+                "nome": "Anotação",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Hiperlink",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Referência",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Campos...",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Links externos...",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Objeto OLE",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Trocar banco de dados...",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Modo de cursor direto",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              },
+              {
+                "nome": "Modo de edição",
+                "classe": "",
+                "tipo_controle": "MenuItem",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": null
+              }
+            ],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Editar_1764098643436.png"
+          },
+          {
+            "nome": "Exibir",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 228,
+              "y": 145,
+              "w": 45,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Exibir_1764098669270.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Exibir_1764098670119.png"
+          },
+          {
+            "nome": "Inserir",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 273,
+              "y": 145,
+              "w": 48,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Inserir_1764098670152.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Inserir_1764098670835.png"
+          },
+          {
+            "nome": "Formatar",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 321,
+              "y": 145,
+              "w": 63,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Formatar_1764098670869.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Formatar_1764098671536.png"
+          },
+          {
+            "nome": "Estilos",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 384,
+              "y": 145,
+              "w": 49,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Estilos_1764098671570.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Estilos_1764098672236.png"
+          },
+          {
+            "nome": "Tabela",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 433,
+              "y": 145,
+              "w": 49,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Tabela_1764098672269.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Tabela_1764098672919.png"
+          },
+          {
+            "nome": "Formulário",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 482,
+              "y": 145,
+              "w": 73,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Formulário_1764098672952.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Formulário_1764098673619.png"
+          },
+          {
+            "nome": "Ferramentas",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 555,
+              "y": 145,
+              "w": 80,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Ferramentas_1764098673652.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Ferramentas_1764098674302.png"
+          },
+          {
+            "nome": "Janela",
+            "classe": "",
+            "tipo_controle": "MenuItem",
+            "nivel": 2,
+            "posicao": {
+              "x": 635,
+              "y": 145,
+              "w": 48,
+              "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Janela_1764098674336.png",
+            "filhos": [],
+            "submenu_expandido": true,
+            "screenshot_expandido": "MENU_Janela_1764098675003.png"
+          }
+        ],
+        "submenu_expandido": true,
+        "screenshot_expandido": "MENU__1764098642834.png"
+      },
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "Custom",
+        "nivel": 1,
+        "posicao": {
+          "x": 124,
+          "y": 250,
+          "w": 1424,
+          "h": 548
+        },
+        "visivel": true,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": "L1__1764098675288.png",
+        "filhos": [
+          {
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Custom",
+            "nivel": 2,
+            "posicao": {
+              "x": 124,
+              "y": 250,
+              "w": 1376,
+              "h": 548
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2__1764098675336.png",
+            "filhos": [
+              {
+                "nome": "Sem título 2 - Documento do LibreOffice",
+                "classe": "",
+                "tipo_controle": "Document",
+                "nivel": 3,
+                "posicao": {
+                  "x": 150,
+                  "y": 276,
+                  "w": 1350,
+                  "h": 522
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Sem_título_2_-_Documento_do_LibreOffi_1764098675385.png",
+                "filhos": [
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 428,
+                      "y": 371,
+                      "w": 794,
+                      "h": 18
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4__1764098675419.png",
+                    "filhos": []
+                  }
+                ]
+              },
+              {
+                "nome": "Régua horizontal",
+                "classe": "",
+                "tipo_controle": "Custom",
+                "nivel": 3,
+                "posicao": {
+                  "x": 124,
+                  "y": 250,
+                  "w": 1376,
+                  "h": 26
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Régua_horizontal_1764098675453.png",
+                "filhos": []
+              },
+              {
+                "nome": "Régua vertical",
+                "classe": "",
+                "tipo_controle": "Custom",
+                "nivel": 3,
+                "posicao": {
+                  "x": 124,
+                  "y": 276,
+                  "w": 26,
+                  "h": 522
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Régua_vertical_1764098675486.png",
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Custom",
+            "nivel": 2,
+            "posicao": {
+              "x": 1500,
+              "y": 250,
+              "w": 48,
+              "h": 548
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2__1764098675519.png",
+            "filhos": [
+              {
+                "nome": "Galeria",
+                "classe": "",
+                "tipo_controle": "Custom",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1509,
+                  "y": 252,
+                  "w": 37,
+                  "h": 544
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Galeria_1764098675553.png",
+                "filhos": [
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 1509,
+                      "y": 252,
+                      "w": 37,
+                      "h": 544
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4__1764098675586.png",
+                    "filhos": [
+                      {
+                        "nome": "",
+                        "classe": "",
+                        "tipo_controle": "Custom",
+                        "nivel": 5,
+                        "posicao": {
+                          "x": 1509,
+                          "y": 252,
+                          "w": 37,
+                          "h": 544
+                        },
+                        "visivel": true,
+                        "habilitado": true,
+                        "id_automacao": "",
+                        "ignorado": false,
+                        "screenshot": "L5__1764098675619.png",
+                        "filhos": [
+                          {
+                            "nome": "",
+                            "classe": "",
+                            "tipo_controle": "Custom",
+                            "nivel": 6,
+                            "posicao": {
+                              "x": 1509,
+                              "y": 252,
+                              "w": 37,
+                              "h": 341
+                            },
+                            "visivel": true,
+                            "habilitado": true,
+                            "id_automacao": "",
+                            "ignorado": false,
+                            "screenshot": "L6__1764098675652.png",
+                            "filhos": [
+                              {
+                                "nome": "",
+                                "classe": "",
+                                "tipo_controle": "Custom",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1509,
+                                  "y": 252,
+                                  "w": 37,
+                                  "h": 26
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7__1764098675702.png",
+                                "filhos": [
+                                  {
+                                    "nome": "",
+                                    "classe": "",
+                                    "tipo_controle": "Custom",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 254,
+                                      "w": 33,
+                                      "h": 22
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8__1764098675735.png",
+                                    "filhos": [
+                                      {
+                                        "nome": "",
+                                        "classe": "",
+                                        "tipo_controle": "MenuItem",
+                                        "nivel": 9,
+                                        "posicao": {
+                                          "x": 1517,
+                                          "y": 254,
+                                          "w": 20,
+                                          "h": 19
+                                        },
+                                        "visivel": true,
+                                        "habilitado": true,
+                                        "id_automacao": "",
+                                        "ignorado": false,
+                                        "screenshot": "L9__1764098675770.png",
+                                        "filhos": []
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Propriedades",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 278,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Propriedades_1764098675802.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Propriedades (Alt+1)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 278,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Propriedades_(Alt+1)_1764098675835.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Estilos",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 313,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Estilos_1764098675868.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Estilos (Alt+2)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 313,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Estilos_(Alt+2)_1764098675902.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Galeria",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 348,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Galeria_1764098675935.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Galeria (Alt+3)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 348,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Galeria_(Alt+3)_1764098675969.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Navegador",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 383,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Navegador_1764098676002.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Navegador (Alt+4)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 383,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Navegador_(Alt+4)_1764098676035.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Página",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 418,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Página_1764098676070.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Página (Alt+5)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 418,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Página_(Alt+5)_1764098676101.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Inspetor de estilos",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 453,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Inspetor_de_estilos_1764098676135.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Inspetor de estilos (Alt+6)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 453,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Inspetor_de_estilos_(Alt+6)_1764098676169.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Gerenciar alterações",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 488,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Gerenciar_alterações_1764098676202.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Gerenciar alterações (Alt+7)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 488,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Gerenciar_alterações_(Alt+7)_1764098676235.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Verificar acessibilidade",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 523,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Verificar_acessibilidade_1764098676269.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Verificar acessibilidade (Alt+8)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 523,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Verificar_acessibilidade_(Alt+8)_1764098676302.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              },
+                              {
+                                "nome": "Pesquisar",
+                                "classe": "",
+                                "tipo_controle": "ToolBar",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1511,
+                                  "y": 558,
+                                  "w": 33,
+                                  "h": 35
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Pesquisar_1764098676336.png",
+                                "filhos": [
+                                  {
+                                    "nome": "Pesquisar (Alt+9)",
+                                    "classe": "",
+                                    "tipo_controle": "Button",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 1511,
+                                      "y": 558,
+                                      "w": 33,
+                                      "h": 35
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_Pesquisar_(Alt+9)_1764098676369.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  },
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 1485,
+                      "y": 512,
+                      "w": 24,
+                      "h": 24
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4__1764098676403.png",
+                    "filhos": [
+                      {
+                        "nome": "",
+                        "classe": "",
+                        "tipo_controle": "Custom",
+                        "nivel": 5,
+                        "posicao": {
+                          "x": 1485,
+                          "y": 512,
+                          "w": 24,
+                          "h": 24
+                        },
+                        "visivel": true,
+                        "habilitado": true,
+                        "id_automacao": "",
+                        "ignorado": false,
+                        "screenshot": "L5__1764098676436.png",
+                        "filhos": [
+                          {
+                            "nome": "",
+                            "classe": "",
+                            "tipo_controle": "Custom",
+                            "nivel": 6,
+                            "posicao": {
+                              "x": 1485,
+                              "y": 512,
+                              "w": 24,
+                              "h": 24
+                            },
+                            "visivel": true,
+                            "habilitado": true,
+                            "id_automacao": "",
+                            "ignorado": false,
+                            "screenshot": "L6__1764098676469.png",
+                            "filhos": [
+                              {
+                                "nome": "",
+                                "classe": "",
+                                "tipo_controle": "Custom",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 1485,
+                                  "y": 512,
+                                  "w": 24,
+                                  "h": 24
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7__1764098676502.png",
+                                "filhos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Custom",
+            "nivel": 2,
+            "posicao": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": null,
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "Custom",
+        "nivel": 1,
+        "posicao": {
+          "x": 124,
+          "y": 172,
+          "w": 1424,
+          "h": 78
+        },
+        "visivel": true,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": "L1__1764098676536.png",
+        "filhos": [
+          {
+            "nome": "Padrão",
+            "classe": "",
+            "tipo_controle": "ToolBar",
+            "nivel": 2,
+            "posicao": {
+              "x": 124,
+              "y": 172,
+              "w": 1254,
+              "h": 39
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Padrão_1764098676635.png",
+            "filhos": [
+              {
+                "nome": "Abrir",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 172,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Abrir_1764098676685.png",
+                "filhos": []
+              },
+              {
+                "nome": "Salvar",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 216,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Salvar_1764098676719.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 260,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098676752.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Exportar diretamente como PDF",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 268,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Exportar_diretamente_como_PDF_1764098676786.png",
+                "filhos": []
+              },
+              {
+                "nome": "Imprimir",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 301,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Imprimir_1764098676818.png",
+                "filhos": []
+              },
+              {
+                "nome": "Visualizar impressão",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 334,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Visualizar_impressão_1764098676852.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 367,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098676886.png",
+                "filhos": []
+              },
+              {
+                "nome": "Cortar",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 375,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Cortar_1764098676919.png",
+                "filhos": []
+              },
+              {
+                "nome": "Copiar",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 408,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Copiar_1764098676953.png",
+                "filhos": []
+              },
+              {
+                "nome": "Colar",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 441,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Colar_1764098676986.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 485,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098677020.png",
+                "filhos": []
+              },
+              {
+                "nome": "Clonar",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 493,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Clonar_1764098677051.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 526,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098677085.png",
+                "filhos": []
+              },
+              {
+                "nome": "Desfazer",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 534,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Desfazer_1764098677119.png",
+                "filhos": []
+              },
+              {
+                "nome": "Refazer",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 578,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Refazer_1764098677153.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 622,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098677186.png",
+                "filhos": []
+              },
+              {
+                "nome": "Localizar e substituir",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 630,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar_e_substituir_1764098677220.png",
+                "filhos": []
+              },
+              {
+                "nome": "Ortografia",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 663,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Ortografia_1764098677252.png",
+                "filhos": []
+              },
+              {
+                "nome": "Marcas de formatação",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 696,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Marcas_de_formatação_1764098677286.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 729,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098677317.png",
+                "filhos": []
+              },
+              {
+                "nome": "Tabela",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 737,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Tabela_1764098677350.png",
+                "filhos": []
+              },
+              {
+                "nome": "Figura",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 781,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Figura_1764098677383.png",
+                "filhos": []
+              },
+              {
+                "nome": "Gráfico",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 814,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Gráfico_1764098677416.png",
+                "filhos": []
+              },
+              {
+                "nome": "Caixa de texto",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 847,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Caixa_de_texto_1764098677449.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 880,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098677484.png",
+                "filhos": []
+              },
+              {
+                "nome": "Inserir quebra de página",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 888,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Inserir_quebra_de_página_1764098677516.png",
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Inserir_quebra_de_página_1764098678052.png"
+              },
+              {
+                "nome": "Campo",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 921,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Campo_1764098678084.png",
+                "filhos": []
+              },
+              {
+                "nome": "Símbolo",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 965,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Símbolo_1764098678117.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1009,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098678150.png",
+                "filhos": []
+              },
+              {
+                "nome": "Hiperlink",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1017,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Hiperlink_1764098678183.png",
+                "filhos": []
+              },
+              {
+                "nome": "Nota de rodapé",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1050,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Nota_de_rodapé_1764098678216.png",
+                "filhos": []
+              },
+              {
+                "nome": "Notas de fim",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1083,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Notas_de_fim_1764098678250.png",
+                "filhos": []
+              },
+              {
+                "nome": "Marca-páginas",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1116,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Marca-páginas_1764098678284.png",
+                "filhos": []
+              },
+              {
+                "nome": "Referência",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1149,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Referência_1764098678316.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1182,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098678350.png",
+                "filhos": []
+              },
+              {
+                "nome": "Anotação",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1190,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Anotação_1764098678383.png",
+                "filhos": []
+              },
+              {
+                "nome": "Funções de registro de alterações",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1223,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Funções_de_registro_de_alterações_1764098678416.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1256,
+                  "y": 174,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098678450.png",
+                "filhos": []
+              },
+              {
+                "nome": "Inserir linha",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1264,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Inserir_linha_1764098678484.png",
+                "filhos": [],
+                "submenu_expandido": true,
+                "screenshot_expandido": "MENU_Inserir_linha_1764098679019.png"
+              },
+              {
+                "nome": "Formas simples",
+                "classe": "",
+                "tipo_controle": "SplitButton",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1297,
+                  "y": 174,
+                  "w": 44,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Formas_simples_1764098679051.png",
+                "filhos": []
+              },
+              {
+                "nome": "Funções de desenho",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 1341,
+                  "y": 174,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Funções_de_desenho_1764098679084.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              }
+            ]
+          },
+          {
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "ToolBar",
+            "nivel": 2,
+            "posicao": {
+              "x": 0,
+              "y": 0,
+              "w": 0,
+              "h": 0
+            },
+            "visivel": true,
+            "habilitado": false,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": null,
+            "filhos": []
+          }
+        ]
+      },
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "Custom",
+        "nivel": 1,
+        "posicao": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "visivel": false,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": null,
+        "filhos": []
+      },
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "Custom",
+        "nivel": 1,
+        "posicao": {
+          "x": 0,
+          "y": 0,
+          "w": 0,
+          "h": 0
+        },
+        "visivel": false,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": null,
+        "filhos": []
+      },
+      {
+        "nome": "",
+        "classe": "",
+        "tipo_controle": "Custom",
+        "nivel": 1,
+        "posicao": {
+          "x": 124,
+          "y": 798,
+          "w": 1424,
+          "h": 39
+        },
+        "visivel": true,
+        "habilitado": true,
+        "id_automacao": "",
+        "ignorado": false,
+        "screenshot": "L1__1764098679117.png",
+        "filhos": [
+          {
+            "nome": "Localizar",
+            "classe": "",
+            "tipo_controle": "ToolBar",
+            "nivel": 2,
+            "posicao": {
+              "x": 124,
+              "y": 798,
+              "w": 731,
+              "h": 39
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L2_Localizar_1764098679151.png",
+            "filhos": [
+              {
+                "nome": "Fechar barra de localização",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 128,
+                  "y": 800,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Fechar_barra_de_localização_1764098679184.png",
+                "filhos": []
+              },
+              {
+                "nome": "Localizar valores",
+                "classe": "",
+                "tipo_controle": "Custom",
+                "nivel": 3,
+                "posicao": {
+                  "x": 161,
+                  "y": 805,
+                  "w": 250,
+                  "h": 24
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar_valores_1764098679216.png",
+                "filhos": [
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 161,
+                      "y": 805,
+                      "w": 250,
+                      "h": 24
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4__1764098679251.png",
+                    "filhos": [
+                      {
+                        "nome": "",
+                        "classe": "",
+                        "tipo_controle": "Custom",
+                        "nivel": 5,
+                        "posicao": {
+                          "x": 161,
+                          "y": 805,
+                          "w": 250,
+                          "h": 24
+                        },
+                        "visivel": true,
+                        "habilitado": true,
+                        "id_automacao": "",
+                        "ignorado": false,
+                        "screenshot": "L5__1764098679284.png",
+                        "filhos": [
+                          {
+                            "nome": "",
+                            "classe": "",
+                            "tipo_controle": "Custom",
+                            "nivel": 6,
+                            "posicao": {
+                              "x": 161,
+                              "y": 805,
+                              "w": 250,
+                              "h": 24
+                            },
+                            "visivel": true,
+                            "habilitado": true,
+                            "id_automacao": "",
+                            "ignorado": false,
+                            "screenshot": "L6__1764098679317.png",
+                            "filhos": [
+                              {
+                                "nome": "imgs_lo_avancadoimgs_lo_avancadoimgs_lo_avancadoimgs_lo_avancadoimgs_lo_avancado",
+                                "classe": "",
+                                "tipo_controle": "ComboBox",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 161,
+                                  "y": 805,
+                                  "w": 250,
+                                  "h": 24
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_imgs_lo_avancadoimgs_lo_avancadoimgs__1764098679350.png",
+                                "filhos": [
+                                  {
+                                    "nome": "imgs_lo_avancadoimgs_lo_avancadoimgs_lo_avancadoimgs_lo_avancadoimgs_lo_avancado",
+                                    "classe": "",
+                                    "tipo_controle": "Edit",
+                                    "nivel": 8,
+                                    "posicao": {
+                                      "x": 162,
+                                      "y": 806,
+                                      "w": 231,
+                                      "h": 22
+                                    },
+                                    "visivel": true,
+                                    "habilitado": true,
+                                    "id_automacao": "",
+                                    "ignorado": false,
+                                    "screenshot": "L8_imgs_lo_avancadoimgs_lo_avancadoimgs__1764098679383.png",
+                                    "filhos": []
+                                  }
+                                ]
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "nome": "Localizar o anterior",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 411,
+                  "y": 800,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar_o_anterior_1764098679416.png",
+                "filhos": []
+              },
+              {
+                "nome": "Localizar o próximo",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 444,
+                  "y": 800,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar_o_próximo_1764098679451.png",
+                "filhos": []
+              },
+              {
+                "nome": "Localizar todos",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 477,
+                  "y": 804,
+                  "w": 90,
+                  "h": 27
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar_todos_1764098679484.png",
+                "filhos": []
+              },
+              {
+                "nome": "Diferenciar maiúsculas de minúsculas",
+                "classe": "",
+                "tipo_controle": "Custom",
+                "nivel": 3,
+                "posicao": {
+                  "x": 567,
+                  "y": 809,
+                  "w": 216,
+                  "h": 16
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Diferenciar_maiúsculas_de_minúsculas_1764098679517.png",
+                "filhos": [
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 567,
+                      "y": 809,
+                      "w": 216,
+                      "h": 16
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4__1764098679550.png",
+                    "filhos": [
+                      {
+                        "nome": "",
+                        "classe": "",
+                        "tipo_controle": "Custom",
+                        "nivel": 5,
+                        "posicao": {
+                          "x": 567,
+                          "y": 809,
+                          "w": 216,
+                          "h": 16
+                        },
+                        "visivel": true,
+                        "habilitado": true,
+                        "id_automacao": "",
+                        "ignorado": false,
+                        "screenshot": "L5__1764098679584.png",
+                        "filhos": [
+                          {
+                            "nome": "",
+                            "classe": "",
+                            "tipo_controle": "Custom",
+                            "nivel": 6,
+                            "posicao": {
+                              "x": 567,
+                              "y": 809,
+                              "w": 216,
+                              "h": 16
+                            },
+                            "visivel": true,
+                            "habilitado": true,
+                            "id_automacao": "",
+                            "ignorado": false,
+                            "screenshot": "L6__1764098679618.png",
+                            "filhos": [
+                              {
+                                "nome": "Diferenciar maiúsculas de minúsculas",
+                                "classe": "",
+                                "tipo_controle": "CheckBox",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 567,
+                                  "y": 809,
+                                  "w": 216,
+                                  "h": 16
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7_Diferenciar_maiúsculas_de_minúsculas_1764098679650.png",
+                                "filhos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 783,
+                  "y": 800,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098679683.png",
+                "filhos": []
+              },
+              {
+                "nome": "Localizar e substituir",
+                "classe": "",
+                "tipo_controle": "Button",
+                "nivel": 3,
+                "posicao": {
+                  "x": 791,
+                  "y": 800,
+                  "w": 33,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Localizar_e_substituir_1764098679717.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 824,
+                  "y": 800,
+                  "w": 8,
+                  "h": 35
+                },
+                "visivel": true,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3__1764098679751.png",
+                "filhos": []
+              },
+              {
+                "nome": "",
+                "classe": "",
+                "tipo_controle": "Separator",
+                "nivel": 3,
+                "posicao": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 0,
+                  "h": 0
+                },
+                "visivel": false,
+                "habilitado": false,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": null,
+                "filhos": []
+              },
+              {
+                "nome": "Mensagem de resultados da pesquisa",
+                "classe": "",
+                "tipo_controle": "Custom",
+                "nivel": 3,
+                "posicao": {
+                  "x": 832,
+                  "y": 809,
+                  "w": 19,
+                  "h": 16
+                },
+                "visivel": true,
+                "habilitado": true,
+                "id_automacao": "",
+                "ignorado": false,
+                "screenshot": "L3_Mensagem_de_resultados_da_pesquisa_1764098679784.png",
+                "filhos": [
+                  {
+                    "nome": "",
+                    "classe": "",
+                    "tipo_controle": "Custom",
+                    "nivel": 4,
+                    "posicao": {
+                      "x": 832,
+                      "y": 809,
+                      "w": 19,
+                      "h": 16
+                    },
+                    "visivel": true,
+                    "habilitado": true,
+                    "id_automacao": "",
+                    "ignorado": false,
+                    "screenshot": "L4__1764098679817.png",
+                    "filhos": [
+                      {
+                        "nome": "",
+                        "classe": "",
+                        "tipo_controle": "Custom",
+                        "nivel": 5,
+                        "posicao": {
+                          "x": 832,
+                          "y": 809,
+                          "w": 19,
+                          "h": 16
+                        },
+                        "visivel": true,
+                        "habilitado": true,
+                        "id_automacao": "",
+                        "ignorado": false,
+                        "screenshot": "L5__1764098679850.png",
+                        "filhos": [
+                          {
+                            "nome": "",
+                            "classe": "",
+                            "tipo_controle": "Custom",
+                            "nivel": 6,
+                            "posicao": {
+                              "x": 832,
+                              "y": 809,
+                              "w": 19,
+                              "h": 16
+                            },
+                            "visivel": true,
+                            "habilitado": true,
+                            "id_automacao": "",
+                            "ignorado": false,
+                            "screenshot": "L6__1764098679883.png",
+                            "filhos": [
+                              {
+                                "nome": "",
+                                "classe": "",
+                                "tipo_controle": "Custom",
+                                "nivel": 7,
+                                "posicao": {
+                                  "x": 832,
+                                  "y": 809,
+                                  "w": 13,
+                                  "h": 16
+                                },
+                                "visivel": true,
+                                "habilitado": true,
+                                "id_automacao": "",
+                                "ignorado": false,
+                                "screenshot": "L7__1764098679917.png",
+                                "filhos": []
+                              }
+                            ]
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
