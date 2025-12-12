@@ -1,0 +1,3003 @@
+{
+    "ui_structure": [
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 10,
+                "y": 19,
+                "w": 74,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469490051.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "btnMenu",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 98,
+                "y": 4,
+                "w": 30,
+                "h": 27
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469490276.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1780,
+                "y": 19,
+                "w": 115,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469490463.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "btnMenu2",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 1736,
+                "y": 4,
+                "w": 30,
+                "h": 27
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469490615.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Mudar o contraste",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1662,
+                "y": 10,
+                "w": 15,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469490806.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Aumentar o tamanho da fonte",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1676,
+                "y": 10,
+                "w": 25,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469490956.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Diminuir o tamanho da fonte",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1701,
+                "y": 10,
+                "w": 21,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469491128.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Dados Abertos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1554,
+                "y": 10,
+                "w": 88,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469491310.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Exercício",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 66,
+                "w": 88,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469492958.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 86,
+                "w": 426,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2025",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "FILTEREDIT_9b90794106c1460e9817f0490cc24708DSA5_exe",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2025",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 101,
+                "w": 103,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469494914.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2024",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 103,
+                "y": 101,
+                "w": 103,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469495183.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2023",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 206,
+                "y": 101,
+                "w": 103,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469495350.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2022",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 308,
+                "y": 101,
+                "w": 103,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469495524.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2021",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 151,
+                "w": 103,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469495708.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2020",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 103,
+                "y": 149,
+                "w": 103,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765469495865.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Receita",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 204,
+                "w": 80,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469496123.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 224,
+                "w": 426,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "",
+            "tag": "select",
+            "tipo_controle": "Select",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "FILTERCOMBO_9b90794106c1460e9817f0490cc24708DSA3_exe",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Despesa",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 445,
+                "w": 86,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469498365.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 465,
+                "w": 426,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "",
+            "tag": "select",
+            "tipo_controle": "Select",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "FILTERCOMBO_9b90794106c1460e9817f0490cc24708DSA6_exe",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Fixado Total: 1.999.046.977,80",
+            "classe": "temp06_1_9b90794106c1460e9817f0490cc24708DSA6",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 3,
+                "y": 464,
+                "w": 420,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469500340.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Empenhado: 1.664.421.562,12\nPercentual empenhado sobre o total fixado: 83,26%",
+            "classe": "temp06_2_9b90794106c1460e9817f0490cc24708DSA6",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 3,
+                "y": 504,
+                "w": 420,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469500618.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Processado: 1.423.634.984,39\nPercentual processado sobre o total fixado: 71,22%",
+            "classe": "temp06_3_9b90794106c1460e9817f0490cc24708DSA6",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 3,
+                "y": 544,
+                "w": 420,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469500788.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Pago: 1.304.796.951,85\nPercentual pago sobre o total fixado: 65,27%",
+            "classe": "temp06_4_9b90794106c1460e9817f0490cc24708DSA6",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 3,
+                "y": 584,
+                "w": 420,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469500963.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "WhatsApp",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 431,
+                "y": 47,
+                "w": 94,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469501188.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 431,
+                "y": 67,
+                "w": 323,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "WhatsApp",
+            "classe": "temp05_1_9b90794106c1460e9817f0490cc24708DSA8",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 431,
+                "y": 101,
+                "w": 323,
+                "h": 99
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469502877.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Resumo",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 431,
+                "y": 204,
+                "w": 84,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469503253.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 431,
+                "y": 224,
+                "w": 323,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "",
+            "tag": "select",
+            "tipo_controle": "Select",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "FILTERCOMBO_9b90794106c1460e9817f0490cc24708DSA1_exe",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atualização do Portal\n10/12/2025 21:00:05",
+            "classe": "temp06_1_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 242,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469505405.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Investimento em Educação\n339.194.204,09",
+            "classe": "temp06_2_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 282,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469505693.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Total Atendimentos e-SIC\n343",
+            "classe": "temp06_3_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 322,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469505866.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Total Acessos\n993.646",
+            "classe": "temp06_4_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 362,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469506035.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Compras / Licitações / Contratos\n85.826.540,24",
+            "classe": "temp06_5_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 402,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469506205.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Total de Funcionários\n6.885",
+            "classe": "temp06_6_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 442,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469506377.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Saldo Anterior - Restos a pagar\n46.619.417,47",
+            "classe": "temp06_7_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 482,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469506544.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Pago no Exercício referente a Restos a Pagar\n125.354.682,38",
+            "classe": "temp06_8_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 522,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469506719.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Investimento em Saúde\n212.582.138,01",
+            "classe": "temp06_9_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 562,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469506884.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Diárias/Viagens e Adiantamentos\n1.118.208,54",
+            "classe": "temp06_10_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 602,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469507057.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Diárias/Viagens e Adiantamentos\n1.118.208,54",
+            "classe": "temp06_11_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 642,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469507229.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Depósito de Precatórios\n50.693.646,12",
+            "classe": "temp06_12_9b90794106c1460e9817f0490cc24708DSA1",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 434,
+                "y": 682,
+                "w": 302,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469507398.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Estatística de Acessos",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 708,
+                "w": 159,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469507597.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 728,
+                "w": 754,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "2025",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "FILTEREDIT_9b90794106c1460e9817f0490cc24708DSA7_exe",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Acesso Rápido",
+            "classe": "lm_tabs",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 6,
+                "w": 120,
+                "h": 21
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_ul_1765469511840.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "additional tabs",
+            "classe": "lm_tabdropdown",
+            "tag": "li",
+            "tipo_controle": "Li",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 18,
+                "h": 18
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "lm_tabdropdown_list",
+            "tag": "ul",
+            "tipo_controle": "Ul",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "nome": "",
+            "classe": "btnMenuDinamico selected",
+            "tag": "div",
+            "tipo_controle": "Div",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 26,
+                "w": 1146,
+                "h": 0
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 771,
+                "y": 118,
+                "w": 132,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "FILTEREDIT_9b90794106c1460e9817f0490cc24708DSA2_pesq",
+            "ignorado": false,
+            "screenshot": "L0_input_1765469513975.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Filtrar",
+            "classe": "filterButton",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1820,
+                "y": 109,
+                "w": 78,
+                "h": 25
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "BUTTON_9b90794106c1460e9817f0490cc24708DSA2",
+            "ignorado": false,
+            "screenshot": "L0_button_1765469514226.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atualização do Portal\nverifique aqui se o Portal está sendo alimentado em tempo real",
+            "classe": "temp05_1_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 161,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469514839.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "CARGOS E SALÁRIOS\nCARGOS E SALÁRIOS DE 2025",
+            "classe": "temp05_2_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 161,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469515101.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "EMENDAS PARLAMENTARES\nEMENDAS PARLAMENTARES INDIVIDUAIS COM IMPEDIMENTO DE ORDEM TÉCNICA - LEI COMPL",
+            "classe": "temp05_3_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 161,
+                "w": 226,
+                "h": 136
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469515273.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Carta de Serviços\nCarta de Serviços ao Cidadão",
+            "classe": "temp05_4_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 161,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469515444.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cardápio da Merenda Escolar\ncardápio da merenda escolar",
+            "classe": "temp05_5_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 161,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469515612.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Conselhos municipais\nconheça nossos conselheiros",
+            "classe": "temp05_6_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 297,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469515803.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Compras/Licitações\nnossas compras/nossos fornecedores",
+            "classe": "temp05_7_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 297,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469515957.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Concursos e seleções públicas\nPagina de divugação de editais de concursos e seleções públicas",
+            "classe": "temp05_8_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 297,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469516126.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Contas Públicas\ntransparência da gestão fiscal: relatórios - artigo 48 da Lei de Responsabilidade Fi",
+            "classe": "temp05_9_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 297,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469516297.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consulta de Processos Online\nProcessos Online",
+            "classe": "temp05_10_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 297,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469516464.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Contratos\nContratos firmados",
+            "classe": "temp05_11_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 422,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469516659.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Convênios\nConvênios firmados junto a outros Órgãos Públicos",
+            "classe": "temp05_12_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 422,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469516805.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Currículos\nCurrículos e Portarias de Nomeações de Funcionários Comissionados",
+            "classe": "temp05_13_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 422,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469516978.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Decretos Municipais\ndecretos municipais",
+            "classe": "temp05_14_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 422,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469517146.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Decreto Despesas com diárias, viagens e adiantamentos\ngastos públicos com diárias e passagens",
+            "classe": "temp05_15_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 422,
+                "w": 226,
+                "h": 144
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469517325.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Incentivo Cultural\nDeclarações referentes aos exercícios de 2023 e 2024.",
+            "classe": "temp05_16_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 566,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469517515.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Despesas\nonde estamos aplicando o seu dinheiro",
+            "classe": "temp05_17_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 566,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469517666.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Despesas com diárias, viagens e adiantamentos\ngastos públicos com diárias e passagens",
+            "classe": "temp05_18_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 566,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469517838.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Editais de Licitação\nÍntegra dos Editais de Licitação",
+            "classe": "temp05_19_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 566,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469518008.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "e-SIC\nServiço de protocolo eletrônico de pedidos de acesso à informação pública",
+            "classe": "temp05_20_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 566,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469518179.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Emendas parlamentares\nEstaduais e Federais",
+            "classe": "temp05_21_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 695,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469518369.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Estrutura Administrativa\nConheça a estrutura de nossas Secretarias",
+            "classe": "temp05_22_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 695,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469518533.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Extração de dados em formato aberto\nfaça aqui o download das informações públicas que quiser",
+            "classe": "temp05_23_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 695,
+                "w": 226,
+                "h": 140
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469518687.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Perguntas mais frequentes\nrespostas a perguntas mais frequentes da sociedade",
+            "classe": "temp05_24_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 695,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469518860.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Facebook\nacesse nossa página no Facebook",
+            "classe": "temp05_25_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 695,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469519038.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Fluxograma - Prestação de Contas\nFluxograma das Prestações de Contas do Regime de Adiantamento",
+            "classe": "temp05_26_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 835,
+                "w": 226,
+                "h": 140
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469519224.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "FUNDEB transparente\nLei 6840-2022",
+            "classe": "temp05_27_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 820,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469519375.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Glossário de termos orçamentários\n.",
+            "classe": "temp05_28_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 805,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469519559.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Jornal Oficial do Município\njornal oficial do município",
+            "classe": "temp05_29_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 790,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469519740.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Legislação municipal\npesquise aqui a legislação municipal",
+            "classe": "temp05_30_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 780,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469519920.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "EMENDAS PIX\nEMENDA PIX",
+            "classe": "temp05_31_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 920,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469520109.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Leis Orçamentárias\nPPA / LDO / LOA",
+            "classe": "temp05_32_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 780,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469520272.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Lei 9.452/1997\nNotificações de Liberação de Recursos Federais- Lei 9.452/1997",
+            "classe": "temp05_33_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 780,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469520442.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Licitações Online\nLicitações Online",
+            "classe": "temp05_34_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 769,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469520610.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Multas de Trânsito\nmultas de transito",
+            "classe": "temp05_35_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 769,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469520784.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Multas Processadas\nRelatório de Multas Processadas no Município",
+            "classe": "temp05_36_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 894,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469520971.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Norma local\nregulamentação do acesso à informação em âmbito municipal",
+            "classe": "temp05_37_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 879,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469521118.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Obras municipais\nacompanhe aqui o andamento de todas as obras municipais",
+            "classe": "temp05_38_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 864,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469521289.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ouvidoria\ninformações sobre o atendimento pela Ouvidoria",
+            "classe": "temp05_39_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 849,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469521470.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Pedágio\nArrecadação x Pagamentos",
+            "classe": "temp05_40_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 834,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469521638.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Pedágio\nArrecadação de pedágio do municipio. Lei-5708-2016",
+            "classe": "temp05_41_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 944,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469521839.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Plano de Ação - SIAFIC\nPlano de Ação - SIAFIC",
+            "classe": "temp05_42_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 769,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469522001.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Plano de contratações anual\nPlano de contratações anual",
+            "classe": "temp05_43_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 769,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469522171.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Planos de Gestão - Planejamento do SUS\nPlanos de Gestão - Planejamento do SUS",
+            "classe": "temp05_44_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 769,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469522340.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Plano Municipal de Educação\nPlano Municipal de Educação",
+            "classe": "temp05_45_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 765,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469522516.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Plano Municipal de Saúde\nacesso ao Plano Municipal de Saúde",
+            "classe": "temp05_46_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 894,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469522703.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Portais de Transparência nos Estados\nsistema de informação eletronica no Brasil",
+            "classe": "temp05_47_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 879,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469522851.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Prestação de Contas TCE\nPrestação de Contas/Recibo/Parecer",
+            "classe": "temp05_48_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 864,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469523036.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Programas e Ações de Governo\nProgramas e Ações de Governo",
+            "classe": "temp05_49_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 849,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469523213.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Relatórios Ouvidoria\nRelatórios da Ouvidoria Geral do Município",
+            "classe": "temp05_50_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 834,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469523382.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Radar Nacional de Transparência Pública\nAcesse os resultados do Programa Nacional de Transparência P",
+            "classe": "temp05_51_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 948,
+                "w": 226,
+                "h": 140
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469523573.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Receitas\nquais são as fontes de receitas públicas?",
+            "classe": "temp05_52_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 754,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469523732.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Recursos humanos\nonde estão lotados os servidores públicos?",
+            "classe": "temp05_53_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 754,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469523902.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Relatório Anual\nAuditoria Municipal em Saúde",
+            "classe": "temp05_54_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 754,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469524074.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Relatórios de parquímetros\nCumprimento da Lei 6434 de 2020",
+            "classe": "temp05_55_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 754,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469524201.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Relatórios e-SIC\nRelatório estatístico dos pedidos de acesso à informação protocolados no e-SIC até",
+            "classe": "temp05_56_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 894,
+                "w": 226,
+                "h": 136
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469524416.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Relação dos licitantes e/ou contratados sancionados administrativamente\nrelação dos licitantes e/ou",
+            "classe": "temp05_57_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 879,
+                "w": 226,
+                "h": 155
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469524562.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Renúncia de Receitas\nacesso às renúncias de receitas do município",
+            "classe": "temp05_58_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 864,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469524732.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Restos a pagar\nveja as despesas dos exercícios anteriores",
+            "classe": "temp05_59_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 849,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469524901.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Serviços com publicidade e propaganda\n-",
+            "classe": "temp05_60_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 834,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469525077.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Transferências\nveja as transferências financeiras recebidas e concedidas",
+            "classe": "temp05_61_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 974,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469525260.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Terceiro setor\ntransferências financeiras para com associações privadas sem fins lucrativos",
+            "classe": "temp05_62_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 769,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469525423.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Transporte Coletivo\ntransporte coletivo",
+            "classe": "temp05_63_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 769,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469525595.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Transparência das Parcerias do Terceiro Setor\nEditais de Chamamentos Públicos, Dispensa, Inexigibili",
+            "classe": "temp05_64_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 769,
+                "w": 226,
+                "h": 173
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469525764.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Relatório de Estagiários Ativos\n.",
+            "classe": "temp05_65_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 754,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469525945.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Incrição em dívida ativa\n.",
+            "classe": "temp05_66_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 927,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469526121.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Transferências Recebidas convênios Estaduais e Federais\n.",
+            "classe": "temp05_67_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 780,
+                "w": 226,
+                "h": 144
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469526275.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Terceiro Setor Dados Contratuais\n.",
+            "classe": "temp05_68_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 765,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469526445.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Normatização tributária das desonerações concedidas\n.",
+            "classe": "temp05_69_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 765,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469526577.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "ORDEM CRONOLOGICA\nfornecimento de bens",
+            "classe": "temp05_70_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 765,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469526766.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Terceirizados da Administração\nlista dos terceirizados que prestam serviços para o Poder ou órgão in",
+            "classe": "temp05_71_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 909,
+                "w": 226,
+                "h": 140
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469526953.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Termo de cooperação\n.",
+            "classe": "temp05_72_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 754,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469527109.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Carta de Serviço da Saúde\n.",
+            "classe": "temp05_73_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 754,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469527281.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consulta Lista de Medicamentos\n.",
+            "classe": "temp05_74_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 754,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469527445.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consulta Estoque de Medicamentos\nmedicamentos disponibilizados pelo SUS",
+            "classe": "temp05_75_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 754,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469527616.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Posição na fila de exames e consultas\n(Exames/Consultas)",
+            "classe": "temp05_76_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 894,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469527803.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Lista de espera CRECHE\n.",
+            "classe": "temp05_77_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 879,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469527955.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Obras em andamento\n.",
+            "classe": "temp05_78_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 864,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469528135.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "25% da Educação transparente\nLei 6892-2023",
+            "classe": "temp05_79_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1438,
+                "y": 849,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469528316.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Documentos Classificados e Desclassificados\nLei Federal nº 12.527/2011, art. 30, incisos I e II - gr",
+            "classe": "temp05_80_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1664,
+                "y": 834,
+                "w": 226,
+                "h": 140
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469528488.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Plano estratégico institucional\nPrograma de Metas",
+            "classe": "temp05_81_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 759,
+                "y": 959,
+                "w": 226,
+                "h": 114
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469528677.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Lei Geral de Proteção de Dados Pessoais (LGPD)\nTermos de Uso & Política de Privacidade",
+            "classe": "temp05_82_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 985,
+                "y": 780,
+                "w": 226,
+                "h": 129
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469528838.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Imunidades e Isenções\nacesso às imunidades e isenções do município",
+            "classe": "temp05_83_9b90794106c1460e9817f0490cc24708DSA2",
+            "tag": "div",
+            "tipo_controle": "CustomWidget",
+            "nivel": 0,
+            "posicao": {
+                "x": 1211,
+                "y": 765,
+                "w": 226,
+                "h": 125
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_div_1765469529008.png",
+            "filhos": []
+        }
+    ]
+}

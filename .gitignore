@@ -2,3 +2,5 @@ imgs_lo_avancado
 imgs_out
 extrator.log
 resultado_libreoffice_avancado.json
+*.jpg
+*.png 

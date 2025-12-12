@@ -1,0 +1,136 @@
+{
+    "tag": "body",
+    "texto": "Dados Abertos\nLAI - Acesso Rápido(WhatsApp)\nExercício\n2025\n2024\n2023\n2022\n2021\n2",
+    "nivel": 0,
+    "visivel": true,
+    "habilitado": true,
+    "classe": "Form Form-fx",
+    "id": "",
+    "posicao": {
+        "x": 0,
+        "y": 0
+    },
+    "tamanho": {
+        "height": 909,
+        "width": 1920
+    },
+    "screenshot": "nivel0_1765469187242383240.png",
+    "filhos": [
+        {
+            "tag": "div",
+            "texto": "",
+            "nivel": 1,
+            "visivel": true,
+            "habilitado": true,
+            "classe": "enabled",
+            "id": "tdavlibras",
+            "posicao": {
+                "x": 1870,
+                "y": 434
+            },
+            "tamanho": {
+                "height": 40,
+                "width": 40
+            },
+            "screenshot": "nivel1_1765469187564163399.png",
+            "filhos": [
+                {
+                    "tag": "div",
+                    "texto": "",
+                    "nivel": 2,
+                    "visivel": false,
+                    "habilitado": true,
+                    "classe": "",
+                    "id": "",
+                    "posicao": {
+                        "x": 0,
+                        "y": 0
+                    },
+                    "tamanho": {
+                        "height": 40,
+                        "width": 300
+                    },
+                    "screenshot": "nivel2_1765469187669566344.png",
+                    "filhos": [
+                        {
+                            "tag": "div",
+                            "texto": "",
+                            "nivel": 3,
+                            "visivel": false,
+                            "habilitado": true,
+                            "classe": "",
+                            "id": "",
+                            "posicao": {
+                                "x": 0,
+                                "y": 0
+                            },
+                            "tamanho": {
+                                "height": 0,
+                                "width": 0
+                            },
+                            "screenshot": null,
+                            "filhos": []
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "tag": "div",
+            "texto": "",
+            "nivel": 1,
+            "visivel": false,
+            "habilitado": true,
+            "classe": "",
+            "id": "gx_ajax_notification",
+            "posicao": {
+                "x": 0,
+                "y": 0
+            },
+            "tamanho": {
+                "height": 25,
+                "width": 1920
+            },
+            "screenshot": "nivel1_1765469187997925601.png",
+            "filhos": []
+        },
+        {
+            "tag": "div",
+            "texto": "",
+            "nivel": 1,
+            "visivel": false,
+            "habilitado": true,
+            "classe": "lm_transition_indicator",
+            "id": "",
+            "posicao": {
+                "x": 0,
+                "y": 0
+            },
+            "tamanho": {
+                "height": 22,
+                "width": 22
+            },
+            "screenshot": "nivel1_1765469188242386521.png",
+            "filhos": []
+        },
+        {
+            "tag": "div",
+            "texto": "",
+            "nivel": 1,
+            "visivel": false,
+            "habilitado": true,
+            "classe": "fusioncharts-smartlabel-container",
+            "id": "",
+            "posicao": {
+                "x": 0,
+                "y": -119988
+            },
+            "tamanho": {
+                "height": 1,
+                "width": 1
+            },
+            "screenshot": "nivel1_1765469188399356987.png",
+            "filhos": []
+        }
+    ]
+}

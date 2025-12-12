@@ -1,0 +1,178 @@
+{
+    "ui_structure": [
+        {
+            "nome": "search",
+            "classe": "",
+            "tipo": "input",
+            "is_dropdown": false,
+            "acao": "click",
+            "nivel": 0,
+            "filhos": [],
+            "visivel": true
+        },
+        {
+            "nome": "Submit Search",
+            "classe": "",
+            "tipo": "button",
+            "is_dropdown": false,
+            "acao": "click",
+            "nivel": 0,
+            "filhos": [],
+            "visivel": true
+        },
+        {
+            "nome": "Ir para Lista de lojas",
+            "classe": "",
+            "tipo": "button",
+            "is_dropdown": false,
+            "acao": "click",
+            "nivel": 0,
+            "filhos": [],
+            "visivel": true
+        },
+        {
+            "nome": "Ir para Favoritos",
+            "classe": "",
+            "tipo": "button",
+            "is_dropdown": false,
+            "acao": "click",
+            "nivel": 0,
+            "filhos": [],
+            "visivel": true
+        },
+        {
+            "nome": "0",
+            "classe": "CartToggle_cartToggle__nPfqA",
+            "tipo": "button",
+            "is_dropdown": false,
+            "acao": "click",
+            "nivel": 0,
+            "filhos": [],
+            "visivel": true
+        },
+        {
+            "nome": "informe seu CEP",
+            "classe": "RegionalizationBar_RegionBar__so5Ut",
+            "tipo": "button",
+            "is_dropdown": false,
+            "acao": "click",
+            "nivel": 0,
+            "filhos": [],
+            "visivel": true
+        },
+        {
+            "nome": "todos os departamentos",
+            "classe": "MenuDesktop_menuContainer__0LMJs false",
+            "tipo": "nav",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em eletrodomésticos",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos?chave=pfm_hm_tt_2_0_eletrodom",
+                    "nivel": 1
+                },
+                {
+                    "nome": "centrífuga de roupas",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/s?q=centrifuga+de+roupas&chave=pfm_hm_tt_2_3_centrifuga-de-roupas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cervejeira",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/s?q=cervejeira&chave=pfm_hm_tt_2_4_cervejeira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cooktop 4 bocas",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/s?q=cooktop+4+bocas&chave=pfm_hm_tt_2_5_cooktop-4-bocas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "fogão 4 bocas",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/busca/fogao-4-bocas?chave=pfm_hm_tt_2_6_fogao-4-bocas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "fogão 5 bocas",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/busca/fogao-5-bocas?chave=pfm_hm_tt_2_7_fogao-5-bocas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "forno de embutir",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/forno?chave=pfm_hm_tt_2_8_forno-de-embutir",
+                    "nivel": 1
+                },
+                {
+                    "nome": "freezer horizontal",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/s?q=freezer+horizontal&chave=pfm_hm_tt_2_9_freezer-horizontal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "freezer vertical",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/s?q=freezer+vertical&chave=pfm_hm_tt_2_10_freezer-vertical",
+                    "nivel": 1
+                },
+                {
+                    "nome": "frigobar",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/s?q=frigobar&chave=pfm_hm_tt_2_11_frigobar",
+                    "nivel": 1
+                },
+                {
+                    "nome": "geladeira",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/geladeira-e-refrigeradores?chave=pfm_hm_tt_2_12_geladeira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "geladeira frost free",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/busca/geladeira-frost-free?chave=pfm_hm_tt_2_14_geladeira-frost-free",
+                    "nivel": 1
+                },
+                {
+                    "nome": "lava e seca",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/lava-e-seca?chave=pfm_hm_tt_2_15_lava-e-seca",
+                    "nivel": 1
+                },
+                {
+                    "nome": "lava louças",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/lava-loucas?chave=pfm_hm_tt_2_16_lava-loucas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "máquina de lavar roupa",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/maquina-de-lavar?chave=pfm_hm_tt_2_17_maquina-de-lavar-roupa",
+                    "nivel": 1
+                },
+                {
+                    "nome": "microondas",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/micro-ondas?chave=pfm_hm_tt_2_18_microondas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tanquinho de lavar roupa",
+                    "tipo": "SubItem",
+                    "link": "https://www.americanas.com.br/busca/tanquinho-de-lavar-roupa?chave=pfm_hm_tt_2_19_tanquinho-de-lavar-roupa",
+                    "nivel": 1
+                }
+            ],
+            "visivel": true,
+            "screenshot": "L0_todos_os_d_1765498492.png"
+        }
+    ]
+}

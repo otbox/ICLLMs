@@ -1,0 +1,1033 @@
+{
+    "ui_structure": [
+        {
+            "nome": "mercado",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em mercado",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-e-bebidas?chave=pc_cat_menu_mercado-vertudo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "amaciante",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/limpeza/produtos-de-lavanderia/amaciante?chave=pc_cat_menu_amaciante_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "alimentos natalinos",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-e-bebidas/alimentos-natalinos/panettone",
+                    "nivel": 1
+                },
+                {
+                    "nome": "balas fini",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/balas-fini?chave=pc_cat_menu_balas-fini_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "batata",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=batata&chave=pc_cat_menu_batata_mercado&",
+                    "nivel": 1
+                },
+                {
+                    "nome": "bebidas alcóolicas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-e-bebidas/bebidas-alcoolicas?chave=pc_cat_menu_bebidas-alcoolicas_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "biscoitos",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-e-bebidas/biscoitos-e-snacks?chave=pc_cat_menu_biscoito_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "caixa de bombom",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/caixa-de-bombom?chave=pc_cat_menu_bombom_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cápsulas de café",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=capsulas+de+cafe&chave=pc_cat_menu_capsulas-de-cafe_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cerveja",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-e-bebidas/bebidas-alcoolicas/cerveja?chave=pc_cat_menu_cerveja_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "chocolate",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=chocolate&chave=pc_cat_menu_chocolate_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "desinfetante",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=desinfetante&chave=pc_cat_menu_desinfetante_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "fraldas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=fralda&chave=pc_cat_menu_fraldas_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "leite em pó",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=leite+em+po&chave=pc_cat_menu_leite-em-po_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "lenço umedecido",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=lenco+umedecido&chave=pc_cat_menu_lenco-umedecido_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "nutella",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/nutella?chave=pc_cat_menu_nutella_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "sabão em pó",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/limpeza/produtos-de-lavanderia/sabao-em-po?chave=pc_cat_menu_sabao-em-po_mercado",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/ruffles-geral-cl?chave=pm_tt_acom_mercado_ruffles-pensamentosaleatorios_out_161025",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_mercado_1765498558.png"
+        },
+        {
+            "nome": "brinquedos",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em brinquedos",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos?chave=pc_cat_menu_brinquedos-vertudo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "bicicleta infantil",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/bicicleta-infantil?chave=pc_cat_menu_bicicleta-infantil_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "boneca",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/boneca?chave=pc_cat_menu_boneca_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "bebê reborn",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/boneca/bebe-reborn?chave=pc_cat_menu_bebe-reborn_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "consoles e games",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/consoles-e-games?chave=pc_cat_menu_games_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "dinossauros",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/dinossauros?chave=pc_cat_menu_dinossauros_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "hoverboard",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/mini-veiculos-e-triciclos/hoverboard?chave=pc_cat_menu_hoverboard_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "patinete infantil",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/patins-patinetes-e-skates/patinete-infantil?chave=pc_cat_menu_patinete-infantil_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "patins infantil",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/patins-patinetes-e-skates/patins-infantil?chave=pc_cat_menu_patins-infantil_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "quebra cabeça",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos/quebra-cabeca?chave=pc_cat_menu_quebra-cabeca_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "carrinho de controle remoto",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/carrinho-de-controle-remoto?chave=pc_cat_menu_carrinho-de-controle-remoto_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cozinha infantil",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/cozinha-infantil?chave=pc_cat_menu_cozinha-infantil_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "jogos de tabuleiro",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/jogos-de-tabuleiro?chave=pc_cat_menu_jogos-de-tabuleiro_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "baby alive",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/brinquedos/bonecas/baby-alive?chave=pc_cat_menu_baby-alive_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "barbie",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/brinquedos/bonecas/barbie?chave=pc_cat_menu_barbie_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "hot wheels",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/brinquedos/carrinhos-e-cia/hot-wheels?chave=pc_cat_menu_hot-wheels_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "lego",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/lego?chave=pc_cat_menu_lego_brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_brinquedos_1765498561.png"
+        },
+        {
+            "nome": "celulares",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em celulares",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones?chave=pfm_hm_tt_1_1_ver-tudo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "capa de celular",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/acessorios/capa-para-celular?chave=pfm_hm_tt_1_2_capa-de-celular",
+                    "nivel": 1
+                },
+                {
+                    "nome": "celular básico",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/celular-basico?chave=pfm_hm_tt_1_3_celular-basico",
+                    "nivel": 1
+                },
+                {
+                    "nome": "celular motorola",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/motorola?chave=pfm_hm_tt_1_4_celular-motorola",
+                    "nivel": 1
+                },
+                {
+                    "nome": "celular poco",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/xiaomi-poco?chave=pfm_hm_tt_1_5_celular-poco",
+                    "nivel": 1
+                },
+                {
+                    "nome": "celular redmi",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/xiaomi-redmi?chave=pfm_hm_tt_1_6_celular-redmi",
+                    "nivel": 1
+                },
+                {
+                    "nome": "celular samsung",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy?chave=pfm_hm_tt_1_7_celular-samsung",
+                    "nivel": 1
+                },
+                {
+                    "nome": "celular xiaomi",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/xiaomi?chave=pfm_hm_tt_1_8_celular-xiaomi",
+                    "nivel": 1
+                },
+                {
+                    "nome": "chip",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/acessorios/chip?chave=pfm_hm_tt_1_9_chip",
+                    "nivel": 1
+                },
+                {
+                    "nome": "iphone",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/iphone?chave=pfm_hm_tt_1_10_iphone",
+                    "nivel": 1
+                },
+                {
+                    "nome": "moto e",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/moto-e?chave=pfm_hm_tt_1_11_moto-e",
+                    "nivel": 1
+                },
+                {
+                    "nome": "moto g",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/moto-g?chave=pfm_hm_tt_1_12_moto-g",
+                    "nivel": 1
+                },
+                {
+                    "nome": "motorola edge",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/motorola-edge?chave=pfm_hm_tt_1_13_motorola-edge",
+                    "nivel": 1
+                },
+                {
+                    "nome": "samsung galaxy a",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone?category-1=celulares-e-smartphones&category-2=smartphone&fuzzy=0&operator=and&category-3=galaxy-a05&category-3=galaxy-a14&category-3=galaxy-a15&category-3=galaxy-a25&facets=category-1%2Ccategory-?chave=pfm_hm_tt_1_14_samsung-galaxy-a",
+                    "nivel": 1
+                },
+                {
+                    "nome": "samsung galaxy s",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-s?chave=pfm_hm_tt_1_15_samsung-galaxy-s",
+                    "nivel": 1
+                },
+                {
+                    "nome": "smartphone",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone?chave=pfm_hm_tt_1_16_smartphone",
+                    "nivel": 1
+                },
+                {
+                    "nome": "telefone sem fio",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/telefonia?chave=pfm_hm_tt_1_1_telefone-sem-fio",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_celulares_1765498563.png"
+        },
+        {
+            "nome": "eletrodomésticos",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em eletrodomésticos",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos?chave=pfm_hm_tt_2_0_eletrodom",
+                    "nivel": 1
+                },
+                {
+                    "nome": "centrífuga de roupas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=centrifuga+de+roupas&chave=pfm_hm_tt_2_3_centrifuga-de-roupas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cervejeira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=cervejeira&chave=pfm_hm_tt_2_4_cervejeira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cooktop 4 bocas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=cooktop+4+bocas&chave=pfm_hm_tt_2_5_cooktop-4-bocas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "fogão 4 bocas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/fogao-4-bocas?chave=pfm_hm_tt_2_6_fogao-4-bocas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "fogão 5 bocas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/fogao-5-bocas?chave=pfm_hm_tt_2_7_fogao-5-bocas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "forno de embutir",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/forno?chave=pfm_hm_tt_2_8_forno-de-embutir",
+                    "nivel": 1
+                },
+                {
+                    "nome": "freezer horizontal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=freezer+horizontal&chave=pfm_hm_tt_2_9_freezer-horizontal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "freezer vertical",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=freezer+vertical&chave=pfm_hm_tt_2_10_freezer-vertical",
+                    "nivel": 1
+                },
+                {
+                    "nome": "frigobar",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=frigobar&chave=pfm_hm_tt_2_11_frigobar",
+                    "nivel": 1
+                },
+                {
+                    "nome": "geladeira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/geladeira-e-refrigeradores?chave=pfm_hm_tt_2_12_geladeira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "geladeira frost free",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/geladeira-frost-free?chave=pfm_hm_tt_2_14_geladeira-frost-free",
+                    "nivel": 1
+                },
+                {
+                    "nome": "lava e seca",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/lava-e-seca?chave=pfm_hm_tt_2_15_lava-e-seca",
+                    "nivel": 1
+                },
+                {
+                    "nome": "lava louças",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/lava-loucas?chave=pfm_hm_tt_2_16_lava-loucas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "máquina de lavar roupa",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/maquina-de-lavar?chave=pfm_hm_tt_2_17_maquina-de-lavar-roupa",
+                    "nivel": 1
+                },
+                {
+                    "nome": "microondas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletrodomesticos/micro-ondas?chave=pfm_hm_tt_2_18_microondas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tanquinho de lavar roupa",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/tanquinho-de-lavar-roupa?chave=pfm_hm_tt_2_19_tanquinho-de-lavar-roupa",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_eletrodomé_1765498566.png"
+        },
+        {
+            "nome": "informática",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em informática",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica?chave=pfm_hm_tt_3_1_ver-tudo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cadeira gamer",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/teclado-mouse-e-perifericos/cadeira-gamer?chave=pfm_hm_tt_3_2_cadeira-gamer",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cartucho de impressora",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/suprimentos/cartucho?chave=pfm_hm_tt_3_3_cartucho-de-impressora",
+                    "nivel": 1
+                },
+                {
+                    "nome": "computador",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/computador-desktop/desktop?chave=pfm_hm_tt_3_4_computador",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cpu",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=cpu&chave=pfm_hm_tt_3_5_cpu",
+                    "nivel": 1
+                },
+                {
+                    "nome": "hd externo",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=hd+externo&chave=pfm_hm_tt_3_6_hd-externo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "impressora",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=impressora&chave=pfm_hm_tt_3_7_impressora",
+                    "nivel": 1
+                },
+                {
+                    "nome": "monitor",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=monitor&chave=pfm_hm_tt_3_8_monitor",
+                    "nivel": 1
+                },
+                {
+                    "nome": "mouse sem fio",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/teclado-mouse-e-perifericos/mouse?chave=pfm_hm_tt_3_9_mouse-sem-fio",
+                    "nivel": 1
+                },
+                {
+                    "nome": "notebook",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/notebook?chave=pfm_hm_tt_3_10_notebook",
+                    "nivel": 1
+                },
+                {
+                    "nome": "notebook gamer",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/notebook?chave=pfm_hm_tt_3_11_notebook-gamer",
+                    "nivel": 1
+                },
+                {
+                    "nome": "pc gamer",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/categoria/informatica/computadores/computador-gamer?chave=pfm_hm_tt_3_12_pc-gamer",
+                    "nivel": 1
+                },
+                {
+                    "nome": "pendrive",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=pen+drive&chave=pfm_hm_tt_3_13_pendrive",
+                    "nivel": 1
+                },
+                {
+                    "nome": "pilhas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/computadores-e-informatica/pilhas-e-carregadores/pilha?chave=pfm_hm_tt_3_14_pilhas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "repetidor de sinal wifi",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=repetidor+de+sinal+wifi&chave=pfm_hm_tt_3_15_repetidor-de-sinal-wifi",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tablet",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/tablets?chave=pfm_hm_tt_3_15_tablet",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tablet infantil",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=tablet+infantil&chave=pfm_hm_tt_3_15_tablet-infantil",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_informátic_1765498568.png"
+        },
+        {
+            "nome": "áudio e vídeo",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em tv e home theater",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/audio-e-video?chave=pfm_hm_tt_4_1_ver-tudo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "antena digital",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=antena+digital&chave=pfm_hm_tt_4_2_antena-digital",
+                    "nivel": 1
+                },
+                {
+                    "nome": "caixa de som",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=caixa+de+som&chave=pfm_hm_tt_4_3_caixa-de-som",
+                    "nivel": 1
+                },
+                {
+                    "nome": "caixa de som bluetooth",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=caixa+de+som+bluetooth&chave=pfm_hm_tt_4_4_caixa-de-som-bluetooth",
+                    "nivel": 1
+                },
+                {
+                    "nome": "camera digital",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/audio-e-video/camera-digital?chave=pfm_hm_tt_4_5_camera-digital",
+                    "nivel": 1
+                },
+                {
+                    "nome": "conversor",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=conversor+digital+tv&chave=pfm_hm_tt_4_6_conversor",
+                    "nivel": 1
+                },
+                {
+                    "nome": "drone",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/audio-e-video/drones?chave=pfm_hm_tt_4_7_drone",
+                    "nivel": 1
+                },
+                {
+                    "nome": "fone de ouvido bluetooth",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/fone-de-ouvido-bluetooth?chave=pfm_hm_tt_4_8_fone-de-ouvido-bluetooth",
+                    "nivel": 1
+                },
+                {
+                    "nome": "go pro",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=camera+gopro&chave=pfm_hm_tt_4_9_go-pro",
+                    "nivel": 1
+                },
+                {
+                    "nome": "projetor",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=projetor&chave=pfm_hm_tt_4_10_projetor",
+                    "nivel": 1
+                },
+                {
+                    "nome": "soundbar",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/audio-e-video/home-theater-e-soundbar?chave=pfm_hm_tt_4_11_soundbar",
+                    "nivel": 1
+                },
+                {
+                    "nome": "suporte para tv",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=suporte+para+tv&chave=pfm_hm_tt_4_12_suporte-para-tv",
+                    "nivel": 1
+                },
+                {
+                    "nome": "televisão",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/audio-e-video/tv?chave=pfm_hm_tt_4_13_televisao",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tv 32 polegadas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/tv-32-polegadas?chave=pfm_hm_tt_4_14_tv-32-polegadas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tv 43 polegadas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/smart-tv-43-polegadas?chave=pfm_hm_tt_4_15_tv-43-polegadas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tv 55 polegadas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/tv-55-polegadas?chave=pfm_hm_tt_4_16_tv-55-polegadas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "tv 50 polegadas",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/smart-tv-50-polegadas?chave=pfm_hm_tt_4_17_tv-50-polegadas",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_áudioeví_1765498571.png"
+        },
+        {
+            "nome": "eletroportáteis",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em eletroportáteis",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis?chave=pfm_hm_tt_5_1_ver-tudo",
+                    "nivel": 1
+                },
+                {
+                    "nome": "air fryer",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/fritadeira-eletrica/air-fryer?chave=pfm_hm_tt_5_2_air-fryer",
+                    "nivel": 1
+                },
+                {
+                    "nome": "aspirador de pó",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/aspirador-de-po?chave=pfm_hm_tt_5_3_aspirador-de-po",
+                    "nivel": 1
+                },
+                {
+                    "nome": "batedeira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/batedeira?chave=pfm_hm_tt_5_4_batedeira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "bebedouro de água",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/bebedouro?chave=pfm_hm_tt_5_5_bebedouro-de-agua",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cafeteira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/cafeteira/cafeteira-eletrica?chave=pfm_hm_tt_5_6_cafeteira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "chaleira elétrica",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/chaleira-eletrica?chave=pfm_hm_tt_5_7_chaleira-eletrica",
+                    "nivel": 1
+                },
+                {
+                    "nome": "churrasqueira elétrica",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=churrasqueira+eletrica&chave=pfm_hm_tt_5_8_churrasqueira-eletrica",
+                    "nivel": 1
+                },
+                {
+                    "nome": "ferro de passar roupa",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/aparelhos-de-passar-roupa/ferro-de-passar?chave=pfm_hm_tt_5_9_ferro%20de%20passar-roupa",
+                    "nivel": 1
+                },
+                {
+                    "nome": "filtro de água",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=filtro+de+agua&chave=pfm_hm_tt_5_10_filtro-de-agua",
+                    "nivel": 1
+                },
+                {
+                    "nome": "forno elétrico",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/forno-eletrico?chave=pfm_hm_tt_5_11_forno-eletrico",
+                    "nivel": 1
+                },
+                {
+                    "nome": "liquidificador",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=liquidificador&chave=pfm_hm_tt_5_12_liquidificador",
+                    "nivel": 1
+                },
+                {
+                    "nome": "máquina de costura",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/maquina-de-costura?chave=pfm_hm_tt_5_13_maquina-de-costura",
+                    "nivel": 1
+                },
+                {
+                    "nome": "panela de pressão elétrica",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=panela+de+pressao+eletrica&chave=pfm_hm_tt_5_14_panela-de-pressao-eletrica",
+                    "nivel": 1
+                },
+                {
+                    "nome": "processador de alimentos",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/processador-de-alimentos?chave=pfm_hm_tt_5_15_processador-de-alimentos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "purificador de água",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/eletroportateis/purificador-de-agua?chave=pfm_hm_tt_5_16_purificador-de-agua",
+                    "nivel": 1
+                },
+                {
+                    "nome": "sanduicheira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=sanduicheira&chave=pfm_hm_tt_5_17_sanduicheira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_eletroport_1765498573.png"
+        },
+        {
+            "nome": "móveis",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "ver tudo em móveis",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/moveis?chave=pfm_hm_tt_6_1_moveis",
+                    "nivel": 1
+                },
+                {
+                    "nome": "armário de cozinha",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=armario+de+cozinha&chave=pfm_hm_tt_6_2_armario",
+                    "nivel": 1
+                },
+                {
+                    "nome": "armário multiuso",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=armario+multiuso&chave=pfm_hm_tt_6_3_armario-multiuso",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cadeira de escritório",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=cadeira+de+escritorio&chave=pfm_hm_tt_6_4_cadeira-de-escritorio",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cama box casal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=cama+box+casal&chave=pfm_hm_tt_6_5_cama-box-casal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cama box solteiro",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=cama+box+solteiro&chave=pfm_hm_tt_6_6_cama-box-solteiro",
+                    "nivel": 1
+                },
+                {
+                    "nome": "colchão casal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/moveis/colchao/colchao-casal?chave=pfm_hm_tt_6_7_colchao-casal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "colchão solteiro",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=colchao+solteiro&chave=pfm_hm_tt_6_8_colchao-solteiro",
+                    "nivel": 1
+                },
+                {
+                    "nome": "escrivaninha",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/escrivaninha?chave=pfm_hm_tt_6_9_escrivaninha",
+                    "nivel": 1
+                },
+                {
+                    "nome": "guarda roupa casal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=guarda+roupa+casal&chave=pfm_hm_tt_6_10_guarda-roupa-casal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "guarda roupa solteiro",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=guarda+roupa+solteiro&chave=pfm_hm_tt_6_11_guarda-roupa-solteiro",
+                    "nivel": 1
+                },
+                {
+                    "nome": "mesa 4 cadeiras",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/mesa-com-4-cadeiras?chave=pfm_hm_tt_6_13_mesa-4-cadeiras",
+                    "nivel": 1
+                },
+                {
+                    "nome": "penteadeira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/moveis/penteadeira?chave=pfm_hm_tt_6_14_penteadeira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "rack para sala",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/s?q=rack+para+sala&chave=pfm_hm_tt_6_15_rack-para-sala",
+                    "nivel": 1
+                },
+                {
+                    "nome": "sapateira",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/moveis/sapateira?chave=pfm_hm_tt_6_16_sapateira",
+                    "nivel": 1
+                },
+                {
+                    "nome": "sofá",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/moveis/sofa?chave=pfm_hm_tt_6_17_sofa",
+                    "nivel": 1
+                },
+                {
+                    "nome": "sofá retrátil",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/sofa-retratil?chave=pfm_hm_tt_6_17_sofa-retratil",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/app",
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_móveis_1765498576.png"
+        },
+        {
+            "nome": "natal",
+            "classe": "",
+            "tipo": "a",
+            "is_dropdown": true,
+            "acao": "hover",
+            "nivel": 0,
+            "filhos": [
+                {
+                    "nome": "presente de natal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/natal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "presente de amigo secreto",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/especial/presente-de-amigo-secreto",
+                    "nivel": 1
+                },
+                {
+                    "nome": "arvore de natal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/artigos-de-festa/natal/arvore-de-natal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "guirlanda de natal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/guirlanda-de-natal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "pisca pisca",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/artigos-de-festa/natal/pisca-pisca",
+                    "nivel": 1
+                },
+                {
+                    "nome": "enfeite de natal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/artigos-de-festa/natal/enfeites-de-natal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "cesta de natal",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/busca/cesta-de-natal",
+                    "nivel": 1
+                },
+                {
+                    "nome": "brinquedos",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/brinquedos",
+                    "nivel": 1
+                },
+                {
+                    "nome": "panetone",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-natalinos/panettone",
+                    "nivel": 1
+                },
+                {
+                    "nome": "chocotone",
+                    "tipo": "ItemSubmenu",
+                    "link": "https://www.americanas.com.br/alimentos-e-bebidas/alimentos-natalinos/chocottone",
+                    "nivel": 1
+                },
+                {
+                    "nome": "Elemento sem nome",
+                    "tipo": "ItemSubmenu",
+                    "link": null,
+                    "nivel": 1
+                }
+            ],
+            "screenshot": "L0_natal_1765498578.png"
+        }
+    ]
+}

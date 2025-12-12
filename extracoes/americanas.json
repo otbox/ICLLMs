@@ -1,0 +1,3459 @@
+{
+    "ui_structure": [
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "link para o banner de topo",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 37,
+                "w": 1248,
+                "h": 19
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496373063.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "link para a home do site",
+            "classe": "HeaderDesktop_logo__zH5Gr",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 81,
+                "w": 152,
+                "h": 30
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496373375.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "search",
+            "classe": "",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 530,
+                "y": 76,
+                "w": 615,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "search-input",
+            "screenshot": "L0_input_1765496373525.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Submit Search",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1114,
+                "y": 76,
+                "w": 48,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496373645.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "olá, faça seu login",
+            "classe": "ButtonLogin_Container__sgzuk",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1212,
+                "y": 76,
+                "w": 171,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496373812.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Lista de lojas",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1432,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496373999.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Favoritos",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1488,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496374163.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "0",
+            "classe": "CartToggle_cartToggle__nPfqA",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1544,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496374331.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "informe seu CEP",
+            "classe": "RegionalizationBar_RegionBar__so5Ut",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 140,
+                "w": 136,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496374555.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "RegionModal_Close__YIXPX",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "shipping-input",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "confirmar CEP",
+            "classe": "RegionModal_ButtonSubmit__dnUOr",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Link não sei o meu CEP",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Fechar modal de seleção de região",
+            "classe": "RegionalizationBar_Overlay__AuYLW",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 1905,
+                "h": 909
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "baixe o app",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 545,
+                "y": 140,
+                "w": 94,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496374997.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "peça seu cartão",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 642,
+                "y": 140,
+                "w": 124,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496375234.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "cliente a",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 770,
+                "y": 140,
+                "w": 73,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496375407.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "mais vendidos",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 847,
+                "y": 140,
+                "w": 113,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496375578.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "nossas lojas",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 965,
+                "y": 140,
+                "w": 100,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496375749.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "entrega rápida",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1069,
+                "y": 140,
+                "w": 114,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496375918.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "leve+ pague-",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1187,
+                "y": 140,
+                "w": 102,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496376089.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "ofertas da TV",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1292,
+                "y": 140,
+                "w": 105,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496376272.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "outlet",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1402,
+                "y": 140,
+                "w": 55,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496376430.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "oferta do dia",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1460,
+                "y": 140,
+                "w": 116,
+                "h": 40
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496376602.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "todos os departamentos",
+            "classe": "MenuDesktop_allDepartments__Fca7J false",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 188,
+                "w": 232,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496376801.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "mercado",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 614,
+                "y": 180,
+                "w": 55,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496376974.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "brinquedos",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 713,
+                "y": 180,
+                "w": 70,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496378851.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "celulares",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 826,
+                "y": 180,
+                "w": 56,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496380825.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "eletrodomésticos",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 925,
+                "y": 180,
+                "w": 108,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496382797.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "informática",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1076,
+                "y": 180,
+                "w": 70,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496384785.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "áudio e vídeo",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1189,
+                "y": 180,
+                "w": 82,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496386767.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "eletroportáteis",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1314,
+                "y": 180,
+                "w": 91,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496388741.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "móveis",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1448,
+                "y": 180,
+                "w": 44,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496390713.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": true,
+            "action_type": "hover",
+            "nome": "natal",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1535,
+                "y": 180,
+                "w": 33,
+                "h": 36
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496392699.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "link para o banner de topo",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 284,
+                "w": 1248,
+                "h": 19
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496394717.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 316,
+                "w": 1248,
+                "h": 312
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496395093.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "previous",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 472,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "next",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1576,
+                "y": 472,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Current page from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 804,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496395730.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 2 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 828,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496395959.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 3 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 852,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496396130.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 4 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 876,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496396300.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 5 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 900,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496396471.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 6 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 924,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496396644.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 7 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 948,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496396819.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 8 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 972,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496396991.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 9 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 996,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496397162.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 10 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1020,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496397332.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 11 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1044,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496397502.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 12 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1068,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496397682.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Go to page 13 from images-carousel-https://americanas.vtexassets.com/assets/vtex.file-manager-graphql/images/1ab05cc2-c25a-48d5-a40e-c41b969040d3___6d5988ec961e53d0d70d1b3da4084378.png",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1092,
+                "y": 604,
+                "w": 8,
+                "h": 8
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496397852.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496398146.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 443,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496398419.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 558,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496398581.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 673,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496398751.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 788,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496398925.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 903,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496399090.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1018,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496399275.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1133,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496399440.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1248,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496399611.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1363,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496399793.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1478,
+                "y": 644,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496399962.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 767,
+                "w": 306,
+                "h": 459
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496400151.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 642,
+                "y": 767,
+                "w": 306,
+                "h": 459
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496400300.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 956,
+                "y": 767,
+                "w": 306,
+                "h": 459
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496400469.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1270,
+                "y": 767,
+                "w": 306,
+                "h": 459
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496400642.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 1242,
+                "w": 1248,
+                "h": 104
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496400852.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 1430,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496401070.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 1430,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496401194.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 1430,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496401383.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 1649,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496401558.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 1649,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496401739.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 1649,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496401914.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 1868,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496402093.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 1868,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496402271.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 1868,
+                "w": 405,
+                "h": 203
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496402444.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4884,
+                "w": 300,
+                "h": 104
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496402881.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 2840,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496403133.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 2943,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496403343.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 2943,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496403499.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4244,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496403771.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 3421,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496403943.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 3421,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496404233.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 3421,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496404414.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4790,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496404708.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 3967,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496404978.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 3967,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496405183.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 3967,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496405366.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "brinquedos",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 6983,
+                "w": 142,
+                "h": 133
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496405712.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "telefonia",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 486,
+                "y": 4514,
+                "w": 142,
+                "h": 175
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496405998.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "chocolate",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 4514,
+                "w": 142,
+                "h": 175
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496406171.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "biscoitos",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 802,
+                "y": 4514,
+                "w": 142,
+                "h": 175
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496406338.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "eletroportáteis",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 4514,
+                "w": 142,
+                "h": 178
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496406508.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "fraldas",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1118,
+                "y": 4514,
+                "w": 142,
+                "h": 175
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496406680.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "beleza e perfumaria",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 4514,
+                "w": 142,
+                "h": 196
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496406859.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "eletrodomésticos",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1434,
+                "y": 4514,
+                "w": 142,
+                "h": 178
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496407031.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "móveis",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 178
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496407213.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "limpeza",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 175
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496407379.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "TVs",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 178
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496407551.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "utilidades",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 199
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496407725.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "cama, mesa",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 199
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496407894.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "notebooks",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 178
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496408064.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "climatização",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 4514,
+                "w": 142,
+                "h": 178
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496408243.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "previous",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4613,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "next",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1576,
+                "y": 4613,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 12504,
+                "w": 300,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 12504,
+                "w": 300,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 12504,
+                "w": 300,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 12504,
+                "w": 300,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "celular",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 13467,
+                "w": 94,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496409073.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "tablet",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11513,
+                "w": 94,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496409336.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "liquidificador",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11606,
+                "w": 94,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496409551.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "escova secadora",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 512,
+                "y": 11534,
+                "w": 131,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496409695.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "panela de pressão",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 512,
+                "y": 11570,
+                "w": 131,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496409869.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "piscina",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 512,
+                "y": 11606,
+                "w": 131,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496410039.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "celular motorola",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 733,
+                "y": 11534,
+                "w": 117,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496410205.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "sanduicheira",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 733,
+                "y": 11570,
+                "w": 117,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496410377.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "cadeira de praia",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 733,
+                "y": 11606,
+                "w": 117,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496410557.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "chapinha",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 939,
+                "y": 11534,
+                "w": 156,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496410726.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "liquidificador mondial",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 939,
+                "y": 11570,
+                "w": 156,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496410896.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "tablet infantil",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 939,
+                "y": 11606,
+                "w": 156,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496411067.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "presente de amigo secreto",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1185,
+                "y": 11534,
+                "w": 191,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496411239.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "ps5",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1185,
+                "y": 11570,
+                "w": 191,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496411408.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "air fryer",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1185,
+                "y": 11606,
+                "w": 191,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496411577.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "colchão inflavel",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1465,
+                "y": 11534,
+                "w": 112,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496411747.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "a26",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1465,
+                "y": 11570,
+                "w": 112,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496411919.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "samsung a07",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1465,
+                "y": 11606,
+                "w": 112,
+                "h": 20
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496412088.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "sac 4003 4848",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 13355,
+                "w": 106,
+                "h": 22
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496412465.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "guia de segurança",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 702,
+                "y": 11698,
+                "w": 129,
+                "h": 44
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496412723.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "natal",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1074,
+                "y": 11709,
+                "w": 36,
+                "h": 22
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496412893.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "entregas e devoluções",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1448,
+                "y": 11698,
+                "w": 129,
+                "h": 44
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496413063.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11779,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11827,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11875,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11923,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11971,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 12019,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 12067,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 12115,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 12163,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 12211,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 11779,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 11827,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 11875,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 11923,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 11971,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12019,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12067,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12115,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12163,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12211,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12259,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12307,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 12355,
+                "w": 321,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 11779,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 11827,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 11875,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 11923,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 11971,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 12019,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 12067,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1181,
+                "y": 12115,
+                "w": 186,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1489,
+                "y": 11779,
+                "w": 87,
+                "h": 48
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Ir para a página inicial",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 11786,
+                "w": 163,
+                "h": 32
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496414610.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "mais informações",
+            "classe": "FooterPayments_showMoreButton__BoZhy",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 868,
+                "y": 11766,
+                "w": 191,
+                "h": 44
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_button_1765496414855.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Ir para a rede social",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1436,
+                "y": 11756,
+                "w": 24,
+                "h": 91
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496415113.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Ir para a rede social",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1474,
+                "y": 11756,
+                "w": 24,
+                "h": 91
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496415389.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Ir para a rede social",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1514,
+                "y": 11756,
+                "w": 24,
+                "h": 91
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496415553.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Ir para a rede social",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1552,
+                "y": 11756,
+                "w": 24,
+                "h": 91
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496415738.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Mapa do site",
+            "classe": "LegaIInformation_siteMap__paSpW",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 539,
+                "y": 11901,
+                "w": 827,
+                "h": 18
+            },
+            "visivel": true,
+            "ignorado": false,
+            "id_automacao": "",
+            "screenshot": "L0_a_1765496415955.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+a",
+            "classe": "_menu-close-btn _menu-btn material-icons",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2091,
+                "y": 11254,
+                "w": 36,
+                "h": 26
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Redefinir configurações",
+            "classe": "_menu-reset-btn _menu-btn material-icons",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2343,
+                "y": 11254,
+                "w": 36,
+                "h": 26
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11304,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11352,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11400,
+                "w": 281,
+                "h": 63
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11468,
+                "w": 281,
+                "h": 63
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11536,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11584,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+i",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11632,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+g",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11680,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+c",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11727,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+r",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11775,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+u",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11823,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "Atalho: ctrl+alt+q",
+            "classe": "",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 11870,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "action_type": "click",
+            "nome": "",
+            "classe": "",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 11010,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "ignorado": true,
+            "id_automacao": "",
+            "filhos": []
+        }
+    ]
+}
