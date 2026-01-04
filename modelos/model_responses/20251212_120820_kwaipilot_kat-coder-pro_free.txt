@@ -1,0 +1,4638 @@
+MODELO: kwaipilot/kat-coder-pro:free
+STATUS: success
+TIMESTAMP: 2025-12-12T12:08:20.230434
+DURAÇÃO: 14.87s
+TOKENS: 38797
+
+================================================================================
+CONTEXTO JSON:
+{
+  "ui_structure": [
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 37,
+        "w": 1248,
+        "h": 19
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499140633.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "HeaderDesktop_logo__zH5Gr",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 81,
+        "w": 152,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499140957.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "busque aqui seu produto",
+      "classe": "",
+      "tag": "input",
+      "tipo_controle": "Input",
+      "nivel": 0,
+      "posicao": {
+        "x": 530,
+        "y": 76,
+        "w": 615,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "search-input",
+      "ignorado": false,
+      "screenshot": "L0_input_1765499141260.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1114,
+        "y": 76,
+        "w": 48,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499141375.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "olá, faça seu login\nou cadastre-se",
+      "classe": "ButtonLogin_Container__sgzuk",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1212,
+        "y": 76,
+        "w": 171,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499141541.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Lista de lojas",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1432,
+        "y": 80,
+        "w": 32,
+        "h": 32
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499141735.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Favoritos",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1488,
+        "y": 80,
+        "w": 32,
+        "h": 32
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499141884.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "0",
+      "classe": "CartToggle_cartToggle__nPfqA",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1544,
+        "y": 80,
+        "w": 32,
+        "h": 32
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499142057.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "informe seu CEP",
+      "classe": "RegionalizationBar_RegionBar__so5Ut",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 140,
+        "w": 136,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499142272.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "RegionModal_Close__YIXPX",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Digite o seu CEP",
+      "classe": "",
+      "tag": "input",
+      "tipo_controle": "Input",
+      "nivel": 0,
+      "posicao": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "shipping-input",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "confirmar CEP",
+      "classe": "RegionModal_ButtonSubmit__dnUOr",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 0,
+        "y": 0,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Fechar modal de seleção de região",
+      "classe": "RegionalizationBar_Overlay__AuYLW",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 0,
+        "y": 0,
+        "w": 1905,
+        "h": 909
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "baixe o app",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 545,
+        "y": 140,
+        "w": 94,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499142721.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "peça seu cartão",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 642,
+        "y": 140,
+        "w": 124,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499142976.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "cliente a",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 770,
+        "y": 140,
+        "w": 73,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499143147.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "mais vendidos",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 847,
+        "y": 140,
+        "w": 113,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499143316.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "nossas lojas",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 965,
+        "y": 140,
+        "w": 100,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499143487.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "entrega rápida",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1069,
+        "y": 140,
+        "w": 114,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499143657.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "leve+ pague-",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1187,
+        "y": 140,
+        "w": 102,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499143829.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "ofertas da TV",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1292,
+        "y": 140,
+        "w": 105,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499143998.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "outlet",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1402,
+        "y": 140,
+        "w": 55,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499144169.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "oferta do dia",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1460,
+        "y": 140,
+        "w": 116,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499144337.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "todos os departamentos",
+      "classe": "MenuDesktop_allDepartments__Fca7J false",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 188,
+        "w": 232,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499144553.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "mercado",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 614,
+        "y": 180,
+        "w": 55,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499144713.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em mercado",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-e-bebidas?chave=pc_cat_menu_mercado-vertudo",
+          "nivel": 1
+        },
+        {
+          "nome": "amaciante",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/limpeza/produtos-de-lavanderia/amaciante?chave=pc_cat_menu_amaciante_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "alimentos natalinos",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-e-bebidas/alimentos-natalinos/panettone",
+          "nivel": 1
+        },
+        {
+          "nome": "balas fini",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/balas-fini?chave=pc_cat_menu_balas-fini_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "batata",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=batata&chave=pc_cat_menu_batata_mercado&",
+          "nivel": 1
+        },
+        {
+          "nome": "bebidas alcóolicas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-e-bebidas/bebidas-alcoolicas?chave=pc_cat_menu_bebidas-alcoolicas_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "biscoitos",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-e-bebidas/biscoitos-e-snacks?chave=pc_cat_menu_biscoito_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "caixa de bombom",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/caixa-de-bombom?chave=pc_cat_menu_bombom_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "cápsulas de café",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=capsulas+de+cafe&chave=pc_cat_menu_capsulas-de-cafe_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "cerveja",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-e-bebidas/bebidas-alcoolicas/cerveja?chave=pc_cat_menu_cerveja_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "chocolate",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=chocolate&chave=pc_cat_menu_chocolate_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "desinfetante",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=desinfetante&chave=pc_cat_menu_desinfetante_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "fraldas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=fralda&chave=pc_cat_menu_fraldas_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "leite em pó",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=leite+em+po&chave=pc_cat_menu_leite-em-po_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "lenço umedecido",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=lenco+umedecido&chave=pc_cat_menu_lenco-umedecido_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "nutella",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/nutella?chave=pc_cat_menu_nutella_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "sabão em pó",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/limpeza/produtos-de-lavanderia/sabao-em-po?chave=pc_cat_menu_sabao-em-po_mercado",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/ruffles-geral-cl?chave=pm_tt_acom_mercado_ruffles-pensamentosaleatorios_out_161025",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "brinquedos",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 713,
+        "y": 180,
+        "w": 70,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499144847.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em brinquedos",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos?chave=pc_cat_menu_brinquedos-vertudo",
+          "nivel": 1
+        },
+        {
+          "nome": "bicicleta infantil",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/bicicleta-infantil?chave=pc_cat_menu_bicicleta-infantil_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "boneca",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/boneca?chave=pc_cat_menu_boneca_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "bebê reborn",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/boneca/bebe-reborn?chave=pc_cat_menu_bebe-reborn_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "consoles e games",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/consoles-e-games?chave=pc_cat_menu_games_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "dinossauros",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/dinossauros?chave=pc_cat_menu_dinossauros_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "hoverboard",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/mini-veiculos-e-triciclos/hoverboard?chave=pc_cat_menu_hoverboard_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "patinete infantil",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/patins-patinetes-e-skates/patinete-infantil?chave=pc_cat_menu_patinete-infantil_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "patins infantil",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/patins-patinetes-e-skates/patins-infantil?chave=pc_cat_menu_patins-infantil_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "quebra cabeça",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos/quebra-cabeca?chave=pc_cat_menu_quebra-cabeca_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "carrinho de controle remoto",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/carrinho-de-controle-remoto?chave=pc_cat_menu_carrinho-de-controle-remoto_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "cozinha infantil",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/cozinha-infantil?chave=pc_cat_menu_cozinha-infantil_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "jogos de tabuleiro",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/jogos-de-tabuleiro?chave=pc_cat_menu_jogos-de-tabuleiro_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "baby alive",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/brinquedos/bonecas/baby-alive?chave=pc_cat_menu_baby-alive_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "barbie",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/brinquedos/bonecas/barbie?chave=pc_cat_menu_barbie_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "hot wheels",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/brinquedos/carrinhos-e-cia/hot-wheels?chave=pc_cat_menu_hot-wheels_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "lego",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/lego?chave=pc_cat_menu_lego_brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "celulares",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 826,
+        "y": 180,
+        "w": 56,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499145017.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em celulares",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones?chave=pfm_hm_tt_1_1_ver-tudo",
+          "nivel": 1
+        },
+        {
+          "nome": "capa de celular",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/acessorios/capa-para-celular?chave=pfm_hm_tt_1_2_capa-de-celular",
+          "nivel": 1
+        },
+        {
+          "nome": "celular básico",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/celular-basico?chave=pfm_hm_tt_1_3_celular-basico",
+          "nivel": 1
+        },
+        {
+          "nome": "celular motorola",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/motorola?chave=pfm_hm_tt_1_4_celular-motorola",
+          "nivel": 1
+        },
+        {
+          "nome": "celular poco",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/xiaomi-poco?chave=pfm_hm_tt_1_5_celular-poco",
+          "nivel": 1
+        },
+        {
+          "nome": "celular redmi",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/xiaomi-redmi?chave=pfm_hm_tt_1_6_celular-redmi",
+          "nivel": 1
+        },
+        {
+          "nome": "celular samsung",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy?chave=pfm_hm_tt_1_7_celular-samsung",
+          "nivel": 1
+        },
+        {
+          "nome": "celular xiaomi",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/xiaomi?chave=pfm_hm_tt_1_8_celular-xiaomi",
+          "nivel": 1
+        },
+        {
+          "nome": "chip",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/acessorios/chip?chave=pfm_hm_tt_1_9_chip",
+          "nivel": 1
+        },
+        {
+          "nome": "iphone",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/iphone?chave=pfm_hm_tt_1_10_iphone",
+          "nivel": 1
+        },
+        {
+          "nome": "moto e",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/moto-e?chave=pfm_hm_tt_1_11_moto-e",
+          "nivel": 1
+        },
+        {
+          "nome": "moto g",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/moto-g?chave=pfm_hm_tt_1_12_moto-g",
+          "nivel": 1
+        },
+        {
+          "nome": "motorola edge",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone/motorola-edge?chave=pfm_hm_tt_1_13_motorola-edge",
+          "nivel": 1
+        },
+        {
+          "nome": "samsung galaxy a",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone?category-1=celulares-e-smartphones&category-2=smartphone&fuzzy=0&operator=and&category-3=galaxy-a05&category-3=galaxy-a14&category-3=galaxy-a15&category-3=galaxy-a25&facets=category-1%2Ccategory-?chave=pfm_hm_tt_1_14_samsung-galaxy-a",
+          "nivel": 1
+        },
+        {
+          "nome": "samsung galaxy s",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/celulares-e-smartphones/smartphone/samsung-galaxy/galaxy-s?chave=pfm_hm_tt_1_15_samsung-galaxy-s",
+          "nivel": 1
+        },
+        {
+          "nome": "smartphone",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/celulares-e-smartphones/smartphone?chave=pfm_hm_tt_1_16_smartphone",
+          "nivel": 1
+        },
+        {
+          "nome": "telefone sem fio",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/telefonia?chave=pfm_hm_tt_1_1_telefone-sem-fio",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eletrodomésticos",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 925,
+        "y": 180,
+        "w": 108,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499145189.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em eletrodomésticos",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos?chave=pfm_hm_tt_2_0_eletrodom",
+          "nivel": 1
+        },
+        {
+          "nome": "centrífuga de roupas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=centrifuga+de+roupas&chave=pfm_hm_tt_2_3_centrifuga-de-roupas",
+          "nivel": 1
+        },
+        {
+          "nome": "cervejeira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=cervejeira&chave=pfm_hm_tt_2_4_cervejeira",
+          "nivel": 1
+        },
+        {
+          "nome": "cooktop 4 bocas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=cooktop+4+bocas&chave=pfm_hm_tt_2_5_cooktop-4-bocas",
+          "nivel": 1
+        },
+        {
+          "nome": "fogão 4 bocas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/fogao-4-bocas?chave=pfm_hm_tt_2_6_fogao-4-bocas",
+          "nivel": 1
+        },
+        {
+          "nome": "fogão 5 bocas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/fogao-5-bocas?chave=pfm_hm_tt_2_7_fogao-5-bocas",
+          "nivel": 1
+        },
+        {
+          "nome": "forno de embutir",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos/forno?chave=pfm_hm_tt_2_8_forno-de-embutir",
+          "nivel": 1
+        },
+        {
+          "nome": "freezer horizontal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=freezer+horizontal&chave=pfm_hm_tt_2_9_freezer-horizontal",
+          "nivel": 1
+        },
+        {
+          "nome": "freezer vertical",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=freezer+vertical&chave=pfm_hm_tt_2_10_freezer-vertical",
+          "nivel": 1
+        },
+        {
+          "nome": "frigobar",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=frigobar&chave=pfm_hm_tt_2_11_frigobar",
+          "nivel": 1
+        },
+        {
+          "nome": "geladeira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos/geladeira-e-refrigeradores?chave=pfm_hm_tt_2_12_geladeira",
+          "nivel": 1
+        },
+        {
+          "nome": "geladeira frost free",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/geladeira-frost-free?chave=pfm_hm_tt_2_14_geladeira-frost-free",
+          "nivel": 1
+        },
+        {
+          "nome": "lava e seca",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos/lava-e-seca?chave=pfm_hm_tt_2_15_lava-e-seca",
+          "nivel": 1
+        },
+        {
+          "nome": "lava louças",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos/lava-loucas?chave=pfm_hm_tt_2_16_lava-loucas",
+          "nivel": 1
+        },
+        {
+          "nome": "máquina de lavar roupa",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos/maquina-de-lavar?chave=pfm_hm_tt_2_17_maquina-de-lavar-roupa",
+          "nivel": 1
+        },
+        {
+          "nome": "microondas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletrodomesticos/micro-ondas?chave=pfm_hm_tt_2_18_microondas",
+          "nivel": 1
+        },
+        {
+          "nome": "tanquinho de lavar roupa",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/tanquinho-de-lavar-roupa?chave=pfm_hm_tt_2_19_tanquinho-de-lavar-roupa",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "informática",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1076,
+        "y": 180,
+        "w": 70,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499145359.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em informática",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica?chave=pfm_hm_tt_3_1_ver-tudo",
+          "nivel": 1
+        },
+        {
+          "nome": "cadeira gamer",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/teclado-mouse-e-perifericos/cadeira-gamer?chave=pfm_hm_tt_3_2_cadeira-gamer",
+          "nivel": 1
+        },
+        {
+          "nome": "cartucho de impressora",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/suprimentos/cartucho?chave=pfm_hm_tt_3_3_cartucho-de-impressora",
+          "nivel": 1
+        },
+        {
+          "nome": "computador",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/computador-desktop/desktop?chave=pfm_hm_tt_3_4_computador",
+          "nivel": 1
+        },
+        {
+          "nome": "cpu",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=cpu&chave=pfm_hm_tt_3_5_cpu",
+          "nivel": 1
+        },
+        {
+          "nome": "hd externo",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=hd+externo&chave=pfm_hm_tt_3_6_hd-externo",
+          "nivel": 1
+        },
+        {
+          "nome": "impressora",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=impressora&chave=pfm_hm_tt_3_7_impressora",
+          "nivel": 1
+        },
+        {
+          "nome": "monitor",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=monitor&chave=pfm_hm_tt_3_8_monitor",
+          "nivel": 1
+        },
+        {
+          "nome": "mouse sem fio",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/teclado-mouse-e-perifericos/mouse?chave=pfm_hm_tt_3_9_mouse-sem-fio",
+          "nivel": 1
+        },
+        {
+          "nome": "notebook",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/notebook?chave=pfm_hm_tt_3_10_notebook",
+          "nivel": 1
+        },
+        {
+          "nome": "notebook gamer",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/notebook?chave=pfm_hm_tt_3_11_notebook-gamer",
+          "nivel": 1
+        },
+        {
+          "nome": "pc gamer",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/categoria/informatica/computadores/computador-gamer?chave=pfm_hm_tt_3_12_pc-gamer",
+          "nivel": 1
+        },
+        {
+          "nome": "pendrive",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=pen+drive&chave=pfm_hm_tt_3_13_pendrive",
+          "nivel": 1
+        },
+        {
+          "nome": "pilhas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/computadores-e-informatica/pilhas-e-carregadores/pilha?chave=pfm_hm_tt_3_14_pilhas",
+          "nivel": 1
+        },
+        {
+          "nome": "repetidor de sinal wifi",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=repetidor+de+sinal+wifi&chave=pfm_hm_tt_3_15_repetidor-de-sinal-wifi",
+          "nivel": 1
+        },
+        {
+          "nome": "tablet",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/tablets?chave=pfm_hm_tt_3_15_tablet",
+          "nivel": 1
+        },
+        {
+          "nome": "tablet infantil",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=tablet+infantil&chave=pfm_hm_tt_3_15_tablet-infantil",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "áudio e vídeo",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1189,
+        "y": 180,
+        "w": 82,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499145528.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em tv e home theater",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/audio-e-video?chave=pfm_hm_tt_4_1_ver-tudo",
+          "nivel": 1
+        },
+        {
+          "nome": "antena digital",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=antena+digital&chave=pfm_hm_tt_4_2_antena-digital",
+          "nivel": 1
+        },
+        {
+          "nome": "caixa de som",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=caixa+de+som&chave=pfm_hm_tt_4_3_caixa-de-som",
+          "nivel": 1
+        },
+        {
+          "nome": "caixa de som bluetooth",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=caixa+de+som+bluetooth&chave=pfm_hm_tt_4_4_caixa-de-som-bluetooth",
+          "nivel": 1
+        },
+        {
+          "nome": "camera digital",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/audio-e-video/camera-digital?chave=pfm_hm_tt_4_5_camera-digital",
+          "nivel": 1
+        },
+        {
+          "nome": "conversor",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=conversor+digital+tv&chave=pfm_hm_tt_4_6_conversor",
+          "nivel": 1
+        },
+        {
+          "nome": "drone",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/audio-e-video/drones?chave=pfm_hm_tt_4_7_drone",
+          "nivel": 1
+        },
+        {
+          "nome": "fone de ouvido bluetooth",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/fone-de-ouvido-bluetooth?chave=pfm_hm_tt_4_8_fone-de-ouvido-bluetooth",
+          "nivel": 1
+        },
+        {
+          "nome": "go pro",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=camera+gopro&chave=pfm_hm_tt_4_9_go-pro",
+          "nivel": 1
+        },
+        {
+          "nome": "projetor",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=projetor&chave=pfm_hm_tt_4_10_projetor",
+          "nivel": 1
+        },
+        {
+          "nome": "soundbar",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/audio-e-video/home-theater-e-soundbar?chave=pfm_hm_tt_4_11_soundbar",
+          "nivel": 1
+        },
+        {
+          "nome": "suporte para tv",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=suporte+para+tv&chave=pfm_hm_tt_4_12_suporte-para-tv",
+          "nivel": 1
+        },
+        {
+          "nome": "televisão",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/audio-e-video/tv?chave=pfm_hm_tt_4_13_televisao",
+          "nivel": 1
+        },
+        {
+          "nome": "tv 32 polegadas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/tv-32-polegadas?chave=pfm_hm_tt_4_14_tv-32-polegadas",
+          "nivel": 1
+        },
+        {
+          "nome": "tv 43 polegadas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/smart-tv-43-polegadas?chave=pfm_hm_tt_4_15_tv-43-polegadas",
+          "nivel": 1
+        },
+        {
+          "nome": "tv 55 polegadas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/tv-55-polegadas?chave=pfm_hm_tt_4_16_tv-55-polegadas",
+          "nivel": 1
+        },
+        {
+          "nome": "tv 50 polegadas",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/smart-tv-50-polegadas?chave=pfm_hm_tt_4_17_tv-50-polegadas",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eletroportáteis",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1314,
+        "y": 180,
+        "w": 91,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499145699.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em eletroportáteis",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis?chave=pfm_hm_tt_5_1_ver-tudo",
+          "nivel": 1
+        },
+        {
+          "nome": "air fryer",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/fritadeira-eletrica/air-fryer?chave=pfm_hm_tt_5_2_air-fryer",
+          "nivel": 1
+        },
+        {
+          "nome": "aspirador de pó",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/aspirador-de-po?chave=pfm_hm_tt_5_3_aspirador-de-po",
+          "nivel": 1
+        },
+        {
+          "nome": "batedeira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/batedeira?chave=pfm_hm_tt_5_4_batedeira",
+          "nivel": 1
+        },
+        {
+          "nome": "bebedouro de água",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/bebedouro?chave=pfm_hm_tt_5_5_bebedouro-de-agua",
+          "nivel": 1
+        },
+        {
+          "nome": "cafeteira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/cafeteira/cafeteira-eletrica?chave=pfm_hm_tt_5_6_cafeteira",
+          "nivel": 1
+        },
+        {
+          "nome": "chaleira elétrica",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/chaleira-eletrica?chave=pfm_hm_tt_5_7_chaleira-eletrica",
+          "nivel": 1
+        },
+        {
+          "nome": "churrasqueira elétrica",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=churrasqueira+eletrica&chave=pfm_hm_tt_5_8_churrasqueira-eletrica",
+          "nivel": 1
+        },
+        {
+          "nome": "ferro de passar roupa",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/aparelhos-de-passar-roupa/ferro-de-passar?chave=pfm_hm_tt_5_9_ferro%20de%20passar-roupa",
+          "nivel": 1
+        },
+        {
+          "nome": "filtro de água",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=filtro+de+agua&chave=pfm_hm_tt_5_10_filtro-de-agua",
+          "nivel": 1
+        },
+        {
+          "nome": "forno elétrico",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/forno-eletrico?chave=pfm_hm_tt_5_11_forno-eletrico",
+          "nivel": 1
+        },
+        {
+          "nome": "liquidificador",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=liquidificador&chave=pfm_hm_tt_5_12_liquidificador",
+          "nivel": 1
+        },
+        {
+          "nome": "máquina de costura",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/maquina-de-costura?chave=pfm_hm_tt_5_13_maquina-de-costura",
+          "nivel": 1
+        },
+        {
+          "nome": "panela de pressão elétrica",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=panela+de+pressao+eletrica&chave=pfm_hm_tt_5_14_panela-de-pressao-eletrica",
+          "nivel": 1
+        },
+        {
+          "nome": "processador de alimentos",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/processador-de-alimentos?chave=pfm_hm_tt_5_15_processador-de-alimentos",
+          "nivel": 1
+        },
+        {
+          "nome": "purificador de água",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/eletroportateis/purificador-de-agua?chave=pfm_hm_tt_5_16_purificador-de-agua",
+          "nivel": 1
+        },
+        {
+          "nome": "sanduicheira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=sanduicheira&chave=pfm_hm_tt_5_17_sanduicheira",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "móveis",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1448,
+        "y": 180,
+        "w": 44,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499145869.png",
+      "filhos": [
+        {
+          "nome": "ver tudo em móveis",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/moveis?chave=pfm_hm_tt_6_1_moveis",
+          "nivel": 1
+        },
+        {
+          "nome": "armário de cozinha",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=armario+de+cozinha&chave=pfm_hm_tt_6_2_armario",
+          "nivel": 1
+        },
+        {
+          "nome": "armário multiuso",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=armario+multiuso&chave=pfm_hm_tt_6_3_armario-multiuso",
+          "nivel": 1
+        },
+        {
+          "nome": "cadeira de escritório",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=cadeira+de+escritorio&chave=pfm_hm_tt_6_4_cadeira-de-escritorio",
+          "nivel": 1
+        },
+        {
+          "nome": "cama box casal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=cama+box+casal&chave=pfm_hm_tt_6_5_cama-box-casal",
+          "nivel": 1
+        },
+        {
+          "nome": "cama box solteiro",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=cama+box+solteiro&chave=pfm_hm_tt_6_6_cama-box-solteiro",
+          "nivel": 1
+        },
+        {
+          "nome": "colchão casal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/moveis/colchao/colchao-casal?chave=pfm_hm_tt_6_7_colchao-casal",
+          "nivel": 1
+        },
+        {
+          "nome": "colchão solteiro",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=colchao+solteiro&chave=pfm_hm_tt_6_8_colchao-solteiro",
+          "nivel": 1
+        },
+        {
+          "nome": "escrivaninha",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/escrivaninha?chave=pfm_hm_tt_6_9_escrivaninha",
+          "nivel": 1
+        },
+        {
+          "nome": "guarda roupa casal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=guarda+roupa+casal&chave=pfm_hm_tt_6_10_guarda-roupa-casal",
+          "nivel": 1
+        },
+        {
+          "nome": "guarda roupa solteiro",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=guarda+roupa+solteiro&chave=pfm_hm_tt_6_11_guarda-roupa-solteiro",
+          "nivel": 1
+        },
+        {
+          "nome": "mesa 4 cadeiras",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/mesa-com-4-cadeiras?chave=pfm_hm_tt_6_13_mesa-4-cadeiras",
+          "nivel": 1
+        },
+        {
+          "nome": "penteadeira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/moveis/penteadeira?chave=pfm_hm_tt_6_14_penteadeira",
+          "nivel": 1
+        },
+        {
+          "nome": "rack para sala",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/s?q=rack+para+sala&chave=pfm_hm_tt_6_15_rack-para-sala",
+          "nivel": 1
+        },
+        {
+          "nome": "sapateira",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/moveis/sapateira?chave=pfm_hm_tt_6_16_sapateira",
+          "nivel": 1
+        },
+        {
+          "nome": "sofá",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/moveis/sofa?chave=pfm_hm_tt_6_17_sofa",
+          "nivel": 1
+        },
+        {
+          "nome": "sofá retrátil",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/sofa-retratil?chave=pfm_hm_tt_6_17_sofa-retratil",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/app",
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "natal",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1535,
+        "y": 180,
+        "w": 33,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499146039.png",
+      "filhos": [
+        {
+          "nome": "presente de natal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/natal",
+          "nivel": 1
+        },
+        {
+          "nome": "presente de amigo secreto",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/especial/presente-de-amigo-secreto",
+          "nivel": 1
+        },
+        {
+          "nome": "arvore de natal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/artigos-de-festa/natal/arvore-de-natal",
+          "nivel": 1
+        },
+        {
+          "nome": "guirlanda de natal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/guirlanda-de-natal",
+          "nivel": 1
+        },
+        {
+          "nome": "pisca pisca",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/artigos-de-festa/natal/pisca-pisca",
+          "nivel": 1
+        },
+        {
+          "nome": "enfeite de natal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/artigos-de-festa/natal/enfeites-de-natal",
+          "nivel": 1
+        },
+        {
+          "nome": "cesta de natal",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/busca/cesta-de-natal",
+          "nivel": 1
+        },
+        {
+          "nome": "brinquedos",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/brinquedos",
+          "nivel": 1
+        },
+        {
+          "nome": "panetone",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-natalinos/panettone",
+          "nivel": 1
+        },
+        {
+          "nome": "chocotone",
+          "tipo": "ItemSubmenu",
+          "link": "https://www.americanas.com.br/alimentos-e-bebidas/alimentos-natalinos/chocottone",
+          "nivel": 1
+        },
+        {
+          "nome": "Elemento sem nome",
+          "tipo": "ItemSubmenu",
+          "link": null,
+          "nivel": 1
+        }
+      ]
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 284,
+        "w": 1248,
+        "h": 19
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499146261.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 316,
+        "w": 1248,
+        "h": 312
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499146510.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 472,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1576,
+        "y": 472,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 804,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499147139.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 828,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499147379.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 852,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499147548.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 876,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499147717.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 900,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499147889.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 924,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499148062.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 948,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499148229.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 972,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499148398.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 996,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499148569.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1020,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499148738.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1044,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499148909.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1068,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499149079.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1092,
+        "y": 604,
+        "w": 8,
+        "h": 8
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499149250.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499149544.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 443,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499149820.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 558,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499149991.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 673,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499150161.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 788,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499150333.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 903,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499150503.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1018,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499150673.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1133,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499150844.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1248,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499151011.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1363,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499151183.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1478,
+        "y": 644,
+        "w": 99,
+        "h": 107
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499151356.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 767,
+        "w": 306,
+        "h": 459
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499151558.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 642,
+        "y": 767,
+        "w": 306,
+        "h": 459
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499151692.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 956,
+        "y": 767,
+        "w": 306,
+        "h": 459
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499151862.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1270,
+        "y": 767,
+        "w": 306,
+        "h": 459
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499152034.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 1242,
+        "w": 1248,
+        "h": 104
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499152242.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 1430,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499152470.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 750,
+        "y": 1430,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499152594.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1171,
+        "y": 1430,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499152775.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 1649,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499152944.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 750,
+        "y": 1649,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499153119.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1171,
+        "y": 1649,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499153294.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 1868,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499153469.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 750,
+        "y": 1868,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499153645.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1171,
+        "y": 1868,
+        "w": 405,
+        "h": 203
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499153820.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 5707,
+        "w": 300,
+        "h": 104
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499154237.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 644,
+        "y": 2840,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499154473.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 960,
+        "y": 2914,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499154694.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1276,
+        "y": 2943,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499154826.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 4244,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499155080.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 644,
+        "y": 3421,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499155374.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 960,
+        "y": 3421,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499155566.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1276,
+        "y": 3421,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499155748.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 4790,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499156033.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 644,
+        "y": 3967,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499156318.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 960,
+        "y": 3967,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499156497.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1276,
+        "y": 3967,
+        "w": 300,
+        "h": 454
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499156686.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "brinquedos",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 6983,
+        "w": 142,
+        "h": 133
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499157060.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "telefonia",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 486,
+        "y": 4514,
+        "w": 142,
+        "h": 175
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499157219.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "chocolate",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 644,
+        "y": 4514,
+        "w": 142,
+        "h": 175
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499157345.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "biscoitos",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 802,
+        "y": 4514,
+        "w": 142,
+        "h": 175
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499157515.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eletroportáteis",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 960,
+        "y": 4514,
+        "w": 142,
+        "h": 178
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499157688.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "fraldas",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1118,
+        "y": 4514,
+        "w": 142,
+        "h": 175
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499157861.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "beleza e perfumaria",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1276,
+        "y": 4514,
+        "w": 142,
+        "h": 196
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499158026.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eletrodomésticos",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1434,
+        "y": 4514,
+        "w": 142,
+        "h": 178
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499158198.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "móveis",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 178
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499158368.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "limpeza",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 175
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499158537.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "TVs",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 178
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499158709.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "utilidades\ndomésticas",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 199
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499158881.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "cama, mesa\ne banho",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 199
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499159051.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "notebooks",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 178
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499159218.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "climatização",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1592,
+        "y": 4514,
+        "w": 142,
+        "h": 178
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499159387.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 4613,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": false,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 1576,
+        "y": 4613,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12504,
+        "w": 300,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 644,
+        "y": 12504,
+        "w": 300,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 960,
+        "y": 12504,
+        "w": 300,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1276,
+        "y": 12504,
+        "w": 300,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "celular",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 13467,
+        "w": 94,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499160181.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "tablet",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 11872,
+        "w": 94,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499160351.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "liquidificador",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 11937,
+        "w": 94,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499160593.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "escova secadora",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 512,
+        "y": 11865,
+        "w": 131,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499160751.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "panela de pressão",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 512,
+        "y": 11901,
+        "w": 131,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499160919.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "piscina",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 512,
+        "y": 11937,
+        "w": 131,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499161090.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "celular motorola",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 733,
+        "y": 11865,
+        "w": 117,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499161270.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "sanduicheira",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 733,
+        "y": 11901,
+        "w": 117,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499161441.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "cadeira de praia",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 733,
+        "y": 11937,
+        "w": 117,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499161609.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "chapinha",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 939,
+        "y": 11865,
+        "w": 156,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499161780.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "liquidificador mondial",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 939,
+        "y": 11901,
+        "w": 156,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499161951.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "tablet infantil",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 939,
+        "y": 11937,
+        "w": 156,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499162120.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "presente de amigo secreto",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1185,
+        "y": 11865,
+        "w": 191,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499162290.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "ps5",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1185,
+        "y": 11901,
+        "w": 191,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499162462.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "air fryer",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1185,
+        "y": 11937,
+        "w": 191,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499162632.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "colchão inflavel",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1465,
+        "y": 11865,
+        "w": 112,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499162802.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "a26",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1465,
+        "y": 11901,
+        "w": 112,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499162972.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "samsung a07",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1465,
+        "y": 11937,
+        "w": 112,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499163142.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "sac 4003 4848",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 13686,
+        "w": 106,
+        "h": 22
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499163515.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "guia de segurança",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 702,
+        "y": 12029,
+        "w": 129,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499163778.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "natal",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1074,
+        "y": 12040,
+        "w": 36,
+        "h": 22
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499163946.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "entregas e devoluções",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1448,
+        "y": 12029,
+        "w": 129,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499164117.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12110,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12158,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12206,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12254,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12302,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12350,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12398,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12446,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12494,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12542,
+        "w": 289,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12110,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12158,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12206,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12254,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12302,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12350,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12398,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12446,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12494,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12542,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12590,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12638,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 739,
+        "y": 12686,
+        "w": 321,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12110,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12158,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12206,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12254,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12302,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12350,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12398,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1181,
+        "y": 12446,
+        "w": 186,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1489,
+        "y": 12110,
+        "w": 87,
+        "h": 48
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 328,
+        "y": 12117,
+        "w": 163,
+        "h": 32
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499165594.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "mais informações",
+      "classe": "FooterPayments_showMoreButton__BoZhy",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 868,
+        "y": 12097,
+        "w": 191,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765499165839.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1436,
+        "y": 12087,
+        "w": 24,
+        "h": 91
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499166088.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1474,
+        "y": 12087,
+        "w": 24,
+        "h": 91
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499166354.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1514,
+        "y": 12087,
+        "w": 24,
+        "h": 91
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499166524.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1552,
+        "y": 12087,
+        "w": 24,
+        "h": 91
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499166695.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Mapa do site",
+      "classe": "LegaIInformation_siteMap__paSpW",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 539,
+        "y": 12232,
+        "w": 827,
+        "h": 18
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765499166916.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+a",
+      "classe": "_menu-close-btn _menu-btn material-icons",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2091,
+        "y": 11585,
+        "w": 36,
+        "h": 26
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Redefinir configurações",
+      "classe": "_menu-reset-btn _menu-btn material-icons",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2343,
+        "y": 11585,
+        "w": 36,
+        "h": 26
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11635,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11683,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11731,
+        "w": 281,
+        "h": 63
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11799,
+        "w": 281,
+        "h": 63
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11868,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11915,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+i",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 11963,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+g",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 12011,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+c",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 12058,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+r",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 12106,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+u",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 12154,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Atalho: ctrl+alt+q",
+      "classe": "",
+      "tag": "button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 2094,
+        "y": 12201,
+        "w": 281,
+        "h": 43
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tag": "a",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 0,
+        "y": 11341,
+        "w": 0,
+        "h": 0
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "filhos": []
+    }
+  ]
+}
+
+================================================================================
+PERGUNTA:
+Minha tarefa é procurar um brinquedo de dinossorauro na faixa de 100 a 250 reais
+
+================================================================================
+RESPOSTA:
+**Análise do estado atual**
+
+- Estou na página inicial da Americanas (URL: https://www.americanas.com.br/).
+- A UI exibe:
+  - Barra de busca superior (campo "busque aqui seu produto").
+  - Estrutura de menus com "Brinquedos" (já identificado na lista de departamentos).
+  - Dentro de "Brinquedos", há link direto "dinossauros" que aponta para: https://www.americanas.com.br/brinquedos/dinossauros?chave=pc_cat_menu_dinossauros_brinquedos
+- Não há nenhum filtro de preço aplicado ainda.
+- O filtro de preço (100 a 250 reais) precisará ser definido após a busca.
+
+**Melhor próxima ação recomendada**
+
+**Clique no link "dinossauros" dentro do menu "Brinquedos".**
+
+**Motivo**
+
+- O caminho já está estruturado na UI e leva diretamente à categoria de dinossauros.
+- Isso economiza um passo de digitação e evita possíveis erros de busca.
+- Após o clique, a página de resultados será carregada e será possível aplicar o filtro de preço (100 a 250 reais) nos filtros laterais.
+
+**Alternativas e custos/benefícios**
+
+| Alternativa | Custo | Benefício |
+|-------------|-------|-----------|
+| Digitar "dinossauro" na barra de busca | +1 passo (digitação) | Mesma rota final, mas com risco de erro de digitação |
+| Clicar primeiro no menu "Brinquedos" e depois em "dinossauros" | +1 passo (acessar submenu) | Mais explícito, mas menos eficiente |
+| Ir direto ao link de busca avançada | +1 passo (navegação extra) | Acesso a mais filtros, porém mais demorado |
+
+**Próximos passos após o clique**
+
+1. Aguardar carregar a página de resultados de dinossauros.
+2. Localizar a seção de filtros de preço (geralmente à esquerda).
+3. Definir o intervalo de preço: 100 a 250 reais.
+4. Aplicar filtro e analisar os produtos exibidos.
+
+**Ação recomendada**
+> Clique no link "dinossauros" no menu de Brinquedos.

@@ -8,9 +8,9 @@ import time
 import os
 
 # --- ⚙️ CONFIGURAÇÃO DE EXTRAÇÃO ⚙️ ---
-URL = "https://www.americanas.com.br/" 
-NOME_ARQUIVO_JSON = "extracoes/americanas/estrutura_ui.json"
-PASTA_SCREENS = "extracoes/americanas/screenshots_ui"
+URL = "https://www.americanas.com.br/account#/profile" 
+NOME_ARQUIVO_JSON = "extracoes/americanas/conta/1/estrutura_ui.json"
+PASTA_SCREENS = "extracoes/americanas/conta/1/screenshots_ui"
 
 # 🚨 Classes que identificam um elemento como DROPDOWN neste portal específico
 CUSTOM_DROPDOWN_CLASSES = [
@@ -232,7 +232,7 @@ def scrape_ui_structure(url):
     try:
         driver.get(url)
         print("⏳ Aguardando carregamento total do Dashboard (10s)...")
-        time.sleep(10) # GoldenLayout demora para montar o DOM
+        time.sleep(40) # GoldenLayout demora para montar o DOM
 
         # Pega o body ou o container principal do GoldenLayout
         try:
