@@ -1,0 +1,3 @@
+[submodule "AnalisysLLMs_System"]
+	path = AnalisysLLMs_System
+	url = git@github.com:otbox/AnalisysLLMs_System.git
