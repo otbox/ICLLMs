@@ -1,0 +1,3879 @@
+{
+    "ui_structure": [
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "a11y-controls__theme",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 78,
+                "y": 5,
+                "w": 30,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497380584.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "a11y-controls__inc-font",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 118,
+                "y": 5,
+                "w": 30,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497380699.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "a11y-controls__dec-font",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 158,
+                "y": 5,
+                "w": 30,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497380806.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "a11y-controls__zoom",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 198,
+                "y": 5,
+                "w": 30,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497380893.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 238,
+                "y": 5,
+                "w": 30,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497380980.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Acesse o mapa do site",
+            "classe": "a11y-mapa",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 278,
+                "y": 5,
+                "w": 30,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497381070.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ir para o conteúdo",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 804,
+                "y": 12,
+                "w": 130,
+                "h": 16
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497381171.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ir para o menu",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 938,
+                "y": 12,
+                "w": 105,
+                "h": 16
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497381261.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ir para a busca",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1047,
+                "y": 12,
+                "w": 108,
+                "h": 16
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497381356.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ir para o rodapé",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1159,
+                "y": 12,
+                "w": 114,
+                "h": 16
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497381456.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "site-title  ",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 75,
+                "w": 220,
+                "h": 69
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497381644.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Digite a sua busca",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 324,
+                "y": 60,
+                "w": 405,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "busca",
+            "ignorado": false,
+            "screenshot": "L0_input_1784497381822.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "g-recaptcha-response",
+            "tag": "textarea",
+            "tipo_controle": "Textarea",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "g-recaptcha-response",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 701,
+                "y": 71,
+                "w": 19,
+                "h": 19
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497382046.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "IPTU 2026",
+            "classe": "em-alta__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 324,
+                "y": 141,
+                "w": 68,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497382263.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Nota Fiscal Eletrônica",
+            "classe": "em-alta__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 408,
+                "y": 141,
+                "w": 131,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497382367.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Licitações",
+            "classe": "em-alta__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 553,
+                "y": 141,
+                "w": 65,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497382488.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Mobiliário 2026",
+            "classe": "em-alta__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 634,
+                "y": 141,
+                "w": 96,
+                "h": 15
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497382587.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Acessar o Portal da Transparência",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 773,
+                "y": 90,
+                "w": 148,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497382682.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Facebook",
+            "classe": "facebook",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1088,
+                "y": 97,
+                "w": 25,
+                "h": 25
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383016.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Instagram",
+            "classe": "instagram",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1118,
+                "y": 98,
+                "w": 25,
+                "h": 24
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383124.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Youtube",
+            "classe": "youtube",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1148,
+                "y": 98,
+                "w": 25,
+                "h": 24
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383211.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Linkedin",
+            "classe": "linkedin",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1178,
+                "y": 95,
+                "w": 25,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383287.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Rss",
+            "classe": "rss",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1208,
+                "y": 98,
+                "w": 25,
+                "h": 24
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383383.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eOuve - Atendimento ao Cidadão",
+            "classe": "eouve",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1232,
+                "y": 93,
+                "w": 40,
+                "h": 34
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383471.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "menu-icon",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 34,
+                "h": 22
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Leis Municipais",
+            "classe": "site-nav__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 498,
+                "y": 184,
+                "w": 108,
+                "h": 47
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383752.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "A Prefeitura",
+            "classe": "site-nav__link dropdown__main-button",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 184,
+                "w": 101,
+                "h": 47
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497383865.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Prefeito e Vice-Prefeito",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Equipe de governo",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "História de Limeira",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Secretarias",
+            "classe": "site-nav__link dropdown__main-button",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 222,
+                "y": 184,
+                "w": 98,
+                "h": 47
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497384131.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Administração",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Assuntos Jurídicos",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Assuntos Jurídicos",
+            "classe": "dropdown__link dropdown__main-button",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Fundo Social de Limeira",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "EMDEL",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "IPML",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "CMDCA",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Conselhos de Políticas Públicas",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Comunicação",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cultura",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Educação",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Esporte e Lazer",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Fazenda",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Gabinete do Prefeito",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Tecnologia e Eficiência",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Habitação",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Agronegócios e Áreas Rurais",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Transportes e Mobilidade Urbana",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Planejamento e Urbanismo",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ouvidoria Geral",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Saúde",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Segurança Pública e Defesa Civil",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Obras e Serviços Públicos",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "SEPROSOM",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Fundo Social de Solidariedade",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Desenvolvimento Econômico",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Meio Ambiente e Saneamento",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Proteção Animal",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Turismo e Eventos",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Valorização e Preparação para o Trabalho",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Imprensa",
+            "classe": "site-nav__link dropdown__main-button",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 367,
+                "y": 184,
+                "w": 83,
+                "h": 47
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497385740.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Secretaria de Comunicação",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Notícias",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Jornal Oficial",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consultas",
+            "classe": "site-nav__link dropdown__main-button",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 655,
+                "y": 184,
+                "w": 88,
+                "h": 47
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497386020.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Contratos",
+            "classe": "dropdown__link dropdown__main-button",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Contratos",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Convênios",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atas de Registro de Preço",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Contratos de Locação de Imóveis",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Decretos Municipais",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consulta posição na fila (Exames/Consultas)",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Licitações e Editais",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Acompanhamento de Obras",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consulta de Medicamentos",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Zeladoria Urbana",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Lei de Acesso à Informação",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Audiências e Consultas Públicas",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Carta de Serviços",
+            "classe": "dropdown__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cidadão",
+            "classe": "submenu-header__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 813,
+                "y": 187,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497386887.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Empresa",
+            "classe": "submenu-header__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 932,
+                "y": 187,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497386988.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Servidor",
+            "classe": "submenu-header__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1051,
+                "y": 187,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497387087.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Turismo",
+            "classe": "submenu-header__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1170,
+                "y": 187,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497387174.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Prefeitura de Limeira orienta contribuintes sobre acesso digital aos tributos mobiliários",
+            "classe": "lista-destaque__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 788,
+                "y": 277,
+                "w": 715,
+                "h": 577
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Prefeitura de Limeira lança pesquisa para avaliar atendimento na rede de Saúde",
+            "classe": "lista-destaque__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 277,
+                "w": 715,
+                "h": 577
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Arraiá Julino em Limeira reúne sabores típicos com preços acessíveis",
+            "classe": "lista-destaque__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": -642,
+                "y": 277,
+                "w": 715,
+                "h": 577
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Sami Rico traz show em homenagem a José Rico para o Arraiá Julino de Limeira\nCantor apresenta repert",
+            "classe": "lista-destaque__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 277,
+                "w": 715,
+                "h": 577
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497387839.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 598,
+                "y": 592,
+                "w": 40,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497388019.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 642,
+                "y": 592,
+                "w": 40,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497388098.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 688,
+                "y": 592,
+                "w": 40,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497388185.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "is-active",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 732,
+                "y": 592,
+                "w": 40,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497388273.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "banner-destaque",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 875,
+                "w": 348,
+                "h": 145
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497388398.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "banner-destaque",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 440,
+                "y": 875,
+                "w": 348,
+                "h": 145
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497388509.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "box-img",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 818,
+                "y": 277,
+                "w": 455,
+                "h": 157
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497388774.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Mais serviços",
+            "classe": "btn-acessar-link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1114,
+                "y": 477,
+                "w": 143,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497388984.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Limeira Digital",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 832,
+                "y": 522,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389113.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Agenda de Eventos",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 975,
+                "y": 522,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389211.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Medicamentos",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1117,
+                "y": 522,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389320.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Mapas Culturais",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 832,
+                "y": 630,
+                "w": 132,
+                "h": 99
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389423.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "IPTU e Dívida Ativa/Mobiliário",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 975,
+                "y": 630,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389518.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consulta de Processos",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1117,
+                "y": 630,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389627.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Agenda Fácil Saúde",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 832,
+                "y": 739,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389731.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Trampo Limeira",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 975,
+                "y": 739,
+                "w": 132,
+                "h": 98
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389828.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Castra +",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1117,
+                "y": 739,
+                "w": 132,
+                "h": 99
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497389934.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Navegue para a ouvidoria da cidade de Limeira - eOuve",
+            "classe": "box-img",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 818,
+                "y": 874,
+                "w": 455,
+                "h": 145
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497390036.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Selecionar categoria",
+            "classe": "btn-filtro",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 946,
+                "y": 1085,
+                "w": 187,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497390274.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 486,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ver todos",
+            "classe": "btn-acessar-link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1157,
+                "y": 1085,
+                "w": 115,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497391448.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Geral\nPrefeitura de Limeira alerta para notícia falsa sobre falso agente da dengue\nMensagem que circ",
+            "classe": "destaque__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 1170,
+                "w": 380,
+                "h": 525
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497391712.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Fundo Social de Limeira\nFundo Social abre inscrições para oficina gratuita de Aromaterapia e Saúde\nh",
+            "classe": "lista-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 1709,
+                "w": 380,
+                "h": 199
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497391911.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Geral\nSeprosom abre inscrições para oficina gratuita de salgados\nhá 2 dias",
+            "classe": "lista-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 482,
+                "y": 1170,
+                "w": 460,
+                "h": 167
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392125.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cultura\nProfissionais de creche em Limeira recebem formação antirracista promovida pelo DPIR\nhá 2 di",
+            "classe": "lista-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 482,
+                "y": 1361,
+                "w": 460,
+                "h": 167
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392250.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Geral\nGuarda Civil Municipal intensifica combate ao cerol e à linha chilena durante as férias escola",
+            "classe": "lista-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 482,
+                "y": 1553,
+                "w": 460,
+                "h": 167
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392355.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Geral\nNovas regras ampliam número de pessoas aptas a doar sangue em Limeira\nhá 2 dias",
+            "classe": "lista-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 482,
+                "y": 1745,
+                "w": 460,
+                "h": 167
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392451.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Certidões",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 988,
+                "y": 1220,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392729.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Descarte de Resíduos",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1124,
+                "y": 1220,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392862.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Leis Orçamentárias",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 988,
+                "y": 1335,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497392965.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "LIMEIRA GEO",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1124,
+                "y": 1335,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393055.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cadastro Habitacional",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 988,
+                "y": 1450,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393154.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Licitações",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1124,
+                "y": 1450,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393265.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Plano Diretor 2025-2035",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 988,
+                "y": 1565,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393378.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Dengue",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1124,
+                "y": 1565,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393481.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Multas de Trânsito",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 988,
+                "y": 1680,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393584.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Convênios BNDES",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1124,
+                "y": 1680,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393693.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Vagas em creche",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 988,
+                "y": 1795,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393794.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Posição Fila\n(exames\nconsultas)",
+            "classe": "home-acesso-rapido__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1124,
+                "y": 1795,
+                "w": 126,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497393906.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "01\nSeprosom abre inscrições para oficina gratuita de salgados",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2049,
+                "w": 349,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394183.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "02\nProfissionais de creche em Limeira recebem formação antirracista promovida pelo DPIR",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2110,
+                "w": 349,
+                "h": 54
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394317.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "03\nGuarda Civil Municipal intensifica combate ao cerol e à linha chilena durante as féria",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2174,
+                "w": 349,
+                "h": 54
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394455.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "04\nNovas regras ampliam número de pessoas aptas a doar sangue em Limeira",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2238,
+                "w": 349,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394583.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "05\nPrefeitura de Limeira altera horário da vacinação no Parque Cidade neste sábado (18)",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2300,
+                "w": 349,
+                "h": 54
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394705.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "06\nOperação Só Cacareco atende seis bairros na próxima semana em Limeira",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2364,
+                "w": 349,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394845.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "07\nArraiá Julino começa hoje em Limeira",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2425,
+                "w": 349,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497394972.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "08\nPrefeitura intensifica recuperação de praças e áreas verdes em Limeira",
+            "classe": "mais-noticias__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 88,
+                "y": 2487,
+                "w": 349,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497395077.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Ver todos",
+            "classe": "btn-acessar-link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 827,
+                "y": 1993,
+                "w": 115,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497395513.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "VAGA PARA: AUXILIAR DE PRODUÇÃO E OPERAÇÃO MTE\nEscolaridade: Ensino Fundamental",
+            "classe": "lista-vagas__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 499,
+                "y": 2101,
+                "w": 427,
+                "h": 61
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497395696.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "VAGA PARA: CAMAREIRO DE HOTEL MTE\nEscolaridade: Ensino Fundamental",
+            "classe": "lista-vagas__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 499,
+                "y": 2176,
+                "w": 427,
+                "h": 61
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497395815.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "VAGA PARA: AUXILIAR DE LIMPEZA MTE\nEscolaridade: Ensino Fundamental Incompleto",
+            "classe": "lista-vagas__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 499,
+                "y": 2252,
+                "w": 427,
+                "h": 61
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497395928.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "VAGA PARA: AUXILIAR DE LIMPEZA MTE\nEscolaridade: Ensino Fundamental",
+            "classe": "lista-vagas__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 499,
+                "y": 2328,
+                "w": 427,
+                "h": 61
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497396029.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "VAGA PARA: FAXINEIRO MTE\nEscolaridade: Ensino Fundamental Incompleto",
+            "classe": "lista-vagas__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 499,
+                "y": 2403,
+                "w": 427,
+                "h": 61
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497396146.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "VAGA PARA: TORNEIRO MECÂNICO MTE\nEscolaridade: Ensino Médio",
+            "classe": "lista-vagas__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 499,
+                "y": 2479,
+                "w": 427,
+                "h": 61
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497396257.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "prev",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1222,
+                "y": 2145,
+                "w": 50,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497397021.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "next",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1222,
+                "y": 2090,
+                "w": 50,
+                "h": 50
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784497397116.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Acesse nosso portal de turismo",
+            "classe": "btn-acessar-link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1009,
+                "y": 2636,
+                "w": 264,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497397291.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Descubra como um improviso transformou Limeira numa potência de semijoias",
+            "classe": "link-descubra",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 772,
+                "y": 2903,
+                "w": 286,
+                "h": 92
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497397754.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Guia\nHospedagem",
+            "classe": "lista-lugares__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 3192,
+                "w": 318,
+                "h": 139
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497398183.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Guia\nGastronômico",
+            "classe": "lista-lugares__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 406,
+                "y": 3192,
+                "w": 318,
+                "h": 139
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497398334.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Guia\nLugares Incríveis",
+            "classe": "lista-lugares__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 3192,
+                "w": 318,
+                "h": 139
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497398444.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Leis Municipais",
+            "classe": "lista-menu-rodape__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 242,
+                "y": 3396,
+                "w": 126,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497399414.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Secretarias",
+            "classe": "lista-menu-rodape__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 441,
+                "y": 3396,
+                "w": 97,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497399535.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Imprensa",
+            "classe": "lista-menu-rodape__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 611,
+                "y": 3396,
+                "w": 81,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497399645.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Consultas",
+            "classe": "lista-menu-rodape__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 766,
+                "y": 3396,
+                "w": 87,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497399758.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Autarquias e Conselhos",
+            "classe": "lista-menu-rodape__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 926,
+                "y": 3396,
+                "w": 187,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497399869.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cidadão",
+            "classe": "lista-menu__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 3416,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400081.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Empresa",
+            "classe": "lista-menu__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 3472,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400209.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Servidor",
+            "classe": "lista-menu__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 3528,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400330.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Turismo",
+            "classe": "lista-menu__grid-item__link",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 72,
+                "y": 3584,
+                "w": 103,
+                "h": 41
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400476.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Facebook",
+            "classe": "facebook",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 216,
+                "y": 3570,
+                "w": 30,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400669.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Instagram",
+            "classe": "instagram",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 251,
+                "y": 3571,
+                "w": 30,
+                "h": 35
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400760.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Youtube",
+            "classe": "youtube",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 286,
+                "y": 3571,
+                "w": 30,
+                "h": 35
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400839.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Linkedin",
+            "classe": "linkedin",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 321,
+                "y": 3570,
+                "w": 30,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497400932.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Rss",
+            "classe": "rss",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 356,
+                "y": 3571,
+                "w": 30,
+                "h": 35
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497401037.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eOuve - Atendimento ao Cidadão",
+            "classe": "eouve",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 387,
+                "y": 3566,
+                "w": 46,
+                "h": 45
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497401126.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Termo de Uso e Políticas de Privacidade",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1007,
+                "y": 3581,
+                "w": 266,
+                "h": 17
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497401900.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "LGPD - Pesquisa de Satisfação",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1007,
+                "y": 3602,
+                "w": 205,
+                "h": 17
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497402010.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "icon back-to-top",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1298,
+                "y": 3578,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497402116.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eCrie - Sistema de Gerenciamento de Site",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 612,
+                "y": 3653,
+                "w": 120,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784497402255.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 3055,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 3055,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "accept",
+            "ignorado": true,
+            "filhos": []
+        }
+    ]
+}

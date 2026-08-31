@@ -1,0 +1,60 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Top Header Bar
+
+  - Logo: americanas (white text on red background)
+
+Main Content Area
+
+User Account Header
+
+  - Icon: User profile (gray circle with person silhouette)
+  - Text: olá, aqui é a sua conta:)
+
+Left Side Panel - Account Navigation
+
+  - Link: cadastro
+      - Text: ver e alterar seus dados e seu e-mail
+  - Link: endereços
+      - Text: ver e alterar seus endereços
+  - Link: pedidos (state: selected, indicated by red vertical bar on left)
+      - Text: acompanhar envio, ver nota fiscal
+  - Link: pedidos antigos
+      - Text: acompanhar o envio dos pedidos realizados até 31/03/2025
+  - Link: cartões
+      - Text: ver seus cartões cadastrados
+  - Link: autenticação
+      - Text: definir ou alterar senha e gerenciar sessões
+  - Link: favoritos
+      - Text: ver os produtos que você favoritou
+  - Link: sair
+      - Text: deslogar da conta e encerrar sessão
+
+Right Content Area - Pedidos Section
+
+  - Heading: pedidos
+  - Text: Você ainda não possui pedidos!
+
+Floating Icons (Left side)
+
+  - Icon: Red icon with hands
+  - Icon: Red icon with person walking
+  - Icon: Red clock icon
+
+Floating Icons (Right side)
+
+  - Icon: WhatsApp (green circular icon with white logo)
+  - Icon: Americanas logo (red square with white 'a' logo)
+
+Footer Section (Bottom of page)
+
+  - Text: todas as regras e promoções são válidas apenas para produtos vendidos
+    e entregues pela americanas.com. O preço válido será o da finalização da
+    compra, havendo divergência, prevalecerá o menor preço ofertado.
+  - Text: americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição
+    Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 – Rio de Janeiro,
+    RJ – 20081-902
+  - Logo: Site Blindado (with shield icon)
+  - Logo: Quality Digital (text logo)
+  - Logo: VTEX (text logo)

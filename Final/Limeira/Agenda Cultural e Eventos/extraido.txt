@@ -1,0 +1,719 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Secretarias", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Cultura" with a down arrow, enabled, next to separator.
+
+Main Content Area (Agenda de Cultura e Eventos)
+
+  - Title: "Agenda de Cultura e Eventos", enabled, below breadcrumbs.
+
+  - Text: "Compartilhe", enabled, top right of article content.
+
+  - Icon: Printer icon (Share button), enabled, right of "Compartilhe".
+
+  - Icon: Instagram icon (Share button), enabled, next to printer icon.
+
+  - Icon: Facebook icon (Share button), enabled, next to Instagram icon.
+
+  - Icon: "X" icon (Share button), enabled, next to Facebook icon.
+
+  - Icon: WhatsApp icon (Share button), enabled, next to "X" icon.
+
+  - Image: Banner with text "AGENDA DE CULTURA E EVENTOS" and a stylized face
+    with a guitar. Includes "PREFEITURA DE LIMEIRA" logo, enabled, below share
+    buttons.
+
+  - Paragraph: "Confira a Agenda Cultural de Limeira com os eventos do mês de
+    outubro de 2025. A programação reúne música, teatro, dança, exposições,
+    palestras e muito mais, oferecendo opções gratuitas e pagas para todos os
+    públicos.", enabled, below banner.
+
+  - Event Entry: 01/10/2025 - Quarta-feira
+
+      - Text: "01/10/2025 - Quarta-feira", enabled.
+      - Text: "Música: "Musical Pink Floyd - Vinícius Schneider"", enabled.
+      - Text: "Quarta-feira, 01, às 20h - Teatro Vitória.", enabled.
+      - Paragraph: "Para celebrar a maior ópera rock do mundo, a Produtora
+        Carbureto convidou o diretor musical Alexandre Santos (Escola de Música
+        Villa Jazz) para recriar com fidelidade o álbum The Wall (1979), do Pink
+        Floyd, em um espetáculo imersivo e tecnologicamente inovador. Painéis de
+        LED de última geração e sistema SURROUND completam a experiência
+        audiovisual.", enabled.
+      - Text: "Entrada: Plateia: R 120,00 (inteira), R 60,00 (meia) |
+        Mezanino/Balcão: R 100,00 (inteira), R 50,00 (meia)", enabled.
+      - Text: "Classificação: 16 anos", enabled.
+      - Text: "Realização: Produtora Carbureto, com apoio da Prefeitura de
+        Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 120min", enabled.
+
+  - Event Entry: 02/10/2025 - Quinta-feira
+
+      - Text: "02/10/2025 - Quinta-feira", enabled.
+      - Text: "Teatro: "O Pequeno Príncipe"", enabled.
+      - Text: "Quinta-feira, 02, às 9h30 e às 14h – Teatro Vitória.", enabled.
+      - Paragraph: "Inspirado na obra clássica de Antoine de Saint-Exupéry, o
+        espetáculo retrata a amizade entre um piloto e um principezinho em busca
+        de um carneiro para salvar sua terra natal. Uma reflexão sobre a
+        essência das pequenas coisas.", enabled.
+      - Text: "Entrada: R 60,00 (inteira), R 30,00 (meia)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Cia dos Três, com apoio da Prefeitura de Limeira, por
+        meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 60min", enabled.
+
+  - Event Entry: 03/10/2025 - Sexta-feira
+
+      - Text: "03/10/2025 - Sexta-feira", enabled.
+      - Text: "Teatro: "5ª Mostra de Talentos – Sindsel"", enabled.
+      - Text: "Sexta-feira, 03, às 19h – Teatro Vitória.", enabled.
+      - Paragraph: "Evento cultural aberto a toda a cidade, celebrando a
+        diversidade e o talento dos servidores públicos.", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Sindsel, com apoio da Prefeitura de Limeira, por meio
+        da Secretaria de Cultura", enabled.
+      - Text: "Duração: 210min", enabled.
+
+  - Event Entry: 04/10/2025 - Sábado
+
+      - Text: "04/10/2025 - Sábado", enabled.
+      - Text: "Palestra: "Como Vencer a Depressão"", enabled.
+      - Text: "Sábado, 04, às 19h30 – Teatro Vitória.", enabled.
+      - Paragraph: "Marcelo Galante, especialista em terapias holísticas
+        emocionais, hipnoterapia e reprogramação mental, apresenta palestra
+        inspiradora sobre saúde emocional.", enabled.
+      - Text: "Entrada: 1 litro de leite (a ser destinado ao Fundo Social de
+        Solidariedade)", enabled.
+      - Text: "Classificação: 16 anos", enabled.
+      - Text: "Realização: Evento independente, com apoio da Prefeitura de
+        Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 120min", enabled.
+
+  - Event Entry: 05/10/2025 - Domingo (Banda na Praça)
+
+      - Text: "05/10/2025 - Domingo", enabled.
+      - Text: "Música: "Banda na Praça – Banda Henrique Marques"", enabled.
+      - Text: "Domingo, 05, às 10h30 – Coreto da Praça Toledo de Barros.",
+        enabled.
+      - Paragraph: "A tradicional Banda Henrique Marques realiza mais uma edição
+        do projeto "Banda na Praça", levando música de qualidade para toda a
+        população em uma manhã especial ao ar livre, no coração da cidade.",
+        enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Banda Henrique Marques, com apoio da Prefeitura de
+        Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 60min", enabled.
+
+  - Event Entry: 05/10/2025 - Domingo (Festival Unicamp de Corais)
+
+      - Text: "05/10/2025 - Domingo", enabled.
+      - Text: "Música: "20º Festival Unicamp de Corais"", enabled.
+      - Text: "Domingo, 05, às 18h – Teatro Vitória.", enabled.
+      - Paragraph: "O festival integra a comemoração dos 40 anos do Coral
+        Unicamp Zíper na Boca e reúne grupos em uma mostra das múltiplas
+        possibilidades do canto coletivo.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: UNICAMP, com apoio da Prefeitura de Limeira, por meio
+        da Secretaria de Cultura", enabled.
+      - Text: "Duração: 150min", enabled.
+
+  - Event Entry: 09/10/2025 - Quinta-feira
+
+      - Text: "09/10/2025 - Quinta-feira", enabled.
+      - Text: "Música: "Symphonic Queen 20 anos"", enabled.
+      - Text: "Quinta-feira, 09, às 20h30 – Teatro Vitória.", enabled.
+      - Paragraph: "Apresentação da Temporada Pró-Sinfônica, celebrando duas
+        décadas de sucesso do espetáculo.", enabled.
+      - Text: "Entrada: Plateia R 30,00 (inteira), R 15,00 (meia)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Sociedade Pró-Sinfônica de Limeira, com apoio da
+        Prefeitura de Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 10/10/2025 - Sexta-feira (Sessões do Planetário)
+
+      - Text: "10/10/2025 - Sexta-feira", enabled.
+      - Text: "Ciência: "Sessões do Planetário"", enabled.
+      - Text: "Sexta-feira, 10, às 9h, 10h, 11h, 13h, 14h e 15h – Espaço C3.",
+        enabled.
+      - Paragraph: "A atividade educativa convida o público a explorar o
+        universo em sessões imersivas e interativas.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura", enabled.
+      - Text: "Duração: 45min cada sessão", enabled.
+
+  - Event Entry: 10/10/2025 - Sexta-feira (Symphonic Queen)
+
+      - Text: "10/10/2025 - Sexta-feira", enabled.
+      - Text: "Música: "Symphonic Queen 20 anos"", enabled.
+      - Text: "Sexta-feira, 10, às 20h30 – Teatro Vitória.", enabled.
+      - Paragraph: "Apresentação da Temporada Pró-Sinfônica, celebrando duas
+        décadas de sucesso do espetáculo.", enabled.
+      - Text: "Entrada: Plateia R 30,00 (inteira), R 15,00 (meia)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Sociedade Pró-Sinfônica de Limeira, com apoio da
+        Prefeitura de Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 11/10/2025 - Sábado (Oficina: Macramê)
+
+      - Text: "11/10/2025 - Sábado", enabled.
+      - Text: "Oficina: Macramê", enabled.
+      - Text: "Sábado, 11, às 14h – Espaço Mabê Cultural.", enabled.
+      - Paragraph: "Atividade gratuita que ensina técnicas de tecelagem manual
+        para criação de peças como arandelas e suportes para plantas.", enabled.
+      - Text: "Preferencial para mulheres a partir de 14 anos.", enabled.
+      - Text: "Classificação: A partir de 14 anos", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura, com recursos da Lei Aldir Blanc e Ministério da Cultura",
+        enabled.
+
+  - Event Entry: 11/10/2025 - Sábado (Teatro/Música: "Divas e Lendas do Pop")
+
+      - Text: "11/10/2025 - Sábado", enabled.
+      - Text: "Teatro/Música: "Divas e Lendas do Pop"", enabled.
+      - Text: "Sábado, 11, às 19h30 – Teatro Vitória.", enabled.
+      - Paragraph: "Espetáculo idealizado pela cantora Claudia Nascimento, em
+        homenagem a grandes nomes da música internacional como Whitney Houston,
+        Michael Jackson e Tina Turner.", enabled.
+      - Text: "Entrada: R 50,00 (inteira), R 25,00 (meia), R$ 25,00 (bônus –
+        primeiras 50 vendas)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Duração: 100min", enabled.
+
+  - Event Entry: 14/10/2025 - Terça-feira
+
+      - Text: "14/10/2025 - Terça-feira", enabled.
+      - Text: "Evento Fechado: "APAE – Próxima Parada Estação Destino"",
+        enabled.
+      - Text: "Terça-feira, 14, às 19h – Teatro Vitória.", enabled.
+      - Paragraph: "Concerto intimista com repertório de compositores
+        clássicos.", enabled.
+      - Text: "Entrada: Fechado", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: APAE, com apoio da Prefeitura de Limeira, por meio da
+        Secretaria de Cultura", enabled.
+      - Text: "Duração: 70min", enabled.
+
+  - Event Entry: 15/10/2025 - Quarta-feira (Escola de Música)
+
+      - Text: "15/10/2025 - Quarta-feira", enabled.
+      - Text: "Música: "Escola de Música – Concerto 2025 – Instituto Anderson
+        Fernando"", enabled.
+      - Text: "Quarta-feira, 15, às 20h – Teatro Vitória.", enabled.
+      - Paragraph: "Concerto beneficente com repertório clássico.", enabled.
+      - Text: "Entrada: 1 litro de leite em prol da Associação das Crianças",
+        enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Anderson Fernando, com apoio da Prefeitura de
+        Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 60min", enabled.
+
+  - Event Entry: 15/10/2025 - Quarta-feira (Poesias de Terror)
+
+      - Text: "15/10/2025 - Quarta-feira", enabled.
+      - Text: "Tem Sarau na Biblioteca: "Poesias de Terror"", enabled.
+      - Text: "Quarta-feira, 15, às 18h – Biblioteca Municipal de Limeira (Rua
+        José Botelho Veloso, s/n – Parque Cidade de Limeira).", enabled.
+      - Paragraph: "O público é convidado a uma noite especial de poesia e
+        suspense, com declamações e interpretações inspiradas em histórias de
+        terror. Um encontro para celebrar a literatura e o clima do Halloween.",
+        enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: A partir de 13 anos", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura", enabled.
+      - Text: "Duração: 120min", enabled.
+
+  - Event Entry: 16/10/2025 - Quinta-feira (Starlight Concert)
+
+      - Text: "16/10/2025 - Quinta-feira", enabled.
+      - Text: "Música: "Starlight Concert – Músicas Clássicas"", enabled.
+      - Text: "Quinta-feira, 16, às 20h – Teatro Vitória.", enabled.
+      - Paragraph: "Concerto intimista com obras de Beethoven, Mozart e
+        Chopin.", enabled.
+      - Text: "Entrada: Setor A – R 140,00 (inteira), R 70,00 (meia); Setor B –
+        R 120,00 (inteira), R 60,00 (meia); Mezanino –
+        R 100,00 (inteira), R 50,00 (meia)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: GT Teatro, com apoio da Prefeitura de Limeira, por
+        meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 70min", enabled.
+
+  - Event Entry: 16/10/2025 - Quinta-feira (Biblioteca Geada)
+
+      - Text: "16/10/2025 - Quinta-feira", enabled.
+      - Text: "Biblioteca Geada – Clube de Leitura: "Ler o Mundo Além das
+        Palavras"", enabled.
+      - Text: "Quinta-feira, 16, às 17h – Biblioteca CEU Geada.", enabled.
+      - Text: "Mediação: Carina Crislai", enabled.
+      - Text: "Tema do Encontro: "Terror"", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: A partir de 13 anos", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura", enabled.
+      - Text: "Duração: 60min", enabled.
+
+  - Event Entry: 18/10/2025 - Sábado
+
+      - Text: "18/10/2025 - Sábado", enabled.
+      - Text: "Evento Fechado: "XX Festival Fantasia"", enabled.
+      - Text: "Sábado, 18, às 19h – Teatro Vitória.", enabled.
+      - Paragraph: "Mostra dos trabalhos da Escola Integração e Colégio
+        Portal.", enabled.
+      - Text: "Entrada: 1kg de alimento não perecível", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Colégio Portal/Integração, com apoio da Prefeitura de
+        Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 120min", enabled.
+
+  - Event Entry: 21/10/2025 - Terça-feira (Cerimônia de Encerramento Projeto
+    Empresários do Futuro)
+
+      - Text: "21/10/2025 - Terça-feira", enabled.
+      - Text: "Evento Fechado: "Cerimônia de Encerramento Projeto Empresários do
+        Futuro 2025"", enabled.
+      - Text: "Terça-feira, 21, às 19h – Teatro Vitória.", enabled.
+      - Paragraph: "Cerimônia do projeto que incentiva o empreendedorismo
+        jovem.", enabled.
+      - Text: "Entrada: Fechado", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: IDELI, com apoio da Prefeitura de Limeira, por meio
+        da Secretaria de Cultura", enabled.
+      - Text: "Duração: 180min", enabled.
+
+  - Event Entry: 21/10/2025 - Terça-feira (Lançamento do EP Fissuras)
+
+      - Text: "21/10/2025 - Terça-feira", enabled.
+      - Text: "Música: "Lançamento do EP Fissuras – Eu, a Véia e os Caras"",
+        enabled.
+      - Text: "Terça-feira, 21 de outubro – Plataformas digitais.", enabled.
+      - Paragraph: "EP com quatro faixas inéditas que abordam temas atuais como
+        depressão, ansiedade e esperança.", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Banda Eu, a Véia e os Caras, com apoio da Prefeitura
+        de Limeira, por meio da Secretaria de Cultura, e do Ministério da
+        Cultura, via Lei Aldir Blanc", enabled.
+
+  - Event Entry: 22/10/2025 - Quarta-feira (Clube do Livro)
+
+      - Text: "22/10/2025 - Quarta-feira", enabled.
+      - Text: "Biblioteca: Clube do Livro", enabled.
+      - Text: "Quarta-feira, 22, às 18h15 – Biblioteca Municipal de Limeira (Rua
+        José Botelho Veloso, s/n – Parque Cidade de Limeira).", enabled.
+      - Text: "Leitura do Encontro: "Antes que o Café Esfrie", de Toshikazu
+        Kawaguchi", enabled.
+      - Paragraph: "Sobre o livro: Em um café de Tóquio, os clientes podem
+        viajar no tempo, mas precisam voltar antes que o café esfrie. A obra
+        reflete sobre amor, perda e arrependimento em histórias que tocam o
+        coração.", enabled.
+      - Text: "Mediação: Daniele Pedroso", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: maiores de 16 anos", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura", enabled.
+      - Text: "Duração: 60min", enabled.
+
+  - Event Entry: 22/10/2025 - Quarta-feira (Lançamento do EP Coral Afro Kumbyah)
+
+      - Text: "22/10/2025 - Quarta-feira", enabled.
+      - Text: "Música: "Legado" – Lançamento do primeiro EP do Coral Afro
+        Kumbyah", enabled.
+      - Text: "Quarta-feira, 22, às 19h30 – Teatro Vitória.", enabled.
+      - Paragraph: "Lançamento do primeiro EP do coral, com músicas autorais e
+        em línguas africanas.", enabled.
+      - Text: "Entrada: 1kg de alimento não perecível", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Associação Afro Kumbyah, com apoio da Prefeitura de
+        Limeira, por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 60min", enabled.
+
+  - Event Entry: 22/10/2025 - Quarta-feira (Série Relicário)
+
+      - Text: "22/10/2025 - Quarta-feira", enabled.
+      - Text: "Música: "Série Relicário– Mozart e Salieri"", enabled.
+      - Text: "Quarta-feira, 22, às 20h30 – Igreja Boa Morte.", enabled.
+      - Paragraph: "Concerto gratuito da Sociedade Pró-Sinfônica de Limeira com
+        obras dos compositores clássicos.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Sociedade Pró-Sinfônica de Limeira (SPSL) e
+        Prefeitura Municipal de Limeira", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 22/10/2025 - Quarta-feira (Exposição: "Legado")
+
+      - Text: "22/10/2025 - Quarta-feira", enabled.
+      - Text: "Exposição: "Legado"", enabled.
+      - Text: "De 22 a 30/10 – Galeria do Teatro Vitória.", enabled.
+      - Paragraph: "Mostra fotográfica de Lizzahara Meireles sobre o Coral Afro
+        Kumbyah.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Kauê Braga, com apoio da Prefeitura de Limeira, por
+        meio da Secretaria de Cultura", enabled.
+
+  - Event Entry: 23/10/2025 - Quinta-feira (Teatro Infantil: "A Biblioteca
+    Mágica e os Sentimentos")
+
+      - Text: "23/10/2025 - Quinta-feira", enabled.
+      - Text: "Teatro Infantil: "A Biblioteca Mágica e os Sentimentos"",
+        enabled.
+      - Text: "Quinta-feira, 23, às 10h e 14h – EMEIF Waldemar Lucato.",
+        enabled.
+      - Paragraph: "Espetáculo infantil inédito para crianças de 3 a 6 anos, que
+        explora emoções por meio de leitura, poesia, cores e música. A história
+        acompanha uma boneca apaixonada por livros e música que ganha vida,
+        vivenciando aventuras com seu amigo e descobrindo sentimentos como
+        alegria, medo e coragem. Duração: 45 minutos, com intérprete de
+        Libras.", enabled.
+      - Text: "Entrada: Gratuita – sujeita à lotação", enabled.
+      - Text: "Classificação: 3 a 6 anos", enabled.
+      - Text: "Realização: Produção de Shirley Caires, Direção de Ro Mártins,
+        com apoio da Prefeitura de Limeira", enabled.
+
+  - Event Entry: 23/10/2025 - Quinta-feira (Musical "Semana Unimediana")
+
+      - Text: "23/10/2025 - Quinta-feira", enabled.
+      - Text: "Musical: "Semana Unimediana"", enabled.
+      - Text: "Quinta-feira, 23, às 20h30 – Teatro Vitória.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Unimed, com apoio da Prefeitura de Limeira, por meio
+        da Secretaria de Cultura", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 23/10/2025 - Quinta-feira (Viagem Literária)
+
+      - Text: "23/10/2025 - Quinta-feira", enabled.
+      - Text: "Viagem Literária: Bate-papo com o autor Bruno Ribeiro", enabled.
+      - Text: "Quinta-feira, 23, às 19h – Biblioteca Municipal de Limeira (Rua
+        José Botelho Veloso, s/n – Parque Cidade de Limeira).", enabled.
+      - Paragraph: "Sobre o evento: Em sua 17ª edição, o programa Viagem
+        Literária leva autores e contadores de histórias a bibliotecas de todo o
+        Estado, valorizando a literatura afro-brasileira e o encontro entre
+        escritores e leitores.", enabled.
+      - Paragraph: "Sobre o autor: Bruno Ribeiro é escritor, tradutor e
+        roteirista, autor de "Porco da Raça" e "Era Apenas um Presente para o
+        meu Irmão". Premiado e traduzido em diversos países, é reconhecido por
+        sua escrita criativa e sensível.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Governo do Estado de São Paulo, por meio da
+        Secretaria de Cultura, Economia e Indústria Criativa, através do Sistema
+        Estadual de Bibliotecas Públicas, com apoio da Prefeitura de Limeira,
+        por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 24/10/2025 - Sexta-feira (Sessões do Planetário)
+
+      - Text: "24/10/2025 - Sexta-feira", enabled.
+      - Text: "Ciência: "Sessões do Planetário"", enabled.
+      - Text: "Sexta-feira, 24, às 9h, 10h, 11h, 13h, 14h e 15h – Espaço C3.",
+        enabled.
+      - Paragraph: "A atividade educativa convida o público a explorar o
+        universo em sessões imersivas e interativas.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura", enabled.
+      - Text: "Duração: 45min cada sessão", enabled.
+
+  - Event Entry: 24/10/2025 - Sexta-feira (Hora do Conto com Recanto das
+    Histórias)
+
+      - Text: "24/10/2025 - Sexta-feira", enabled.
+      - Text: "Hora do Conto com Recanto das Histórias", enabled.
+      - Text: "Sexta-feira, 24, às 9h e às 14h30 – Biblioteca Municipal de
+        Limeira (Rua José Botelho Veloso, s/n – Parque Cidade de Limeira).",
+        enabled.
+      - Paragraph: "Sobre o evento: Uma viagem pelo mundo da imaginação, com
+        histórias contadas de forma lúdica e encantadora pelo grupo Recanto das
+        Histórias. Pela manhã, a contadora Mara Belo conduz a atividade. À
+        tarde, as contadoras Amanda Hergert e Priscila Celestino assumem o
+        comando, convidando as crianças a mergulharem em universos mágicos e
+        despertarem o amor pela leitura.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Secretaria de Educação, com apoio da Prefeitura de
+        Limeira, em parceria com a Secretaria de Educação", enabled.
+      - Text: "Duração: 45min cada sessão", enabled.
+
+  - Event Entry: 25/10/2025 - Sábado (Oficina: Macramê)
+
+      - Text: "25/10/2025 - Sábado", enabled.
+      - Text: "Oficina: Macramê", enabled.
+      - Text: "Sábado, 25, às 14h – Espaço MaBê Cultural.", enabled.
+      - Paragraph: "Atividade gratuita que ensina técnicas de tecelagem manual
+        para criação de peças como arandelas e suportes para plantas.", enabled.
+      - Text: "Preferencial para mulheres a partir de 14 anos.", enabled.
+      - Text: "Classificação: A partir de 14 anos", enabled.
+      - Text: "Realização: Prefeitura de Limeira", enabled.
+
+  - Event Entry: 25/10/2025 - Sábado (Dança: "Matilda – O Musical")
+
+      - Text: "25/10/2025 - Sábado", enabled.
+      - Text: "Dança: "Matilda – O Musical"", enabled.
+      - Text: "Sábado, 25, às 15h – Teatro Vitória.", enabled.
+      - Text: "Entrada: R 80,00 (inteira), R 40,00 (meia e bônus antecipado
+        até 24/10)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 25/10/2025 - Sábado (Dança: "Britney Spears – A Princesinha do
+    Pop")
+
+      - Text: "25/10/2025 - Sábado", enabled.
+      - Text: "Dança: "Britney Spears – A Princesinha do Pop"", enabled.
+      - Text: "Sábado, 25, às 20h – Teatro Vitória.", enabled.
+      - Text: "Entrada: R 80,00 (inteira), R 40,00 (meia e bônus antecipado
+        até 24/10)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 25/10/2025 - Sábado (Clube do Livro – Letícia e Nayara)
+
+      - Text: "25/10/2025 - Sábado", enabled.
+      - Text: "Leila Mulher (Clube do Livro – Letícia e Nayara)", enabled.
+      - Text: "Sábado, 25, às 16h – Biblioteca Municipal de Limeira (Rua José
+        Botelho Veloso, s/n – Parque Cidade de Limeira).", enabled.
+      - Paragraph: "Sobre o evento: Inspirado no projeto internacional
+        #ReadWomen2014, o clube Leia Mulheres promove encontros mensais para
+        discutir obras escritas por autoras. Em Limeira, o grupo existe
+        desde 2018 e já debateu mais de 40 livros. A mediação é feita por
+        Letícia Reis e Nayara M. Pires, mestra e doutora em Estudos Literários
+        pela UFSCar e professora da rede pública estadual.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Leila Mulheres, com apoio da Prefeitura de Limeira,
+        por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 180min", enabled.
+
+  - Event Entry: 26/10/2025 - Domingo (Dança: "Matilda – O Musical")
+
+      - Text: "26/10/2025 - Domingo", enabled.
+      - Text: "Dança: "Matilda – O Musical"", enabled.
+      - Text: "Domingo, 26, às 15h – Teatro Vitória.", enabled.
+      - Text: "Entrada: R 80,00 (inteira), R 40,00 (meia e bônus antecipado
+        até 24/10)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 26/10/2025 - Domingo (Dança: "Britney Spears – A Princesinha do
+    Pop")
+
+      - Text: "26/10/2025 - Domingo", enabled.
+      - Text: "Dança: "Britney Spears – A Princesinha do Pop"", enabled.
+      - Text: "Domingo, 26, às 19h – Teatro Vitória.", enabled.
+      - Text: "Entrada: R 80,00 (inteira), R 40,00 (meia e bônus antecipado
+        até 24/10)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 29/10/2025 - Quarta-feira (Teatro Infantil: "A Biblioteca
+    Mágica e os Sentimentos")
+
+      - Text: "29/10/2025 - Quarta-feira", enabled.
+      - Text: "Teatro Infantil: "A Biblioteca Mágica e os Sentimentos"",
+        enabled.
+      - Text: "Quarta-feira, 29, às 14h (para convidados) e às 19h30 (público
+        geral) – Bibliotecas Municipais.", enabled.
+      - Paragraph: "Espetáculo infantil inédito para crianças de 3 a 6 anos, que
+        explora emoções por meio de leitura, poesia, cores e música. A história
+        acompanha uma boneca apaixonada por livros e música que ganha vida,
+        vivenciando aventuras com seu amigo e descobrindo sentimentos como
+        alegria, medo e coragem. Duração: 45 minutos, com intérprete de
+        Libras.", enabled.
+      - Text: "Entrada: Gratuita – sujeita à lotação", enabled.
+      - Text: "Classificação: 3 a 6 anos", enabled.
+      - Text: "Realização: Shirley Caires e Ro Mártins, com apoio da Prefeitura
+        de Limeira", enabled.
+
+  - Event Entry: 29/10/2025 - Quarta-feira (Jogos de Tabuleiro)
+
+      - Text: "29/10/2025 - Quarta-feira", enabled.
+      - Text: "Dia de Jogar: Jogos de Tabuleiro com a Equipe da Biblioteca",
+        enabled.
+      - Text: "Quarta-feira, 29, às 17h – Biblioteca Municipal de Limeira (Rua
+        José Botelho Veloso, s/n – Parque Cidade de Limeira).", enabled.
+      - Paragraph: "Sobre o evento: Atividade voltada a quem gosta de desafios e
+        diversão em grupo. O público poderá jogar clássicos como Detetive,
+        Monopoly, Scrabble, Imagem & Ação, Banco Imobiliário, War, Jogo da Vida,
+        Perfil, Quest e Batalha Naval, entre outros.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: maiores de 9 anos", enabled.
+      - Text: "Realização: Prefeitura de Limeira, por meio da Secretaria de
+        Cultura", enabled.
+      - Text: "Duração: 120min", enabled.
+
+  - Event Entry: 29/10/2025 - Quarta-feira (Luz, Câmera, Emoção)
+
+      - Text: "29/10/2025 - Quarta-feira", enabled.
+      - Text: "Evento Fechado: "Luz, Câmera, Emoção"", enabled.
+      - Text: "Quarta-feira, 29, às 19h30 – Teatro Vitória.", enabled.
+      - Paragraph: "O Colégio Acadêmico apresenta "Luz, Câmera, Emoção",
+        espetáculo de música e dança que destaca o talento e a dedicação dos
+        alunos. Uma noite de arte e emoção para encantar o público.", enabled.
+      - Text: "Entrada: R 50,00 (inteira), R 25,00 (meia)", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Colégio Acadêmico", enabled.
+      - Text: "Duração: 90min", enabled.
+
+  - Event Entry: 30/10/2025 - Quinta-feira (Espaço Thulany in Concert)
+
+      - Text: "30/10/2025 - Quinta-feira", enabled.
+      - Text: "Evento Fechado: "Espaço Thulany in Concert"", enabled.
+      - Text: "Quinta-feira, 30, às 19h – Teatro Vitória.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Associação Afro Thulany, com apoio da Prefeitura de
+        Limeira", enabled.
+      - Text: "Duração: 180min", enabled.
+
+  - Event Entry: 30/10/2025 - Quinta-feira (Encerramento da Exposição: "Legado")
+
+      - Text: "30/10/2025 - Quinta-feira", enabled.
+      - Text: "Encerramento da Exposição: "Legado"", enabled.
+      - Text: "Quinta-feira, 30 – Galeria do Teatro Vitória.", enabled.
+
+  - Event Entry: 31/10/2025 - Sexta-feira
+
+      - Text: "31/10/2025 - Sexta-feira", enabled.
+      - Text: "Evento Fechado: "Show de Talentos"", enabled.
+      - Text: "Sexta-feira, 31, às 19h – Teatro Vitória.", enabled.
+      - Paragraph: "O musical "Nova Vida – Anos 90", realizado pelo Núcleo Nova
+        Vida, apresenta teatro, música e dança. As crianças mostram as
+        atividades do ano em uma viagem divertida pelos anos 90.", enabled.
+      - Text: "Entrada: Gratuita", enabled.
+      - Text: "Classificação: Livre", enabled.
+      - Text: "Realização: Núcleo Nova Vida, com apoio da Prefeitura de Limeira,
+        por meio da Secretaria de Cultura", enabled.
+      - Text: "Duração: 75min", enabled.
+
+Right Sidebar (Quick Access/Services)
+
+  - Button: "REGULAMENTOS" with a document icon, enabled, top of sidebar.
+  - Button: "TEATRO" with a document icon, enabled.
+  - Button: "BIBLIOTECAS" with a book icon, enabled.
+  - Button: "CARTA DE SERVIÇOS" with a document icon, enabled.
+  - Button: "CONSELHO MUNICIPAL DE CULTURA" with a document icon, enabled.
+  - Button: "EDITAIS" with a document icon, enabled.
+  - Button: "CENTRO DE CIÊNCIAS E CULTURA" with a building icon, enabled.
+  - Button: "LEI ALDIR BLANC" with a document icon, enabled.
+  - Button: "OFICINAS CULTURAIS 2022" with a palette icon, enabled.
+  - Button: "FUNDO MUNICIPAL DE CULTURA" with a document icon, enabled.
+  - Button: "MUSEU" with a building icon, enabled.
+  - Button: "CADASTRO MUNICIPAL DE ARTISTAS E ESPAÇOS CULTURAIS" with a document
+    icon, enabled.
+  - Button: "LEI PAULO GUSTAVO" with a document icon, enabled.
+  - Button: "CONSULTA PÚBLICA DE ARTISTAS LIMEIRENSES" with a document icon,
+    enabled.
+  - Button: "AGENDA CULTURAL" with a document icon, enabled.
+  - Icon: Hand icon (Libras/sign language), enabled, floating over the right
+    sidebar.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below
+    "Endereço:".
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

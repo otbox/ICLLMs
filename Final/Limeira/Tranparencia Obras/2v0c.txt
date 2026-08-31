@@ -1,0 +1,84 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Left Application Bar
+
+  - Image: "PREFEITURA MUNICIPAL DE LIMEIRA" logo, enabled, top left.
+  - Button: Hamburger menu icon (three horizontal lines), enabled, next to the
+    logo.
+
+Top Tab Bar
+
+  - Tab: "LAI - Acesso Rápido(...)", selected, enabled.
+      - Icon: Close "X" icon, enabled, within the tab.
+  - Tab: "LAI - Obras (Novo).", selected, enabled.
+      - Icon: Close "X" icon, enabled, within the tab.
+  - Text: "LAI - Obras (Novo).", enabled, below the tab bar, acting as a
+    sub-title.
+
+Top Right Global Controls
+
+  - Text: "Dados Abertos", enabled, top right.
+  - Button: "A+" (increase font size), enabled, next to "Dados Abertos".
+  - Button: "A-" (decrease font size), enabled, next to "A+".
+  - Button: Hamburger menu icon (three horizontal lines), enabled, next to "A-".
+  - Image: Brazilian flag, enabled, next to hamburger menu.
+  - Image: "etransparência pública" logo, enabled, next to Brazilian flag.
+  - Image: "conam" logo, enabled, next to "etransparência pública" logo.
+
+Filter/Search Section
+
+  - Label: "Obra", enabled, above a text field.
+  - Text field: (empty, for input), enabled, below "Obra".
+  - Label: "Ano Processo", enabled, above a dropdown.
+  - Dropdown: "(Todos)" with a down arrow, enabled, below "Ano Processo".
+  - Label: "Situação", enabled, above a dropdown.
+  - Dropdown: "(Todos)" with a down arrow, enabled, below "Situação".
+  - Label: "Última Atualização", enabled, above a text field.
+  - Text field: "27/10/2025 23:00:39", enabled, below "Última Atualização".
+  - Button: "Filtrar" with a funnel icon, enabled, right of the text field.
+
+Situation Overview Section
+
+  - Section Title: "Situação", enabled, left side, below filter area.
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Situação" title.
+  - Pie Chart: Displays data split into four segments.
+      - Segment: Light green, Label: "(Não informada)", enabled.
+      - Segment: Orange, Label: "EM EXECUCAO", enabled.
+      - Segment: Red, Label: "Sem medicao", enabled.
+      - Segment: Darker green, Label: "ENCERRADO - CUMPRIMENTO INTEGRAL",
+        enabled.
+
+Works Table Section
+
+  - Section Title: "Obras", enabled, bottom left, below the pie chart.
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Obras" title.
+  - Table Header: "Nro Processo", enabled.
+  - Table Header: "Ano", enabled, next to "Nro Processo".
+  - Table Header: "Situação", enabled, next to "Ano".
+  - Table Header: "Obra", enabled, next to "Situação".
+  - Table Row: "C00001", "2018", "ENCERRADO - CUMPRIMENTO INTEGRAL", "Sem
+    descricao", enabled.
+  - Table Row: "C00001", "2019", "EM EXECUCAO", "Sem descricao", enabled.
+  - Table Row: "C00001", "2020", "ENCERRADO - CUMPRIMENTO INTEGRAL", "Sem
+    descricao", enabled.
+  - Table Row: "C00001", "2021", "ENCERRADO - CUMPRIMENTO INTEGRAL", "Sem
+    descricao", enabled.
+  - Table Row: "C00001", "2022", "(Não informada)", "Sem descricao", enabled.
+  - Table Row: "C00002", "2018", "ENCERRADO - CUMPRIMENTO INTEGRAL", "Sem
+    descricao", enabled.
+  - Table Row: "C00002", "2019", "ENCERRADO - CUMPRIMENTO INTEGRAL", "Sem
+    descricao", enabled.
+
+Detail Panel Section
+
+  - Panel Title: "Detalhe", enabled, right of "Obras" table.
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Detalhe" title.
+  - Text: "Selecione um processo Licitatório", enabled, inside the detail panel.
+
+Floating Element
+
+  - Icon: Hand symbol (Libras/sign language), enabled, floating on the right
+    side of the screen.

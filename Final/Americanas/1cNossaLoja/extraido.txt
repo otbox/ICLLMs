@@ -1,0 +1,3420 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Top Header Bar
+
+  - Text: especial beleza
+  - Text: • seu cuidado começa aqui
+  - Text: • tudo em até 12x no cartão*
+  - Text: • queeero
+  - Icon: Right arrow (next to 'queeero')
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "Busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Icon: User profile
+  - Text: olá, faça seu lo... ou cadastre-se
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 0 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Button: baixe o app
+  - Button: faça seu cartão
+  - Button: mais vendidos
+  - Button: nossas lojas (state: selected, indicated by red underline)
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: outlet
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Link: brinquedos
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+  - Link: especial beleza
+
+Promotional Banner
+
+  - Image: Disney/Marvel characters (Iron Man, Captain Marvel, Black Panther,
+    etc.)
+  - Text overlay on image: comprou, ganhou
+  - Text overlay on image: um jogo da Disney ou Marvel na compra de qualquer
+    brinquedo a partir de R$79,99
+  - Button: saiba mais
+      - Icon: Information circle (next to 'confira as regras.')
+      - Text: confira as regras.
+
+Breadcrumbs
+
+  - Link: página inicial
+  - Icon: Right arrow (chevron)
+  - Link: nossas lojas
+
+Content Area - Store Listings
+
+Heading
+
+  - Heading 2: nossas lojas por estado
+  - Heading 3: São Paulo
+
+State Filter Tabs
+
+  - Tab: AC
+  - Tab: AL
+  - Tab: AM
+  - Tab: AP
+  - Tab: BA
+  - Tab: CE
+  - Tab: DF
+  - Tab: ES
+  - Tab: GO
+  - Tab: MA
+  - Tab: MG
+  - Tab: MS
+  - Tab: MT
+  - Tab: PA
+  - Tab: PB
+  - Tab: PE
+  - Tab: PI
+  - Tab: PR
+  - Tab: RJ
+  - Tab: RN
+  - Tab: RO
+  - Tab: RR
+  - Tab: RS
+  - Tab: SC
+  - Tab: SE
+  - Tab: SP (state: selected)
+  - Tab: TO
+
+Store Cards (Grid Layout - Approximately 3 columns)
+
+  - Row 1
+      - Store Card 1: Carapicuiba Express
+          - Icon: Americanas logo (red square with white 'a')
+          - Text: Carapicuiba Express
+          - Text: Avenida Rui Barbosa, 171, Carapicuiba - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada (state: red, indicating closed)
+      - Store Card 2: PAULINIA
+          - Icon: Americanas logo
+          - Text: PAULINIA
+          - Text: AVENIDA JOSE PAULINO 774 QD C LTL... PAULINIA - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 3: SUMARE 2
+          - Icon: Americanas logo
+          - Text: SUMARE 2
+          - Text: RUA SUMARE 1334, SAO PAULO - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 2
+      - Store Card 4: SAO JOSE
+          - Icon: Americanas logo
+          - Text: SAO JOSE
+          - Text: RUA LUIZ CARLOS BERING 20, SAO JOSE DOS CAMPOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 5: JUNDIAI
+          - Icon: Americanas logo
+          - Text: JUNDIAI
+          - Text: AV NOVE DE JULHO, 3209, JUNDIAI - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 6: SHC CONTINENTAL
+          - Icon: Americanas logo
+          - Text: SHC CONTINENTAL
+          - Text: AVENIDA PROF DR FRANCISCO MESQUITA DA SILVA 701 LOJA P-36, SAO
+            PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 3
+      - Store Card 7: CANTAREIRA
+          - Icon: Americanas logo
+          - Text: CANTAREIRA
+          - Text: AV NOVA CANTAREIRA 2265, SAO PAULO - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 8: CAETANO ALVARES
+          - Icon: Americanas logo
+          - Text: CAETANO ALVARES
+          - Text: RUA DR PROF JULIERO GIULLERI 104, SAO PAULO - SP
+          - Text: 08h00 às 23h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 9: VILA MASCOTE
+          - Icon: Americanas logo
+          - Text: VILA MASCOTE
+          - Text: AV VEREADOR JOAO DE LUCA 483, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 4
+      - Store Card 10: REAL PARQUE
+          - Icon: Americanas logo
+          - Text: REAL PARQUE
+          - Text: AV MORUMBI 6983 6943, SAO PAULO - SP
+          - Text: 08h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 11: CANAL 3
+          - Icon: Americanas logo
+          - Text: CANAL 3
+          - Text: AV WASHINGTON LUIS 484, SANTOS - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 12: ABILIO SOARES
+          - Icon: Americanas logo
+          - Text: ABILIO SOARES
+          - Text: RUA ABILIO SOARES 878, SAO PAULO - SP
+          - Text: 08h00 às 17h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 5
+      - Store Card 13: CONSOLACAO
+          - Icon: Americanas logo
+          - Text: CONSOLACAO
+          - Text: RUA SERGIPE 100, SAO PAULO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 14: VILA MADALENA
+          - Icon: Americanas logo
+          - Text: VILA MADALENA
+          - Text: RUA HARMOMIA 375, SAO PAULO - SP
+          - Text: 09h00 às 23h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 15: PONTA DA PRAIA
+          - Icon: Americanas logo
+          - Text: PONTA DA PRAIA
+          - Text: RUA BARTOLOMEU DE GUSMAO 131, SANTOS - SP
+          - Text: 08h00 às 17h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 6
+      - Store Card 16: CAMPO BELO
+          - Icon: Americanas logo
+          - Text: CAMPO BELO
+          - Text: RUA QUINTINO BOCAIUVA DMZ 3575 LJ 01, SAO PAULO - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 17: LAPA
+          - Icon: Americanas logo
+          - Text: LAPA
+          - Text: RUA PIO XI 801, SAO PAULO - SP
+          - Text: 09h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 18: ALPHAVILLE 6
+          - Icon: Americanas logo
+          - Text: ALPHAVILLE 6
+          - Text: AV DOUTOR YOSIRO TAKAKANA 474 CENTRO IL, SANTANA DE PARNAIBA -
+            SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 7
+      - Store Card 19: INDIANOPOLIS
+          - Icon: Americanas logo
+          - Text: INDIANOPOLIS
+          - Text: AVENIDA INDIANOPOLIS 440, SAO PAULO - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 20: NOVE DE JULHO
+          - Icon: Americanas logo
+          - Text: NOVE DE JULHO
+          - Text: AV NOVE DE JULHO 550, SAO JOSE DOS CAMPOS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 21: COLINAS
+          - Icon: Americanas logo
+          - Text: COLINAS
+          - Text: AV SAO JOAO 2136, SAO JOSE DOS CAMPOS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 8
+      - Store Card 22: ITAPURU
+          - Icon: Americanas logo
+          - Text: ITAPURU
+          - Text: RUA ITAPURU 721 742, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 23: NORTE SUL
+          - Icon: Americanas logo
+          - Text: NORTE SUL
+          - Text: RUA JOSE DE SOUZA CAMPOS 1066, CAMPINAS - SP
+          - Text: 08h00 às 23h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 24: VILA OLIMPIA
+          - Icon: Americanas logo
+          - Text: VILA OLIMPIA
+          - Text: RUA GABRIEL MONTEIRO 1299, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 9
+      - Store Card 25: LOCAL ITAU
+          - Icon: Americanas logo
+          - Text: LOCAL ITAU
+          - Text: RUA UBIRAJARA MATOSO 891 LOJA 03, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 26: MONTE APRAZIVEL
+          - Icon: Americanas logo
+          - Text: MONTE APRAZIVEL
+          - Text: PRACA CONEGO LAURENTINO ALVARES 128, MONTE APRAZIVEL - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 27: PIRACICABA DIGITAL
+          - Icon: Americanas logo
+          - Text: PIRACICABA DIGITAL
+          - Text: RUA GOVERNADOR PEDRO DE TOLEDO 865, , PIRACICABA - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 10
+      - Store Card 28: JOSE BONIFACIO
+          - Icon: Americanas logo
+          - Text: JOSE BONIFACIO
+          - Text: AVENIDA NOVO DE JULHO 1056, JOSE BONIFACIO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 29: BROTAS
+          - Icon: Americanas logo
+          - Text: BROTAS
+          - Text: RUA MARIA PINOTTI 119, BROTAS - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 30: LOCAL VERGUEIRO
+          - Icon: Americanas logo
+          - Text: LOCAL VERGUEIRO
+          - Text: RUA VERGUEIRO 1277, SAO PAULO - SP
+          - Text: 07h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 11
+      - Store Card 31: AMPARO
+          - Icon: Americanas logo
+          - Text: AMPARO
+          - Text: RUA DO IMPERADOR GUIMARAES 97 LOTE A, AMPARO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 32: CANDIDO MOTA
+          - Icon: Americanas logo
+          - Text: CANDIDO MOTA
+          - Text: RUA ANTONIO CARNEIRO 167, CANDIDO MOTA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 33: VALPARAISO
+          - Icon: Americanas logo
+          - Text: VALPARAISO
+          - Text: AVENIDA DOM PEDRO DE CARVALHO 132, VALPARAISO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 12
+      - Store Card 34: DOIS CORREGOS
+          - Icon: Americanas logo
+          - Text: DOIS CORREGOS
+          - Text: RUA 15 DE NOVEMBRO 489 0024 LTH4, DOIS CORREGOS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 35: BASTOS
+          - Icon: Americanas logo
+          - Text: BASTOS
+          - Text: RUA PRESIDENTE VARGAS 281 LETRA A, BASTOS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 36: IGARAPAVA
+          - Icon: Americanas logo
+          - Text: IGARAPAVA
+          - Text: RUA DR GABRIEL VILLA 391, IGARAPAVA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 13
+      - Store Card 37: PIRAPOZINHO
+          - Icon: Americanas logo
+          - Text: PIRAPOZINHO
+          - Text: RUA RUI BARBOSA 935, PIRAPOZINHO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 38: TANABI
+          - Icon: Americanas logo
+          - Text: TANABI
+          - Text: RUA CORONEL MILTAO 768, TANABI - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 39: CATANDUVA
+          - Icon: Americanas logo
+          - Text: CATANDUVA
+          - Text: RUA BRASIL 646, CATANDUVA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 14
+      - Store Card 40: SANTA CECILIA
+          - Icon: Americanas logo
+          - Text: SANTA CECILIA
+          - Text: RUA DAS PALMEIRAS 122, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 41: BEST CENTER INDAIATUBA
+          - Icon: Americanas logo
+          - Text: BEST CENTER INDAIATUBA
+          - Text: AVENIDA ENGENHEIRO FABIO ROBERTO BARNABÉ S/N, INDAIATUBA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 42: LOCAL MALL TIETE
+          - Icon: Americanas logo
+          - Text: LOCAL MALL TIETE
+          - Text: RUA VOLUNTARIOS DA PATRIA 560 LJ13 E 14, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 15
+      - Store Card 43: LOCAL SANTO AMARO
+          - Icon: Americanas logo
+          - Text: LOCAL SANTO AMARO
+          - Text: AVENIDA SANTO AMARO 1645 LOJAS 5 E 6, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 44: LOUVEIRA DIGITAL
+          - Icon: Americanas logo
+          - Text: LOUVEIRA DIGITAL
+          - Text: RUA AMANDO STECK 371 LOJA A 1, LOUVEIRA - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 45: LOCAL EMBARE
+          - Icon: Americanas logo
+          - Text: LOCAL EMBARE
+          - Text: AVENIDA DOUTOR EPITACIO PESSOA 234, SANTOS - SP
+          - Text: 08h00 às 23h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 16
+      - Store Card 46: EMBARE DIGITAL
+          - Icon: Americanas logo
+          - Text: EMBARE DIGITAL
+          - Text: AVENIDA DOUTOR EPITACIO PESSOA 234, SANTOS - SP
+          - Text: 08h00 às 23h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 47: PEDREIRA
+          - Icon: Americanas logo
+          - Text: PEDREIRA
+          - Text: RUA 9 DE NOVEMBRO 696, PEDREIRA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 48: SHC NOVO SHOPP
+          - Icon: Americanas logo
+          - Text: SHC NOVO SHOPP
+          - Text: AVENIDA PRESIDENTE KENNEDY 1500 1500 LJ 356, RIBEIRAO PRETO -
+            SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 17
+      - Store Card 49: LOCAL VERGUEIRO
+          - Icon: Americanas logo
+          - Text: LOCAL VERGUEIRO
+          - Text: RUA VERGUEIRO 1277, SAO PAULO - SP
+          - Text: 07h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 50: BRIGADEIRO LUIS ANTONIO
+          - Icon: Americanas logo
+          - Text: BRIGADEIRO LUIS ANTONIO
+          - Text: AVENIDA BRIG LUIS ANTONIO 3269, SAO PAULO - SP
+          - Text: 08h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 51: BATATAS
+          - Icon: Americanas logo
+          - Text: BATATAS
+          - Text: RUA CORONEL JOAQUIM ROXA 13, BATATAIS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 18
+      - Store Card 52: CERQUILHO DIGITAL
+          - Icon: Americanas logo
+          - Text: CERQUILHO DIGITAL
+          - Text: PRACA PRESIDENTE KENNEDY 51, CERQUILHO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 53: IBT
+          - Icon: Americanas logo
+          - Text: IBT
+          - Text: AVENIDA SAO JOAO 1094 PARTE B N, IBATE - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 54: PENHA
+          - Icon: Americanas logo
+          - Text: PENHA
+          - Text: RUA DOUTOR JOAO RIBEIRO 546, SAO PAULO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 19
+      - Store Card 55: PEREIRA BARRETO
+          - Icon: Americanas logo
+          - Text: PEREIRA BARRETO
+          - Text: AVENIDA BRASIL 1144, PEREIRA BARRETO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 56: ARACATUBA
+          - Icon: Americanas logo
+          - Text: ARACATUBA
+          - Text: RUA JOAQUIM DE CAMARGO 185 135 E 137, ARACATUBA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 57: JAU
+          - Icon: Americanas logo
+          - Text: JAU
+          - Text: RUA MAJOR PRADO 462, , JAU - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 20
+      - Store Card 58: GUARAREMA DIGITAL
+          - Icon: Americanas logo
+          - Text: GUARAREMA DIGITAL
+          - Text: RUA JOSE PEREIRA DE FARIA DAS NOCERA GARCIA 29, GUARAREMA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 59: MOGI DAS CRUZES
+          - Icon: Americanas logo
+          - Text: MOGI DAS CRUZES
+          - Text: RUA CORONEL SOUZA FRANCO VILA 39 43, MOGI DAS CRUZES - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 60: BENEDITO PIRES
+          - Icon: Americanas logo
+          - Text: BENEDITO PIRES
+          - Text: RUA CORONEL BENEDITO PIRES 45, SOROCABA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 21
+      - Store Card 61: INDAIATUBA
+          - Icon: Americanas logo
+          - Text: INDAIATUBA
+          - Text: RUA ORESTE MAZONI 3 E 31, INDAIATUBA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 62: BARIRI DIGITAL
+          - Icon: Americanas logo
+          - Text: BARIRI DIGITAL
+          - Text: AVENIDA 15 DE NOVEMBRO 722, BARIRI - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 63: REGENTE FEIJO
+          - Icon: Americanas logo
+          - Text: REGENTE FEIJO
+          - Text: RUA JOSE BONIFACIO 275, REGENTE FEIJO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 22
+      - Store Card 64: SAO PEDRO DIGITAL
+          - Icon: Americanas logo
+          - Text: SAO PEDRO DIGITAL
+          - Text: RUA VERISSIMO PRADO 422, SAO PEDRO - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 65: DESCALVADO
+          - Icon: Americanas logo
+          - Text: DESCALVADO
+          - Text: RUA CEL ARTHUR WHITACKER 160, DESCALVADO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 66: SHC PRACA NOVA ARACATUBA
+          - Icon: Americanas logo
+          - Text: SHC PRACA NOVA ARACATUBA
+          - Text: RUA CARLOS PEREIRA DA SILVA 6000 LJ 240, ARACATUBA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 23
+      - Store Card 67: MATEO BEI
+          - Icon: Americanas logo
+          - Text: MATEO BEI
+          - Text: AVENIDA MATEO BEI 1998 LT 04, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 68: POLI SHOPPING
+          - Icon: Americanas logo
+          - Text: POLI SHOPPING
+          - Text: AVENIDA HIGIENOPOLIS 178 LOC 206 I F, GUARULHOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 69: SOROCABA
+          - Icon: Americanas logo
+          - Text: SOROCABA
+          - Text: RUA QUINZE DE NOVEMBRO 75, SOROCABA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 24
+      - Store Card 70: AUGUSTA
+          - Icon: Americanas logo
+          - Text: AUGUSTA
+          - Text: RUA AUGUSTA 2499 2501, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 71: SHC UNIMART
+          - Icon: Americanas logo
+          - Text: SHC UNIMART
+          - Text: AVENIDA JOHN BOYD DUNLOP 350 SALA091/97, CAMPINAS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 72: TEODORO SAMPAIO
+          - Icon: Americanas logo
+          - Text: TEODORO SAMPAIO
+          - Text: RUA TEODORO SAMPAIO 2799 2809 T, SAO PAULO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 25
+      - Store Card 73: FRANCISCO GLICERIO
+          - Icon: Americanas logo
+          - Text: FRANCISCO GLICERIO
+          - Text: RUA FRANCISCO GLICERIO 1310, CAMPINAS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 74: VILA SOCORRO DIGITAL
+          - Icon: Americanas logo
+          - Text: VILA SOCORRO DIGITAL
+          - Text: AVENIDA DE PINHEIRO 103, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 75: IBUNA DIGITAL
+          - Icon: Americanas logo
+          - Text: IBUNA DIGITAL
+          - Text: RUA PREFEITO ANGELINO FALCI SN LOTE 3, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 26
+      - Store Card 76: CIDADE SOROCABA
+          - Icon: Americanas logo
+          - Text: CIDADE SOROCABA
+          - Text: AVENIDA ITAVUVU 3373 LOJA 3048, SOROCABA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 77: LOCAL ITAIM
+          - Icon: Americanas logo
+          - Text: LOCAL ITAIM
+          - Text: RUA PEDROSO ALVARENGA 461, SAO PAULO - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 78: LOCAL SANTOS
+          - Icon: Americanas logo
+          - Text: LOCAL SANTOS
+          - Text: AVENIDA ANA COSTA 542, SANTOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 27
+      - Store Card 79: LOCAL DOMINGOS DE MORAIS
+          - Icon: Americanas logo
+          - Text: LOCAL DOMINGOS DE MORAIS
+          - Text: RUA DOMINGOS DE MORAIS 2892, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 80: LOCAL LAPA
+          - Icon: Americanas logo
+          - Text: LOCAL LAPA
+          - Text: RUA 12 DE OUTUBRO 92, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 81: LOCAL BROOKLIN
+          - Icon: Americanas logo
+          - Text: LOCAL BROOKLIN
+          - Text: RUA DOUTOR ANTONIO JOSE DOS SANTOS 851, SAO PAULO - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 28
+      - Store Card 82: LOCAL SILVA BUENO
+          - Icon: Americanas logo
+          - Text: LOCAL SILVA BUENO
+          - Text: RUA SILVA BUENO 2272 2322, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 83: ALDEIA DA SERRA
+          - Icon: Americanas logo
+          - Text: ALDEIA DA SERRA
+          - Text: AVENIDA AMERICAS 142, BARUERI - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 84: SHC DO CORACAO
+          - Icon: Americanas logo
+          - Text: SHC DO CORACAO
+          - Text: AVENIDA MARECHAL DEODORO 976 LJ 53/74, , SAO BERNARDO DO CAMPO
+            - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 29
+      - Store Card 85: CENTRVALLE
+          - Icon: Americanas logo
+          - Text: CENTRVALLE
+          - Text: AVENIDA DEPUTADO BENEDITO MATARAZZO 9403 LOJAS 08 E 09, SAO
+            JOSE DOS CAMPOS - SP
+          - Text: 09h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 86: LOCAL MAIS SHOPP
+          - Icon: Americanas logo
+          - Text: LOCAL MAIS SHOPP
+          - Text: RUA AMADOR BUENO 229 LOJA 101 1, SAO PAULO - SP
+          - Text: 07h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 87: AMERICANA
+          - Icon: Americanas logo
+          - Text: AMERICANA
+          - Text: RUA DOUTOR VIEIRA BUENO 60, AMERICANA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 30
+      - Store Card 88: CONSELHEIRO NEBIAS
+          - Icon: Americanas logo
+          - Text: CONSELHEIRO NEBIAS
+          - Text: AVENIDA CONSELHEIRO NEBIAS 865 LOJA B, SANTOS - SP
+          - Text: 07h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 89: SAO JOAO CLIMACO
+          - Icon: Americanas logo
+          - Text: SAO JOAO CLIMACO
+          - Text: RUA DOUTOR JOAO CLIMACO 685 687, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 90: OSASCO
+          - Icon: Americanas logo
+          - Text: OSASCO
+          - Text: RUA TEN AV ANESVAR P AZEVEDO 148, OSASCO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 31
+      - Store Card 91: RUDGE RAMOS
+          - Icon: Americanas logo
+          - Text: RUDGE RAMOS
+          - Text: RUA SAO JOAO 40, SAO BERNARDO DO CAMPO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 92: SHC LIMOEIRA
+          - Icon: Americanas logo
+          - Text: SHC LIMOEIRA
+          - Text: RUA ANES DA CORTINA (SP 147) 4500 EXC A04, LIMEIRA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 93: BOTUCATU
+          - Icon: Americanas logo
+          - Text: BOTUCATU
+          - Text: RUA BARROS 884, BOTUCATU - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 32
+      - Store Card 94: SHC LIMEIRA
+          - Icon: Americanas logo
+          - Text: SHC LIMEIRA
+          - Text: AVENIDA CARLOS KUNTZ BUSCH 800 EXC N (o) LJ, LIMEIRA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 95: CAMPINAS
+          - Icon: Americanas logo
+          - Text: CAMPINAS
+          - Text: RUA 13 DE MAIO 573, CAMPINAS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 96: SANTA BARBARA OESTE
+          - Icon: Americanas logo
+          - Text: SANTA BARBARA OESTE
+          - Text: RUA GENERAL OSORIO 541, SANTA BARBARA D OESTE - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 33
+      - Store Card 97: PINHEIROS 2
+          - Icon: Americanas logo
+          - Text: PINHEIROS 2
+          - Text: RUA HENRIQUE SCHAUMANN 203 PARTE, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 98: MOOCA 2
+          - Icon: Americanas logo
+          - Text: MOOCA 2
+          - Text: AV PAES DE BARROS 2883, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 99: INTERLAGOS
+          - Icon: Americanas logo
+          - Text: INTERLAGOS
+          - Text: AV INTERLAGOS 2225, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 34
+      - Store Card 100: ITAIM
+          - Icon: Americanas logo
+          - Text: ITAIM
+          - Text: AV PEDROSO ALVARENGA 461 PARTE, SAO PAULO - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 101: BARUERI
+          - Icon: Americanas logo
+          - Text: BARUERI
+          - Text: AVENIDA ITABAIARI 1393, BARUERI - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 102: VILA MARIA
+          - Icon: Americanas logo
+          - Text: VILA MARIA
+          - Text: AVENIDA ALBERTO BYINGTON 1933, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 35
+      - Store Card 103: VOLUNTARIO FRANCO
+          - Icon: Americanas logo
+          - Text: VOLUNTARIO FRANCO
+          - Text: RUA MAJOR OLIMPIO DE MIRANDA 84, MOGI DAS CRUZES - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 104: BEST CENTER PINDA
+          - Icon: Americanas logo
+          - Text: BEST CENTER PINDA
+          - Text: AVENIDA DOS GOVERNADORES 1777 LJ D4, PINDAMONHANGABA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 105: TURITI
+          - Icon: Americanas logo
+          - Text: TURITI
+          - Text: RUA TIRITI 2117 TERREO, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 36
+      - Store Card 106: ESPERANCA
+          - Icon: Americanas logo
+          - Text: ESPERANCA
+          - Text: AV ESPERANCA 142, GUARULHOS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 107: SHC FARO
+          - Icon: Americanas logo
+          - Text: SHC FARO
+          - Text: RUA PADRE JEREMIAS 268 LJ 13 TERR, SAO BERNARDO DO CAMPO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 108: PINHEIROS
+          - Icon: Americanas logo
+          - Text: PINHEIROS
+          - Text: RUA DOS PINHEIROS 1376, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 37
+      - Store Card 109: PIRASSUNUNGA
+          - Icon: Americanas logo
+          - Text: PIRASSUNUNGA
+          - Text: RUA DUQUE DE CAXIAS 1355, PIRASSUNUNGA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 110: LOCAL V HOUSE
+          - Icon: Americanas logo
+          - Text: LOCAL V HOUSE
+          - Text: AVENIDA EUSEBIO MATOSO 216, SAO PAULO - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 111: PANAMBY
+          - Icon: Americanas logo
+          - Text: PANAMBY
+          - Text: RUA JOSE RAMON UPIZA 71, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 38
+      - Store Card 112: PORTAL DO MORUMBI
+          - Icon: Americanas logo
+          - Text: PORTAL DO MORUMBI
+          - Text: RUA PEDRO AMERICO DE FIGUEIREDO TEIXEIRA 1080, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 113: VILA MARIANA
+          - Icon: Americanas logo
+          - Text: VILA MARIANA
+          - Text: RUA CORONEL LISBOA 680 LOJA L2, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 114: BEST CENTER ARARAQUARA
+          - Icon: Americanas logo
+          - Text: BEST CENTER ARARAQUARA
+          - Text: AVENIDA BENTO DE ABREU 1000 E R. VOLUNTURIATO 473 LJ 12 E,
+            ARARAQUARA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 39
+      - Store Card 115: R JOSÉ DO RIO PARDO DIGITAL
+          - Icon: Americanas logo
+          - Text: R JOSÉ DO RIO PARDO DIGITAL
+          - Text: RUA FRANCISCO DINIZ DA LUZ 709 725 LOJA 2, SAO JOSE DO RIO
+            PARDO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 116: SANTO ANTONIO DA POSSE DIGITAL
+          - Icon: Americanas logo
+          - Text: SANTO ANTONIO DA POSSE DIGITAL
+          - Text: RUA DOUTOR JORGE TEIXEIRA 693, SANTO ANTONIO DA POSSE - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 117: BURITIS GUARA
+          - Icon: Americanas logo
+          - Text: BURITIS GUARA
+          - Text: AVENIDA JUERCIO KURTCHCHECK DE OLIVEIRA 501 LOJA 12E,
+            GUARATINGUETA - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 40
+      - Store Card 118: SHC PLAZA SUL
+          - Icon: Americanas logo
+          - Text: SHC PLAZA SUL
+          - Text: PRACA LEONOR KAUFIN S/N O 2P1, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 119: SHC FRANCA
+          - Icon: Americanas logo
+          - Text: SHC FRANCA
+          - Text: RUA RIO NEGRO 1100 LOJA C 1, FRANCA - SP
+          - Text: 09h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 120: SHC ARACATURA
+          - Icon: Americanas logo
+          - Text: SHC ARACATURA
+          - Text: AVENIDA JOAQUIM POMPEU DE TOLEDO 601 LJ 03, ARACATUBA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 41
+      - Store Card 121: SHC JARAGUA
+          - Icon: Americanas logo
+          - Text: SHC JARAGUA
+          - Text: RUA DOUTOR BENARDO 2270 SUC 501, ARARAQUARA - SP
+          - Text: 09h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 122: 24 DE MAIO
+          - Icon: Americanas logo
+          - Text: 24 DE MAIO
+          - Text: RUA 24 DE MAIO 224, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 123: JALES
+          - Icon: Americanas logo
+          - Text: JALES
+          - Text: RUA 9 2358 QUADRA0152, JALES - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 42
+      - Store Card 124: CD CAJAMAR 2
+          - Icon: Americanas logo
+          - Text: CD CAJAMAR 2
+          - Text: VIA ANHANGUERA KM 37 1, CAJAMAR - SP
+          - Text: 07h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 125: LEME SP
+          - Icon: Americanas logo
+          - Text: LEME SP
+          - Text: RUA JOSE DE AMORIM 134, LEME - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 126: SAO VICENTE
+          - Icon: Americanas logo
+          - Text: SAO VICENTE
+          - Text: AVENIDA ENGENHEIRO JOAQUIM ROBERTO EMERICK 433 E 435, SAO
+            VICENTE - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 43
+      - Store Card 127: PRAIA GRANDE
+          - Icon: Americanas logo
+          - Text: PRAIA GRANDE
+          - Text: AVENIDA PRESIDENTE COSTA E SILVA 527 QD T, PRAIA GRANDE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 128: SHC CENESI
+          - Icon: Americanas logo
+          - Text: SHC CENESI
+          - Text: AVENIDA MARIA COELHO AGUIAR 215 LOJA 96 A, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 129: SHC LESTE DIGITAL
+          - Icon: Americanas logo
+          - Text: SHC LESTE DIGITAL
+          - Text: AVENIDA ARICANAUVA 5555 QUADRA015, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 44
+      - Store Card 130: LOCAL ITATIBA
+          - Icon: Americanas logo
+          - Text: LOCAL ITATIBA
+          - Text: AV ENGENHEIRO ROBERTO ZUCOLOLO 555 SUC 211, ITATIBA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 131: LOCAL BIT SP 1
+          - Icon: Americanas logo
+          - Text: LOCAL BIT SP 1
+          - Text: RUA FRANCISCO RAMOS 302 BL B LJ 23, SAO PAULO - SP
+          - Text: 08h00 às 17h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 132: D ELICEO TATUAPE
+          - Icon: Americanas logo
+          - Text: D ELICEO TATUAPE
+          - Text: DOMINGOS AGUSTIM S/N, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 45
+      - Store Card 133: SHC PATIO CIANE
+          - Icon: Americanas logo
+          - Text: SHC PATIO CIANE
+          - Text: AVENIDA DOUTOR ANTONIO VERGUEIRO 823 ESP CM 126, SOROCABA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 134: Shopping Campinas - Americanas
+          - Icon: Americanas logo
+          - Text: Shopping Campinas - Americanas
+          - Text: RUA IGUIATEMI 945, Campinas - SP
+          - Text: 09h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 135: SHC OESTE PLAZA
+          - Icon: Americanas logo
+          - Text: SHC OESTE PLAZA
+          - Text: ROD PRESIDENTE KENNEDY 2919 BOX 2/4, ANDRADINA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 46
+      - Store Card 136: IBITINGA
+          - Icon: Americanas logo
+          - Text: IBITINGA
+          - Text: RUA TRES DE MAIO 792, IBITINGA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 137: ITARARE
+          - Icon: Americanas logo
+          - Text: ITARARE
+          - Text: RUA PEDRO 1046, ITARARE - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 138: BEST CENTER SANTO ANDRE
+          - Icon: Americanas logo
+          - Text: BEST CENTER SANTO ANDRE
+          - Text: RUA GIOVANNI BATTISTIN 800 LOJA 111, SANTO ANDRE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 47
+      - Store Card 139: DUMONT VILLARES
+          - Icon: Americanas logo
+          - Text: DUMONT VILLARES
+          - Text: AV LUIZ DUMONT VILLARES 839 - E S/N 901, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 140: BEST CENTER SOROCABA
+          - Icon: Americanas logo
+          - Text: BEST CENTER SOROCABA
+          - Text: ESTRADA DINOAH SN QUADRA01 LJ, SOROCABA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 141: PITANGUEIRAS
+          - Icon: Americanas logo
+          - Text: PITANGUEIRAS
+          - Text: PRACA JOAO PESSOA 97, PITANGUEIRAS - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 48
+      - Store Card 142: LOCAL RUA DIREITA
+          - Icon: Americanas logo
+          - Text: LOCAL RUA DIREITA
+          - Text: RUA DIREITA 151, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 143: MAIRIPORA
+          - Icon: Americanas logo
+          - Text: MAIRIPORA
+          - Text: AVENIDA TABAPOA VASSARLLA 392, MAIRIPORA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 144: CUBATAO
+          - Icon: Americanas logo
+          - Text: CUBATAO
+          - Text: RUA NOVE DE ABRIL 1877, CUBATAO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 49
+      - Store Card 145: SAO MIGUEL
+          - Icon: Americanas logo
+          - Text: SAO MIGUEL
+          - Text: AVENIDA JOAO CURIOSO DE KURISCHCH DE OLIVEIRA 420, GUARULHOS -
+            SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 146: BEST CENTER EMBU DAS ARTES
+          - Icon: Americanas logo
+          - Text: BEST CENTER EMBU DAS ARTES
+          - Text: AV VEREADOR JOAQUIM 734 LJ 12, EMBU DAS ARTES - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 147: FRANCA
+          - Icon: Americanas logo
+          - Text: FRANCA
+          - Text: RUA MAJOR CLAUDIANO 1694, FRANCA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 50
+      - Store Card 148: VOTUPORANGA
+          - Icon: Americanas logo
+          - Text: VOTUPORANGA
+          - Text: RUA AMAZONAS 2289 E RUA TIET, VOTUPORANGA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 149: COSMOPOLIS
+          - Icon: Americanas logo
+          - Text: COSMOPOLIS
+          - Text: AVENIDA ESTER 400, COSMOPOLIS - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 150: S.BERNARDO
+          - Icon: Americanas logo
+          - Text: S.BERNARDO
+          - Text: RUA MARECHAL DEODORO 1489, SAO BERNARDO DO CAMPO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 51
+      - Store Card 151: SHC PENAPOLIS
+          - Icon: Americanas logo
+          - Text: SHC PENAPOLIS
+          - Text: RODIAVALDO ARNALDO COVOLAN 1055 KM 487, PENAPOLIS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 152: RIBEIRAO PRETO
+          - Icon: Americanas logo
+          - Text: RIBEIRAO PRETO
+          - Text: RUA GENERAL OSORIO 476, RIBEIRAO PRETO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 153: SHC JACAREI
+          - Icon: Americanas logo
+          - Text: SHC JACAREI
+          - Text: RUA BARÃO DE JACAREI 364 LOJA 48, JACAREI - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 52
+      - Store Card 154: SHC JARDIM SUL
+          - Icon: Americanas logo
+          - Text: SHC JARDIM SUL
+          - Text: RUA JOAO GIOCHI 3819 123-D 123B, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 155: SHC NOVO RIBEIRAO PRETO
+          - Icon: Americanas logo
+          - Text: SHC NOVO RIBEIRAO PRETO
+          - Text: RUA RICARDO DE ABREU 1300 LJ ANCH, RIBEIRAO PRETO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 156: FREGUESIA DO O
+          - Icon: Americanas logo
+          - Text: FREGUESIA DO O
+          - Text: RUA GENERAL EDGAR FACÓ 840, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 53
+      - Store Card 157: SHC ITAPETININGA
+          - Icon: Americanas logo
+          - Text: SHC ITAPETININGA
+          - Text: RUA CARVALHO KM 157 733 LUC 38/39, ITAPETININGA - SP
+          - Text: 09h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 158: CARAGUATATUBA
+          - Icon: Americanas logo
+          - Text: CARAGUATATUBA
+          - Text: RUA DOUTOR CARLOS MOURA 311, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 159: ORLANDIA
+          - Icon: Americanas logo
+          - Text: ORLANDIA
+          - Text: AVENIDA 15 DE NOVEMBRO 164, ORLANDIA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 54
+      - Store Card 160: CACAPAVA
+          - Icon: Americanas logo
+          - Text: CACAPAVA
+          - Text: RUA SETE DE SETEMBRO 178, CACAPAVA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 161: JARAGUA
+          - Icon: Americanas logo
+          - Text: JARAGUA
+          - Text: ESTRADA DAS TAIPAS 4827, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 162: SHC GRANJA VIANA
+          - Icon: Americanas logo
+          - Text: SHC GRANJA VIANA
+          - Text: RODOVIA RAPOSO TAVARES 23500 KM 23, COTIA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 55
+      - Store Card 163: JOAQUIM NABUCO
+          - Icon: Americanas logo
+          - Text: JOAQUIM NABUCO
+          - Text: RUA JOAQUIM NABUCO 39 41, SAO PAULO - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 164: AROUCHE
+          - Icon: Americanas logo
+          - Text: AROUCHE
+          - Text: LARGO DO AROUCHE 49 LJ 29 F A, SAO PAULO - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 165: ARTUR ALVIM
+          - Icon: Americanas logo
+          - Text: ARTUR ALVIM
+          - Text: RUA MACIEL MONTEIRO 423, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 56
+      - Store Card 166: IGUAPE
+          - Icon: Americanas logo
+          - Text: IGUAPE
+          - Text: AVENIDA XV DE NOVEMBRO 232, IGUAPE - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 167: GUAIANAZES
+          - Icon: Americanas logo
+          - Text: GUAIANAZES
+          - Text: AVENIDA ENGENHEIRO JAZO VIEIRA 7204 7210/7218, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 168: LORENA
+          - Icon: Americanas logo
+          - Text: LORENA
+          - Text: RUA DOUTOR RODRIGUES DE AZEVEDO 291, LORENA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 57
+      - Store Card 169: CRUZEIRO
+          - Icon: Americanas logo
+          - Text: CRUZEIRO
+          - Text: RUA JOSE MIGUEL DE CASTRO 713 723, CRUZEIRO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 170: SHC AGUAIUS S J CAMPOS
+          - Icon: Americanas logo
+          - Text: SHC AGUAIUS S J CAMPOS
+          - Text: AVENIDA CASSIAO RAMALHO 501, SAO JOSE DOS CAMPOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 171: SUZANO
+          - Icon: Americanas logo
+          - Text: SUZANO
+          - Text: PRACA JOAO PESSOA 168 174/184, SUZANO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 58
+      - Store Card 172: SAO CARLOS 2
+          - Icon: Americanas logo
+          - Text: SAO CARLOS 2
+          - Text: AV DOUTOR CARLOS BOTELHO 2120 LOJA 06, SAO CARLOS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 173: LINS
+          - Icon: Americanas logo
+          - Text: LINS
+          - Text: RUA SETE DE SETEMBRO 220, LINS - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 174: NOVA ODESSA
+          - Icon: Americanas logo
+          - Text: NOVA ODESSA
+          - Text: AVENIDA CARLOS BOTELHO 600 412, NOVA ODESSA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 59
+      - Store Card 175: RUA ZILDA
+          - Icon: Americanas logo
+          - Text: RUA ZILDA
+          - Text: RUA ZILDA 606 612, SAO PAULO - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 176: SHC BOULEVARD NACOES
+          - Icon: Americanas logo
+          - Text: SHC BOULEVARD NACOES
+          - Text: RUA GENERAL MARCONDES SALGADO 11, BAURU - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 177: MOOCA
+          - Icon: Americanas logo
+          - Text: MOOCA
+          - Text: RUA DA MOOCA 2413 2417/2421, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 60
+      - Store Card 178: V. DE CARVALHO-GUARULHA
+          - Icon: Americanas logo
+          - Text: V. DE CARVALHO-GUARULHA
+          - Text: AVENIDA VEREADOR JOAO DE CARVALHO 88 TERREO, GUARULHOS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 179: PINDAMONHANGABA
+          - Icon: Americanas logo
+          - Text: PINDAMONHANGABA
+          - Text: RUA EXPEDICIONARIOS PINDAMONHANGABA 214 PAV 1, PINDAMONHANGABA
+            - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 180: JACAREI
+          - Icon: Americanas logo
+          - Text: JACAREI
+          - Text: RUA CONDE FRONTIM 28 TER / (SLJ, JACAREI) - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 61
+      - Store Card 181: SHC METRO TATUAPE
+          - Icon: Americanas logo
+          - Text: SHC METRO TATUAPE
+          - Text: RUA CONGAVES CELESTE 78 105/106/110, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 182: SHC MAIS SHOPP LARGO 13
+          - Icon: Americanas logo
+          - Text: SHC MAIS SHOPP LARGO 13
+          - Text: RUA AMADOR BUENO 229 LJ 103A, SAO PAULO - SP
+          - Text: 07h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 183: SHC BRISAMAR
+          - Icon: Americanas logo
+          - Text: SHC BRISAMAR
+          - Text: RUA RUI BARBOSA 365 SUC N 101, SAO VICENTE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 62
+      - Store Card 184: SHC BURITIS GUARA
+          - Icon: Americanas logo
+          - Text: SHC BURITIS GUARA
+          - Text: AV JUSCELINO KURTCHCHECK DE OLIVEIRA 301 LJ 12 A,
+            GUARATINGUETA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 185: Prudenshopping - Americanas
+          - Icon: Americanas logo
+          - Text: Prudenshopping - Americanas
+          - Text: Av. Manuel Goulart, 2400, Presidente Prudente - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 186: Paraguaçu Paulista - Americanas
+          - Icon: Americanas logo
+          - Text: Paraguaçu Paulista - Americanas
+          - Text: Rua XV de Novembro, 479, Paraguaçu Paulista - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 63
+      - Store Card 187: Best Center Ellis Maas - Americanas
+          - Icon: Americanas logo
+          - Text: Best Center Ellis Maas - Americanas
+          - Text: Avenida Ellis Maas, 641, São Paulo - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 188: Itaim - Marechal Tito - Americanas
+          - Icon: Americanas logo
+          - Text: Itaim - Marechal Tito - Americanas
+          - Text: Avenida Marechal Tito, 4030, São Paulo - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 189: BROOKLIN
+          - Icon: Americanas logo
+          - Text: BROOKLIN
+          - Text: RUA ANTONIO JOSE DOS SANTOS 851 PARTE, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 64
+      - Store Card 190: VILA MATILDE
+          - Icon: Americanas logo
+          - Text: VILA MATILDE
+          - Text: AV AMADEO DE BENTO 1471, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 191: BEST CENTER TAUBATE
+          - Icon: Americanas logo
+          - Text: BEST CENTER TAUBATE
+          - Text: AV DESEMBARGADOR JOSE DE MEIRELLES 815, TAUBATE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 192: TAQUARITINGA
+          - Icon: Americanas logo
+          - Text: TAQUARITINGA
+          - Text: AVENIDA DOUTOR LUIZ 10, TAQUARITINGA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 65
+      - Store Card 193: ARARAQUARA
+          - Icon: Americanas logo
+          - Text: ARARAQUARA
+          - Text: RUA SAO BENTO 916, ARARAQUARA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 194: SAO JOSE DO RIO PRETO
+          - Icon: Americanas logo
+          - Text: SAO JOSE DO RIO PRETO
+          - Text: RUA GENERAL LICERIO 2889 E R. DO CAMPI 2889, SAO JOSE DO RIO
+            PRETO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 195: SHC TAUBATE
+          - Icon: Americanas logo
+          - Text: SHC TAUBATE
+          - Text: AVENIDA CHARLES SCHNEIDER 1700 LUC 2125, TAUBATE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 66
+      - Store Card 196: POA
+          - Icon: Americanas logo
+          - Text: POA
+          - Text: AVENIDA NOVE DE JULHO 564, POA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 197: SHC SERRAMAR
+          - Icon: Americanas logo
+          - Text: SHC SERRAMAR
+          - Text: AVENIDA JOSE HERCOLANO 1089 LUC 4/5/6, CARAGUATATUBA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 198: SHC WEST PLAZA
+          - Icon: Americanas logo
+          - Text: SHC WEST PLAZA
+          - Text: AVENIDA ANTTARTICA 408, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 67
+      - Store Card 199: ITAQUAQUETUCEBA
+          - Icon: Americanas logo
+          - Text: ITAQUAQUETUCEBA
+          - Text: RUA UBURATAMA 147, ITAQUAQUETUCEBA - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 200: SHC TIVOLI
+          - Icon: Americanas logo
+          - Text: SHC TIVOLI
+          - Text: RUA DOUTOR SEBASTIAO DE PAULA 777 LOJA A, SANTA BARBARA D
+            OESTE - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 201: SHC SANTO ANDRE
+          - Icon: Americanas logo
+          - Text: SHC SANTO ANDRE
+          - Text: RUA HELENA DE MELLO 1, SANTO ANDRE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 68
+      - Store Card 202: SHC PLAZA AVENIDA
+          - Icon: Americanas logo
+          - Text: SHC PLAZA AVENIDA
+          - Text: AVENIDA JOSE MUNIA 6775 LJ A12, SAO JOSE DO RIO PRETO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 203: Shopping Litoral Plaza - Americanas
+          - Icon: Americanas logo
+          - Text: Shopping Litoral Plaza - Americanas
+          - Text: Avenida Ayrton Senna da Silva, 1511, Praia Grande - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 204: Parque Shopping Prudente - Americanas
+          - Icon: Americanas logo
+          - Text: Parque Shopping Prudente - Americanas
+          - Text: Rua Siqueira Campos, 1545, Presidente Prudente - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 69
+      - Store Card 205: Tremembe - Americanas
+          - Icon: Americanas logo
+          - Text: Tremembe - Americanas
+          - Text: Rua Nossa Senhora da Glória, 58, Tremembé - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 206: Carvalho de Mendonça - Americanas
+          - Icon: Americanas logo
+          - Text: Carvalho de Mendonça - Americanas
+          - Text: Rua Doutor Carvalho de Mendonça, 281, Santos - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 207: GUAIIRA
+          - Icon: Americanas logo
+          - Text: GUAIIRA
+          - Text: RUA OITO, 335, Guaira - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 70
+      - Store Card 208: Serrana - Americanas
+          - Icon: Americanas logo
+          - Text: Serrana - Americanas
+          - Text: Rua Vicente de Paula Lima, 407, Serrana - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 209: Cotia Poupatempo - Americanas
+          - Icon: Americanas logo
+          - Text: Cotia Poupatempo - Americanas
+          - Text: Avenida Nossa Senhora de Fátima, 833, Cotia - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 210: Dracena - Americanas
+          - Icon: Americanas logo
+          - Text: Dracena - Americanas
+          - Text: Avenida Presidente Vargas, 363, Dracena - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 71
+      - Store Card 211: Shopping Paulínia - Americanas
+          - Icon: Americanas logo
+          - Text: Shopping Paulínia - Americanas
+          - Text: Avenida José Lozano Araújo, 1515, Paulínia - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 212: Bauru - Americanas
+          - Icon: Americanas logo
+          - Text: Bauru - Americanas
+          - Text: Rua Henrique Savi, 15, Bauru - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 213: São Sebastião - Americanas
+          - Icon: Americanas logo
+          - Text: São Sebastião - Americanas
+          - Text: Avenida Dr. João Batista de Souza, 100, São Sebastião - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 72
+      - Store Card 214: Shopping Bragança Garden - Americanas
+          - Icon: Americanas logo
+          - Text: Shopping Bragança Garden - Americanas
+          - Text: Rodovia Alkindar Diniz, 1039, Bragança Paulista - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 215: Presidente Venceslau - Americanas
+          - Icon: Americanas logo
+          - Text: Presidente Venceslau - Americanas
+          - Text: Rua Princesa Isabel, 245, Presidente Venceslau - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 216: Tatui - Americanas
+          - Icon: Americanas logo
+          - Text: Tatui - Americanas
+          - Text: Rua Orozimbo de Barros, 340, Tatuí - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 73
+      - Store Card 217: Shopping Iguatemi SP - Americanas
+          - Icon: Americanas logo
+          - Text: Shopping Iguatemi SP - Americanas
+          - Text: Avenida Brigadeiro Faria Lima, 2222, São Paulo - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 218: São Bento - Americanas
+          - Icon: Americanas logo
+          - Text: São Bento - Americanas
+          - Text: Rua São Bento, 293, São Paulo - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 219: Taubaté Express - Americanas
+          - Icon: Americanas logo
+          - Text: Taubaté Express - Americanas
+          - Text: Rua Visconde do Rio Branco, 247, Taubaté - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 74
+      - Store Card 220: Alameda Santos - Americanas
+          - Icon: Americanas logo
+          - Text: Alameda Santos - Americanas
+          - Text: Alameda Santos, 2529, São Paulo - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 221: Joaquim Floriano Express - Americanas
+          - Icon: Americanas logo
+          - Text: Joaquim Floriano Express - Americanas
+          - Text: Rua Joaquim Floriano, 708, São Paulo - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 222: Shopping Raposo - Americanas
+          - Icon: Americanas logo
+          - Text: Shopping Raposo - Americanas
+          - Text: Rodovia Raposo Tavares, KM 14.5, São Paulo - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 75
+      - Store Card 223: Visconde de Inhauma - Americanas
+          - Icon: Americanas logo
+          - Text: Visconde de Inhauma - Americanas
+          - Text: Rua Visconde de Inhauma, 973, São Caetano do Sul - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 224: GUARAREMAS - Americanas
+          - Icon: Americanas logo
+          - Text: GUARAREMAS - Americanas
+          - Text: PRACA NOSSA SENHORA DA CONCEICAO, 48, GUARAREMAS - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 225: Domingos De Morais - Americanas
+          - Icon: Americanas logo
+          - Text: Domingos De Morais - Americanas
+          - Text: Rua Domingos de Morais, 2890, São Paulo - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 76
+      - Store Card 226: Saude - Americanas
+          - Icon: Americanas logo
+          - Text: Saude - Americanas
+          - Text: Rua Elisa Stevão, 57, São Paulo - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 227: Julio de Mesquita - Americanas
+          - Icon: Americanas logo
+          - Text: Julio de Mesquita - Americanas
+          - Text: Avenida Julio de Mesquita, 893, Campinas - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 228: Prestes Maia - Americanas
+          - Icon: Americanas logo
+          - Text: Prestes Maia - Americanas
+          - Text: Avenida Prestes Maia, 1025, São Bernardo do Campo - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 77
+      - Store Card 229: Granja Viana - Americanas
+          - Icon: Americanas logo
+          - Text: Granja Viana - Americanas
+          - Text: Rua Valeriana, 49, Cotia - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 230: Cachoeirinha - Americanas
+          - Icon: Americanas logo
+          - Text: Cachoeirinha - Americanas
+          - Text: Praça Pero Vaz Caminha, 1948, São Paulo - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 231: Limão - Americanas
+          - Icon: Americanas logo
+          - Text: Limão - Americanas
+          - Text: Avenida Professor Celestino Bourroul, 907, São Paulo - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 78
+      - Store Card 232: SHP Jardim Oriente - Americanas
+          - Icon: Americanas logo
+          - Text: SHP Jardim Oriente - Americanas
+          - Text: Rua Andorra, 500, São José dos Campos - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 233: Ourinhos Shopping - Americanas
+          - Icon: Americanas logo
+          - Text: Ourinhos Shopping - Americanas
+          - Text: Rua Cardoso Ribeiro, 975, Ourinhos - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 234: Pederneiras - Americanas
+          - Icon: Americanas logo
+          - Text: Pederneiras - Americanas
+          - Text: Avenida Nove de Julho, 175, Pederneiras - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 79
+      - Store Card 235: BEST CENTER PARQUE PRADO
+          - Icon: Americanas logo
+          - Text: BEST CENTER PARQUE PRADO
+          - Text: AVENIDA BRADEN POWELL 1929, CAMPINAS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 236: FRANCO DA ROCHA
+          - Icon: Americanas logo
+          - Text: FRANCO DA ROCHA
+          - Text: RUA BASILIO Fazzi 298 E S N 7, FRANCO DA ROCHA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 237: SANTA CRUZ DO RIO PARDO
+          - Icon: Americanas logo
+          - Text: SANTA CRUZ DO RIO PARDO
+          - Text: RUA CONSELHEIRO DANTAS 821, SANTA CRUZ DO RIO PARDO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 80
+      - Store Card 238: SHC BOULEVARD CARAPICUIBA
+          - Icon: Americanas logo
+          - Text: SHC BOULEVARD CARAPICUIBA
+          - Text: ESTRADA ERNESTINA VIEIRA LIA LUJA 201, CARAPICUIBA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 239: SANTA RITA DO PASSA QUATRO
+          - Icon: Americanas logo
+          - Text: SANTA RITA DO PASSA QUATRO
+          - Text: AVENIDA SEVERINO MEIRELLES 1200, SANTA RITA DO PASSA QUATRO -
+            SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 240: PORTO FERREIRA
+          - Icon: Americanas logo
+          - Text: PORTO FERREIRA
+          - Text: RUA DONA SALBINA 431 431-A, PORTO FERREIRA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 81
+      - Store Card 241: SAPOPEMBA
+          - Icon: Americanas logo
+          - Text: SAPOPEMBA
+          - Text: AVENIDA SAPOPEMBA 9409 PAVIMTOB, SAO PAULO - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 242: DIADEMA
+          - Icon: Americanas logo
+          - Text: DIADEMA
+          - Text: PRACA PRESIDENTE CASTELO BRANCO 125 QD51 LOT... DIADEMA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 243: SHC ALEGRIA
+          - Icon: Americanas logo
+          - Text: SHC ALEGRIA
+          - Text: RUA DE CAXIAS 2225 LT GL BOX, VARZEA PAULISTA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 82
+      - Store Card 244: SHC POLO SHOPPING INDAIATUBA
+          - Icon: Americanas logo
+          - Text: SHC POLO SHOPPING INDAIATUBA
+          - Text: ALAMEDA FILTROS MANN 670 LOJA 430, INDAIATUBA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 245: VALINHOS
+          - Icon: Americanas logo
+          - Text: VALINHOS
+          - Text: RUA ANTONIO CARLOS 88, VALINHOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 246: MORRO AGUDO
+          - Icon: Americanas logo
+          - Text: MORRO AGUDO
+          - Text: RUA MONTE MORRO AGUDO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 83
+      - Store Card 247: GRAND PLAZA SANTO ANDRE
+          - Icon: Americanas logo
+          - Text: GRAND PLAZA SANTO ANDRE
+          - Text: AVENIDA INDUSTRIAL SUD 326, SANTO ANDRE - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 248: MOGI GUACU
+          - Icon: Americanas logo
+          - Text: MOGI GUACU
+          - Text: PRACA PADRE ARMANDO 18, MOGI GUACU - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 249: BEST CENTER PRADO
+          - Icon: Americanas logo
+          - Text: BEST CENTER PRADO
+          - Text: AVENIDA BRADEN POWELL 1929, CAMPINAS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 84
+      - Store Card 250: SHC ALEGRIA
+          - Icon: Americanas logo
+          - Text: SHC ALEGRIA
+          - Text: AVENIDA DUQUE DE CAXIAS 2225 LT GL BOX, VARZEA PAULISTA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 251: SHC POLO SHOPPING INDAIATUBA
+          - Icon: Americanas logo
+          - Text: SHC POLO SHOPPING INDAIATUBA
+          - Text: ALAMEDA FILTROS MANN 670 LOJA 430A, INDAIATUBA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 252: DIADEMA
+          - Icon: Americanas logo
+          - Text: DIADEMA
+          - Text: PRACA PRESIDENTE CASTELO BRANCO 125 QD51 LOT... DIADEMA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 85
+      - Store Card 253: BRASILANDIA
+          - Icon: Americanas logo
+          - Text: BRASILANDIA
+          - Text: RUA BRASILANDIA 2911, FERNANDOPOLIS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 254: ITAPEVA
+          - Icon: Americanas logo
+          - Text: ITAPEVA
+          - Text: PRACA ANCHIETA 159, ITAPEVA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 255: BRAGANCA PAULISTA
+          - Icon: Americanas logo
+          - Text: BRAGANCA PAULISTA
+          - Text: PRACA RAUL LEME, 1984, BRAGANCA PAULISTA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 86
+      - Store Card 256: SAO BERNARDO PLAZA SHOPPING
+          - Icon: Americanas logo
+          - Text: SAO BERNARDO PLAZA SHOPPING
+          - Text: AVENIDA ROTARY 624 LJ C 188/189, SAO BERNARDO DO CAMPO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 257: SANTA ISABEL
+          - Icon: Americanas logo
+          - Text: SANTA ISABEL
+          - Text: AVENIDA REPUBLICA 298 LJ 17 SAO, SANTA ISABEL - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 258: MOOCA
+          - Icon: Americanas logo
+          - Text: MOOCA
+          - Text: RUA CAIRO TALBERTI 220, MOOCA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 87
+      - Store Card 259: SHC D
+          - Icon: Americanas logo
+          - Text: SHC D
+          - Text: AV DO CRUZEIRO DO SUL 1000 LUC 0316 A, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 260: SHC CANTARAIRA SHOPP
+          - Icon: Americanas logo
+          - Text: SHC CANTARAIRA SHOPP
+          - Text: AVENIDA RAIMUNDO PEREIRA DE MAGALHAES 11000 LUC 217 218, SAO
+            PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 261: SAO MANUEL
+          - Icon: Americanas logo
+          - Text: SAO MANUEL
+          - Text: RUA RUI MORAES ORDO 301, SAO MANUEL - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 88
+      - Store Card 262: SAO JOAQUIM DA BARRA
+          - Icon: Americanas logo
+          - Text: SAO JOAQUIM DA BARRA
+          - Text: PRACA 15 DE NOVEMBRO 1016 LJ 02, SAO JOAQUIM DA BARRA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 263: SAO JOAO DA BOA VISTA
+          - Icon: Americanas logo
+          - Text: SAO JOAO DA BOA VISTA
+          - Text: RUA ANTONIO DOS GERTUBO 307, SAO JOAO DA BOA VISTA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 264: ILHABELA
+          - Icon: Americanas logo
+          - Text: ILHABELA
+          - Text: AVENIDA PRINCESA ISABEL 1457, ILHABELA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 89
+      - Store Card 265: TUPA
+          - Icon: Americanas logo
+          - Text: TUPA
+          - Text: AVENIDA TAMOIOS 625, TUPA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 266: ADAMANTINA
+          - Icon: Americanas logo
+          - Text: ADAMANTINA
+          - Text: AVENIDA ANCHIETA 502, ADAMANTINA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 267: CUNHA
+          - Icon: Americanas logo
+          - Text: CUNHA
+          - Text: RUA CONEGO SIQUEIRA 72, CUNHA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 90
+      - Store Card 268: ARTUR NOGUEIRA
+          - Icon: Americanas logo
+          - Text: ARTUR NOGUEIRA
+          - Text: AVENIDA FERNANDO GRANDO ARENS 218, ARTUR NOGUEIRA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 269: BEBEDOURO
+          - Icon: Americanas logo
+          - Text: BEBEDOURO
+          - Text: RUA MARECHAL DEODORO 614, BEBEDOURO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 270: ITATIBA
+          - Icon: Americanas logo
+          - Text: ITATIBA
+          - Text: PRACA DA BANDEIRA 198, ITATIBA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 91
+      - Store Card 271: INDAIATUBA
+          - Icon: Americanas logo
+          - Text: INDAIATUBA
+          - Text: RUA JOAO PEDRO 9 47, INDAIATUBA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 272: IPERO
+          - Icon: Americanas logo
+          - Text: IPERO
+          - Text: RUA VEREADOR DOUTOR JOSE MARQUES PENTIADO 71, IPERO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 273: OURINHOS
+          - Icon: Americanas logo
+          - Text: OURINHOS
+          - Text: AVENIDA 19 DE OUTUBRO 65, OURINHOS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 92
+      - Store Card 274: OUTLET TABOAO PLAZA
+          - Icon: Americanas logo
+          - Text: OUTLET TABOAO PLAZA
+          - Text: AVENIDA VIDA NOVA 200 SL 07, TABOAO DA SERRA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 275: SANTOS
+          - Icon: Americanas logo
+          - Text: SANTOS
+          - Text: RUA JOAO PESSOA 35, SANTOS - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 276: SHC HORTOLANDIA
+          - Icon: Americanas logo
+          - Text: SHC HORTOLANDIA
+          - Text: RUA JOAO CAMARGO D LOJA 233, HORTOLANDIA - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 93
+      - Store Card 277: SILVA BUENO
+          - Icon: Americanas logo
+          - Text: SILVA BUENO
+          - Text: RUA SILVA BUENO 2272 2322, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 278: SHC VALE SUL
+          - Icon: Americanas logo
+          - Text: SHC VALE SUL
+          - Text: AVENIDA ANDROMEDA 227 SUC 112, SAO JOSE DOS CAMPOS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 279: CENTRO SP
+          - Icon: Americanas logo
+          - Text: CENTRO SP
+          - Text: RUA DIREITA 151, 12, SAO PAULO - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 94
+      - Store Card 280: BAURU
+          - Icon: Americanas logo
+          - Text: BAURU
+          - Text: RUA BATISTA DE CARVALHO 35, BAURU - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 281: LAPA SP
+          - Icon: Americanas logo
+          - Text: LAPA SP
+          - Text: RUA 12 DE OUTUBRO 92, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 282: SHC P. PEDRO
+          - Icon: Americanas logo
+          - Text: SHC P. PEDRO
+          - Text: AVENIDA GUILHERME CAMPOS 500 LJ 179/180, CAMPINAS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 95
+      - Store Card 283: URATUBA
+          - Icon: Americanas logo
+          - Text: URATUBA
+          - Text: RUA JOSE MARIA ALVES 343, URATUBA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 284: SHC PENHA
+          - Icon: Americanas logo
+          - Text: SHC PENHA
+          - Text: RUA DOUTOR JOAO RIBEIRO 304 A L, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 285: SHC MARKET PLACE SP
+          - Icon: Americanas logo
+          - Text: SHC MARKET PLACE SP
+          - Text: AVENIDA DAS NACOES UNIDAS 13947 LJ 112, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 96
+      - Store Card 286: ITANHAEM
+          - Icon: Americanas logo
+          - Text: ITANHAEM
+          - Text: AVENIDA CONDEGA DE VIMEROS 307 323, ITANHAEM - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 287: SHC MOGI
+          - Icon: Americanas logo
+          - Text: SHC MOGI
+          - Text: AVENIDA VER MARIC E GUIMARAES 1001, MOGI DAS CRUZES - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 288: SHC IGUATEMI ESPLANADA
+          - Icon: Americanas logo
+          - Text: SHC IGUATEMI ESPLANADA
+          - Text: AVENIDA GISELE CONSTANTINO 1870 LUC, SOROCABA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 97
+      - Store Card 289: SHC LIGHT
+          - Icon: Americanas logo
+          - Text: SHC LIGHT
+          - Text: RUA CEL XAVIER TOLEDO 23 LOJAS, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 290: GONZAGA
+          - Icon: Americanas logo
+          - Text: GONZAGA
+          - Text: AVENIDA ANA COSTA 542, SANTOS - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 291: SHC CENTRAL PLAZA
+          - Icon: Americanas logo
+          - Text: SHC CENTRAL PLAZA
+          - Text: AVENIDA MANOEL DA NOBREGA 1000 LJ, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 98
+      - Store Card 292: SHC MAXI JUNDIAI
+          - Icon: Americanas logo
+          - Text: SHC MAXI JUNDIAI
+          - Text: AVENIDA ANTONIO CARLOS ZANIN 6000 LJ, JUNDIAI - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 293: SHC LESTE
+          - Icon: Americanas logo
+          - Text: SHC LESTE
+          - Text: AVENIDA ANCHIETA S/N XAVIER LJT 10, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 294: SHC PLAZA ITU
+          - Icon: Americanas logo
+          - Text: SHC PLAZA ITU
+          - Text: AVENIDA CONSELHEIRO PASQUAL ROMAN KM 105 SL CM 104, ITU - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 99
+      - Store Card 295: SHC PIRACICABA
+          - Icon: Americanas logo
+          - Text: SHC PIRACICABA
+          - Text: AV LIMEIRA 722 SUC 1TR, PIRACICABA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 296: SHC BEBEDOURO
+          - Icon: Americanas logo
+          - Text: SHC BEBEDOURO
+          - Text: AVENIDA ALLAN KARDEC 1451 LJ ANCIR B, BEBEDOURO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 297: XV DE NOVEMBRO
+          - Icon: Americanas logo
+          - Text: XV DE NOVEMBRO
+          - Text: RUA QUINZE DE NOVEMBRO 317, SAO JOSE DOS CAMPOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 100
+      - Store Card 298: MARILIA
+          - Icon: Americanas logo
+          - Text: MARILIA
+          - Text: RUA NOVE DE JULHO 1138 E CAMPING, MARILIA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 299: SHC AQUARIUS
+          - Icon: Americanas logo
+          - Text: SHC AQUARIUS
+          - Text: RUA DOS TULIPANOS 500 LJ A, MARILIA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 300: SHC METRO TURURUVI
+          - Icon: Americanas logo
+          - Text: SHC METRO TURURUVI
+          - Text: RUA PADRE ANTONIO MARIA LAET 566 SALAO, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 101
+      - Store Card 301: SHC ANHANGUERA PARQUE
+          - Icon: Americanas logo
+          - Text: SHC ANHANGUERA PARQUE
+          - Text: RUA JEAN DE OLIVEIRA REIS 420 LUC 116, CAJAMAR - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 302: BEST CENTER AVARÉ
+          - Icon: Americanas logo
+          - Text: BEST CENTER AVARÉ
+          - Text: AVENIDA PREFEITO PAULO NUNES 1800 LOJA T2 T3, AVARÉ - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 303: MONTE ALTO
+          - Icon: Americanas logo
+          - Text: MONTE ALTO
+          - Text: RUA MARINHO DO LIVRAMENTO 1752, MONTE ALTO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 102
+      - Store Card 304: SERTAOZINHO
+          - Icon: Americanas logo
+          - Text: SERTAOZINHO
+          - Text: RUA DR ANTONIO 260 SIO BRANCO 903, SERTAOZINHO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 305: VARZEA PAULISTA
+          - Icon: Americanas logo
+          - Text: VARZEA PAULISTA
+          - Text: AVENIDA SEBASTIAO DO PRADO 2222 LOJA N 501, VARZEA PAULISTA -
+            SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 306: GUARUJA
+          - Icon: Americanas logo
+          - Text: GUARUJA
+          - Text: RUA 15 DE NOVEMBRO 184, GUARUJA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 103
+      - Store Card 307: EDUARDO COTHING
+          - Icon: Americanas logo
+          - Text: EDUARDO COTHING
+          - Text: AVENIDA EDUARDO COTHING 2129, SAO PAULO - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 308: SALTO DE PIRAPORA
+          - Icon: Americanas logo
+          - Text: SALTO DE PIRAPORA
+          - Text: RUA IDALINA DIAS BATISTA 185, SALTO DE PIRAPORA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 309: LUCELIA
+          - Icon: Americanas logo
+          - Text: LUCELIA
+          - Text: AVENIDA INTERNACIONAL 1653, LUCELIA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 104
+      - Store Card 310: GARCA
+          - Icon: Americanas logo
+          - Text: GARCA
+          - Text: RUA ALAMEDA LINEU REIS MATTOS 12, GARCA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 311: LOCAL MORUMBI
+          - Icon: Americanas logo
+          - Text: LOCAL MORUMBI
+          - Text: AV. GIOVANNI GRONCHI 5137, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 312: VARGEM GRANDE DO SUL
+          - Icon: Americanas logo
+          - Text: VARGEM GRANDE DO SUL
+          - Text: RUA DO COMERCIO 280, VARGEM GRANDE DO SUL - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 105
+      - Store Card 313: SHC PARK CITY SUMARE
+          - Icon: Americanas logo
+          - Text: SHC PARK CITY SUMARE
+          - Text: AVENIDA ANTOINE ANJO 1085 LUC 4/5, SUMARE - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 314: MIRASSOL
+          - Icon: Americanas logo
+          - Text: MIRASSOL
+          - Text: RUA DOUTOR ANJO, JOSE MOEIRA 2189, MIRASSOL - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 315: CAIEIRAS
+          - Icon: Americanas logo
+          - Text: CAIEIRAS
+          - Text: RUA SETE DE DEZEMBRO LOT CRESCUMA 108, CAIEIRAS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 106
+      - Store Card 316: BARRETOS
+          - Icon: Americanas logo
+          - Text: BARRETOS
+          - Text: PRACA FRANCISCO BARRETO 158, BARRETOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 317: SHC ECO VALLE SHOPP
+          - Icon: Americanas logo
+          - Text: SHC ECO VALLE SHOPP
+          - Text: ESTRADA DOUTOR DE AQUINO 46, LORENA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 318: OSVALDO CRUZ
+          - Icon: Americanas logo
+          - Text: OSVALDO CRUZ
+          - Text: AVENIDA BRASIL 411, OSVALDO CRUZ - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 107
+      - Store Card 319: SHC TAQUIA GARDEN SHOPP
+          - Icon: Americanas logo
+          - Text: SHC TAQUIA GARDEN SHOPP
+          - Text: ESTRADA MUNICIPAL DO MANDI 1200 LUC 23945/23946, SAO PAULO -
+            SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 320: BARBINHA
+          - Icon: Americanas logo
+          - Text: BARBINHA
+          - Text: AVENIDA PRESIDENTE VARGAS 838 QUADRA12 L, BARBINHA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 321: ITVERAVA
+          - Icon: Americanas logo
+          - Text: ITVERAVA
+          - Text: AVENIDA DOUTOR ISMARES DE OLIVEIRA 123, ITAQUAQUETUCEBA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 108
+      - Store Card 322: PERUIBE
+          - Icon: Americanas logo
+          - Text: PERUIBE
+          - Text: AVENIDA PADRE ANCHIETA 332, PERUIBE - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 323: CIDADE OCIAN
+          - Icon: Americanas logo
+          - Text: CIDADE OCIAN
+          - Text: AVENIDA PRESIDENTE KENNEDY 7204 7210/7218, PRAIA GRANDE - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 324: SHC JAU
+          - Icon: Americanas logo
+          - Text: SHC JAU
+          - Text: AVENIDA QUINZINHO S/N 51 TERR, JAU - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 109
+      - Store Card 325: RIO CLARO
+          - Icon: Americanas logo
+          - Text: RIO CLARO
+          - Text: RUA 44 1136, RIO CLARO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 326: SHC NOVO OSASCO
+          - Icon: Americanas logo
+          - Text: SHC NOVO OSASCO
+          - Text: AVENIDA DOS AUTONOMISTAS 1400 LJ ANCH, OSASCO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 327: SHC METRO ITAQUERA
+          - Icon: Americanas logo
+          - Text: SHC METRO ITAQUERA
+          - Text: AVENIDA REGIS BRASIL BORGES 9M LJ 413, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 110
+      - Store Card 328: LARGO SANTA CECILIA
+          - Icon: Americanas logo
+          - Text: LARGO SANTA CECILIA
+          - Text: LARGO SANTA CECILIA 216, SAO PAULO - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 329: JABOTICABAL
+          - Icon: Americanas logo
+          - Text: JABOTICABAL
+          - Text: PRACA NOVE DE JULHO 36, JABOTICABAL - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 330: MIRANDOPOLIS
+          - Icon: Americanas logo
+          - Text: MIRANDOPOLIS
+          - Text: RUA NOVE DE JULHO 1003, MIRANDOPOLIS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 111
+      - Store Card 331: MONGAGUA
+          - Icon: Americanas logo
+          - Text: MONGAGUA
+          - Text: AVENIDA SAO PAULO 2114, MONGAGUA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 332: MORRO AGUDO
+          - Icon: Americanas logo
+          - Text: MORRO AGUDO
+          - Text: RUA MAURICIO FRANCO 1185, MORRO AGUDO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 333: VALINHOS
+          - Icon: Americanas logo
+          - Text: VALINHOS
+          - Text: RUA ANTONIO CARLOS 88, VALINHOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 112
+      - Store Card 334: SHC BONSUSCESSO
+          - Icon: Americanas logo
+          - Text: SHC BONSUSCESSO
+          - Text: AVENIDA JUSCELINO KURTCHCHECK DE OLIVEIRA 5398 LJ 04 ANCOR,
+            GUARULHOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 335: SHC VILLA DURO
+          - Icon: Americanas logo
+          - Text: SHC VILLA DURO
+          - Text: RUA SENADOR LAURENTINO MOTTA 521 LUC 27/2, VOTURAI - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 336: SHC RIO CLARO
+          - Icon: Americanas logo
+          - Text: SHC RIO CLARO
+          - Text: RUA FRANCISCO MATARAZZO JUNIOR 258 LOJA A 10, RIO CLARO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 113
+      - Store Card 337: BEST CENTER HORTOLANDIA
+          - Icon: Americanas logo
+          - Text: BEST CENTER HORTOLANDIA
+          - Text: AVENIDA ELBERTO CUNHA 1980 LOJA L3, HORTOLANDIA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 338: BEST CENTER GUAIBA
+          - Icon: Americanas logo
+          - Text: BEST CENTER GUAIBA
+          - Text: RUA JOAO PESSOA 1989 LOJA L8, PEDERNEIRAS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 339: SPAZIO OURO VERDE
+          - Icon: Americanas logo
+          - Text: SPAZIO OURO VERDE
+          - Text: RUA RUI BORGES Z900 LUC N60 A-6, CAMPINAS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 114
+      - Store Card 340: SHC PATIO OSASCO
+          - Icon: Americanas logo
+          - Text: SHC PATIO OSASCO
+          - Text: AVENIDA DOS AUTONOMISTAS 896 LOJAS 224, OSASCO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 341: PRACA RUI BARBOSA
+          - Icon: Americanas logo
+          - Text: PRACA RUI BARBOSA
+          - Text: RUA GUSTAVO MACIEL SL BARU, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 342: SHC PRACA DA MOCA
+          - Icon: Americanas logo
+          - Text: SHC PRACA DA MOCA
+          - Text: RUA MANOEL DA NOBREGA 703 LOJA 101, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 115
+      - Store Card 343: SHC JARAGUA INDAIATUBA
+          - Icon: Americanas logo
+          - Text: SHC JARAGUA INDAIATUBA
+          - Text: RUA QUINZE DE NOVEMBRO 1200 SUC N 48, INDAIATUBA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 344: SHC NORTH SHOPP BARRETOS
+          - Icon: Americanas logo
+          - Text: SHC NORTH SHOPP BARRETOS
+          - Text: VIA WASHINGTON LUIZ S/N PRADO 1400 SUC N 010, BARRETOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 345: FLORIDA CENTER
+          - Icon: Americanas logo
+          - Text: FLORIDA CENTER
+          - Text: AVENIDA AEROPORTO 860 LOJA L15 ANC, BARRETOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 116
+      - Store Card 346: MORUMBI
+          - Icon: Americanas logo
+          - Text: MORUMBI
+          - Text: AVENIDA ENGENHEIRO LUIZ CARVALHO 5177 PARTE, SAO PAULO - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 347: BIRIGUI
+          - Icon: Americanas logo
+          - Text: BIRIGUI
+          - Text: RUA 9 DE DEZEMBRO 325, BIRIGUI - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 348: SAO MIGUEL PAULISTA
+          - Icon: Americanas logo
+          - Text: SAO MIGUEL PAULISTA
+          - Text: AVENIDA MARECHAL TITO 1477, SAO PAULO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 117
+      - Store Card 349: ITAIM PAULISTA 2
+          - Icon: Americanas logo
+          - Text: ITAIM PAULISTA 2
+          - Text: RUA TIBURCIO DE SOUZA 162 340, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 350: ERMELINO MATARAZZO
+          - Icon: Americanas logo
+          - Text: ERMELINO MATARAZZO
+          - Text: RUA RIO PIROZZELLI 44 COMP 50 52, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 351: APARECIDA
+          - Icon: Americanas logo
+          - Text: APARECIDA
+          - Text: RUA BARÃO DO RIO BRANCO 191, APARECIDA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 118
+      - Store Card 352: VILA GALVAO
+          - Icon: Americanas logo
+          - Text: VILA GALVAO
+          - Text: AVENIDA EMILIO RIBAS 2004, GUARULHOS - SP
+          - Text: 09h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 353: ARTUR ALVIM 2
+          - Icon: Americanas logo
+          - Text: ARTUR ALVIM 2
+          - Text: RUA DOUTOR CAMPOS MOURA 311, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 354: SHC MULTISHOP VILA MARIANA
+          - Icon: Americanas logo
+          - Text: SHC MULTISHOP VILA MARIANA
+          - Text: RUA PELOTAS 400 LJ 19B, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 119
+      - Store Card 355: VILA MARIA 2
+          - Icon: Americanas logo
+          - Text: VILA MARIA 2
+          - Text: RUA GENERAL RODRIGUES COTHING 1812, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 356: PORTO MILLER BOULEVARD
+          - Icon: Americanas logo
+          - Text: PORTO MILLER BOULEVARD
+          - Text: AVENIDA JOAO PEDRO GUIMARAES BARROS 345 SALAO COM, PORTO FELIZ
+            - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 357: SHC BESTT VINHEDO
+          - Icon: Americanas logo
+          - Text: SHC BESTT VINHEDO
+          - Text: AVENIDA DOS IMIGRANTES ITALIANOS 1014 10, VINHEDO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 120
+      - Store Card 358: SHC FREI CANECA
+          - Icon: Americanas logo
+          - Text: SHC FREI CANECA
+          - Text: RUA FREI CANECA 569 LOJA 309, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 359: SHC OSASCO
+          - Icon: Americanas logo
+          - Text: SHC OSASCO
+          - Text: AVENIDA AUTONOMISTAS 1768 1828 LJ AN, OSASCO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 360: LARGO TREZE DE MAIO
+          - Icon: Americanas logo
+          - Text: LARGO TREZE DE MAIO
+          - Text: PRACA 13 DE MAIO 145, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 121
+      - Store Card 361: LIBERDADE
+          - Icon: Americanas logo
+          - Text: LIBERDADE
+          - Text: AVENIDA DA LIBERDADE 863 TERR MEZANI, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 362: PAULISTA
+          - Icon: Americanas logo
+          - Text: PAULISTA
+          - Text: AVENIDA DOUTOR LUIS S/N 328 L, SAO PAULO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 363: SHC OSASCO PLAZA
+          - Icon: Americanas logo
+          - Text: SHC OSASCO PLAZA
+          - Text: RUA TENENTE AVELAR PIRES DE AZEVEDO 81 LJ 23, OSASCO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 122
+      - Store Card 364: SHC GALLERIA
+          - Icon: Americanas logo
+          - Text: SHC GALLERIA
+          - Text: RODOVIA D PEDRO KM 131.5 S/N LJ COM, CAMPINAS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 365: SHC MIRAMAR
+          - Icon: Americanas logo
+          - Text: SHC MIRAMAR
+          - Text: AVENIDA MARECHAL FLORIANO PEIXOTO 44 SUC 101/104, SANTOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 366: SHC PATIO BOA VISTA
+          - Icon: Americanas logo
+          - Text: SHC PATIO BOA VISTA
+          - Text: RUA BORBA GATO 59 LJ 316, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 123
+      - Store Card 367: SHC PRADO
+          - Icon: Americanas logo
+          - Text: SHC PRADO
+          - Text: AVENIDA WASHINGTON LUIZ 2488 LUC CT N1B, CAMPINAS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 368: ITAPETININGA
+          - Icon: Americanas logo
+          - Text: ITAPETININGA
+          - Text: PRACA PEIXOTO GOMIDE 44, ITAPETININGA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 369: SHC COLINAS
+          - Icon: Americanas logo
+          - Text: SHC COLINAS
+          - Text: AVENIDA SAO JOAO 2300 SUC N VT, SAO JOSE DOS CAMPOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 124
+      - Store Card 370: FERRAZ DE VASCONCELOS
+          - Icon: Americanas logo
+          - Text: FERRAZ DE VASCONCELOS
+          - Text: RUA BRASIL 1996, FERRAZ DE VASCONCELOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 371: MATAO
+          - Icon: Americanas logo
+          - Text: MATAO
+          - Text: AVENIDA QUINZE DE NOVEMBRO 1130, MATAO - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 372: NOVO HORIZONTE
+          - Icon: Americanas logo
+          - Text: NOVO HORIZONTE
+          - Text: RUA TRAJANO MACHADO 847 853, NOVO HORIZONTE - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 125
+      - Store Card 373: JARDIM ZAIRA
+          - Icon: Americanas logo
+          - Text: JARDIM ZAIRA
+          - Text: AVENIDA PRESIDENTE CASTELO BRANCO 3079 3085, MAUA - SP
+          - Text: 08h30 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 374: OLIMPIA
+          - Icon: Americanas logo
+          - Text: OLIMPIA
+          - Text: RUA DAVID DE OLIVEIRA 103, OLIMPIA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 375: SAO CARLOS
+          - Icon: Americanas logo
+          - Text: SAO CARLOS
+          - Text: RUA GENERAL OSORIO 753, SAO CARLOS - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 126
+      - Store Card 376: SHC LAPA SP
+          - Icon: Americanas logo
+          - Text: SHC LAPA SP
+          - Text: RUA 12 DE OUTUBRO 92, SAO PAULO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 377: TEODORO SAMPAIO 2
+          - Icon: Americanas logo
+          - Text: TEODORO SAMPAIO 2
+          - Text: RUA TEODORO SAMPAIO 2799 2809 T, SAO PAULO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 378: CAMPOS DE JORDAO
+          - Icon: Americanas logo
+          - Text: CAMPOS DE JORDAO
+          - Text: AVENIDA ALBERTO DE OLIVEIRA 315 LJT, CAMPOS DE JORDAO - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 127
+      - Store Card 379: GUARULHOS 2
+          - Icon: Americanas logo
+          - Text: GUARULHOS 2
+          - Text: RUA SILVA 2947 KM 28.5 47 E 55, GUARULHOS - SP
+          - Text: 08h00 às 21h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 380: SAO CAETANO DO SUL
+          - Icon: Americanas logo
+          - Text: SAO CAETANO DO SUL
+          - Text: RUA SANTO ANTONIO 345 350, SAO CAETANO DO SUL - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 381: GUARATINGUETA
+          - Icon: Americanas logo
+          - Text: GUARATINGUETA
+          - Text: RUA QUINZE DE NOVEMBRO 254, GUARATINGUETA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 128
+      - Store Card 382: VOTORANTIM
+          - Icon: Americanas logo
+          - Text: VOTORANTIM
+          - Text: AV TRINTA E UM DE MARCO 747, VOTORANTIM - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 383: SUMARE
+          - Icon: Americanas logo
+          - Text: SUMARE
+          - Text: AV SETE DE SETEMBRO 443 TERREO, SUMARE - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 384: ATRAJA
+          - Icon: Americanas logo
+          - Text: ATRAJA
+          - Text: AV JUSVINAL ADVM 131 C, ATRAJA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 129
+      - Store Card 385: VILA LINDA
+          - Icon: Americanas logo
+          - Text: VILA LINDA
+          - Text: RUA CARLOS 1075, SANTO ANDRE - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 386: SHC PATIO PINDA
+          - Icon: Americanas logo
+          - Text: SHC PATIO PINDA
+          - Text: RUA RODOVIARIO NOBILE 455 LOJA ANC 7, PINDAMONHANGABA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 387: SHC CIDADE SOROCABA
+          - Icon: Americanas logo
+          - Text: SHC CIDADE SOROCABA
+          - Text: RUA ITARANTAS 3380 3380 1019 1019, SOROCABA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 130
+      - Store Card 388: SHC ITAPECIRICA DA SERRA
+          - Icon: Americanas logo
+          - Text: SHC ITAPECIRICA DA SERRA
+          - Text: AVENIDA JOAO PEDRO GUIMARAES 89 101.5, ITAPECIRICA DA SERRA -
+            SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 389: SHC RIBEIRAO PRETO
+          - Icon: Americanas logo
+          - Text: SHC RIBEIRAO PRETO
+          - Text: AVENIDA DOUTOR FERNANDO FERREIRA LEITE 1481, RIBEIRAO PRETO -
+            SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 390: SAO ROQUE
+          - Icon: Americanas logo
+          - Text: SAO ROQUE
+          - Text: AVENIDA ESTAVEAUX 176 C 1/2/3/4F, SAO ROQUE - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 131
+      - Store Card 391: SHC GOLD SQUARE
+          - Icon: Americanas logo
+          - Text: SHC GOLD SQUARE
+          - Text: AVENIDA COMENDADOR ANTONIO GRAMATICO 700 SÃO BERNARDO DO CAMPO
+            - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 392: REGISTRO
+          - Icon: Americanas logo
+          - Text: REGISTRO
+          - Text: RUA DOUTOR PAULO ZINIO JONAS BANKI LEITE 610 TERREO, REGISTRO
+            - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 393: LENCOIS PAULISTA
+          - Icon: Americanas logo
+          - Text: LENCOIS PAULISTA
+          - Text: RUA RUIZ DE NOVEMBRO 744, LENCOIS PAULISTA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 132
+      - Store Card 394: SHC PATIO BOTUCATU
+          - Icon: Americanas logo
+          - Text: SHC PATIO BOTUCATU
+          - Text: AVENIDA MARECHAL DEODORO 361 LOJA ANC 1, BOTUCATU - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 395: SHC VIA VALE GARDEN
+          - Icon: Americanas logo
+          - Text: SHC VIA VALE GARDEN
+          - Text: AVENIDA PEDRO I 1781 LOJA 21, TAUBATE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 396: SHC BURITI MOGI GUACU
+          - Icon: Americanas logo
+          - Text: SHC BURITI MOGI GUACU
+          - Text: RUA FRANCISCO FRANCO DE GODDY BUENO 801 LOJA S, MOGI GUACU -
+            SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 133
+      - Store Card 397: SHC ATRIUM SANTO ANDRE
+          - Icon: Americanas logo
+          - Text: SHC ATRIUM SANTO ANDRE
+          - Text: AVENIDA ALEXANDRE DE GUSMAO 322 329, SANTO ANDRE - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 398: PRESIDENTE PRUDENTE
+          - Icon: Americanas logo
+          - Text: PRESIDENTE PRUDENTE
+          - Text: RUA JOAQUIM NABUCO 881, PRESIDENTE PRUDENTE - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 399: SANTA FE DO SUL
+          - Icon: Americanas logo
+          - Text: SANTA FE DO SUL
+          - Text: RUA NAVARRO DE ANDRADE 668, SANTA FE DO SUL - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 134
+      - Store Card 400: PONTAL
+          - Icon: Americanas logo
+          - Text: PONTAL
+          - Text: RUA JOSE LEONEL PUPO 387, PONTAL - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 401: PIEDADE
+          - Icon: Americanas logo
+          - Text: PIEDADE
+          - Text: RUA CORONEL JOAO ROSA 188, PIEDADE - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 402: BERTIOBA
+          - Icon: Americanas logo
+          - Text: BERTIOBA
+          - Text: AVENIDA ANCHIETA 1848, BERTIOBA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 135
+      - Store Card 403: CACHOEIRA PAULISTA
+          - Icon: Americanas logo
+          - Text: CACHOEIRA PAULISTA
+          - Text: AVENIDA CORONEL DOMICIANO 147, CACHOEIRA PAULISTA - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 404: CAPAO BONITO
+          - Icon: Americanas logo
+          - Text: CAPAO BONITO
+          - Text: RUA FLORIANO PEIXOTO 863, CAPAO BONITO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 405: JUNDIAI
+          - Icon: Americanas logo
+          - Text: JUNDIAI
+          - Text: AVENIDA NOVE DE JULHO 129, JUNDIAI - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 136
+      - Store Card 406: CAJATI
+          - Icon: Americanas logo
+          - Text: CAJATI
+          - Text: AVENIDA FERNANDO COSTA 222, CAJATI - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 407: PROMISSAO
+          - Icon: Americanas logo
+          - Text: PROMISSAO
+          - Text: RUA PEDRO DE TOLEDO 402, PROMISSAO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 408: DIADEMA
+          - Icon: Americanas logo
+          - Text: DIADEMA
+          - Text: PRACA BOM JESUS DE PIRAPORINHA 196, DIADEMA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 137
+      - Store Card 409: SHC CIDADE NORTE
+          - Icon: Americanas logo
+          - Text: SHC CIDADE NORTE
+          - Text: AVENIDA DR BRASILIO PEREIRA GOMES 2077 LUC, SAO JOSE DO RIO
+            PRETO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 410: SHC ILHA SOLTEIRA
+          - Icon: Americanas logo
+          - Text: SHC ILHA SOLTEIRA
+          - Text: AVENIDA ATLANTICA 1658, ILHA SOLTEIRA - SP
+          - Text: 09h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 411: ITAPOLIS
+          - Icon: Americanas logo
+          - Text: ITAPOLIS
+          - Text: AVENIDA FRANCISCO PORTO 756, ITAPOLIS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 138
+      - Store Card 412: SALTO
+          - Icon: Americanas logo
+          - Text: SALTO
+          - Text: RUA NOVE DE JULHO 134 178, SALTO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 413: SHC TIETE PLAZA
+          - Icon: Americanas logo
+          - Text: SHC TIETE PLAZA
+          - Text: AVENIDA RIOS RODRIGUEIRA DE MAGALHAES 1465 1465 SUC 2041 L,
+            SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 414: LIMEIRA
+          - Icon: Americanas logo
+          - Text: LIMEIRA
+          - Text: RUA DOUTOR PEDRO TOLEDO BARROS 158 LOJA, LIMEIRA - SP
+          - Text: 08h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 139
+      - Store Card 415: GRAND D ANTO SANTO ANDRE
+          - Icon: Americanas logo
+          - Text: GRAND D ANTO SANTO ANDRE
+          - Text: AVENIDA DOM PEDRO I 281 LJT, SANTO ANDRE - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 416: PRESIDENTE ERITACIO
+          - Icon: Americanas logo
+          - Text: PRESIDENTE ERITACIO
+          - Text: AVENIDA PRESIDENTE VARGAS 11 10 TERRE, PRESIDENTE ERITACIO -
+            SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 417: MOGI GUACU
+          - Icon: Americanas logo
+          - Text: MOGI GUACU
+          - Text: PRACA PADRE ARMANDO 18, MOGI GUACU - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 140
+      - Store Card 418: BELA VISTA
+          - Icon: Americanas logo
+          - Text: BELA VISTA
+          - Text: RUA SANTO AMARO 468 LULA, SAO PAULO - SP
+          - Text: 09h00 às 19h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 419: IV CAMPINAS
+          - Icon: Americanas logo
+          - Text: IV CAMPINAS
+          - Text: AV IGUATEMI 777, CAMPINAS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 420: IBIRAPIUERA SP
+          - Icon: Americanas logo
+          - Text: IBIRAPIUERA SP
+          - Text: RUA IBIRAPIUERA 101, SAO PAULO - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 141
+      - Store Card 421: SHC S.J.CAMPOS
+          - Icon: Americanas logo
+          - Text: SHC S.J.CAMPOS
+          - Text: AV DEP BENEDITO MATARAZ 9403 LJ E, SAO JOSE DOS CAMPOS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 422: SHC INTERLAGOS
+          - Icon: Americanas logo
+          - Text: SHC INTERLAGOS
+          - Text: AVENIDA INTERLAGOS 2500, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 423: ASSIS
+          - Icon: Americanas logo
+          - Text: ASSIS
+          - Text: RUA RUI BARBOSA 792, ASSIS - SP
+          - Text: 08h00 às 18h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 142
+      - Store Card 424: SHC IGUATEMI SAO JOSE DO RIO P
+          - Icon: Americanas logo
+          - Text: SHC IGUATEMI SAO JOSE DO RIO P
+          - Text: AVENIDA PRESIDENTE JUSCELINO KUBITSCHCHECK DE OLIVEIRA 500
+            LOJA 12, SAO JOSE DO RIO PRETO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 425: SHC IGUATEMI RIBEIRAO PRETO
+          - Icon: Americanas logo
+          - Text: SHC IGUATEMI RIBEIRAO PRETO
+          - Text: AVENIDA LUIZ EDUARDO TOLEDO 900 LOJA L, RIBEIRAO PRETO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 426: ENSEADA GUARUJA
+          - Icon: Americanas logo
+          - Text: ENSEADA GUARUJA
+          - Text: RUA COLOMBIA 481 LOJA 204, GUARUJA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 143
+      - Store Card 427: SHC VILA OLIMPIA
+          - Icon: Americanas logo
+          - Text: SHC VILA OLIMPIA
+          - Text: RUA OLIMPIADAS 360 LUC N01 222, SAO PAULO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 428: SHC S. BERNARDO
+          - Icon: Americanas logo
+          - Text: SHC S. BERNARDO
+          - Text: PRACA SAMUEL SABATINI 200 LOJA 1, SAO BERNARDO DO CAMPO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 429: SHC PARQUE DAS BANDEIRAS
+          - Icon: Americanas logo
+          - Text: SHC PARQUE DAS BANDEIRAS
+          - Text: AVENIDA JOHN BOYD DUNLOP 3900 ESP COML, CAMPINAS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 144
+      - Store Card 430: SHC TATUAPÉ
+          - Icon: Americanas logo
+          - Text: SHC TATUAPÉ
+          - Text: RUA DOMINGOS AGOSTIM 91 LJ 03, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 431: SHC VALINHOS
+          - Icon: Americanas logo
+          - Text: SHC VALINHOS
+          - Text: RUA LUIZ SPADAFORI 981 NELLA (SULA) 161 LJ 01, VALINHOS - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 432: SHC GARDEN CATANDUVA
+          - Icon: Americanas logo
+          - Text: SHC GARDEN CATANDUVA
+          - Text: AVENIDA ENGENHEIRO JOSE NELSON MACHADO 1100 LJ 12, CATANDUVA -
+            SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 145
+      - Store Card 433: SHC SANTO ANDRE
+          - Icon: Americanas logo
+          - Text: SHC SANTO ANDRE
+          - Text: RUA DOUTOR ANTONIO QUEIROZ 94 LJ S.A 20, SANTO ANDRE - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 434: SHC TABOAO DA SERRA
+          - Icon: Americanas logo
+          - Text: SHC TABOAO DA SERRA
+          - Text: RUA JURUMIRIM S/N PARQUE FM 271.5 S/N LJ 94 A, TABOAO DA SERRA
+            - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 435: SHC SUZANO
+          - Icon: Americanas logo
+          - Text: SHC SUZANO
+          - Text: AVENIDA ANCHIETA 555 LJ 50/51, SUZANO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 146
+      - Store Card 436: SHC PARQUE SANTANA
+          - Icon: Americanas logo
+          - Text: SHC PARQUE SANTANA
+          - Text: AV CONSELHEIRO MOREIRA DE BARROS 2790 LJ 1011, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 437: SHC TAMBORE
+          - Icon: Americanas logo
+          - Text: SHC TAMBORE
+          - Text: AVENIDA FRANCISCO MORATO 2718 LJ 201, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 438: SHC BUTANTA
+          - Icon: Americanas logo
+          - Text: SHC BUTANTA
+          - Text: AVENIDA FRANCISCO MORATO 2718 LJ 201, SAO PAULO - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 147
+      - Store Card 439: GUARULHA
+          - Icon: Americanas logo
+          - Text: GUARULHA
+          - Text: RUA PULCIO 276 TERREO, GUARULHA - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 440: SHC GUARULHOS
+          - Icon: Americanas logo
+          - Text: SHC GUARULHOS
+          - Text: RODOVIA PRESIDENTE DUTRA KM 230 S/N LJ B 06, GUARULHOS - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 441: SHC SANTA URSULA
+          - Icon: Americanas logo
+          - Text: SHC SANTA URSULA
+          - Text: RUA SAO JOSE 913 LJ 315/320, RIBEIRAO PRETO - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+  - Row 148
+      - Store Card 442: SHC PATIO LIMEIRA
+          - Icon: Americanas logo
+          - Text: SHC PATIO LIMEIRA
+          - Text: RUA CARLOS GOMES 1321 LUC 201 P1, LIMEIRA - SP
+          - Text: 10h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 443: SHC PRACA
+          - Icon: Americanas logo
+          - Text: SHC PRACA
+          - Text: RUA SAO JOAO 2930 2934/2946, SAO JOSE DO RIO PRETO - SP
+          - Text: 08h00 às 20h00
+          - Icon: Clock
+          - Text: fechada
+      - Store Card 444: SHC MAUA PLAZA
+          - Icon: Americanas logo
+          - Text: SHC MAUA PLAZA
+          - Text: AVENIDA FRANCISCO MARIO COVAS JUNIOR 1 LJ 01, MAUA - SP
+          - Text: 09h00 às 22h00
+          - Icon: Clock
+          - Text: fechada
+
+Floating Icons
+
+  - Icon: Clock (red square with white clock icon, left side)
+  - Icon: Accessibility (blue square with white person icon, right side)
+
+Footer Section
+
+  - Link: sac 4003 4848
+  - Link: guia de segurança
+  - Link: especial beleza
+  - Link: americanas advertising
+  - Link: entregas e devoluções
+  - Logo: americanas (red text)
+  - Dropdown Menu: mais informações (state: collapsed)
+      - Icon: Down arrow (next to 'mais informações')
+  - Social Media Icon: Instagram
+  - Social Media Icon: YouTube
+  - Social Media Icon: Facebook
+  - Social Media Icon: TikTok
+  - Text: americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição
+    Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 – Rio de Janeiro,
+    RJ – 20081-902
+  - Link: Mapa do site

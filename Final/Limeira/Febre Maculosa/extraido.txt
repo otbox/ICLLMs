@@ -1,0 +1,197 @@
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Saúde", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Divisão de Vigilância de Zoonoses" with a down arrow, enabled,
+    next to separator.
+
+Main Content Area - Article: Febre Maculosa
+
+  - Title: "Febre Maculosa", enabled, below breadcrumbs.
+  - Text: "Compartilhe", enabled, top right of article content.
+  - Icon: Printer icon (Share button), enabled, right of "Compartilhe".
+  - Icon: Instagram icon (Share button), enabled, next to printer icon.
+  - Icon: Facebook icon (Share button), enabled, next to Instagram icon.
+  - Icon: "X" icon (Share button), enabled, next to Facebook icon.
+  - Icon: WhatsApp icon (Share button), enabled, next to "X" icon.
+  - Image: Green banner with text "FEBRE MACULOSA O QUE PRECISO SABER?",
+    enabled, below share buttons.
+  - Subtitle: "O que é?", enabled, below banner.
+  - Paragraph: "Uma doença transmitida pela picada ou esmagamento do
+    carrapato-estrela infectado pela bactéria da febre maculosa.", enabled,
+    below subtitle.
+  - Subtitle: "Como é o carrapato estrela?", enabled, below paragraph.
+  - Image: Diagram showing different stages of a tick: "Larva (micuim)", "Ninfa
+    (vermelhinho)", "Adulto", enabled, below subtitle.
+  - Paragraph: "Todas as fases podem transmitir a bactéria da febre maculosa!",
+    enabled, below image.
+  - Subtitle: "Onde pode ocorrer o carrapato?", enabled, below paragraph.
+  - Paragraph: "Áreas verdes diversas com gramado, pasto, além de mata fechada.
+    Principalmente se esses locais forem próximos de lagos, rios e córregos, e
+    frequentados por capivaras, cavalos ou outros animais silvestres.", enabled,
+    below subtitle.
+  - Section header: "Atenção!!", purple background, enabled, below paragraph.
+  - Section header: "Às vezes, o carrapato não é visto. Nem a picada sentida!",
+    purple background, enabled, below "Atenção!!".
+  - Paragraph: "Se você frequentar uma área suspeita da ocorrência do carrapato
+    e entre 2 e 14 dias apresentar um dos sintomas, procure imediatamente o
+    atendimento médico e informe que esteve nesse local!", enabled, below
+    section header.
+  - Paragraph: "Essa informação salva vidas!", enabled, below previous
+    paragraph.
+  - Subtitle: "Quais são os sintomas?", enabled, below previous paragraph.
+  - List item: "Febre;", enabled.
+  - List item: "Dor de cabeça e no corpo;", enabled.
+  - List item: "Falta de apetite, diarreia e vômito;", enabled.
+  - List item: "Manchas vermelhas pelo corpo.", enabled.
+  - Paragraph: "Importante: se a doença não for tratada nos primeiros dias, pode
+    agravar-se e levar à morte.", enabled, below list.
+  - Subtitle: "Qual o tratamento?", enabled, below paragraph.
+  - Paragraph: "Tratamento com prescrição médica, preferencialmente com
+    Doxiciclina e como segunda opção, o Cloranfenicol.", enabled, below
+    subtitle.
+  - Subtitle: "Como se prevenir?", enabled, below paragraph.
+  - List item: "Evite caminhar, sentar ou deitar em áreas verdes;", enabled.
+  - List item: "Caso precise andar nesses locais, utilize roupas claras, bota,
+    calça comprida (com a barra da calça presa à bota com fita adesiva larga);",
+    enabled.
+  - List item: "Evite manter animais em áreas suspeitas para infestação de
+    carrapato;", enabled.
+  - List item: "Ao entrar nessas áreas, inspecione seu corpo e do seu animal a
+    cada 2 a 3 horas, minuciosamente, à procura de carrapato;", enabled.
+  - List item: "Realize o controle e prevenção de carrapatos nos seus animais,
+    seguindo orientação do veterinário;", enabled.
+  - List item: "Mantenha o gramado rente ao solo.", enabled.
+  - Subtitle: "Como retirar o carrapato?", enabled, below list.
+  - List item: "Retire com uma pinça, fazendo uma leve torção;", enabled.
+  - List item: "Não espremê-lo com as unhas para evitar a infecção.", enabled.
+  - Link: "Clique aqui e acesse o Guia de Vigilância em Saúde com informações
+    detalhadas", enabled, below list.
+  - Section header: "Informações:", enabled, below link.
+  - Text: "Divisão de Vigilância Epidemiológica: 3441.1914 • 3442.5984",
+    enabled, below "Informações:".
+  - Text: "Divisão de Vigilância de Zoonoses: 3441.3548 • 3451.3546", enabled,
+    below previous text.
+  - Text: "eOuve: 156", enabled, below previous text.
+
+Right Sidebar - Quick Access/Services
+
+  - Button: "Limeira Digital" with a document icon, enabled, top of sidebar.
+  - Button: "IPTU e Dívida Ativa/ Mobiliário" with a document icon, enabled.
+  - Button: "Consulta Medicamentos" with a heart icon, enabled.
+  - Button: "Consulta de Processos" with a speech bubble icon, enabled.
+  - Button: "Multas de Trânsito" with a document icon, enabled.
+  - Button: "Certidões" with an envelope icon, enabled.
+  - Button: "Leis Orçamentárias" with a document icon, enabled.
+  - Button: "Vagas do PAT" with a document icon, enabled.
+  - Button: "PROCON" with a computer monitor icon, enabled.
+  - Button: "Chamamento Público" with a hand icon, enabled.
+  - Button: "Parcelamento Online" with a globe icon, enabled.
+  - Button: "Licitações" with a handshake icon, enabled.
+      - Image: "Acessivel.com VLibras" button/widget, enabled, floating over the
+        right sidebar.
+      - Icon: Hand icon (Libras/sign language), enabled, floating over the right
+        sidebar.
+  - Button: "Plano Diretor 2025-2035" with a magnifying glass icon, enabled.
+  - Button: "Dengue" with a mosquito icon, enabled.
+  - Button: "Cadastro Habitacional" with a house icon, enabled.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below
+    "Endereço:".
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

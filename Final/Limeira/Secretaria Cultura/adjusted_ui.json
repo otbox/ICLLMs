@@ -1,0 +1,1462 @@
+{
+  "ui": [
+    {
+      "id": "button_Button_0",
+      "type": "Button",
+      "text": null,
+      "coordenadas": [
+        68,
+        5,
+        30,
+        30
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "a11y-controls__theme",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491803357.png"
+      }
+    },
+    {
+      "id": "button_Button_1",
+      "type": "Button",
+      "text": null,
+      "coordenadas": [
+        108,
+        5,
+        30,
+        30
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "a11y-controls__inc-font",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491803580.png"
+      }
+    },
+    {
+      "id": "button_Button_2",
+      "type": "Button",
+      "text": null,
+      "coordenadas": [
+        148,
+        5,
+        30,
+        30
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "a11y-controls__dec-font",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491803754.png"
+      }
+    },
+    {
+      "id": "button_Button_3",
+      "type": "Button",
+      "text": null,
+      "coordenadas": [
+        188,
+        5,
+        30,
+        30
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "a11y-controls__zoom",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491803921.png"
+      }
+    },
+    {
+      "id": "a_A_4",
+      "type": "A",
+      "text": null,
+      "coordenadas": [
+        228,
+        5,
+        30,
+        30
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491804091.png"
+      }
+    },
+    {
+      "id": "a_A_5",
+      "type": "A",
+      "text": "Acesse o mapa do site",
+      "coordenadas": [
+        268,
+        5,
+        30,
+        30
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "a11y-mapa",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491804260.png"
+      }
+    },
+    {
+      "id": "a_A_6",
+      "type": "A",
+      "text": "Ir para o conteúdo",
+      "coordenadas": [
+        794,
+        12,
+        130,
+        16
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491804448.png"
+      }
+    },
+    {
+      "id": "a_A_7",
+      "type": "A",
+      "text": "Ir para o menu",
+      "coordenadas": [
+        928,
+        12,
+        104,
+        16
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491804602.png"
+      }
+    },
+    {
+      "id": "a_A_8",
+      "type": "A",
+      "text": "Ir para a busca",
+      "coordenadas": [
+        1032,
+        12,
+        0,
+        16
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491804776.png"
+      }
+    },
+    {
+      "id": "a_A_9",
+      "type": "A",
+      "text": "Ir para o rodapé",
+      "coordenadas": [
+        1032,
+        12,
+        0,
+        16
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491804940.png"
+      }
+    },
+    {
+      "id": "a_A_10",
+      "type": "A",
+      "text": null,
+      "coordenadas": [
+        62,
+        73,
+        235,
+        74
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "site-title  ",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491805190.png"
+      }
+    },
+    {
+      "id": "busca",
+      "type": "Input",
+      "text": "Digite a sua busca",
+      "coordenadas": [
+        350,
+        60,
+        334,
+        40
+      ],
+      "meta": {
+        "tag": "input",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_input_1765491805348.png"
+      }
+    },
+    {
+      "id": "button_Button_11",
+      "type": "Button",
+      "text": null,
+      "coordenadas": [
+        655,
+        71,
+        19,
+        19
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491805575.png"
+      }
+    },
+    {
+      "id": "a_A_12",
+      "type": "A",
+      "text": "IPTU 2025",
+      "coordenadas": [
+        350,
+        139,
+        78,
+        17
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "em-alta__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491805949.png"
+      }
+    },
+    {
+      "id": "a_A_13",
+      "type": "A",
+      "text": "Nota Fiscal Eletrônica",
+      "coordenadas": [
+        443,
+        139,
+        151,
+        17
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "em-alta__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491806195.png"
+      }
+    },
+    {
+      "id": "a_A_14",
+      "type": "A",
+      "text": "Licitações",
+      "coordenadas": [
+        609,
+        139,
+        75,
+        17
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "em-alta__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491806360.png"
+      }
+    },
+    {
+      "id": "a_A_15",
+      "type": "A",
+      "text": "Acessar o Portal da Transparência",
+      "coordenadas": [
+        689,
+        93,
+        150,
+        33
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491806522.png"
+      }
+    },
+    {
+      "id": "a_A_16",
+      "type": "A",
+      "text": "Facebook",
+      "coordenadas": [
+        1032,
+        95,
+        0,
+        30
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "facebook",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491806900.png"
+      }
+    },
+    {
+      "id": "a_A_17",
+      "type": "A",
+      "text": "Instagram",
+      "coordenadas": [
+        1032,
+        95,
+        0,
+        29
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "instagram",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491807126.png"
+      }
+    },
+    {
+      "id": "a_A_18",
+      "type": "A",
+      "text": "Youtube",
+      "coordenadas": [
+        1032,
+        95,
+        0,
+        29
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "youtube",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491807296.png"
+      }
+    },
+    {
+      "id": "a_A_19",
+      "type": "A",
+      "text": "Linkedin",
+      "coordenadas": [
+        1032,
+        95,
+        0,
+        30
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "linkedin",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491807461.png"
+      }
+    },
+    {
+      "id": "a_A_20",
+      "type": "A",
+      "text": "Rss",
+      "coordenadas": [
+        1032,
+        95,
+        0,
+        29
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "rss",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491807633.png"
+      }
+    },
+    {
+      "id": "a_A_21",
+      "type": "A",
+      "text": "eOuve - Atendimento ao Cidadão",
+      "coordenadas": [
+        1032,
+        89,
+        0,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "eouve",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491807804.png"
+      }
+    },
+    {
+      "id": "a_A_22",
+      "type": "A",
+      "text": "Leis Municipais",
+      "coordenadas": [
+        488,
+        184,
+        108,
+        47
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "site-nav__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491808148.png"
+      }
+    },
+    {
+      "id": "a_A_23",
+      "type": "A",
+      "text": "A Prefeitura",
+      "coordenadas": [
+        62,
+        184,
+        101,
+        47
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "site-nav__link dropdown__main-button",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491808399.png"
+      }
+    },
+    {
+      "id": "a_A_24",
+      "type": "A",
+      "text": "Secretarias",
+      "coordenadas": [
+        212,
+        184,
+        98,
+        47
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "site-nav__link dropdown__main-button",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491808744.png"
+      }
+    },
+    {
+      "id": "a_A_25",
+      "type": "A",
+      "text": "Imprensa",
+      "coordenadas": [
+        357,
+        184,
+        83,
+        47
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "site-nav__link dropdown__main-button",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491810396.png"
+      }
+    },
+    {
+      "id": "a_A_26",
+      "type": "A",
+      "text": "Consultas",
+      "coordenadas": [
+        645,
+        184,
+        88,
+        47
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "site-nav__link dropdown__main-button",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491810646.png"
+      }
+    },
+    {
+      "id": "a_A_27",
+      "type": "A",
+      "text": "Cidadão",
+      "coordenadas": [
+        803,
+        187,
+        103,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "submenu-header__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491813603.png"
+      }
+    },
+    {
+      "id": "a_A_28",
+      "type": "A",
+      "text": "Empresa",
+      "coordenadas": [
+        922,
+        187,
+        103,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "submenu-header__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491814393.png"
+      }
+    },
+    {
+      "id": "a_A_29",
+      "type": "A",
+      "text": "Servidor",
+      "coordenadas": [
+        1032,
+        187,
+        0,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "submenu-header__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491814529.png"
+      }
+    },
+    {
+      "id": "a_A_30",
+      "type": "A",
+      "text": "Turismo",
+      "coordenadas": [
+        1032,
+        187,
+        0,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "submenu-header__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491814702.png"
+      }
+    },
+    {
+      "id": "a_A_31",
+      "type": "A",
+      "text": "Início",
+      "coordenadas": [
+        80,
+        284,
+        72,
+        44
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "breadcrumbs__item",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491815028.png"
+      }
+    },
+    {
+      "id": "a_A_32",
+      "type": "A",
+      "text": "Secretarias",
+      "coordenadas": [
+        188,
+        284,
+        117,
+        44
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "breadcrumbs__item",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491815269.png"
+      }
+    },
+    {
+      "id": "button_Button_33",
+      "type": "Button",
+      "text": "Cultura",
+      "coordenadas": [
+        343,
+        284,
+        111,
+        44
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "dropdown__main-button",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491815474.png"
+      }
+    },
+    {
+      "id": "a_A_34",
+      "type": "A",
+      "text": "SECRETARIA MUNICIPAL DE CULTURA",
+      "coordenadas": [
+        80,
+        436,
+        292,
+        21
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491816761.png"
+      }
+    },
+    {
+      "id": "a_A_35",
+      "type": "A",
+      "text": "Departamento vai coordenar políticas públicas de igualdade racial em Limeira",
+      "coordenadas": [
+        80,
+        518,
+        362,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491817202.png"
+      }
+    },
+    {
+      "id": "a_A_36",
+      "type": "A",
+      "text": "DEPARTAMENTO DE PROMOÇÃO DA IGUALDADE RACIAL",
+      "coordenadas": [
+        80,
+        634,
+        434,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491817476.png"
+      }
+    },
+    {
+      "id": "a_A_37",
+      "type": "A",
+      "text": "Agenda de Eventos - Cultura e Turismo Limeira",
+      "coordenadas": [
+        80,
+        716,
+        356,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491817634.png"
+      }
+    },
+    {
+      "id": "a_A_38",
+      "type": "A",
+      "text": "Visita Virtual ao Museu",
+      "coordenadas": [
+        80,
+        798,
+        173,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491817806.png"
+      }
+    },
+    {
+      "id": "a_A_39",
+      "type": "A",
+      "text": "LEI ALDIR BLANC 2 - 2025",
+      "coordenadas": [
+        80,
+        880,
+        364,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491817974.png"
+      }
+    },
+    {
+      "id": "a_A_40",
+      "type": "A",
+      "text": "Oficinas culturais 2024 - Edital de Chamamento",
+      "coordenadas": [
+        80,
+        961,
+        303,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491818146.png"
+      }
+    },
+    {
+      "id": "a_A_41",
+      "type": "A",
+      "text": "Solicitação de data para o teatro vitória",
+      "coordenadas": [
+        80,
+        1043,
+        243,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491818314.png"
+      }
+    },
+    {
+      "id": "a_A_42",
+      "type": "A",
+      "text": "Parque da cidade",
+      "coordenadas": [
+        80,
+        1125,
+        316,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491818484.png"
+      }
+    },
+    {
+      "id": "a_A_43",
+      "type": "A",
+      "text": "Agenda de Cultura e Eventos",
+      "coordenadas": [
+        80,
+        1207,
+        369,
+        20
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "list-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491818657.png"
+      }
+    },
+    {
+      "id": "select_Select_44",
+      "type": "Select",
+      "text": "1\n                    2",
+      "coordenadas": [
+        434,
+        1301,
+        53,
+        36
+      ],
+      "meta": {
+        "tag": "select",
+        "classe": "pagination__select",
+        "is_dropdown": true,
+        "nivel": 0,
+        "screenshot": "L0_select_1765491818831.png"
+      }
+    },
+    {
+      "id": "button_Button_45",
+      "type": "Button",
+      "text": "Anteriores",
+      "coordenadas": [
+        826,
+        1299,
+        40,
+        40
+      ],
+      "meta": {
+        "tag": "button",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_button_1765491820003.png"
+      }
+    },
+    {
+      "id": "a_A_46",
+      "type": "A",
+      "text": "REGULAMENTOS",
+      "coordenadas": [
+        926,
+        284,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491820333.png"
+      }
+    },
+    {
+      "id": "a_A_47",
+      "type": "A",
+      "text": "TEATRO",
+      "coordenadas": [
+        926,
+        362,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491820573.png"
+      }
+    },
+    {
+      "id": "a_A_48",
+      "type": "A",
+      "text": "BIBLIOTECAS",
+      "coordenadas": [
+        926,
+        439,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491820744.png"
+      }
+    },
+    {
+      "id": "a_A_49",
+      "type": "A",
+      "text": "CARTA DE SERVIÇOS",
+      "coordenadas": [
+        926,
+        517,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491820912.png"
+      }
+    },
+    {
+      "id": "a_A_50",
+      "type": "A",
+      "text": "CONSELHO MUNICIPAL DE CULTURA",
+      "coordenadas": [
+        926,
+        594,
+        106,
+        78
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491821082.png"
+      }
+    },
+    {
+      "id": "a_A_51",
+      "type": "A",
+      "text": "EDITAIS",
+      "coordenadas": [
+        926,
+        680,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491821254.png"
+      }
+    },
+    {
+      "id": "a_A_52",
+      "type": "A",
+      "text": "CENTRO DE CIÊNCIAS E CULTURA",
+      "coordenadas": [
+        926,
+        757,
+        106,
+        78
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491821424.png"
+      }
+    },
+    {
+      "id": "a_A_53",
+      "type": "A",
+      "text": "LEI ALDIR BLANC",
+      "coordenadas": [
+        926,
+        843,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491821594.png"
+      }
+    },
+    {
+      "id": "a_A_54",
+      "type": "A",
+      "text": "OFICINAS CULTURAIS 2022",
+      "coordenadas": [
+        926,
+        920,
+        106,
+        78
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491821768.png"
+      }
+    },
+    {
+      "id": "a_A_55",
+      "type": "A",
+      "text": "FUNDO MUNICIPAL DE CULTURA",
+      "coordenadas": [
+        926,
+        1006,
+        106,
+        78
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491821933.png"
+      }
+    },
+    {
+      "id": "a_A_56",
+      "type": "A",
+      "text": "MUSEU",
+      "coordenadas": [
+        926,
+        1091,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491822104.png"
+      }
+    },
+    {
+      "id": "a_A_57",
+      "type": "A",
+      "text": "CADASTRO MUNICIPAL DE ARTISTAS E ESPAÇOS CULTURAIS",
+      "coordenadas": [
+        926,
+        1169,
+        106,
+        102
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491822274.png"
+      }
+    },
+    {
+      "id": "a_A_58",
+      "type": "A",
+      "text": "LEI PAULO GUSTAVO",
+      "coordenadas": [
+        926,
+        1278,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491822445.png"
+      }
+    },
+    {
+      "id": "a_A_59",
+      "type": "A",
+      "text": "CONSULTA PÚBLICA DE ARTISTAS LIMEIRENSES",
+      "coordenadas": [
+        926,
+        1356,
+        106,
+        78
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491822617.png"
+      }
+    },
+    {
+      "id": "a_A_60",
+      "type": "A",
+      "text": "AGENDA CULTURAL",
+      "coordenadas": [
+        926,
+        1441,
+        106,
+        70
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "sidebar__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491822786.png"
+      }
+    },
+    {
+      "id": "a_A_61",
+      "type": "A",
+      "text": "Leis Municipais",
+      "coordenadas": [
+        232,
+        1576,
+        126,
+        18
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu-rodape__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823029.png"
+      }
+    },
+    {
+      "id": "a_A_62",
+      "type": "A",
+      "text": "Secretarias",
+      "coordenadas": [
+        431,
+        1576,
+        97,
+        18
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu-rodape__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823135.png"
+      }
+    },
+    {
+      "id": "a_A_63",
+      "type": "A",
+      "text": "Imprensa",
+      "coordenadas": [
+        601,
+        1576,
+        81,
+        18
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu-rodape__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823315.png"
+      }
+    },
+    {
+      "id": "a_A_64",
+      "type": "A",
+      "text": "Consultas",
+      "coordenadas": [
+        756,
+        1576,
+        87,
+        18
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu-rodape__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823486.png"
+      }
+    },
+    {
+      "id": "a_A_65",
+      "type": "A",
+      "text": "Autarquias e Conselhos",
+      "coordenadas": [
+        916,
+        1576,
+        116,
+        18
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu-rodape__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823655.png"
+      }
+    },
+    {
+      "id": "a_A_66",
+      "type": "A",
+      "text": "Cidadão",
+      "coordenadas": [
+        62,
+        1596,
+        103,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823901.png"
+      }
+    },
+    {
+      "id": "a_A_67",
+      "type": "A",
+      "text": "Empresa",
+      "coordenadas": [
+        62,
+        1652,
+        103,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491823995.png"
+      }
+    },
+    {
+      "id": "a_A_68",
+      "type": "A",
+      "text": "Servidor",
+      "coordenadas": [
+        62,
+        1708,
+        103,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491824173.png"
+      }
+    },
+    {
+      "id": "a_A_69",
+      "type": "A",
+      "text": "Turismo",
+      "coordenadas": [
+        62,
+        1764,
+        103,
+        41
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "lista-menu__grid-item__link",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491824347.png"
+      }
+    },
+    {
+      "id": "a_A_70",
+      "type": "A",
+      "text": "Facebook",
+      "coordenadas": [
+        206,
+        1750,
+        30,
+        36
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "facebook",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491824594.png"
+      }
+    },
+    {
+      "id": "a_A_71",
+      "type": "A",
+      "text": "Instagram",
+      "coordenadas": [
+        241,
+        1750,
+        30,
+        35
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "instagram",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491824684.png"
+      }
+    },
+    {
+      "id": "a_A_72",
+      "type": "A",
+      "text": "Youtube",
+      "coordenadas": [
+        276,
+        1750,
+        30,
+        35
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "youtube",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491824854.png"
+      }
+    },
+    {
+      "id": "a_A_73",
+      "type": "A",
+      "text": "Linkedin",
+      "coordenadas": [
+        311,
+        1750,
+        30,
+        36
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "linkedin",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491825027.png"
+      }
+    },
+    {
+      "id": "a_A_74",
+      "type": "A",
+      "text": "Rss",
+      "coordenadas": [
+        346,
+        1750,
+        30,
+        35
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "rss",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491825197.png"
+      }
+    },
+    {
+      "id": "a_A_75",
+      "type": "A",
+      "text": "eOuve - Atendimento ao Cidadão",
+      "coordenadas": [
+        377,
+        1745,
+        46,
+        45
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "eouve",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491825364.png"
+      }
+    },
+    {
+      "id": "a_A_76",
+      "type": "A",
+      "text": "Termo de Uso e Políticas de Privacidade",
+      "coordenadas": [
+        997,
+        1750,
+        35,
+        17
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491826032.png"
+      }
+    },
+    {
+      "id": "a_A_77",
+      "type": "A",
+      "text": "LGPD - Pesquisa de Satisfação",
+      "coordenadas": [
+        997,
+        1771,
+        35,
+        17
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491826267.png"
+      }
+    },
+    {
+      "id": "a_A_78",
+      "type": "A",
+      "text": null,
+      "coordenadas": [
+        1032,
+        1758,
+        0,
+        32
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "icon back-to-top",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491826428.png"
+      }
+    },
+    {
+      "id": "a_A_79",
+      "type": "A",
+      "text": "eCrie - Sistema de Gerenciamento de Site",
+      "coordenadas": [
+        602,
+        1833,
+        120,
+        32
+      ],
+      "meta": {
+        "tag": "a",
+        "classe": "",
+        "is_dropdown": false,
+        "nivel": 0,
+        "screenshot": "L0_a_1765491826627.png"
+      }
+    }
+  ]
+}

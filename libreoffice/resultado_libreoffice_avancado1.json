@@ -1,6 +1,7 @@
 {
   "metadata": {
     "app": "LibreOffice",
+    "numberofComponents" : 311,
     "duration_seconds": 50.74446249008179,
     "config": "ExtractorConfig(app_path='C:\\\\Program Files\\\\LibreOffice\\\\program\\\\swriter.exe', output_file='resultado_libreoffice_avancado.json', use_multithreading=False, max_workers=4, take_screenshots=True, screenshot_dir='imgs_lo_avancado', max_depth=30, connect_timeout=10)",
     "banlist": "BanlistConfig(nomes_exatos={'AplicativoArquivo', 'Fechar', 'Ajuda', 'Minimizar', 'Restaurar', 'Barra de título', 'System'}, classes={'SysShadow', 'MSCTFIME UI', 'ToolTip'}, nomes_parciais={'Novo', 'Arquivo', 'Ajuda'})"

@@ -1,0 +1,225 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Topmost Header Bar
+
+  - Logo: cadence (text logo)
+  - Text: Viva o que importa
+  - Text: simplifique
+  - Link: saiba mais >
+  - Text: PUBLICIDADE
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: User profile
+  - Text: olá, stoco8718... (truncated)
+      - Icon: Down arrow (next to user name)
+      - Link: minha conta
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 1 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Button: baixe o app
+  - Button: faça seu cartão
+  - Button: mais vendidos
+  - Button: nossas lojas
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: outlet
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Link: brinquedos
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+  - Link: dia das bruxas
+
+Main Content Area
+
+Heading
+
+  - Heading 2: Dinossauros de brinquedo
+
+Left Sidebar - Filter Section
+
+  - Heading: filtrar por
+
+      - Filter Category: Categoria
+          - Checkbox: acessórios para bicicleta (0)
+          - Checkbox: artes e atividades (271)
+          - Checkbox: bicicleta de equilíbrio (5)
+          - Checkbox: bicicleta infantil (43)
+          - Checkbox: blocos de montar (167)
+          - Checkbox: boneca (429)
+          - Link: ver tudo
+      - Filter Category: Gênero
+          - Checkbox: menino (2)
+          - Checkbox: unissex (1)
+      - Filter Category: Preço
+          - Checkbox: R 0 - R 25
+          - Checkbox: R 25 - R 50
+          - Checkbox: R 50 - R 100
+          - Checkbox: R 100 - R 250
+          - Checkbox: R 250 - R 500
+          - Checkbox: R 500 - R 1.000
+          - Link: ver tudo
+      - Filter Category: Condição do Item
+          - Checkbox: novo (12)
+      - Filter Category: Marca
+          - Checkbox: brink+ (2)
+          - Checkbox: candide (2)
+          - Checkbox: homeplay (1)
+          - Checkbox: não disponível (9)
+      - Filter Category: Produto Internacional
+          - Checkbox: não (9)
+          - Checkbox: sim (3)
+
+Right Content Area - Product Listing
+
+  - Heading: listagem de produtos
+  - Text: 14 produtos encontrados
+  - Dropdown Menu: ordenar por: mais relevantes (state: expanded/open)
+      - Icon: Down arrow (next to 'mais relevantes')
+  - Button: grid (state: selected)
+      - Icon: Grid layout
+  - Button: lista
+      - Icon: List layout
+
+Product Cards (Grid Layout)
+
+  - Product Card 1: DINO CEGONHEIRA
+      - Image: Green dinosaur-themed truck with small cars.
+      - Icon: Shopping cart (red square with white cart)
+      - Icon: Globe (labeled "Internacional")
+      - Text: DINO CEGONHEIRA
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 39,99
+  - Product Card 2: CJT COM 2 DINOSSAUROS BRINK+
+      - Image: Packaging with multiple dinosaur figures.
+      - Icon: Shopping cart
+      - Text: CJT COM 2 DINOSSAUROS BRINK+
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 19,99
+  - Product Card 3: ROBO ALIVE DINO DNA CANDIDE 1145
+      - Image: Red and blue dinosaur robots with riders.
+      - Icon: Shopping cart
+      - Icon: Globe (labeled "Internacional")
+      - Text: ROBO ALIVE DINO DNA CANDIDE 1145
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 149,99
+      - Text: em 3x de R$ 49,99 sem juros no cartão de crédito
+  - Product Card 4: Dinossauro Eletrônico Bota Ovos Brinquedo An...
+      - Image: Brown dinosaur figure with a box.
+      - Icon: Shopping cart
+      - Text: Dinossauro Eletrônico Bota Ovos Brinquedo An...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 63,59
+  - Product Card 5: Dinossauro Am...
+      - Image: Brown dinosaur figure in packaging. (partially visible)
+      - Icon: Shopping cart (partially visible)
+      - Text: Dinossauro Am... (truncated, likely Dinossauro Grande
+        Braquiossauro Marrom)
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0) (partially
+        visible)
+      - Price: R$ 61,37 (partially visible)
+  - Product Card 6: King Monster Godzilla Gigante Dinossauro
+      - Image: Godzilla-like monster figure.
+      - Icon: Shopping cart
+      - Text: King Monster Godzilla Gigante Dinossauro
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 105,99
+      - Text: em 2x de R$ 52,99 sem juros no cartão de crédito
+  - Product Card 7: Dinossauro Cibernético Rex Que Anda E Solta...
+      - Image: Brown T-Rex figure with blue accents.
+      - Icon: Shopping cart
+      - Text: Dinossauro Cibernético Rex Que Anda E Solta...
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price: R$ 82,68
+  - Product Card 8: Dinossauro Grande Braquiossauro Marrom...
+      - Image: Large brown brachiosaurus figure in packaging.
+      - Icon: Shopping cart
+      - Text: Dinossauro Grande Braquiossauro Marrom...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 61,37
+  - Product Card 9: DINOSSAUROS BEAST ALIVE CRIATURAS 1147...
+      - Image: Collection of small dinosaur figures.
+      - Icon: Shopping cart
+      - Icon: Globe (labeled "Internacional")
+      - Text: DINOSSAUROS BEAST ALIVE CRIATURAS 1147...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 19,99
+  - Product Card 10: Ovo Dinossauro Smashers Light Verde Série Grande...
+      - Image: Green dinosaur egg toy.
+      - Icon: Shopping cart
+      - Text: Ovo Dinossauro Smashers Light Verde Série Grande...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 466,35
+      - Text: em 8x de R$ 58,29 sem juros no cartão de crédito
+  - Product Card 11: Dinossauro World Tiranossauro Rex 2088 -...
+      - Image: Brown T-Rex figure.
+      - Icon: Shopping cart
+      - Text: Dinossauro World Tiranossauro Rex 2088 -...
+      - Star Rating: 3 filled stars, 1 half-filled star (text: 3.5)
+      - Price: R$ 148,29
+      - Text: em 2x de R$ 74,14 sem juros no cartão de crédito
+  - Product Card 12: Smashers ovo dino ilha do pirata medio - fun
+      - Image: Pirate-themed dinosaur egg toy.
+      - Icon: Shopping cart
+      - Text: Smashers ovo dino ilha do pirata medio - fun
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 149,99
+      - Text: em 3x de R$ 49,99 sem juros no cartão de crédito
+  - Product Card 13: Dragão com Luz e Som - Brink+ (partially visible)
+      - Image: Two dragon figures, blue and red.
+      - Icon: Shopping cart
+      - Text: Dragão com Luz e Som - Brink+
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 49,99
+
+Pagination / Load More
+
+  - Text: Mostrando 12 de 14
+  - Button: ver mais produtos (red button)
+
+Floating Icons
+
+  - Icon: Clock (red square with white clock icon, left side)
+  - Icon: Accessibility (blue square with white person icon, right side)
+
+Footer Section
+
+  - Link: sac 4003 4848
+  - Link: guia de segurança
+  - Link: dia das bruxas
+  - Link: black friday
+  - Link: entregas e devoluções
+  - Logo: americanas (red text)
+  - Dropdown Menu: mais informações (state: collapsed)
+      - Icon: Down arrow (next to 'mais informações')
+  - Social Media Icon: Instagram
+  - Social Media Icon: YouTube
+  - Social Media Icon: Facebook
+  - Social Media Icon: TikTok
+  - Text: americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição
+    Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 – Rio de Janeiro,
+    RJ – 20081-902
+  - Link: Mapa do site

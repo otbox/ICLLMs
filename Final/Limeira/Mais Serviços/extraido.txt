@@ -1,0 +1,338 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", selected, green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Main Content Area - Cidadão Section
+
+  - Title: "Cidadão", enabled, below primary navigation bar.
+
+  - Floating Element: Icon (Hand symbol for Libras), enabled, right side of the
+    page.
+
+      - Section: Animais
+
+          - Section title: "Animais" with a blue dot icon, enabled, left column.
+          - Link: "Atendimento animal", enabled.
+          - Link: "Castração", enabled.
+          - Link: "Programa Castra + Limeira", enabled.
+          - Link: "Microchipagem", enabled.
+          - Link: "Resgate de Animais", enabled.
+
+      - Section: Atendimento
+
+          - Section title: "Atendimento" with a blue dot icon, enabled, right
+            column.
+          - Link: "Limeira Digital", enabled.
+          - Link: "Carta de Serviços", enabled.
+          - Link: "Certidões", enabled.
+          - Link: "Lei de Acesso à Informação", enabled.
+          - Link: "Manual de Procedimentos de Processos Administrativos",
+            enabled.
+          - Link: "Governo", enabled.
+          - Link: "Telefones úteis", enabled.
+          - Link: "Lista Telefônica", enabled.
+
+      - Section: Casa e Moradia
+
+          - Section title: "Casa e Moradia" with a blue dot icon, enabled, left
+            column.
+          - Link: "Certidões e Documentos", enabled.
+          - Link: "Conjuntos Habitacionais", enabled.
+          - Link: "Construção e Reforma", enabled.
+          - Link: "Cópias", enabled.
+          - Link: "Impostos e Taxas", enabled.
+          - Link: "Regularização", enabled.
+          - Link: "Cadastro Habitacional", enabled.
+
+      - Section: Conselhos
+
+          - Section title: "Conselhos" with a blue dot icon, enabled, right
+            column.
+          - Link: "Conselhos Municipais de Políticas Públicas", enabled.
+
+      - Section: Consultas
+
+          - Section title: "Consultas" with a blue dot icon, enabled, left
+            column.
+          - Link: "Processos, Leis e Decretos", enabled.
+          - Link: "Feriados Municipais e Pontos Facultativos", enabled.
+          - Link: "LDO - Consulta Pública", enabled.
+          - Link: "Medicamentos", enabled.
+          - Link: "Audiências e Consultas Públicas", enabled.
+
+      - Section: Cultura
+
+          - Section title: "Cultura" with a blue dot icon, enabled, right
+            column.
+          - Link: "Bibliotecas", enabled.
+          - Link: "Centro de Ciências", enabled.
+          - Link: "Cursos", enabled.
+          - Link: "Feira de Artes", enabled.
+          - Link: "Identidade", enabled.
+          - Link: "Orquestras e Bandas", enabled.
+          - Link: "Teatro", enabled.
+          - Link: "Regulamentos", enabled.
+
+      - Section: Denúncias e Fiscalização
+
+          - Section title: "Denúncias e Fiscalização" with a blue dot icon,
+            enabled, left column.
+          - Link: "Alimentos ou Medicamentos Estragados", enabled.
+          - Link: "Alvarás", enabled.
+          - Link: "Maus-Tratos Animais", enabled.
+          - Link: "Meio Ambiente", enabled.
+          - Link: "Poluição Sonora", enabled.
+          - Link: "Publicidade", enabled.
+          - Link: "Terreno Particular", enabled.
+
+      - Section: Educação
+
+          - Section title: "Educação" with a blue dot icon, enabled, right
+            column.
+          - Link: "Alfabetização de Jovens", enabled.
+          - Link: "Atendimento Especial", enabled.
+          - Link: "Bibliotecas", enabled.
+          - Link: "Bolsas de Estudos", enabled.
+          - Link: "Centro de Formação dos Professores", enabled.
+          - Link: "Cursos", enabled.
+          - Link: "Da Creche à Faculdade", enabled.
+          - Link: "Escola da Família", enabled.
+          - Link: "Legislação Educação", enabled.
+          - Link: "Seminários e Palestras", enabled.
+          - Link: "Transporte Escolar", enabled.
+          - Link: "Vagas", enabled.
+
+      - Section: Esporte e Lazer
+
+          - Section title: "Esporte e Lazer" with a blue dot icon, enabled, left
+            column.
+          - Link: "Centros Comunitários", enabled.
+          - Link: "Espaços Públicos", enabled.
+          - Link: "Estádios", enabled.
+          - Link: "Eventos Esportivos", enabled.
+          - Link: "Ginásios", enabled.
+          - Link: "Parques, Zoo e Horto", enabled.
+
+      - Section: Família e Assistência Social
+
+          - Section title: "Família e Assistência Social" with a blue dot icon,
+            enabled, right column.
+          - Link: "Casamento Comunitário", enabled.
+          - Link: "Central de Voluntário", enabled.
+          - Link: "Centros de Acolhimento", enabled.
+          - Link: "Restaurante de Baixo Custo", enabled.
+          - Link: "Serviços para a Família", enabled.
+          - Link: "Serviços para Criança e Adolescente", enabled.
+          - Link: "Serviços para o Idoso", enabled.
+          - Link: "Serviços para Pessoas com Deficiência", enabled.
+          - Link: "Unidades de Assistência Social", enabled.
+
+      - Section: Finanças e Documentos
+
+          - Section title: "Finanças e Documentos" with a blue dot icon,
+            enabled, left column.
+          - Link: "Dívida Ativa", enabled.
+          - Link: "IPTU e ITBI", enabled.
+
+      - Section: Impostos e Taxas
+
+          - Section title: "Impostos e Taxas" with a blue dot icon, enabled,
+            right column.
+          - Link: "Conselho Municipal de Contribuintes", enabled.
+
+      - Section: Meio Ambiente
+
+          - Section title: "Meio Ambiente" with a blue dot icon, enabled, left
+            column.
+          - Link: "Agricultor", enabled.
+          - Link: "Água", enabled.
+          - Link: "Alvarás, Licenças e Autorizações", enabled.
+          - Link: "Árvores e Mudas", enabled.
+          - Link: "Aterro Sanitário", enabled.
+          - Link: "Educação Ambiental", enabled.
+          - Link: "Fiscalização", enabled.
+          - Link: "Parques, Zoo e Horto", enabled.
+          - Link: "Podadores de Árvores", enabled.
+          - Link: "PSA", enabled.
+          - Link: "Reciclagem", enabled.
+
+      - Section: Ouvidoria Geral
+
+          - Section title: "Ouvidoria Geral" with a blue dot icon, enabled,
+            right column.
+          - Link: "Ouvidoria", enabled.
+          - (Note: There is a horizontal rule below this section, but no more
+            visible content.)
+
+      - Section: Atendimento ao Cidadão
+
+          - Section title: "Atendimento ao Cidadão" with a blue dot icon,
+            enabled, left column.
+          - Link: "Banco do Povo", enabled.
+          - Link: "Poupatempo Estadual", enabled.
+          - Link: "PAT", enabled.
+          - Link: "Procon", enabled.
+          - Link: "Sala do Empreendedor", enabled.
+
+      - Section: Rua e Bairro
+
+          - Section title: "Rua e Bairro" with a blue dot icon, enabled, right
+            column.
+          - Link: "Audiências Públicas", enabled.
+          - Link: "Controle de Pragas Urbanas", enabled.
+          - Link: "Dengue", enabled.
+          - Link: "Feiras e Mercados", enabled.
+          - Link: "Feiras Livres", enabled.
+          - Link: "Interdição de Rua", enabled.
+          - Link: "Limpeza", enabled.
+          - Link: "Manutenção", enabled.
+          - Link: "Rede de Galerias", enabled.
+
+      - Section: Saúde
+
+          - Section title: "Saúde" with a blue dot icon, enabled, left column.
+          - Link: "Atendimento", enabled.
+          - Link: "Conselho Municipal de Saúde", enabled.
+          - Link: "Especialidades", enabled.
+          - Link: "Exames Laboratoriais", enabled.
+          - Link: "Infecções Sexualmente Transmissíveis", enabled.
+          - Link: "Locais de Atendimentos", enabled.
+          - Link: "Medicamentos", enabled.
+          - Link: "Nutrição", enabled.
+          - Link: "Ouvidoria Saúde", enabled.
+          - Link: "Saúde Bucal", enabled.
+          - Link: "Saúde da Criança e Adolescente", enabled.
+          - Link: "Saúde da Mulher", enabled.
+          - Link: "Saúde Deficientes", enabled.
+          - Link: "Saúde do Idoso", enabled.
+          - Link: "Saúde Mental", enabled.
+          - Link: "Vacina", enabled.
+          - Link: "Vigilância Epidemiológica", enabled.
+          - Link: "Vigilância Sanitária", enabled.
+          - Link: "Vigilância Saúde do Trabalhador", enabled.
+          - Link: "Divisão de Vigilância de Zoonoses", enabled.
+
+      - Section: Segurança
+
+          - Section title: "Segurança" with a blue dot icon, enabled, right
+            column.
+          - Link: "Órgãos", enabled.
+
+      - Section: Trabalho
+
+          - Section title: "Trabalho" with a blue dot icon, enabled, left
+            column.
+          - Link: "Cursos Profissionalizantes", enabled.
+          - Link: "Posto de Atendimento ao Trabalhador - PAT", enabled.
+          - Link: "Concursos Públicos", enabled.
+
+      - Section: Transporte
+
+          - Section title: "Transporte" with a blue dot icon, enabled, right
+            column.
+          - Link: "Estacionamentos", enabled.
+          - Link: "Estradas Rurais", enabled.
+          - Link: "Pedágio", enabled.
+          - Link: "Pedala Limeira", enabled.
+          - Link: "Táxi", enabled.
+          - Link: "Transporte Coletivo", enabled.
+          - Link: "Transporte de Passageiros", enabled.
+          - Link: "Transporte Escolar", enabled.
+          - Link: "Transporte para Deficientes", enabled.
+          - Link: "Transporte Público", enabled.
+
+Footer
+
+  - Button: "Cidadão", green background, selected, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

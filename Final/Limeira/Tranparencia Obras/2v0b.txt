@@ -1,0 +1,276 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Main Content Area (Transparency Portal / Dashboard)
+
+  - Text: "1.408.260.768", enabled, top left, below primary navigation bar.
+
+  - Icon: Building (representation of "Empenho"), enabled, top center.
+
+      - Text: "Total de Contratos", enabled, below icon.
+      - Text: "63.220.145,47", enabled, below text.
+
+  - Icon: Building (representation of "Total de Funcionários"), enabled.
+
+      - Text: "Total de Funcionários", enabled, below icon.
+      - Text: "6.913", enabled, below text.
+
+  - Icon: Money bag with arrow pointing left (representation of "Saldo
+    Anterior"), enabled.
+
+      - Text: "Saldo Anterior - Restos a pagar", enabled, below icon.
+      - Text: "54.283.278,67", enabled, below text.
+
+  - Icon: Money bag with arrow pointing left (representation of "Pago no
+    Exercício"), enabled.
+
+      - Text: "Pago no Exercício referente a Restos a Pagar", enabled, below
+        icon.
+      - Text: "117.690.821,18", enabled, below text.
+
+  - Tab: "Despesa", selected, enabled, below general statistics.
+
+  - Tab: (unlabeled, visually to the right of Despesa), enabled.
+
+  - Icon: Menu icon (three horizontal lines), enabled, right of the "Despesa"
+    tab.
+
+  - Card:
+
+      - Icon: Building, enabled, left side of card.
+      - Text: "Fixado Total: 1.972.234.376,60", enabled.
+
+  - Card:
+
+      - Icon: Building, enabled, left side of card.
+      - Text: "Empenhado: 1.537.142.880,92", enabled.
+      - Text: "Percentual empenhado sobre o total fixado: 77,94%", enabled.
+
+  - Card:
+
+      - Icon: Building, enabled, left side of card.
+      - Text: "Processado: 1.215.329.072,17", enabled.
+      - Text: "Percentual processado sobre o total fixado: 61,62%", enabled.
+
+  - Card:
+
+      - Icon: Building, enabled, left side of card.
+      - Text: "Pago: 1.121.643.655,38", enabled.
+      - Text: "Percentual pago sobre o total fixado: 56,87%", enabled.
+
+  - Card:
+
+      - Icon: Money bag with cross, enabled.
+      - Text: "Investimento em Saúde", enabled.
+      - Text: "158.881.952,91", enabled.
+
+  - Card:
+
+      - Icon: Map pin with path, enabled.
+      - Text: "Diárias/Viagens e Adiantamentos", enabled.
+      - Text: "926.623,00", enabled.
+
+  - Card:
+
+      - Icon: Map pin with path, enabled.
+      - Text: "Diárias/Viagens e Adiantamentos", enabled.
+      - Text: "926.623,00", enabled.
+
+  - Card:
+
+      - Icon: Gavel, enabled.
+      - Text: "Depósito de Precatórios", enabled.
+      - Text: "45.493.014,71", enabled.
+
+  - Tab: "Estatística de Acessos", selected, enabled, bottom left.
+
+  - Tab: (unlabeled, visually to the right of Estatística de Acessos), enabled.
+
+  - Icon: Menu icon (three horizontal lines), enabled, right of the "Estatística
+    de Acessos" tab.
+
+  - Bar chart:
+
+      - Y-axis labels: 22.000, 44.000, 66.000, 88.000, 110.000, enabled.
+      - Bars with various heights, each representing a month.
+      - X-axis labels: "Janeiro/2025", "Fevereiro/2025", "Março/2025",
+        "Abril/2025", "Maio/2025", "Junho/2025", "Julho/2025", "Agosto/2025",
+        "Setembro/2025", "Outubro/2025", enabled.
+
+  - Quick Access Links (Grid Layout - right side of main content)
+
+      - Card: Icon (person reading), Text: "Paralamentares", Text: "Pix",
+        enabled.
+
+      - Card: Icon (bookshelf), Text: "Administrativa", Text: "Conheça a
+        estrutura de nossas Secretarias", enabled.
+
+      - Card: Icon (file with arrow), Text: "formato aberto", Text: "faça aqui o
+        download das informações públicas que quiser", enabled.
+
+      - Card: Icon (speech bubbles), Text: "perguntas mais frequentes", Text:
+        "respostas a perguntas mais frequentes da sociedade", enabled.
+
+      - Card: Icon (Facebook logo), Text: "redes sociais", Text: "acesse nossa
+        página no Facebook", enabled.
+
+      - Card: Icon (map pin and document), Text: "Fluxograma - Prestação de
+        Contas", Text: "Fluxograma das Prestações de Contas do Regime de
+        Adiantamento", enabled.
+
+      - Card: Icon (briefcase with money), Text: "FUNDEB transparente", Text:
+        "Lei 6840-2022", enabled.
+
+      - Card: Icon (A-Z book), Text: "Glossário de termos orçamentários",
+        enabled.
+
+      - Card: Icon (newspaper), Text: "Jornal Oficial do Município", Text:
+        "jornal oficial do município", enabled.
+
+      - Card: Icon (magnifying glass over documents), Text: "Legislação
+        municipal", Text: "pesquise aqui a legislação municipal", enabled.
+
+      - Card: Icon (pie chart with money), Text: "Leis Orçamentárias", Text:
+        "PPA / LDO / LOA", enabled.
+
+      - Card: Icon (documents with money), Text: "Lei 9.452/1997", Text:
+        "Notificações de Liberação de Recursos Federais- Lei 9.452/1997",
+        enabled.
+
+      - Card: Icon (YouTube logo), Text: "Licitações Online", Text: "Licitações
+        Online", enabled.
+
+      - Card: Icon (police officer), Text: "Multas de Trânsito", Text: "multas
+        de transito", enabled.
+
+      - Card: Icon (document with pen), Text: "Multas Processadas", Text:
+        "Relatório de Multas Processadas no Município", enabled.
+
+      - Floating Icon: Hand symbol for Libras, enabled, over the right side.
+
+      - Card: Icon (bookshelf), Text: "Norma local", Text: "regulamentação do
+        acesso à informação em âmbito municipal", enabled.
+
+      - Card: Icon (construction worker), Text: "Obras municipais", Text:
+        "acompanhe aqui o andamento de todas as obras municipais", enabled.
+
+      - Card: Icon (person with speech bubble), Text: "Ouvidoria", Text:
+        "informações sobre o atendimento pela Ouvidoria", enabled.
+
+      - Card: Icon (red toll booth), Text: "Pedágio", Text: "Arrecadação x
+        Pagamentos", enabled.
+
+      - Card: Icon (blue toll booth), Text: "Pedágio", Text: "Arrecadação de
+        pedágio do município. Lei-5708-2016", enabled.
+
+      - Card: Icon (SIAFIC logo), Text: "Plano de Ação - SIAFIC", Text: "Plano
+        de Ação - SIAFIC", enabled.
+
+      - Card: Icon (documents), Text: "Plano de contratações anual", Text:
+        "Plano de contratações anual", enabled.
+
+      - Card: Icon (hospital bed), Text: "Planos de Gestão - Planejamento do
+        SUS", Text: "Planos de Gestão - Planejamento do SUS", enabled.
+
+      - Card: Icon (student), Text: "Plano Municipal de Educação", Text: "Plano
+        Municipal de Educação", enabled.
+
+      - Card: Icon (hospital cross), Text: "Plano Municipal de Saúde", Text:
+        "acesso ao ao Plano Municipal de Saúde", enabled.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

@@ -1,0 +1,210 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Top Header Bar
+
+  - Text: especial beleza
+  - Text: • seu cuidado começa aqui
+  - Text: • tudo em até 12x no cartão*
+  - Text: • queeero
+  - Icon: Right arrow (next to 'queeero')
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "Busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Icon: User profile
+  - Text: olá, faça seu lo... ou cadastre-se
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 0 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Button: baixe o app
+  - Button: faça seu cartão
+  - Button: mais vendidos
+  - Button: nossas lojas (state: selected, indicated by red underline)
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: outlet
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Link: brinquedos
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+  - Link: especial beleza
+
+Promotional Banner
+
+  - Image: Disney/Marvel characters (Iron Man, Captain Marvel, Black Panther,
+    etc.)
+  - Text overlay on image: comprou, ganhou
+  - Text overlay on image: um jogo da Disney ou Marvel na compra de qualquer
+    brinquedo a partir de R$79,99
+  - Button: saiba mais
+      - Icon: Information circle (next to 'confira as regras.')
+      - Text: confira as regras.
+
+Breadcrumbs
+
+  - Link: página inicial
+  - Icon: Right arrow (chevron)
+  - Link: nossas lojas
+
+Content Area - Store Listings
+
+Heading
+
+  - Heading 2: nossas lojas por estado
+  - Heading 3: Acre
+
+State Filter Tabs
+
+  - Tab: AC (state: selected)
+  - Tab: AL
+  - Tab: AM
+  - Tab: AP
+  - Tab: BA
+  - Tab: CE
+  - Tab: DF
+  - Tab: ES
+  - Tab: GO
+  - Tab: MA
+  - Tab: MG
+  - Tab: MS
+  - Tab: MT
+  - Tab: PA
+  - Tab: PB
+  - Tab: PE
+  - Tab: PI
+  - Tab: PR
+  - Tab: RJ
+  - Tab: RN
+  - Tab: RO
+  - Tab: RR
+  - Tab: RS
+  - Tab: SC
+  - Tab: SE
+  - Tab: SP
+  - Tab: TO
+
+Store Cards (Grid Layout)
+
+  - Store Card 1: Tarauaca - Americanas
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: Tarauaca - Americanas
+      - Text: Rua Quintino Bocaiuva, 70, Tarauaca - AC
+      - Text: 08h00 às 19h00
+      - Icon: Clock
+      - Text: fechada (state: likely red, indicating closed)
+  - Store Card 2: Feijó Express - Americanas
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: Feijó Express - Americanas
+      - Text: Avenida Marechal Deodoro, 96, Feijó - AC
+      - Text: 08h00 às 18h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 3: NACOES UNIDAS
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: NACOES UNIDAS
+      - Text: AVENIDA NACOES UNIDAS 2948, , RIO BRANCO - AC
+      - Text: 08h00 às 18h30
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 4: SHC VIA VERDE
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: SHC VIA VERDE
+      - Text: BR 364 VIA VERDE - SHOPPING 1707 LOJA 041, , RIO BRANCO - AC
+      - Text: 10h00 às 22h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 5: Epitaciolandia - Americanas
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: Epitaciolandia - Americanas
+      - Text: Avenida Santos Dumont, 385, Epitaciolandia - AC
+      - Text: 08h00 às 19h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 6: Sena Madureira - Americanas
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: Sena Madureira - Americanas
+      - Text: RUA PADRE EGIDIO, 119, Sena Madureira - AC
+      - Text: 08h00 às 18h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 7: GETULIO VARGAS
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: GETULIO VARGAS
+      - Text: AVENIDA GETULIO VARGAS 1348, , RIO BRANCO - AC
+      - Text: 08h00 às 18h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 8: CRUZEIRO DO SUL
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: CRUZEIRO DO SUL
+      - Text: AVENIDA BOULEVARD THAUMATURGO 338, , CRUZEIRO DO SUL - AC
+      - Text: 09h00 às 20h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 9: RIO BRANCO
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: RIO BRANCO
+      - Text: RUA RUI BARBOSA 400, RIO BRANCO - AC
+      - Text: 09h00 às 18h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 10: RIO BRANCO
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: RIO BRANCO
+      - Text: RUA QUINTINO BOCAIUVA 162 LOJA A, , RIO BRANCO - AC
+      - Text: 08h00 às 18h00
+      - Icon: Clock
+      - Text: fechada
+  - Store Card 11: SHC COPACABANA SHOPP
+      - Icon: Americanas logo (red square with white 'a')
+      - Text: SHC COPACABANA SHOPP
+      - Text: RUA 28 DE SETEMBRO 751, CRUZEIRO DO SUL - AC
+      - Text: 09h00 às 21h00
+      - Icon: Clock
+      - Text: fechada
+
+Floating Icons
+
+  - Icon: Clock (red square with white clock icon, left side)
+  - Icon: Accessibility (blue square with white person icon, right side)
+
+Footer Section
+
+  - Link: sac 4003 4848
+  - Link: guia de segurança
+  - Link: especial beleza
+  - Link: americanas advertising
+  - Link: entregas e devoluções
+  - Logo: americanas (red text)
+  - Dropdown Menu: mais informações
+      - Icon: Down arrow (next to 'mais informações')
+  - Social Media Icon: Instagram
+  - Social Media Icon: YouTube
+  - Social Media Icon: Facebook
+  - Social Media Icon: TikTok
+  - Text: americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição
+    Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 – Rio de Janeiro,
+    RJ – 20081-902
+  - Link: Mapa do site

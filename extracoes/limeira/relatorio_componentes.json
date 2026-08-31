@@ -1,0 +1,32 @@
+{
+  "pasta": "/home/otbox/Documentos/Projetos/ICLLMs/extracoes/limeira",
+  "arquivos": {
+    "cidadao/estrutura_ui_interativa.json": {
+      "components": 366
+    },
+    "cultura/estrutura_ui.json": {
+      "components": 340
+    },
+    "divisaozoonose/estrutura_ui.json": {
+      "components": 148
+    },
+    "geral/estrutura_ui.json": {
+      "components": 370
+    },
+    "inicio/estrutura_ui_final_sem_fallback.json": {
+      "components": 638
+    },
+    "transparecia/estrutura_ui.json": {
+      "components": 302
+    },
+    "transparecia/obras/estrutura_ui.json": {
+      "components": 1302
+    },
+    "saude/locais-de-atendimentos/estrutura_ui.json": {
+      "components": 324
+    },
+    "divisaozoonose/febre/estrutura_ui.json": {
+      "components": 154
+    }
+  }
+}

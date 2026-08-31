@@ -1,0 +1,3344 @@
+{
+    "ui_structure": [
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 0,
+                "w": 1248,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479012614.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "HeaderDesktop_logo__zH5Gr",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 81,
+                "w": 152,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479012833.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "busque aqui seu produto",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 530,
+                "y": 76,
+                "w": 615,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "search-input",
+            "ignorado": false,
+            "screenshot": "L0_input_1784479012993.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1114,
+                "y": 76,
+                "w": 48,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479013097.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "olá, faça seu login\nou cadastre-se",
+            "classe": "ButtonLogin_Container__sgzuk",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1212,
+                "y": 76,
+                "w": 171,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479013176.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Lista de lojas",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1432,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479013297.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Favoritos",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1488,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479013395.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "0",
+            "classe": "CartToggle_cartToggle__nPfqA",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1544,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479013477.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "informe seu CEP",
+            "classe": "RegionalizationBar_RegionBar__so5Ut",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 140,
+                "w": 140,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479013614.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "RegionModal_Close__YIXPX",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Digite o seu CEP",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": false,
+            "id_automacao": "shipping-input",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "confirmar CEP",
+            "classe": "RegionModal_ButtonSubmit__dnUOr",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": false,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "baixe o app",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 615,
+                "y": 140,
+                "w": 95,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014090.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "faça seu cartão",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 714,
+                "y": 140,
+                "w": 120,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014209.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "mais vendidos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 838,
+                "y": 140,
+                "w": 115,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014322.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "nossas lojas",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 958,
+                "y": 140,
+                "w": 102,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014424.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "entrega rápida",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1064,
+                "y": 140,
+                "w": 115,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014541.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "leve+ pague-",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 140,
+                "w": 103,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014660.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "ofertas da TV",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1290,
+                "y": 140,
+                "w": 107,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014757.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "outlet",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1400,
+                "y": 140,
+                "w": 55,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014873.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "oferta do dia",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1459,
+                "y": 140,
+                "w": 117,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479014977.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "todos os departamentos",
+            "classe": "MenuDesktop_allDepartments__Fca7J false",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 188,
+                "w": 235,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479015130.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "mercado",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 614,
+                "y": 180,
+                "w": 54,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015272.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "brinquedos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 703,
+                "y": 180,
+                "w": 69,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015358.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "celulares",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 807,
+                "y": 180,
+                "w": 56,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015474.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eletrodomésticos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 897,
+                "y": 180,
+                "w": 106,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015591.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "informática",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1037,
+                "y": 180,
+                "w": 68,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015690.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "áudio e vídeo",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1140,
+                "y": 180,
+                "w": 84,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015805.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eletroportáteis",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1258,
+                "y": 180,
+                "w": 89,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479015923.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "móveis",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1381,
+                "y": 180,
+                "w": 44,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479016040.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "dia das crianças",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1460,
+                "y": 180,
+                "w": 109,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479016158.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 240,
+                "w": 1248,
+                "h": 52
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479016280.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 316,
+                "w": 1248,
+                "h": 312
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479016478.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479016927.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 455,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017061.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 581,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017195.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 708,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017329.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 834,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017444.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017578.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1087,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017696.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1213,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017848.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1340,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479017965.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1466,
+                "y": 652,
+                "w": 99,
+                "h": 107
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479018095.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 783,
+                "w": 1248,
+                "h": 103
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479018246.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 934,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479018469.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 934,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479018597.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 934,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479018732.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 934,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479018892.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 934,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019048.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 1480,
+                "w": 405,
+                "h": 201
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019358.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 1480,
+                "w": 405,
+                "h": 201
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019489.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 1697,
+                "w": 405,
+                "h": 202
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019596.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 1697,
+                "w": 405,
+                "h": 202
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019701.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 1697,
+                "w": 405,
+                "h": 202
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019812.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 1915,
+                "w": 405,
+                "h": 202
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479019939.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 1915,
+                "w": 405,
+                "h": 202
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479020068.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 1915,
+                "w": 405,
+                "h": 202
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479020184.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 2297,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479020444.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 2297,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479020596.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 2297,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479020747.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 2297,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479020891.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 2775,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479021121.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 2775,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479021358.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 2775,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479021512.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 2775,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479021664.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "brinquedos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479021939.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "telefonia",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 486,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022074.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "chocolate",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022212.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "biscoitos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 802,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022341.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eletroportáteis",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022476.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "fraldas",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1118,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022611.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "beleza e perfumaria",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 3252,
+                "w": 142,
+                "h": 183
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022745.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eletrodomésticos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1434,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479022876.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "móveis",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023012.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "limpeza",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023142.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "TVs",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023277.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "utilidades\ndomésticas",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 183
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023411.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "cama, mesa\ne banho",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 183
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023563.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "papelaria",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023711.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "notebooks",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023843.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "climatização",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1592,
+                "y": 3252,
+                "w": 142,
+                "h": 162
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479023978.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Smartphone Motorola Moto G15 256GB 12GB RAM Boost Câmera 50MP com AI Tela 6.7\" NFC - Grafite\n5.0\nR$",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 3504,
+                "w": 230,
+                "h": 404
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479024662.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Smartphone Samsung Galaxy A06 128GB 4GB RAM Tela 6,7\" Câmera Traseira 50MP + 2MP Frontal 8MP Smartph",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 582,
+                "y": 3504,
+                "w": 230,
+                "h": 404
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479024813.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Smartphone Samsung Galaxy A16 128GB 4GB RAM Tela 6.7” FHD+ Super AMOLED Câmera de até 50MP Smartphon",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 836,
+                "y": 3504,
+                "w": 230,
+                "h": 404
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479024967.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Smartphone Motorola Moto G05 128GB 12GB RAM Boost Câmera 50MP AI Bateria de 5200 mAh Tela 6.7 - Cinz",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1090,
+                "y": 3504,
+                "w": 230,
+                "h": 404
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479025103.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Smartphone Motorola Moto G35 5G 256GB Tela 6.7\" 1.000NITS 12GB RAM Boost Câmera 50MP Selfie 16MP - C",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1344,
+                "y": 3504,
+                "w": 230,
+                "h": 404
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479025243.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "4.6\n28%",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1598,
+                "y": 3504,
+                "w": 230,
+                "h": 404
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479025399.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 644,
+                "y": 3985,
+                "w": 300,
+                "h": 454
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479027931.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 960,
+                "y": 3985,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028063.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1276,
+                "y": 3985,
+                "w": 300,
+                "h": 453
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028191.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "tablet xiaomi",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4579,
+                "w": 137,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028339.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "tablet",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4615,
+                "w": 137,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028454.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "maquiagem infantil",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4651,
+                "w": 137,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028526.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "barbie",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 588,
+                "y": 4579,
+                "w": 108,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028610.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "quebra cabeça",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 588,
+                "y": 4615,
+                "w": 108,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028693.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "baby alive",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 588,
+                "y": 4651,
+                "w": 108,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028776.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "tablet infantil",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 818,
+                "y": 4579,
+                "w": 113,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028860.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "nintendo switch",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 818,
+                "y": 4615,
+                "w": 113,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479028974.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "bola de futebol",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 818,
+                "y": 4651,
+                "w": 113,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029095.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "ps5",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1053,
+                "y": 4579,
+                "w": 78,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029181.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "hot wheels",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1053,
+                "y": 4615,
+                "w": 78,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029299.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "bala fini",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1053,
+                "y": 4651,
+                "w": 78,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029396.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "jogos ps5",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1254,
+                "y": 4579,
+                "w": 89,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029493.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "polly pocket",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1254,
+                "y": 4615,
+                "w": 89,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029595.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "controle ps5",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1254,
+                "y": 4651,
+                "w": 89,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029696.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "bicicleta infantil",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1465,
+                "y": 4579,
+                "w": 111,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029795.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "ps5 slim",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1465,
+                "y": 4615,
+                "w": 111,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479029911.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "s24",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1465,
+                "y": 4651,
+                "w": 111,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479030019.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "sac 4003 4848",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4754,
+                "w": 107,
+                "h": 22
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479030308.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "guia de segurança",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 608,
+                "y": 4743,
+                "w": 129,
+                "h": 44
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479030406.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "dia das crianças",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 888,
+                "y": 4754,
+                "w": 118,
+                "h": 22
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479030509.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "americanas advertising",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1168,
+                "y": 4743,
+                "w": 129,
+                "h": 44
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479030622.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "entregas e devoluções",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1448,
+                "y": 4743,
+                "w": 129,
+                "h": 44
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479030753.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4824,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4872,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4920,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4968,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 5016,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 5064,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 5112,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 5160,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 5208,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 5256,
+                "w": 289,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 4824,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 4872,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 4920,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 4968,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5016,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5064,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5112,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5160,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5208,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5256,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5304,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5352,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 738,
+                "y": 5400,
+                "w": 323,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 4824,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 4872,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 4920,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 4968,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 5016,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 5064,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1182,
+                "y": 5112,
+                "w": 185,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1488,
+                "y": 4824,
+                "w": 89,
+                "h": 48
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 4831,
+                "w": 163,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479032347.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "mais informações",
+            "classe": "FooterPayments_showMoreButton__BoZhy",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 868,
+                "y": 4811,
+                "w": 191,
+                "h": 44
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1784479032461.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1436,
+                "y": 4802,
+                "w": 24,
+                "h": 89
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479032659.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1474,
+                "y": 4802,
+                "w": 24,
+                "h": 89
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479032781.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1514,
+                "y": 4802,
+                "w": 24,
+                "h": 89
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479032900.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1552,
+                "y": 4802,
+                "w": 24,
+                "h": 89
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479032999.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Mapa do site",
+            "classe": "LegaIInformation_siteMap__paSpW",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 539,
+                "y": 4945,
+                "w": 826,
+                "h": 18
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1784479033154.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+a",
+            "classe": "_menu-close-btn _menu-btn material-icons",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2091,
+                "y": 4298,
+                "w": 61,
+                "h": 30
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Redefinir configurações",
+            "classe": "_menu-reset-btn _menu-btn material-icons",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2295,
+                "y": 4298,
+                "w": 84,
+                "h": 30
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4348,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4396,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4444,
+                "w": 281,
+                "h": 63
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4512,
+                "w": 281,
+                "h": 63
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4580,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4628,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+i",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4676,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+g",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4724,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+c",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4771,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+r",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4819,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+u",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4867,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+q",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 4914,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 4066,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "screenshot": "",
+            "filhos": []
+        }
+    ]
+}

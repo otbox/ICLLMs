@@ -1,0 +1,137 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Top Header Bar
+
+  - Text: especial beleza
+  - Text: • seu cuidado começa aqui
+  - Text: • tudo em até 12x no cartão*
+  - Text: • queeero
+  - Icon: Right arrow (next to 'queeero')
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Icon: User profile
+  - Text: olá, stoco8718... (truncated)
+      - Icon: Down arrow (next to user name)
+      - Link: minha conta
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 1 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Button: baixe o app
+  - Button: faça seu cartão
+  - Button: mais vendidos
+  - Button: nossas lojas
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: outlet
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Tab: brinquedos (state: selected, indicated by red underline)
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+  - Link: especial beleza
+
+Expanded Menu: 'brinquedos' (Dropdown, below 'brinquedos' tab)
+
+  - Link: ver tudo em brinquedos
+  - Link: bicicleta infantil
+  - Link: boneca
+  - Link: bebê reborn
+  - Link: consoles e games
+  - Link: dinossauros (state: highlighted/hovered, indicated by red text and
+    potentially underlying color which is not clearly distinguishable from the
+    background gray, but text color implies state)
+  - Link: hoverboard
+  - Link: patinete infantil
+  - Link: patins infantil
+  - Link: quebra cabeça
+  - Link: carrinho de controle remoto
+  - Link: cozinha infantil
+  - Link: jogos de tabuleiro
+  - Link: baby alive
+  - Link: barbie
+  - Link: hot wheels
+  - Link: lego
+
+"Vem pro app" Promotion (Right side, overlapping expanded menu)
+
+  - Text: vem pro app (large, bold text)
+  - Text: aponte a câmera do seu celular pra este quadradinho e baixe agora!
+  - Icon: QR code (on a phone screen graphic)
+  - Image: Phone showing Americanas app logo and QR code.
+
+Promotional Banner (below navigation)
+
+  - Text: só no app você aproveita ofertas ex
+  - Button: baixe o app (red button on right)
+  - Large Text: a semana ma s o co m
+  - Text: só com
+  - Text: olha só e
+  - Button: aproveite (partially visible)
+  - Information text: até 50% de desconto em itens selecionados.
+      - Icon: Information circle
+  - Pagination Dots: Multiple small circles, one is red (selected) indicating
+    current slide, others are gray.
+
+Quick Access Buttons (below main banner)
+
+  - Button: especial beleza
+      - Icon: Sparkle star
+  - Button: baixe o app!
+      - Icon: Americanas app logo
+  - Button: entrega rápida
+      - Text: *consulte seu cep (small text below button label)
+  - Button: leve+ pague-
+      - Icon: Plus sign
+  - Button: oferta do dia
+  - Button: ofertas da TV
+  - Button: oba, cupom
+  - Button: frete grátis
+      - Text: *consulte seu cep (small text below button label)
+  - Button: gift card
+      - Text: voltou!
+  - Button: outlet
+      - Text: até 75% de desconto (small text below button label)
+
+Promo Banner (lower section)
+
+  - Text: oba, cupom!
+  - Text: 10% de desconto
+  - Small text box: só no app! (with small app icon)
+  - Text: cupom: TOMA10 (with dashed border)
+  - Text: em itens selecionados
+  - Icon: Information circle
+  - Link: confira as regras.
+
+Floating Icons
+
+  - Icon: Clock (red square with white clock icon, left side)
+  - Icon: Accessibility (blue square with white person icon, right side)
+
+Browser Status Bar (Bottom Left)
+
+  - Icon: Small red Americanas logo (bug icon)
+  - Text:
+    www.americanas.com.br/brinquedos/dinossauros?chave=pc_cat_menu_dinossauros_brinquedos

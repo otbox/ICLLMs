@@ -1,0 +1,191 @@
+is_dropdown	nome	classe	tag	tipo_controle	nivel	x	y	w	h	visivel	habilitado	id_automacao	ignorado	screenshot
+0			a	A	0	328	0	1248	52	1	1		0	L0_a_1784479012614.png
+0		HeaderDesktop_logo__zH5Gr	a	A	0	328	81	152	30	1	1		0	L0_a_1784479012833.png
+0	busque aqui seu produto		input	Input	0	530	76	615	40	1	1	search-input	0	L0_input_1784479012993.png
+0			button	Button	0	1114	76	48	40	1	1		0	L0_button_1784479013097.png
+0	"olá, faça seu login
+ou cadastre-se"	ButtonLogin_Container__sgzuk	a	A	0	1212	76	171	40	1	1		0	L0_a_1784479013176.png
+0	Lista de lojas		button	Button	0	1432	80	32	32	1	1		0	L0_button_1784479013297.png
+0	Favoritos		button	Button	0	1488	80	32	32	1	1		0	L0_button_1784479013395.png
+0	0	CartToggle_cartToggle__nPfqA	button	Button	0	1544	80	32	32	1	1		0	L0_button_1784479013477.png
+0	informe seu CEP	RegionalizationBar_RegionBar__so5Ut	button	Button	0	328	140	140	40	1	1		0	L0_button_1784479013614.png
+0		RegionModal_Close__YIXPX	button	Button	0	0	0	0	0	0	1		1	
+0	Digite o seu CEP		input	Input	0	0	0	0	0	0	0	shipping-input	1	
+0	confirmar CEP	RegionModal_ButtonSubmit__dnUOr	button	Button	0	0	0	0	0	0	0		1	
+0			a	A	0	0	0	0	0	0	1		1	
+														
+0	baixe o app		a	A	0	615	140	95	40	1	1		0	L0_a_1784479014090.png
+0	faça seu cartão		a	A	0	714	140	120	40	1	1		0	L0_a_1784479014209.png
+0	mais vendidos		a	A	0	838	140	115	40	1	1		0	L0_a_1784479014322.png
+0	nossas lojas		a	A	0	958	140	102	40	1	1		0	L0_a_1784479014424.png
+0	entrega rápida		a	A	0	1064	140	115	40	1	1		0	L0_a_1784479014541.png
+0	leve+ pague-		a	A	0	1182	140	103	40	1	1		0	L0_a_1784479014660.png
+0	ofertas da TV		a	A	0	1290	140	107	40	1	1		0	L0_a_1784479014757.png
+0	outlet		a	A	0	1400	140	55	40	1	1		0	L0_a_1784479014873.png
+0	oferta do dia		a	A	0	1459	140	117	40	1	1		0	L0_a_1784479014977.png
+0	todos os departamentos	MenuDesktop_allDepartments__Fca7J false	button	Button	0	328	188	235	20	1	1		0	L0_button_1784479015130.png
+0	mercado		a	A	0	614	180	54	36	1	1		0	L0_a_1784479015272.png
+0	brinquedos		a	A	0	703	180	69	36	1	1		0	L0_a_1784479015358.png
+0	celulares		a	A	0	807	180	56	36	1	1		0	L0_a_1784479015474.png
+0	eletrodomésticos		a	A	0	897	180	106	36	1	1		0	L0_a_1784479015591.png
+0	informática		a	A	0	1037	180	68	36	1	1		0	L0_a_1784479015690.png
+0	áudio e vídeo		a	A	0	1140	180	84	36	1	1		0	L0_a_1784479015805.png
+0	eletroportáteis		a	A	0	1258	180	89	36	1	1		0	L0_a_1784479015923.png
+0	móveis		a	A	0	1381	180	44	36	1	1		0	L0_a_1784479016040.png
+0	dia das crianças		a	A	0	1460	180	109	36	1	1		0	L0_a_1784479016158.png
+0			a	A	0	328	240	1248	52	1	1		0	L0_a_1784479016280.png
+0			a	A	0	328	316	1248	312	1	1		0	L0_a_1784479016478.png
+0			a	A	0	328	652	99	107	1	1		0	L0_a_1784479016927.png
+0			a	A	0	455	652	99	107	1	1		0	L0_a_1784479017061.png
+0			a	A	0	581	652	99	107	1	1		0	L0_a_1784479017195.png
+0			a	A	0	708	652	99	107	1	1		0	L0_a_1784479017329.png
+0			a	A	0	834	652	99	107	1	1		0	L0_a_1784479017444.png
+0			a	A	0	960	652	99	107	1	1		0	L0_a_1784479017578.png
+0			a	A	0	1087	652	99	107	1	1		0	L0_a_1784479017696.png
+0			a	A	0	1213	652	99	107	1	1		0	L0_a_1784479017848.png
+0			a	A	0	1340	652	99	107	1	1		0	L0_a_1784479017965.png
+0			a	A	0	1466	652	99	107	1	1		0	L0_a_1784479018095.png
+0			a	A	0	328	783	1248	103	1	1		0	L0_a_1784479018246.png
+0			a	A	0	328	934	300	454	1	1		0	L0_a_1784479018469.png
+0			a	A	0	644	934	300	454	1	1		0	L0_a_1784479018597.png
+0			a	A	0	960	934	300	454	1	1		0	L0_a_1784479018732.png
+0			a	A	0	1276	934	300	454	1	1		0	L0_a_1784479018892.png
+0			a	A	0	1592	934	300	453	1	1		0	L0_a_1784479019048.png
+														
+0			a	A	0	750	1480	405	201	1	1		0	L0_a_1784479019358.png
+0			a	A	0	1171	1480	405	201	1	1		0	L0_a_1784479019489.png
+0			a	A	0	328	1697	405	202	1	1		0	L0_a_1784479019596.png
+0			a	A	0	750	1697	405	202	1	1		0	L0_a_1784479019701.png
+0			a	A	0	1171	1697	405	202	1	1		0	L0_a_1784479019812.png
+0			a	A	0	328	1915	405	202	1	1		0	L0_a_1784479019939.png
+0			a	A	0	750	1915	405	202	1	1		0	L0_a_1784479020068.png
+0			a	A	0	1171	1915	405	202	1	1		0	L0_a_1784479020184.png
+0			a	A	0	328	2297	300	454	1	1		0	L0_a_1784479020444.png
+0			a	A	0	644	2297	300	454	1	1		0	L0_a_1784479020596.png
+0			a	A	0	960	2297	300	454	1	1		0	L0_a_1784479020747.png
+0			a	A	0	1276	2297	300	454	1	1		0	L0_a_1784479020891.png
+0			a	A	0	328	2775	300	453	1	1		0	L0_a_1784479021121.png
+0			a	A	0	644	2775	300	453	1	1		0	L0_a_1784479021358.png
+0			a	A	0	960	2775	300	453	1	1		0	L0_a_1784479021512.png
+0			a	A	0	1276	2775	300	453	1	1		0	L0_a_1784479021664.png
+0	brinquedos		a	A	0	328	3252	142	162	1	1		0	L0_a_1784479021939.png
+0	telefonia		a	A	0	486	3252	142	162	1	1		0	L0_a_1784479022074.png
+0	chocolate		a	A	0	644	3252	142	162	1	1		0	L0_a_1784479022212.png
+0	biscoitos		a	A	0	802	3252	142	162	1	1		0	L0_a_1784479022341.png
+0	eletroportáteis		a	A	0	960	3252	142	162	1	1		0	L0_a_1784479022476.png
+0	fraldas		a	A	0	1118	3252	142	162	1	1		0	L0_a_1784479022611.png
+0	beleza e perfumaria		a	A	0	1276	3252	142	183	1	1		0	L0_a_1784479022745.png
+0	eletrodomésticos		a	A	0	1434	3252	142	162	1	1		0	L0_a_1784479022876.png
+0	móveis		a	A	0	1592	3252	142	162	1	1		0	L0_a_1784479023012.png
+0	limpeza		a	A	0	1592	3252	142	162	1	1		0	L0_a_1784479023142.png
+0	TVs		a	A	0	1592	3252	142	162	1	1		0	L0_a_1784479023277.png
+0	"utilidades
+domésticas"		a	A	0	1592	3252	142	183	1	1		0	L0_a_1784479023411.png
+0	"cama, mesa
+e banho"		a	A	0	1592	3252	142	183	1	1		0	L0_a_1784479023563.png
+0	papelaria		a	A	0	1592	3252	142	162	1	1		0	L0_a_1784479023711.png
+0	notebooks		a	A	0	1592	3252	142	162	1	1		0	L0_a_1784479023843.png
+0	climatização		a	A	0	1592	3252	142	162	1	1		0	L0_a_1784479023978.png
+0	"Smartphone Motorola Moto G15 256GB 12GB RAM Boost Câmera 50MP com AI Tela 6.7"" NFC - Grafite
+5.0
+R$"		a	A	0	328	3504	230	404	1	1		0	L0_a_1784479024662.png
+0	"Smartphone Samsung Galaxy A06 128GB 4GB RAM Tela 6,7"" Câmera Traseira 50MP + 2MP Frontal 8MP Smartph"		a	A	0	582	3504	230	404	1	1		0	L0_a_1784479024813.png
+0	Smartphone Samsung Galaxy A16 128GB 4GB RAM Tela 6.7” FHD+ Super AMOLED Câmera de até 50MP Smartphon		a	A	0	836	3504	230	404	1	1		0	L0_a_1784479024967.png
+0	Smartphone Motorola Moto G05 128GB 12GB RAM Boost Câmera 50MP AI Bateria de 5200 mAh Tela 6.7 - Cinz		a	A	0	1090	3504	230	404	1	1		0	L0_a_1784479025103.png
+0	"Smartphone Motorola Moto G35 5G 256GB Tela 6.7"" 1.000NITS 12GB RAM Boost Câmera 50MP Selfie 16MP - C"		a	A	0	1344	3504	230	404	1	1		0	L0_a_1784479025243.png
+0	"4.6
+28%"		a	A	0	1598	3504	230	404	1	1		0	L0_a_1784479025399.png
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+0			a	A	0	644	3985	300	454	1	1		0	L0_a_1784479027931.png
+0			a	A	0	960	3985	300	453	1	1		0	L0_a_1784479028063.png
+0			a	A	0	1276	3985	300	453	1	1		0	L0_a_1784479028191.png
+0	tablet xiaomi		a	A	0	328	4579	137	20	1	1		0	L0_a_1784479028339.png
+0	tablet		a	A	0	328	4615	137	20	1	1		0	L0_a_1784479028454.png
+0	maquiagem infantil		a	A	0	328	4651	137	20	1	1		0	L0_a_1784479028526.png
+0	barbie		a	A	0	588	4579	108	20	1	1		0	L0_a_1784479028610.png
+0	quebra cabeça		a	A	0	588	4615	108	20	1	1		0	L0_a_1784479028693.png
+0	baby alive		a	A	0	588	4651	108	20	1	1		0	L0_a_1784479028776.png
+0	tablet infantil		a	A	0	818	4579	113	20	1	1		0	L0_a_1784479028860.png
+0	nintendo switch		a	A	0	818	4615	113	20	1	1		0	L0_a_1784479028974.png
+0	bola de futebol		a	A	0	818	4651	113	20	1	1		0	L0_a_1784479029095.png
+0	ps5		a	A	0	1053	4579	78	20	1	1		0	L0_a_1784479029181.png
+0	hot wheels		a	A	0	1053	4615	78	20	1	1		0	L0_a_1784479029299.png
+0	bala fini		a	A	0	1053	4651	78	20	1	1		0	L0_a_1784479029396.png
+0	jogos ps5		a	A	0	1254	4579	89	20	1	1		0	L0_a_1784479029493.png
+0	polly pocket		a	A	0	1254	4615	89	20	1	1		0	L0_a_1784479029595.png
+0	controle ps5		a	A	0	1254	4651	89	20	1	1		0	L0_a_1784479029696.png
+0	bicicleta infantil		a	A	0	1465	4579	111	20	1	1		0	L0_a_1784479029795.png
+0	ps5 slim		a	A	0	1465	4615	111	20	1	1		0	L0_a_1784479029911.png
+0	s24		a	A	0	1465	4651	111	20	1	1		0	L0_a_1784479030019.png
+0	sac 4003 4848		a	A	0	328	4754	107	22	1	1		0	L0_a_1784479030308.png
+0	guia de segurança		a	A	0	608	4743	129	44	1	1		0	L0_a_1784479030406.png
+0	dia das crianças		a	A	0	888	4754	118	22	1	1		0	L0_a_1784479030509.png
+0	americanas advertising		a	A	0	1168	4743	129	44	1	1		0	L0_a_1784479030622.png
+0	entregas e devoluções		a	A	0	1448	4743	129	44	1	1		0	L0_a_1784479030753.png
+0			a	A	0	328	4824	289	48	0	1		1	
+0			a	A	0	328	4872	289	48	0	1		1	
+0			a	A	0	328	4920	289	48	0	1		1	
+0			a	A	0	328	4968	289	48	0	1		1	
+0			a	A	0	328	5016	289	48	0	1		1	
+0			a	A	0	328	5064	289	48	0	1		1	
+0			a	A	0	328	5112	289	48	0	1		1	
+0			a	A	0	328	5160	289	48	0	1		1	
+0			a	A	0	328	5208	289	48	0	1		1	
+0			a	A	0	328	5256	289	48	0	1		1	
+0			a	A	0	738	4824	323	48	0	1		1	
+0			a	A	0	738	4872	323	48	0	1		1	
+0			a	A	0	738	4920	323	48	0	1		1	
+0			a	A	0	738	4968	323	48	0	1		1	
+0			a	A	0	738	5016	323	48	0	1		1	
+0			a	A	0	738	5064	323	48	0	1		1	
+0			a	A	0	738	5112	323	48	0	1		1	
+0			a	A	0	738	5160	323	48	0	1		1	
+0			a	A	0	738	5208	323	48	0	1		1	
+0			a	A	0	738	5256	323	48	0	1		1	
+0			a	A	0	738	5304	323	48	0	1		1	
+0			a	A	0	738	5352	323	48	0	1		1	
+0			a	A	0	738	5400	323	48	0	1		1	
+0			a	A	0	1182	4824	185	48	0	1		1	
+0			a	A	0	1182	4872	185	48	0	1		1	
+0			a	A	0	1182	4920	185	48	0	1		1	
+0			a	A	0	1182	4968	185	48	0	1		1	
+0			a	A	0	1182	5016	185	48	0	1		1	
+0			a	A	0	1182	5064	185	48	0	1		1	
+0			a	A	0	1182	5112	185	48	0	1		1	
+0			a	A	0	1488	4824	89	48	0	1		1	
+0			a	A	0	328	4831	163	32	1	1		0	L0_a_1784479032347.png
+0	mais informações	FooterPayments_showMoreButton__BoZhy	button	Button	0	868	4811	191	44	1	1		0	L0_button_1784479032461.png
+0			a	A	0	1436	4802	24	89	1	1		0	L0_a_1784479032659.png
+0			a	A	0	1474	4802	24	89	1	1		0	L0_a_1784479032781.png
+0			a	A	0	1514	4802	24	89	1	1		0	L0_a_1784479032900.png
+0			a	A	0	1552	4802	24	89	1	1		0	L0_a_1784479032999.png
+0	Mapa do site	LegaIInformation_siteMap__paSpW	a	A	0	539	4945	826	18	1	1		0	L0_a_1784479033154.png
+0	Atalho: ctrl+alt+a	_menu-close-btn _menu-btn material-icons	button	Button	0	2091	4298	61	30	0	1		1	
+0	Redefinir configurações	_menu-reset-btn _menu-btn material-icons	button	Button	0	2295	4298	84	30	0	1		1	
+0			button	Button	0	2094	4348	281	43	0	1		1	
+0			button	Button	0	2094	4396	281	43	0	1		1	
+0			button	Button	0	2094	4444	281	63	0	1		1	
+0			button	Button	0	2094	4512	281	63	0	1		1	
+0			button	Button	0	2094	4580	281	43	0	1		1	
+0			button	Button	0	2094	4628	281	43	0	1		1	
+0	Atalho: ctrl+alt+i		button	Button	0	2094	4676	281	43	0	1		1	
+0	Atalho: ctrl+alt+g		button	Button	0	2094	4724	281	43	0	1		1	
+0	Atalho: ctrl+alt+c		button	Button	0	2094	4771	281	43	0	1		1	
+0	Atalho: ctrl+alt+r		button	Button	0	2094	4819	281	43	0	1		1	
+0	Atalho: ctrl+alt+u		button	Button	0	2094	4867	281	43	0	1		1	
+0	Atalho: ctrl+alt+q		button	Button	0	2094	4914	281	43	0	1		1	
+0			a	A	0	0	4066	0	0	0	1		1	

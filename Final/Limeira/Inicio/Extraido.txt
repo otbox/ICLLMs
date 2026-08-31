@@ -1,0 +1,306 @@
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Moon with a small cloud (weather icon), enabled, top right.
+  - Text: "26°", enabled, top right, next to weather icon.
+  - Text: "Céu limpo", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2026", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2026".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+  - Link: "Mobiliário 2026", enabled, below "Em alta:", next to "Licitações".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", selected, green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Main Content Area - Hero Section
+
+  - Image: A hand holding a smartphone displaying "MOBILIÁRIO 2026" and related
+    text, enabled, main left area.
+  - Image thumbnail: Document, selected, below main image.
+  - Image thumbnail: Document, enabled, next to selected thumbnail.
+  - Image thumbnail: Cityscape, enabled, next to previous thumbnail.
+  - Title: "Prefeitura de Limeira orienta contribuintes sobre acesso digital aos
+    tributos mobiliários", enabled, below main image.
+  - Paragraph: "Guias do ISSQN Fixo, Taxa de Fiscalização de Atividade e Taxa de
+    Licença para Publicidade e Propaganda devem ser emitidas pela internet",
+    enabled, below title.
+  - Text: "Há 2 dias", enabled, below paragraph.
+  - Icon: Share icon (square with an arrow), enabled, bottom right of the hero
+    section.
+
+Right Sidebar - Campaign Banner
+
+  - Banner: "Campanha do AGASALHO", enabled, top right side.
+      - Text: "TOTAL JÁ ARRECADADO:", enabled, inside banner.
+      - Text: "38.590 KG", enabled, inside banner, large font.
+      - Text: "ÚLTIMA ATUALIZAÇÃO 13/07", enabled, inside banner, below amount.
+      - Icon: Thermometer (partially filled), enabled, inside banner.
+      - Icon: Clapping hands, enabled, right side of banner.
+
+Right Sidebar - Acesso Rápido (Quick Access)
+
+  - Section title: "Acesso Rápido", enabled, below campaign banner.
+  - Button: "Mais serviços" with a green right arrow icon, enabled, right of
+    section title.
+  - Grid item: Icon (monitor), Text: "Limeira Digital", enabled.
+  - Grid item: Icon (calendar), Text: "Agenda de Eventos", enabled.
+  - Grid item: Icon (medical cross), Text: "Medicamentos", enabled.
+  - Grid item: Icon (map pin), Text: "Mapas Culturais", enabled.
+  - Grid item: Icon (house with money symbol), Text: "IPTU e Dívida
+    Ativa/Mobiliário", enabled.
+  - Grid item: Icon (magnifying glass), Text: "Consulta de Processos", enabled.
+  - Grid item: Icon (calendar), Text: "Agenda Fácil Saúde", enabled.
+  - Grid item: Icon (briefcase), Text: "Trampo Limeira", enabled.
+  - Grid item: Icon (paw print), Text: "Castra +", enabled.
+
+Right Sidebar - IPTU Banner
+
+  - Banner: "Acesse aqui", enabled, below quick access grid.
+      - Text: "IPTU 2026", enabled, inside banner.
+      - Text: "GOVERNO PROFISSIONAL E COM RESPONSABILIDADE", enabled, inside
+        banner, below "IPTU 2026".
+      - Image: Road construction scene, enabled, inside banner.
+
+Main Content Area - Acontece em Limeira (News Section)
+
+  - Section title: "Acontece em Limeira", enabled, left of the main content
+    area, below hero section.
+  - Dropdown menu: "Selecionar categoria" with a green down arrow, enabled, top
+    right of "Acontece em Limeira" section.
+  - Button: "Ver todos" with a green right arrow, enabled, right of "Selecionar
+    categoria".
+  - News article card:
+      - Image: Man with "ALERTA FAKE NEWS" stamp, enabled.
+      - Text: "Geral", enabled, category.
+      - Title: "Prefeitura de Limeira alerta para notícia falsa sobre falso
+        agente da dengue", enabled.
+      - Paragraph: "Mensagem que circula nas redes sociais utiliza imagem
+        antiga; município reforça que agentes de combate à dengue atuam
+        uniformizados e com crachá de identificação", enabled.
+      - Text: "Há 2 dias", enabled, time stamp.
+      - Icon: Share icon, enabled.
+  - News article card:
+      - Image: Plate of fried snacks, enabled.
+      - Text: "Geral", enabled, category.
+      - Title: "Seprosom abre inscrições para oficina gratuita de salgados",
+        enabled.
+      - Text: "Há 2 dias", enabled, time stamp.
+      - Icon: Share icon, enabled.
+  - News article card:
+      - Image: Group of people in a workshop, enabled.
+      - Text: "Cultura", enabled, category.
+      - Title: "Profissionais de creche em Limeira recebem formação antirracista
+        promovida pelo DPIR", enabled.
+      - Text: "Há 2 dias", enabled, time stamp.
+      - Icon: Share icon, enabled.
+  - News article card:
+      - Image: People in uniform inspecting items, enabled.
+      - Text: "Geral", enabled, category.
+      - Title: "Guarda Civil Municipal intensifica combate ao cerol e à linha
+        chilena durante as férias escolares", enabled.
+      - Text: "Há 2 dias", enabled, time stamp.
+      - Icon: Share icon, enabled.
+  - News article card:
+      - Image: Hands preparing aromatic oils, enabled.
+      - Text: "Fundo Social de Limeira", enabled, category.
+      - Title: "Fundo Social abre inscrições para oficina gratuita de
+        Aromaterapia e Saúde", enabled.
+      - Text: "Há 2 dias", enabled, time stamp.
+      - Icon: Share icon, enabled.
+  - News article card:
+      - Image: Person donating blood, enabled.
+      - Text: "Geral", enabled, category.
+      - Title: "Novas regras ampliam número de pessoas aptas a doar sangue em
+        Limeira", enabled.
+      - Text: "Há 2 dias", enabled, time stamp.
+      - Icon: Share icon, enabled.
+
+Right Sidebar - Serviços (Services)
+
+  - Section title: "Serviços", enabled, below IPTU banner.
+  - Grid item: Icon (star), Text: "Certidões", enabled.
+  - Grid item: Icon (trash can), Text: "Descarte de Resíduos", enabled.
+  - Grid item: Icon (gavel/law book), Text: "Leis Orçamentárias", enabled.
+  - Grid item: Icon (map pin), Text: "LIMEIRA GEO", enabled.
+  - Grid item: Icon (house), Text: "Cadastro Habitacional", enabled.
+  - Grid item: Icon (document with hand), Text: "Licitações", enabled.
+  - Grid item: Icon (pie chart), Text: "Plano Diretor 2025-2035", enabled.
+  - Grid item: Icon (mosquito), Text: "Dengue", enabled.
+  - Grid item: Icon (money bag), Text: "Multas de Trânsito", enabled.
+  - Grid item: Icon (document), Text: "Convênios BNDES", enabled.
+  - Grid item: Icon (happy face), Text: "Vagas em creche", enabled.
+  - Grid item: Icon (footprints), Text: "Posição Fila (exames consultas)",
+    enabled.
+
+Main Content Area - As mais lidas da semana (Most Read)
+
+  - Section title: "As mais lidas da semana" with a fire icon, enabled, bottom
+    left of the main content area.
+  - List item: "01 Seprosom abre inscrições para oficina gratuita de salgados",
+    enabled.
+  - List item: "02 Profissionais de creche em Limeira recebem formação
+    antirracista promovida pelo DPIR", enabled.
+  - List item: "03 Guarda Civil Municipal intensifica combate ao cerol e à linha
+    chilena durante as férias", enabled.
+  - List item: "04 Novas regras ampliam número de pessoas aptas a doar sangue em
+    Limeira", enabled.
+  - List item: "05 Prefeitura de Limeira altera horário da vacinação no Parque
+    Cidade neste sábado (18)", enabled.
+  - List item: "06 Operação Só Cacareco atende seis bairros na próxima semana em
+    Limeira", enabled.
+  - List item: "07 Arraiá Julino começa hoje em Limeira", enabled.
+  - List item: "08 Prefeitura intensifica recuperação de praças e áreas verdes
+    em Limeira", enabled.
+
+Main Content Area - Vagas de Emprego (Job Vacancies)
+
+  - Section title: "Vagas de Emprego" with a magnifying glass icon, enabled,
+    bottom center of the main content area.
+  - Button: "Ver todos" with a green right arrow, enabled, top right of the
+    section.
+  - Paragraph: "O PAT Limeira tem a vaga ideal para dar uma guinada na sua
+    trajetória profissional. Confira as oportunidades:", enabled, below section
+    title.
+  - Job listing: "VAGA PARA: AUXILIAR DE PRODUÇÃO E OPERAÇÃO MTE", enabled.
+      - Text: "Escolaridade: Ensino Fundamental", enabled, nested under job
+        listing.
+  - Job listing: "VAGA PARA: CAMAREIRO DE HOTEL MTE", enabled.
+      - Text: "Escolaridade: Ensino Fundamental", enabled, nested under job
+        listing.
+  - Job listing: "VAGA PARA: AUXILIAR DE LIMPEZA MTE", enabled.
+      - Text: "Escolaridade: Ensino Fundamental Incompleto", enabled, nested
+        under job listing.
+  - Job listing: "VAGA PARA: AUXILIAR DE LIMPEZA MTE", enabled.
+      - Text: "Escolaridade: Ensino Fundamental", enabled, nested under job
+        listing.
+  - Job listing: "VAGA PARA: FAXINEIRO MTE", enabled.
+      - Text: "Escolaridade: Ensino Fundamental Incompleto", enabled, nested
+        under job listing.
+  - Job listing: "VAGA PARA: TORNEIRO MECÂNICO MTE", enabled.
+      - Text: "Escolaridade: Ensino Médio", enabled, nested under job listing.
+
+Main Content Area - Histórias (Stories)
+
+  - Section title: "Histórias" with a play icon, enabled, bottom right of the
+    main content area.
+  - Paragraph: "Vídeos curtinhos para você acompanhar o dia a dia de Limeira.",
+    enabled, below section title.
+  - Image: City park/garden scene with text "você piscou", enabled.
+  - Button: Green right arrow (next story), enabled, overlaying the image on the
+    right.
+  - Button: Green left arrow (previous story), enabled, overlaying the image on
+    the left.
+
+Main Content Area - Desbrave nossa terra (Explore our land)
+
+  - Section title: "Desbrave nossa terra", enabled, across the bottom width of
+    the main content area.
+  - Image: Aerial view of a city, enabled, spanning width below section title.
+  - Title: "Limeira", enabled, below the city image.
+  - Paragraph: "Limeira, no coração do interior paulista, é uma cidade que
+    surpreende quem a visita. Conhecida nacionalmente como a Capital da
+    Semijoia, uma tradição industrial, charme urbano e uma energia acolhedora
+    típica do interior.", enabled, below "Limeira".
+  - Link: "Descubra como um improviso transformou Limeira numa potência de
+    semijoias", enabled, below paragraph.
+  - Text: "Acesse nosso portal de turismo", enabled, right of the "Limeira" text
+    block.
+  - Button: Green right arrow, enabled, right of "Acesse nosso portal de
+    turismo".
+  - Information card: Icon (person), Text: "População", Text: "300.728",
+    enabled.
+  - Information card: Icon (heart), Text: "Fundação", Text: "1826", enabled.
+  - Information card: Icon (starburst/flower), Text: "Gentílico", Text:
+    "Limeirense", enabled.
+  - Information card: Icon (house), Text: "CEP", Text: "13480-000", enabled.
+  - Information card: Icon (phone), Text: "DDD", Text: "19", enabled.
+  - Information card: Icon (map marker), Text: "Território", Text: "580,711
+    km²", enabled.
+  - Information card: Icon (building), Text: "Prefeito", Text: "Murilo Félix",
+    enabled.
+  - Image: Old train station and tracks, enabled, in a row of images below the
+    text.
+  - Image: Modern building exterior, enabled, next to train station image.
+  - Image: "EDIFÍCIO PRADA" building, enabled, next to modern building.
+  - Image: Church building, enabled, next to Prada building.
+  - Guide card: Text: "Guia", Text: "Hospedagem", Image: Bed with blanket and
+    pillows, enabled.
+  - Guide card: Text: "Guia", Text: "Gastronômico", Image: Pizza, enabled.
+  - Guide card: Text: "Guia", Text: "Lugares Incríveis", Image: World map,
+    enabled.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

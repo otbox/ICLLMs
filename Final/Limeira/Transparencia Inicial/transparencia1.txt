@@ -1,0 +1,236 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Left Application Bar
+
+  - Image: "PREFEITURA MUNICIPAL DE LIMEIRA" logo, enabled, top left.
+  - Button: Hamburger menu icon (three horizontal lines), enabled, next to the
+    logo.
+
+Top Tab Bar
+
+  - Tab: "LAI - Acesso Rápido(...)", selected, enabled.
+      - Icon: Close "X" icon, enabled, within the tab.
+  - Tab: "LAI - Obras (Novo).", enabled.
+      - Icon: Close "X" icon, enabled, within the tab.
+
+Top Right Global Controls
+
+  - Text: "Dados Abertos", enabled, top right.
+  - Button: "A+" (increase font size), enabled, next to "Dados Abertos".
+  - Button: "A-" (decrease font size), enabled, next to "A+".
+  - Button: Hamburger menu icon (three horizontal lines), enabled, next to "A-".
+  - Image: Brazilian flag, enabled, next to hamburger menu.
+  - Image: "etransparência pública" logo, enabled, next to Brazilian flag.
+  - Image: "conam" logo, enabled, next to "etransparência pública" logo.
+
+Main Content Area
+
+Section: Exercício
+
+  - Section title: "Exercício", enabled, top left of content area.
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Exercício" title.
+  - Button: "2025", selected, blue background, enabled.
+  - Button: "2024", enabled, next to "2025".
+  - Button: "2023", enabled, next to "2024".
+  - Button: "2022", enabled, next to "2023".
+  - Button: "2021", enabled, below "2025".
+  - Button: "2020", enabled, below "2024".
+
+Section: WhatsApp
+
+  - Section title: "WhatsApp", enabled, top center of content area.
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "WhatsApp" title.
+  - Icon: WhatsApp logo, large, enabled, below "WhatsApp" title.
+  - Text: "WhatsApp", enabled, below the WhatsApp logo.
+
+Section: Acesso Rápido (Quick Access Search)
+
+  - Section title: "Acesso Rápido", enabled, top right of content area.
+  - Icon: Magnifying glass icon, enabled, left of "O QUE PROCURA?".
+  - Text: "O QUE PROCURA?", enabled, below "Acesso Rápido" title.
+  - Text field: (empty, for input), enabled, below "O QUE PROCURA?".
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of the
+    text field.
+  - Button: "Filtrar" with a funnel icon, enabled, below text field, right
+    aligned.
+
+Section: Receita
+
+  - Section title: "Receita", enabled, left of content area, below "Exercício".
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Receita" title.
+  - Text: "Valor Previsto", enabled, below "Receita" title.
+  - Text: "1.999.042.000", enabled, below "Valor Previsto".
+  - Progress bar: Green, 70.45% filled, enabled.
+      - Text: "70,45%", enabled, inside progress bar.
+      - Text: "Percentual Arrecadado sobre o Previsto", enabled, below progress
+        bar.
+  - Text: "Valor Arrecadado", enabled, below progress bar.
+  - Text: "1.408.260.768", enabled, below "Valor Arrecadado".
+
+Section: Resumo (Summary Statistics)
+
+  - Section title: "Resumo", enabled, center of content area, below "WhatsApp".
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Resumo" title.
+  - Card:
+      - Icon: Refresh/circular arrow with clock icon, enabled.
+      - Text: "Atualização do Portal", enabled.
+      - Text: "28/10/2025 00:01:17", enabled.
+  - Card:
+      - Icon: Person with money bag, enabled.
+      - Text: "Investimento em Educação", enabled.
+      - Text: "262.167.334,70", enabled.
+  - Card:
+      - Icon: Information circle with "i", enabled.
+      - Text: "Total Atendimentos e-SIC", enabled.
+      - Text: "328", enabled.
+  - Card:
+      - Icon: Information circle with "i" (yellow), enabled.
+      - Text: "Total Acessos", enabled.
+      - Text: "874.470", enabled.
+  - Card:
+      - Icon: Folder icon, enabled.
+      - Text: "Compras / Licitações / Contratos", enabled.
+      - Text: "63.220.145,47", enabled.
+  - Card:
+      - Icon: Building (representation of "Total de Funcionários"), enabled.
+      - Text: "Total de Funcionários", enabled.
+      - Text: "6.913", enabled.
+  - Card:
+      - Icon: Money bag with arrow pointing left (representation of "Saldo
+        Anterior"), enabled.
+      - Text: "Saldo Anterior - Restos a pagar", enabled.
+      - Text: "54.283.278,67", enabled.
+  - Card:
+      - Icon: Money bag with arrow pointing left (representation of "Pago no
+        Exercício"), enabled.
+      - Text: "Pago no Exercício referente a Restos a Pagar", enabled.
+      - Text: "117.690.821,18", enabled.
+  - Card:
+      - Icon: Money bag with cross, enabled.
+      - Text: "Investimento em Saúde", enabled.
+      - Text: "158.881.952,91", enabled.
+
+Quick Access Grid (right of summary statistics)
+
+  - Card:
+
+      - Icon: Refresh/circular arrow with clock icon, enabled.
+      - Text: "Atualização do Portal", enabled.
+      - Text: "verifique aqui se o Portal está sendo alimentado em tempo real",
+        enabled.
+
+  - Card:
+
+      - Icon: Bookshelf, enabled.
+      - Text: "CARGOS E SALÁRIOS", enabled.
+      - Text: "CARGOS E SALÁRIOS DE 2025", enabled.
+
+  - Card:
+
+      - Icon: Envelope with clock, enabled.
+      - Text: "Carta de Serviços", enabled.
+      - Text: "Carta de Serviços ao Cidadão", enabled.
+
+  - Card:
+
+      - Icon: Newspaper, enabled.
+      - Text: "Cardápio da Merenda Escolar", enabled.
+      - Text: "cardápio da merenda escolar", enabled.
+
+  - Card:
+
+      - Icon: Group of people, enabled.
+      - Text: "Conselhos municipais", enabled.
+      - Text: "conheça nossos conselheiros", enabled.
+
+  - Floating Icon: Hand symbol (Libras/sign language), enabled, right of
+    "Conselhos municipais" card.
+
+  - Card:
+
+      - Icon: Folder with document, enabled.
+      - Text: "Compras/Licitações", enabled.
+      - Text: "nossas compras/nossos fornecedores", enabled.
+
+  - Card:
+
+      - Icon: Document with person, enabled.
+      - Text: "Concursos e seleções públicas", enabled.
+      - Text: "Página de divulgação de editais de concursos e seleções
+        públicas", enabled.
+
+  - Card:
+
+      - Icon: Bar chart with money, enabled.
+      - Text: "Contas Públicas", enabled.
+      - Text: "transparência da gestão fiscal: relatórios - artigo 48 da Lei de
+        Responsabilidade Fiscal", enabled.
+
+  - Card:
+
+      - Icon: Globe with document, enabled.
+      - Text: "Consulta de Processos Online", enabled.
+      - Text: "Processos Online", enabled.
+
+  - Card:
+
+      - Icon: Document with pen, enabled.
+      - Text: "Contratos", enabled.
+      - Text: "Contratos firmados", enabled.
+
+  - Card:
+
+      - Icon: Handshake, enabled.
+      - Text: "Convênios", enabled.
+      - Text: "Convênios firmados junto a outros Órgãos Públicos", enabled.
+
+  - Card:
+
+      - Icon: Building with people, enabled.
+      - Text: "Currículos", enabled.
+      - Text: "Currículos e Portarias de Nomeações de Funcionários
+        Comissionados", enabled.
+
+  - Card:
+
+      - Icon: Gavel, enabled.
+      - Text: "Decretos Municipais", enabled.
+      - Text: "decretos municipais", enabled.
+
+  - Card:
+
+      - Icon: Map pin with money, enabled.
+      - Text: "Decreto Despesas com diárias, viagens e adiantamentos", enabled.
+      - Text: "gastos públicos com diárias e passagens", enabled.
+
+  - Card:
+
+      - Icon: Ribbon with stars, enabled.
+      - Text: "Incentivo Cultural", enabled.
+      - Text: "Declarações referentes aos exercícios de 2023 e 2024.", enabled.
+
+Section: Despesa
+
+  - Tab: "Despesa", selected, enabled, bottom left.
+  - Tab: (unlabeled tab), enabled.
+  - Icon: Hamburger menu icon (three horizontal lines), enabled, right of
+    "Despesa" tab.
+  - Card:
+      - Icon: Building, enabled, left side of card.
+      - Text: "Fixado Total: 1.972.234.376,60", enabled.
+  - Card:
+      - Icon: Building, enabled, left side of card.
+      - Text: "Empenhado: 1.537.142.880,92", enabled.
+      - Text: "Percentual empenhado sobre o total fixado: 77,94%", enabled.
+  - Card:
+      - Icon: Building, enabled, left side of card.
+      - Text: "Processado: 1.215.329.072,17", enabled.
+      - Text: "Percentual processado sobre o total fixado: 61,62%", enabled.
+  - Card:
+      - Icon: Building, enabled, left side of card.
+      - Text: "Pago: 1.121.643.655,38", enabled.
+      - Text: "Percentual pago sobre o total fixado: 56,87%", enabled.

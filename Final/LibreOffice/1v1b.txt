@@ -1,0 +1,307 @@
+Here is the transcription of the visible elements in the image:
+
+Top Bar:
+
+  - Application Title: "Sem título 1 — LibreOffice Writer" (Text, enabled, top
+    bar)
+  - Window Control Button: Minimize (Icon, enabled, top right of window)
+  - Window Control Button: Maximize/Restore Down (Icon, enabled, top right of
+    window)
+  - Window Control Button: Close (Icon, enabled, top right of window)
+
+Menu Bar:
+
+  - Menu: Arquivo (Text, enabled, top left)
+  - Menu: Editar (Text, enabled, top left)
+  - Menu: Exibir (Text, enabled, top left)
+  - Menu: Inserir (Text, enabled, top left)
+  - Menu: Formatar (Text, enabled, top left)
+  - Menu: Estilos (Text, enabled, top left)
+  - Menu: Tabela (Text, enabled, top left)
+  - Menu: Formulário (Text, enabled, top left)
+  - Menu: Ferramentas (Text, enabled, top left)
+  - Menu: Janela (Text, enabled, top left)
+  - Menu: Ajuda (Text, enabled, top left)
+
+Standard Toolbar (Below Menu Bar):
+
+  - Button: New Document (Icon: Document with plus sign, enabled, top left
+    toolbar)
+  - Dropdown Arrow Button: (Next to New Document icon, enabled, top left
+    toolbar)
+  - Button: Open Document (Icon: Folder, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Open Document icon, enabled, top left
+    toolbar)
+  - Button: Save (Icon: Floppy disk, enabled, top left toolbar)
+  - Button: Print (Icon: Printer, enabled, top left toolbar)
+  - Button: Print Preview (Icon: Magnifying glass over document, enabled, top
+    left toolbar)
+  - Button: Cut (Icon: Scissors, disabled, top left toolbar)
+  - Button: Copy (Icon: Two documents, disabled, top left toolbar)
+  - Button: Paste (Icon: Clipboard, disabled, top left toolbar)
+  - Button: Undo (Icon: Left-curved arrow, disabled, top left toolbar)
+  - Button: Redo (Icon: Right-curved arrow, disabled, top left toolbar)
+  - Button: Find & Replace (Icon: Magnifying glass over 'A', enabled, top left
+    toolbar)
+  - Dropdown Arrow Button: (Next to Find & Replace icon, enabled, top left
+    toolbar)
+  - Button: Navigator (Icon: Compass, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Navigator icon, enabled, top left toolbar)
+  - Button: Table (Icon: Grid, enabled, top left toolbar)
+  - Button: Insert Image (Icon: Mountains and sun, enabled, top left toolbar)
+  - Button: Text Box (Icon: 'T' in a box, enabled, top left toolbar)
+  - Button: Insert Page Break (Icon: Document with dashed line, enabled, top
+    left toolbar)
+  - Button: Hyperlink (Icon: Chain link, enabled, top left toolbar)
+  - Button: Special Characters (Icon: Omega symbol, enabled, top left toolbar)
+  - Button: Insert Comment (Icon: Speech bubble with plus, enabled, top left
+    toolbar)
+  - Button: Signature Line (Icon: Line with signature, enabled, top left
+    toolbar)
+  - Button: Track Changes (Icon: Document with pencil, enabled, top left
+    toolbar)
+  - Dropdown Arrow Button: (Next to Track Changes icon, enabled, top left
+    toolbar)
+  - Button: Macros (Icon: Gear, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Macros icon, enabled, top left toolbar)
+  - Button: Extension Manager (Icon: Puzzle piece, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Extension Manager icon, enabled, top left
+    toolbar)
+
+Formatting Toolbar (Below Standard Toolbar):
+
+  - Dropdown List: "Estilo de parágrafo Padrão" (Text, selected: "Estilo de
+    parágrafo Padrão", enabled, left side of formatting toolbar)
+  - Button: Character Style (Icon: 'A' with a line below, enabled, left side of
+    formatting toolbar)
+  - Button: Font Color (Icon: 'A' with a small color bar, enabled, left side of
+    formatting toolbar)
+  - Dropdown List: Font Name (Text: "Arial", selected: "Arial", enabled, left
+    side of formatting toolbar)
+  - Dropdown List: Font Size (Text: "12 pt", selected: "12 pt", enabled, left
+    side of formatting toolbar)
+  - Button: Bold (Icon: 'B', enabled, not selected, formatting toolbar)
+  - Button: Italic (Icon: 'I', enabled, not selected, formatting toolbar)
+  - Button: Underline (Icon: 'U', enabled, not selected, formatting toolbar)
+  - Button: Strikethrough (Icon: 'S', enabled, not selected, formatting toolbar)
+  - Button: Superscript (Icon: 'x²', enabled, not selected, formatting toolbar)
+  - Button: Subscript (Icon: 'x₂', enabled, not selected, formatting toolbar)
+  - Button: Clear Direct Formatting (Icon: 'A' with an eraser, enabled,
+    formatting toolbar)
+  - Button: Font Color (Icon: 'A' with a red bar below, enabled, formatting
+    toolbar)
+  - Button: Highlight Color (Icon: Marker pen, enabled, formatting toolbar)
+  - Button: Align Left (Icon: Left-aligned lines, enabled, selected, formatting
+    toolbar)
+  - Button: Align Center (Icon: Centered lines, enabled, not selected,
+    formatting toolbar)
+  - Button: Align Right (Icon: Right-aligned lines, enabled, not selected,
+    formatting toolbar)
+  - Button: Justify (Icon: Justified lines, enabled, not selected, formatting
+    toolbar)
+  - Button: Increase Indent (Icon: Right arrow into lines, enabled, formatting
+    toolbar)
+  - Button: Decrease Indent (Icon: Left arrow out of lines, enabled, formatting
+    toolbar)
+  - Button: Numbered List (Icon: 1.2.3. list, enabled, formatting toolbar)
+  - Button: Bulleted List (Icon: Bulleted list, enabled, formatting toolbar)
+  - Button: Line Spacing (Icon: Lines with up/down arrows, enabled, formatting
+    toolbar)
+  - Dropdown Arrow Button: (Next to Line Spacing icon, enabled, formatting
+    toolbar)
+  - Button: Background Color (Icon: Paint bucket, enabled, formatting toolbar)
+  - Button: Borders (Icon: Square with borders, enabled, formatting toolbar)
+  - Dropdown Arrow Button: (Next to Borders icon, enabled, formatting toolbar)
+  - Button: Table (Icon: Grid, enabled, formatting toolbar)
+  - Button: Page Formatting (Icon: Document with margins, enabled, formatting
+    toolbar)
+  - Button: Insert Chart (Icon: Bar chart, enabled, formatting toolbar)
+  - Button: Insert Object (Icon: Cube, enabled, formatting toolbar)
+  - Dropdown Arrow Button: (Next to Insert Object icon, enabled, formatting
+    toolbar)
+
+Ruler (Below Formatting Toolbar):
+
+  - Ruler: Horizontal ruler (Graduated, with numbers 1 through 18, enabled,
+    below formatting toolbar)
+  - Ruler Marker: Left Margin Indent (L-shaped icon, gray, at 0 mark, enabled,
+    on horizontal ruler)
+  - Ruler Marker: Right Margin Indent (L-shaped icon, gray, at 16 cm mark,
+    enabled, on horizontal ruler)
+  - Ruler Marker: Tab Stop (Icon: Hourglass, at approximately 2 cm mark,
+    enabled, on horizontal ruler)
+  - Ruler Marker: Tab Stop (Icon: Hourglass, at approximately 17 cm mark,
+    enabled, on horizontal ruler)
+
+Work Area:
+
+  - Document Page: White rectangular area (Blank, enabled, central work area)
+  - Text Cursor: (Blinking vertical line, enabled, top-left of the white
+    document page)
+  - Page Margin Area: Gray area (Enabled, surrounding the white document page)
+
+Right Sidebar (Docked Panel):
+
+  - Panel Title: Propriedades (Text, enabled, top of right sidebar)
+  - Button: Help (Icon: Question mark, enabled, top right of sidebar panel)
+  - Button: Close (Icon: 'X', enabled, top right of sidebar panel)
+  - Button: Menu:** (Icon: Three horizontal lines, enabled, top right of sidebar
+    panel)
+  - Tab: Styles (Icon: Document with brush, selected, enabled, vertical tab on
+    right sidebar)
+  - Section Header: Estilo (Text, enabled, collapsible section header in
+    sidebar)
+      - Dropdown List: "Estilo de parágrafo Padrão" (Text, expanded, enabled,
+        within Estilo section)
+          - Menu Item: "Limpar formatação" (Text, enabled, in dropdown menu)
+          - Menu Item: "Estilo de parágrafo Padrão" (Text, enabled,
+            selected/highlighted, in dropdown menu)
+          - Menu Item: "Corpo de texto" (Text, enabled, in dropdown menu)
+          - Menu Item: "Título do documento" (Text, enabled, in dropdown menu)
+          - Menu Item: "Subtítulo" (Text, enabled, in dropdown menu)
+          - Menu Item: "Título 1" (Text, enabled, in dropdown menu)
+          - Menu Item: "Título 2" (Text, enabled, in dropdown menu)
+          - Menu Item: "Título 3" (Text, enabled, in dropdown menu)
+          - Menu Item: "Título 4" (Text, enabled, in dropdown menu)
+          - Menu Item: "Bloco de citação" (Text, enabled, in dropdown menu)
+          - Menu Item: "Texto pré-formatado" (Text, enabled, in dropdown menu)
+          - Menu Item: "Outros estilos..." (Text, enabled, in dropdown menu)
+      - Button: Reset to Parent Style (Icon: Circular arrow, enabled, within
+        Estilo section)
+  - Section Header: Caractere (Text, enabled, collapsible section header in
+    sidebar)
+      - Dropdown List: Font Name (Text: "Arial", selected: "Arial", enabled,
+        partially visible within Caractere section)
+      - Dropdown List: Font Size (Text: "12 pt", selected: "12 pt", enabled,
+        partially visible within Caractere section)
+      - Button: Bold (Icon: 'N', enabled, not selected, partially visible within
+        Caractere section)
+      - Button: Italic (Icon: 'I', enabled, not selected, partially visible
+        within Caractere section)
+      - Button: Underline (Icon: 'S', enabled, not selected, partially visible
+        within Caractere section)
+      - Button: Strikethrough (Icon: 'S' with line through it, enabled, not
+        selected, partially visible within Caractere section)
+      - Button: Shadow (Icon: 'A' with shadow, enabled, not selected, partially
+        visible within Caractere section)
+      - Button: Outline (Icon: 'A' outlined, enabled, not selected, partially
+        visible within Caractere section)
+      - Button: Superscript (Icon: 'x²', enabled, not selected, partially
+        visible within Caractere section)
+      - Button: Subscript (Icon: 'x₂', enabled, not selected, partially visible
+        within Caractere section)
+      - Button: Font Color (Icon: 'A' with red bar below, enabled, partially
+        visible within Caractere section)
+      - Button: Highlight Color (Icon: Marker pen, enabled, partially visible
+        within Caractere section)
+      - Button: Increase Font Size (Icon: Larger 'A', enabled, partially visible
+        within Caractere section)
+      - Button: Decrease Font Size (Icon: Smaller 'A', enabled, partially
+        visible within Caractere section)
+      - Button: Clear Direct Formatting (Icon: 'T' with eraser, enabled,
+        partially visible within Caractere section)
+      - Button: Case (Icon: 'Aa', enabled, partially visible within Caractere
+        section)
+      - Dropdown Button: Spacing (Icon: Lines with arrows for spacing, enabled,
+        partially visible within Caractere section)
+      - Icon: Bottom border line (Visual element for text position, enabled,
+        partially visible within Caractere section)
+      - Icon: Top border line (Visual element for text position, enabled,
+        partially visible within Caractere section)
+      - Icon: Underline (Visual element for text position, enabled, partially
+        visible within Caractere section)
+      - Icon: Strikethrough (Visual element for text position, enabled,
+        partially visible within Caractere section)
+      - Icon: Overline (Visual element for text position, enabled, partially
+        visible within Caractere section)
+      - Icon: X for canceling (Visual element for text position, enabled,
+        partially visible within Caractere section)
+      - Icon: B-O (Visual element for border, enabled, partially visible within
+        Caractere section)
+      - Icon: X (Visual element for border, enabled, partially visible within
+        Caractere section)
+      - Dropdown Button: Font Effects (Icon: 'A' with various effects, enabled,
+        partially visible within Caractere section)
+      - Dropdown Button: Character Spacing (Icon: 'A' with spacing arrows,
+        enabled, partially visible within Caractere section)
+  - Section Header: Parágrafo (Text, enabled, collapsible section header in
+    sidebar)
+      - Button: Align Left (Icon: Left-aligned lines, enabled, selected, within
+        Parágrafo section)
+      - Button: Align Center (Icon: Centered lines, enabled, not selected,
+        within Parágrafo section)
+      - Button: Align Right (Icon: Right-aligned lines, enabled, not selected,
+        within Parágrafo section)
+      - Button: Justify (Icon: Justified lines, enabled, not selected, within
+        Parágrafo section)
+      - Color Picker: (Empty square, enabled, within Parágrafo section)
+      - Button: Increase Indent (Icon: Right arrow into lines, enabled, within
+        Parágrafo section)
+      - Button: Decrease Indent (Icon: Left arrow out of lines, enabled, within
+        Parágrafo section)
+      - Label: Espaço: (Text, enabled, within Parágrafo section)
+      - Label: Recuo: (Text, enabled, within Parágrafo section)
+      - Icon: Align Top (Visual element, enabled, within Parágrafo section)
+      - Icon: Align Bottom (Visual element, enabled, within Parágrafo section)
+      - Spin Button: "0,00 cm" (Text input with up/down arrows, enabled, within
+        Parágrafo section for Espaço)
+      - Spin Button: "0,00 cm" (Text input with up/down arrows, enabled, within
+        Parágrafo section for Recuo)
+      - Icon: Align First Line Indent (Visual element, enabled, within Parágrafo
+        section)
+      - Spin Button: "0,00 cm" (Text input with up/down arrows, enabled, within
+        Parágrafo section)
+      - Icon: Align Hanging Indent (Visual element, enabled, within Parágrafo
+        section)
+      - Spin Button: "0,00 cm" (Text input with up/down arrows, enabled, within
+        Parágrafo section)
+      - Dropdown Arrow Button: (Vertical ellipsis, enabled, within Parágrafo
+        section)
+      - Icon: Horizontal line (Visual element, enabled, within Parágrafo
+        section)
+      - Icon: Left-aligned text (Visual element, enabled, within Parágrafo
+        section)
+  - Scrollbar: Vertical scrollbar (Enabled, right edge of the right sidebar
+    panel)
+
+Right Sidebar (Vertical Tab Bar):
+
+  - Button: Properties (Icon: Wrench, enabled, selected, right side vertical tab
+    bar)
+  - Button: Gallery (Icon: Mountains and sun, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Navigator (Icon: Compass, enabled, not selected, right side vertical
+    tab bar)
+  - Button: Pages (Icon: Stacked documents, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Styles (Icon: Paint brush, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Comments (Icon: Speech bubble, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Track Changes (Icon: Document with pencil, enabled, not selected,
+    right side vertical tab bar)
+  - Button: Find & Replace (Icon: Magnifying glass, enabled, not selected, right
+    side vertical tab bar)
+  - Scrollbar: Vertical scrollbar (Enabled, on the rightmost edge of the
+    application, for the vertical tab bar)
+
+Status Bar (Bottom of Window):
+
+  - Icon: Save (Floppy disk, enabled, bottom left status bar)
+  - Text Field: "Página 1 de 1" (Text, enabled, bottom left status bar)
+  - Text Field: "0 palavra, 0 caractere" (Text, enabled, bottom left status bar)
+  - Text Field: "Estilo de página Padrão" (Text, enabled, bottom left status
+    bar)
+  - Text Field: "Português (Brasil)" (Text, enabled, bottom left status bar)
+  - Text Cursor: (Blinking vertical line, enabled, next to language setting)
+  - Button: Single Page View (Icon: Single page, enabled, selected, bottom right
+    status bar)
+  - Button: Multiple Pages View (Icon: Two pages, enabled, not selected, bottom
+    right status bar)
+  - Button: Book View (Icon: Book, enabled, not selected, bottom right status
+    bar)
+  - Button: Zoom Out (Icon: Minus sign, enabled, bottom right status bar)
+  - Slider: Zoom Level (Horizontal slider, enabled, approximately in the middle
+    position, bottom right status bar)
+  - Button: Zoom In (Icon: Plus sign, enabled, bottom right status bar)
+  - Text Field: "100%" (Text, enabled, bottom right status bar)

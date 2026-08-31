@@ -1,0 +1,363 @@
+Here is the complete, literal transcription of all visible elements in the UI screenshot, organized by screen region:
+
+---
+
+### Utility Top Accessibility Bar
+
+* **Accessibility Controls:**
+* **Type:** Icon Links / Buttons
+* **Labels / Icons:** Eye icon, Contrast icon, "A+", "A-", Search icon, Grid icon, Person/Accessibility icon
+* **State:** Enabled
+* **Position:** Topmost toolbar, left side
+* **Hierarchy:** Utility Top Bar
+
+
+* **Secondary Utility Links:**
+* **Type:** Text Links (Horizontal list)
+* **Labels / Text:** "Ir para o conteúdo", "Ir para o menu", "Ir para a busca", "Ir para o rodapé"
+* **State:** Enabled
+* **Position:** Topmost toolbar, right side
+* **Hierarchy:** Utility Top Bar
+
+
+
+---
+
+### Main Header Bar (Dark Blue)
+
+* **Municipal Logo:**
+* **Type:** Image / Interactive Logo Link
+* **Label / Text:** "GOVERNO DE LIMEIRA" with coat of arms logo
+* **State:** Enabled
+* **Position:** Main header bar, far left
+* **Hierarchy:** Main Header
+
+
+* **Search Input Field & Controls:**
+* **Type:** Text Input Field
+* **Placeholder Text:** "Digite a sua busca..."
+* **Icon Button:** Magnifying glass icon inside text field
+* **Popular Search Links:** Text links below field: "IPVA 2024", "IPTU 2024", "Concursos", "Licitacoes"
+* **State:** Enabled
+* **Position:** Main header bar, center
+* **Hierarchy:** Main Header
+
+
+* **Transparency Portal Button:**
+* **Type:** Button (Icon + Text)
+* **Label / Text:** Information icon + "PORTAL DA TRANSPARÊNCIA"
+* **State:** Enabled
+* **Position:** Main header bar, center-right
+* **Hierarchy:** Main Header
+
+
+* **Weather Widget:**
+* **Type:** Informational Badge
+* **Label / Text:** Cloud with rain icon + "24°" + "Limeira"
+* **State:** Static display
+* **Position:** Main header bar, right side
+* **Hierarchy:** Main Header
+
+
+* **Social Media Bar:**
+* **Type:** Icon Link List
+* **Icons:** Facebook, Instagram, Twitter/X, YouTube, LinkedIn, Spotify, RSS
+* **State:** Enabled
+* **Position:** Main header bar, far right
+* **Hierarchy:** Main Header
+
+
+
+---
+
+### Main Navigation Bar (White & Colored Tabs)
+
+* **Navigation Links (White Section):**
+* **Type:** Dropdown Links / Buttons
+* **Labels / Text:**
+* "A Prefeitura" (down arrow)
+* "Secretarias" (down arrow)
+* "Imprensa" (down arrow) — *Active/Hovered*
+* "Leis Municipais"
+* "Conselhos" (down arrow)
+
+
+* **State:** Enabled
+* **Position:** Left section of main navigation bar
+* **Hierarchy:** Main Navigation Bar
+
+
+* **Open Menu 'Imprensa':**
+* **Type:** Submenu Panel (Dropdown)
+* **Position:** Directly underneath "Imprensa" link
+* **Hierarchy:** Child of "Imprensa" navigation item
+* **Submenu Items:**
+* **Type:** Text Link | **Label:** "Secretaria de Comunicação" | **State:** Enabled (Highlighted blue)
+* **Type:** Text Link | **Label:** "Notícias" | **State:** Enabled
+* **Type:** Text Link | **Label:** "Jornal Oficial" | **State:** Enabled
+
+
+
+
+* **Audience Category Tabs (Right Section):**
+* **Type:** Tab Buttons (Solid colored blocks)
+* **Labels / Text & States:**
+* "Cidadão" (Green background) — Enabled
+* "Empresa" (Cyan background) — Enabled
+* "Servidor" (Red/Coral background) — Enabled
+* "Turismo" (Yellow background) — Enabled
+
+
+* **Position:** Far right of main navigation bar
+* **Hierarchy:** Main Navigation Bar
+
+
+
+---
+
+### Top Content Region (Hero Showcase & Quick Access)
+
+#### Hero Carousel / Main Feature Card (Left Section)
+
+* **Main Feature Display:**
+* **Type:** Image Card / Banner Container
+* **Heading Text:** "Ação Inclusiva garante acesso à mamografia para mulheres com deficiência em Limeira"
+* **Description Text:** "Exames podem ser feitos na Tv. Doutor, 120, com agendamento prévio..."
+* **Date Label:** "18.10.2024"
+* **Hierarchy:** Hero Display Container
+
+
+* **Carousel Thumbnail Navigation:**
+* **Type:** Thumbnail Button List (4 items)
+* **State:** Thumbnail 1 selected (blue border)
+* **Position:** Overlaid on bottom-right of hero image
+* **Hierarchy:** Hero Display Container
+
+
+* **Chatbot Banner:**
+* **Type:** Interactive Graphic Banner
+* **Label / Text:** "Lia - o chat inteligente da Prefeitura de Limeira", "Clique aqui para falar com a Lia"
+* **State:** Enabled
+* **Position:** Immediately below the Hero Carousel
+* **Hierarchy:** Hero Region
+
+
+
+#### Debt Renegotiation Banner (Top Right Section)
+
+* **Banner Frame:**
+* **Type:** Image / Announcement Card
+* **Label / Text:** "Não perca essa oportunidade! Dívidas com a Prefeitura? Pague com até 100% de desconto no juro e na multa."
+* **State:** Enabled
+* **Position:** Top right of work area, below main nav
+
+
+
+#### Quick Access Grid ("Acesso Rápido")
+
+* **Header & Button:**
+* **Type:** Text Header + Button
+* **Labels:** "Acesso Rápido" (Header), "Mais serviços >" (Green Button)
+* **State:** Enabled
+* **Hierarchy:** Quick Access Panel
+
+
+* **Quick Access Icon Buttons (Grid of 9 Items):**
+* **Type:** Icon + Text Buttons
+* **Items & Labels:**
+1. Icon + "Diário Oficial"
+2. Icon + "Abertura de Processo"
+3. Icon + "Medicamentos"
+4. Icon + "Iluminação"
+5. Icon + "156 / Carta de Serviços ao Usuário"
+6. Icon + "Consulta de Processos"
+7. Icon + "Regime Geral Próprio"
+8. Icon + "Melhoria e Tributos"
+9. Icon + "Concursos"
+
+
+* **State:** All Enabled
+* **Hierarchy:** Quick Access Panel
+
+
+
+#### App Promotion Banner ("Limeirense, aqui você tem voz")
+
+* **Banner Frame:**
+* **Type:** Graphical Callout Box
+* **Label / Text:** "Limeirense, aqui você tem voz! Reclamações, denúncias, solicitações...", "Baixe o app 156", "Acesse aqui"
+* **State:** Enabled
+* **Position:** Bottom right of top content section
+
+
+
+---
+
+### Middle Content Region: News Grid ("Acontece em Limeira")
+
+* **Section Header Controls:**
+* **Title:** "Acontece em Limeira" (Static Text Header)
+* **Category Selector:** "Selecione categoria" Dropdown (Enabled, Collapsed)
+* **See All Button:** "Ver todos >" Button (Enabled)
+* **Position:** Top of News Grid section
+
+
+* **Featured Large News Card (Left Column):**
+* **Type:** Image + Text Card
+* **Category Tag:** "Geral" (Blue text)
+* **Title:** "Operação Só Cacareco percorrerá 15 bairros na próxima semana; veja quais áreas serão atendidas"
+* **Description:** "Materiais inservíveis devem ser colocados..."
+* **Date & Share Icon:** "18.10.2024", Share icon button
+* **State:** Enabled
+
+
+* **Middle News List Items:**
+* **Item 1:** Category "Cultura", Title: "Banda Iminente que marca a fase especial da Disney...", Date "18.10.2024", Share icon, Thumbnail image.
+* **Item 2:** Category "Cultura", Title: "Especial infantil 'Vila Sésamo e a Magia dos Sentimentos'...", Date "18.10.2024", Share icon, Thumbnail image.
+* **Item 3:** Category "Cultura", Title: "Banda Limeirense 'Eu, a Vila e os Caras' lança EP...", Date "18.10.2024", Share icon, Thumbnail image.
+* **Item 4:** Category "Geral", Title: "Limeira registra aumento de 20% nas vacinas aplicadas...", Date "18.10.2024", Share icon, Thumbnail image.
+* **Item 5:** Category "Geral", Title: "Prefeitura alerta sobre possível golpe envolvendo cadastro...", Date "18.10.2024", Share icon, Thumbnail image.
+
+
+* **Services Sidebar Grid ("Serviços" - Right Column):**
+* **Header:** "Serviços" (Text Header)
+* **Icon Buttons (Grid of 10 items):**
+* "Certidões", "Deliberações", "Guia de Pagamento / Alvará", "Holerite / Informes", "Parque das Dores", "Saneamento", "Plano Diretor 2020-2030", "Compras", "Vagas de PME", "Comissões e EDIT"
+
+
+* **State:** All Enabled
+* **Hierarchy:** Services Sidebar Panel
+
+
+
+---
+
+### Lower Content Region: 3-Column Info Panel
+
+#### Column 1: Most Read News ("Acessadas da semana")
+
+* **Header:** "Acessadas da semana" (Icon + Header Text)
+* **Numbered Item List (8 Items):**
+* **Format:** Numbered Badge (01 to 08) + Text Link
+* **Titles listed:**
+1. "Infecção Amarela: saiba como se proteger..."
+2. "Banda Iminente que marca a fase especial da Disney..."
+3. "Especial infantil 'Vila Sésamo' terá apresentações..."
+4. "Banda Limeirense 'Eu, a Vila e os Caras' lança EP..."
+5. "Prefeitura alerta sobre possível golpe..."
+6. "Feira do Produtor Rural terá edições..."
+7. "Secretaria de Saúde reforça no Congresso..."
+8. "Ação Inclusiva garante acesso à mamografia..."
+
+
+
+
+* **State:** All Enabled text links
+
+#### Column 2: Job Openings ("Vagas de Emprego")
+
+* **Header & Button:** "Vagas de Emprego" Title + "Ver todos >" Button
+* **Sub-header Note:** "PAT - Posto de Atendimento ao Trabalhador..." (Small Text)
+* **Job Posting Cards (6 Visible):**
+* **Format:** Job Title + Badge ("Escolaridade") + Requirement Text
+* **List:**
+1. "VAGA PARA: OPERADOR DE MÁQUINAS DE CORTE CORD" (Escolaridade: Ensino Médio)
+2. "VAGA PARA: VENDEDOR" (Escolaridade: Ensino Fundamental Incompleto)
+3. "VAGA PARA: AJUDANTE GERAL" (Escolaridade: Ensino Médio Incompleto)
+4. "VAGA PARA: ATENDENTE DE PANIFICADORA" (Escolaridade: Ensino Fundamental)
+5. "VAGA PARA: ALMOXARIFE / ESTOQUISTA" (Escolaridade: Ensino Fundamental)
+6. "VAGA PARA: ASSISTENTE DE CADASTRO IMOBILIÁRIO" (Escolaridade: Ensino Médio)
+
+
+
+
+
+#### Column 3: Stories ("Histórias")
+
+* **Header:** "Histórias" Title
+* **Subtitle:** "Nossas histórias para você acompanhar a Prefeitura de Limeira"
+* **Interactive Story Viewer Card:**
+* **Background Image:** Vertical portrait photo of a person outdoors
+* **Overlaid Text:** Story caption text at bottom
+* **Navigation Arrow Buttons:** Right arrow button (Top right), Down arrow button (Below right arrow)
+* **State:** Enabled
+
+
+
+---
+
+### Destination Showcase Region ("Desbrave nossa terra")
+
+* **Header & Dropdown:**
+* **Title:** "Desbrave nossa terra"
+* **Dropdown Selector:** "Selecione a sua cidade ou região >" (Enabled)
+
+
+* **Banner Carousel Image:**
+* **Type:** Wide Panoramic Image View
+
+
+* **Information Text Box:**
+* **Title:** "Limeira"
+* **Body Text:** "Limeira, no interior de São Paulo, é uma importante cidade paulista..."
+* **Link:** "Descubra como os novos investimentos em Limeira vão melhorar a sua vida >"
+
+
+* **Photo Gallery Thumbnails:**
+* **Type:** Grid of 4 Architectural/Historical Images (Train station, buildings, church)
+
+
+* **Category Navigation Cards (Bottom Grid):**
+* **Card 1:** Icon + Category "Onde Hospedagem" + Image (Bed)
+* **Card 2:** Icon + Category "Onde Gastronômico" + Image (Pizza)
+* **Card 3:** Icon + Category "Guia Lugares Incríveis" + Image (Brochure)
+
+
+* **Statistics Sidebar Cards (Far Right Stack):**
+* Icon + "População 291.720"
+* Icon + "Fundação 1826"
+* Icon + "Gentílico Limeirense"
+* Icon + "CEP 13480-000"
+* Icon + "DDD 19"
+* Icon + "Território 580,71 km²"
+* Icon + "Prato da Marmitex"
+
+
+
+---
+
+### Main Footer Region
+
+* **Navigation Bar (Green Bar):**
+* **Type:** Text Link Menu Bar
+* **Links:** "Leis Municipais", "Secretarias", "Imprensa", "Conselhos", "Associações e Conselhos"
+* **State:** Enabled
+* **Hierarchy:** Footer Bar
+
+
+* **Footer Body Panel (Dark Blue):**
+* **Left Column (Audience Tabs):**
+* Vertical stacked colored buttons: "Cidadão" (Green), "Empresa" (Cyan), "Servidor" (Red/Coral), "Turismo" (Yellow).
+
+
+* **Center-Left Column (Logo & Socials):**
+* Municipal Logo: "GOVERNO DE LIMEIRA"
+* Social Media Icon Row: Facebook, Instagram, Twitter/X, YouTube, LinkedIn, Spotify, RSS
+
+
+* **Center Column (Contact & Address):**
+* Address Icon + Label: "Endereço: Edifício Prada - R. Doutor Alberto Ferreira, 179 - Centro, Limeira - SP"
+* Phone Icon + Label: "Telefone: (19) 3404-5000"
+* Web Icon + Label: "Site: www.limeira.sp.gov.br"
+* Security Icon + Label: "Termos de Uso e Política de Privacidade LGPD - Proteção de Dados"
+
+
+* **Center Information Dropdown:**
+* Button: "mais informações v" (Enabled, Collapsed)
+
+
+
+
+* **Bottom Legal Copyright Bar:**
+* **Type:** Footer Bar
+* **Logo / Label:** "e-Ouv" logo / copyright indicator centered at the bottom

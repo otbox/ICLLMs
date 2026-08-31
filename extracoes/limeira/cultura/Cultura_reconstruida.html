@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cultura — Prefeitura de Limeira (reconstruída)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+:root {
+  --blue: #004972;
+  --blue-dark: #013261;
+  --blue-mid: #334973;
+  --green: #50B365;
+  --bg: #f4f4f4;
+  --line: #ddd;
+  --text: #171717;
+  --muted: #5a5a5a;
+  --max: 1180px;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; font-family: "Open Sans", Arial, Helvetica, sans-serif; color: var(--text); background: #fff; }
+a { color: inherit; text-decoration: none; }
+img { display: block; max-width: 100%; height: auto; }
+.skip a { position: absolute; left: -9999px; }
+.skip a:focus { left: 8px; top: 8px; background: #fff; padding: 8px; z-index: 99; }
+
+/* Top accessibility strip */
+.a11y-bar {
+  background: #e9eef2; border-bottom: 1px solid var(--line);
+  display: flex; justify-content: center; gap: 8px; padding: 6px 16px; flex-wrap: wrap;
+}
+.a11y-bar a, .a11y-bar button {
+  border: 0; background: transparent; padding: 0; cursor: pointer;
+}
+.a11y-bar img { width: 30px; height: 30px; object-fit: contain; }
+.a11y-links { display: flex; gap: 14px; align-items: center; margin-left: 24px; flex-wrap: wrap; }
+.a11y-links a { font-size: 12px; color: var(--blue); }
+
+/* Header */
+.header {
+  background: var(--blue);
+  color: #fff;
+}
+.header-inner {
+  max-width: var(--max); margin: 0 auto; padding: 12px 16px;
+  display: flex; align-items: center; gap: 20px; flex-wrap: wrap;
+}
+.brand img { width: 235px; height: auto; }
+.search {
+  flex: 1; min-width: 220px; display: flex; align-items: center; gap: 8px;
+  background: #fff; border-radius: 4px; padding: 6px 10px; max-width: 360px;
+}
+.search input {
+  flex: 1; border: 0; outline: 0; font: inherit; color: #333; background: transparent;
+}
+.search img { width: 19px; height: 19px; }
+.header-links { display: flex; gap: 14px; flex-wrap: wrap; align-items: center; font-size: 13px; }
+.header-links a { color: #fff; opacity: .95; }
+.header-links a.transparencia {
+  background: var(--green); color: #fff; padding: 8px 12px; border-radius: 4px; font-weight: 600; font-size: 12px;
+}
+.social { display: flex; gap: 6px; align-items: center; margin-left: auto; }
+.social img { width: 30px; height: 30px; object-fit: contain; }
+.social .eouve img { width: 48px; height: 41px; }
+
+/* Main nav */
+.nav {
+  background: #fff; border-bottom: 3px solid var(--blue);
+}
+.nav-inner {
+  max-width: var(--max); margin: 0 auto; padding: 0 16px;
+  display: flex; align-items: stretch; gap: 4px; flex-wrap: wrap;
+}
+.nav-inner a {
+  display: flex; align-items: center; padding: 8px 10px; min-height: 47px;
+}
+.nav-inner img { height: 47px; width: auto; object-fit: contain; }
+.audience {
+  margin-left: auto; display: flex; gap: 8px; align-items: center; padding: 8px 0;
+}
+.audience img { height: 41px; width: auto; }
+
+/* Breadcrumb */
+.breadcrumb {
+  max-width: var(--max); margin: 0 auto; padding: 18px 16px 8px;
+  display: flex; gap: 8px; align-items: center; flex-wrap: wrap;
+}
+.breadcrumb img { height: 36px; width: auto; }
+.breadcrumb .sep { color: #999; }
+
+/* Layout */
+.page {
+  max-width: var(--max); margin: 0 auto; padding: 8px 16px 40px;
+  display: grid; grid-template-columns: minmax(0, 1fr) 300px; gap: 28px;
+}
+@media (max-width: 900px) {
+  .page { grid-template-columns: 1fr; }
+  .social { margin-left: 0; }
+  .audience { margin-left: 0; }
+}
+
+.page-title {
+  color: var(--blue); font-size: 1.75rem; font-weight: 700; margin: 0 0 18px;
+  letter-spacing: .02em;
+}
+.list { display: flex; flex-direction: column; gap: 0; }
+.list-item {
+  border-top: 1px solid var(--line); padding: 16px 4px;
+}
+.list-item:last-child { border-bottom: 1px solid var(--line); }
+.list-item a {
+  display: flex; align-items: center; gap: 12px;
+  color: var(--blue-mid); font-weight: 700; font-size: 1.05rem;
+}
+.list-item a:hover { text-decoration: underline; }
+.list-item img.title-shot {
+  height: 20px; width: auto; max-width: 100%; object-fit: contain; object-position: left;
+}
+.list-item .fallback-title { line-height: 1.3; }
+.pager {
+  display: flex; justify-content: flex-end; gap: 12px; align-items: center;
+  padding: 18px 0 8px;
+}
+.pager img { height: 36px; width: auto; }
+
+.sidebar { display: flex; flex-direction: column; gap: 8px; }
+.sidebar a {
+  display: block; border-radius: 0 8px 8px 0; overflow: hidden;
+  box-shadow: 0 1px 0 rgba(0,0,0,.04);
+}
+.sidebar img { width: 100%; height: auto; }
+
+/* Footer */
+.footer {
+  background: var(--blue-dark); color: #fff; margin-top: 24px;
+}
+.footer-inner {
+  max-width: var(--max); margin: 0 auto; padding: 28px 16px;
+  display: grid; grid-template-columns: 140px 1fr auto; gap: 28px; align-items: start;
+}
+@media (max-width: 800px) {
+  .footer-inner { grid-template-columns: 1fr; }
+}
+.footer-nav { display: flex; flex-wrap: wrap; gap: 10px 18px; margin-bottom: 16px; }
+.footer-nav a { color: #fff; font-size: 13px; opacity: .9; }
+.footer-audiences { display: flex; flex-direction: column; gap: 8px; }
+.footer-audiences img { height: 41px; width: auto; }
+.footer-social { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 14px; }
+.footer-social img { width: 30px; height: 30px; object-fit: contain; }
+.footer-meta { font-size: 13px; line-height: 1.55; opacity: .92; }
+.footer-meta strong { display: block; margin-bottom: 4px; }
+.footer-legal {
+  border-top: 1px solid rgba(255,255,255,.15);
+  max-width: var(--max); margin: 0 auto; padding: 12px 16px 20px;
+  display: flex; justify-content: space-between; gap: 16px; flex-wrap: wrap;
+  font-size: 12px;
+}
+.footer-legal a { color: #fff; opacity: .85; }
+.note {
+  max-width: var(--max); margin: 0 auto; padding: 8px 16px 24px;
+  font-size: 12px; color: var(--muted);
+}
+</style>
+</head>
+<body>
+<div class="skip">
+  <a class="ui-control" href="#conteudo" title="Ir para o conteúdo"><img src="screenshots_ui/L0_a_1765491804448.png" alt="Ir para o conteúdo"></a>
+  <a class="ui-control" href="#menu" title="Ir para o menu"><img src="screenshots_ui/L0_a_1765491804602.png" alt="Ir para o menu"></a>
+  <a class="ui-control" href="#busca" title="Ir para a busca"><img src="screenshots_ui/L0_a_1765491804776.png" alt="Ir para a busca"></a>
+  <a class="ui-control" href="#rodape" title="Ir para o rodapé"><img src="screenshots_ui/L0_a_1765491804940.png" alt="Ir para o rodapé"></a>
+</div>
+
+<div class="a11y-bar">
+  <a class="ui-control" href="#" title=""><img src="screenshots_ui/L0_button_1765491803357.png" alt=""></a><a class="ui-control" href="#" title=""><img src="screenshots_ui/L0_button_1765491803580.png" alt=""></a><a class="ui-control" href="#" title=""><img src="screenshots_ui/L0_button_1765491803754.png" alt=""></a><a class="ui-control" href="#" title=""><img src="screenshots_ui/L0_button_1765491803921.png" alt=""></a><a class="ui-control" href="#" title=""><img src="screenshots_ui/L0_a_1765491804091.png" alt=""></a><a class="ui-control" href="#" title="Acesse o mapa do site"><img src="screenshots_ui/L0_a_1765491804260.png" alt="Acesse o mapa do site"></a>
+</div>
+
+<header class="header">
+  <div class="header-inner">
+    <a class="brand" href="https://limeira.sp.gov.br/" title="Prefeitura de Limeira"><img class="ui-shot" src="screenshots_ui/L0_a_1765491805190.png" alt="" loading="lazy"></a>
+    <form class="search" id="busca" action="https://limeira.sp.gov.br/busca" method="get" onsubmit="return false;">
+      <img class="" src="screenshots_ui/L0_input_1765491805348.png" alt="Digite a sua busca" loading="lazy" style="display:none">
+      <input type="search" name="q" placeholder="Digite a sua busca" aria-label="Digite a sua busca">
+      <button type="submit" aria-label="Buscar" style="border:0;background:transparent;padding:0;cursor:pointer;"><img class="ui-shot" src="screenshots_ui/L0_button_1765491805575.png" alt="" loading="lazy"></button>
+    </form>
+    <div class="header-links">
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="IPTU 2025"><img src="screenshots_ui/L0_a_1765491805949.png" alt="IPTU 2025"></a>
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Nota Fiscal Eletrônica"><img src="screenshots_ui/L0_a_1765491806195.png" alt="Nota Fiscal Eletrônica"></a>
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Licitações"><img src="screenshots_ui/L0_a_1765491806360.png" alt="Licitações"></a>
+      <a class="ui-control transpar" href="https://limeira.sp.gov.br/transparencia" title="Acessar o Portal da Transparência"><img src="screenshots_ui/L0_a_1765491806522.png" alt="Acessar o Portal da Transparência"></a>
+    </div>
+    <div class="social">
+      <a class="ui-control" href="https://www.facebook.com/" title="Facebook"><img src="screenshots_ui/L0_a_1765491806900.png" alt="Facebook"></a>
+      <a class="ui-control" href="https://www.instagram.com/" title="Instagram"><img src="screenshots_ui/L0_a_1765491807126.png" alt="Instagram"></a>
+      <a class="ui-control" href="https://www.youtube.com/" title="Youtube"><img src="screenshots_ui/L0_a_1765491807296.png" alt="Youtube"></a>
+      <a class="ui-control" href="https://www.linkedin.com/" title="Linkedin"><img src="screenshots_ui/L0_a_1765491807461.png" alt="Linkedin"></a>
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Rss"><img src="screenshots_ui/L0_a_1765491807633.png" alt="Rss"></a>
+      <a class="eouve" href="https://limeira.sp.gov.br/"><img class="ui-shot" src="screenshots_ui/L0_a_1765491807804.png" alt="eOuve - Atendimento ao Cidadão" loading="lazy"></a>
+    </div>
+  </div>
+</header>
+
+<nav class="nav" id="menu">
+  <div class="nav-inner">
+    <a class="ui-control" href="https://limeira.sp.gov.br/" title="A Prefeitura"><img src="screenshots_ui/L0_a_1765491808399.png" alt="A Prefeitura"></a>
+    <a class="ui-control" href="https://limeira.sp.gov.br/secretarias" title="Secretarias"><img src="screenshots_ui/L0_a_1765491808744.png" alt="Secretarias"></a>
+    <a class="ui-control" href="https://limeira.sp.gov.br/" title="Imprensa"><img src="screenshots_ui/L0_a_1765491810396.png" alt="Imprensa"></a>
+    <a class="ui-control" href="https://limeira.sp.gov.br/" title="Leis Municipais"><img src="screenshots_ui/L0_a_1765491808148.png" alt="Leis Municipais"></a>
+    <a class="ui-control" href="https://limeira.sp.gov.br/" title="Consultas"><img src="screenshots_ui/L0_a_1765491810646.png" alt="Consultas"></a>
+    <div class="audience">
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Cidadão"><img src="screenshots_ui/L0_a_1765491813603.png" alt="Cidadão"></a>
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Empresa"><img src="screenshots_ui/L0_a_1765491814393.png" alt="Empresa"></a>
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Servidor"><img src="screenshots_ui/L0_a_1765491814529.png" alt="Servidor"></a>
+      <a class="ui-control" href="https://limeira.sp.gov.br/" title="Turismo"><img src="screenshots_ui/L0_a_1765491814702.png" alt="Turismo"></a>
+    </div>
+  </div>
+</nav>
+
+<div class="breadcrumb">
+  <a class="ui-control" href="https://limeira.sp.gov.br/" title="Início"><img src="screenshots_ui/L0_a_1765491815028.png" alt="Início"></a>
+  <span class="sep">›</span>
+  <a class="ui-control" href="https://limeira.sp.gov.br/secretarias" title="Secretarias"><img src="screenshots_ui/L0_a_1765491815269.png" alt="Secretarias"></a>
+  <span class="sep">›</span>
+  <a class="ui-control" href="https://limeira.sp.gov.br/secretarias/cultura" title="Cultura"><img src="screenshots_ui/L0_button_1765491815474.png" alt="Cultura"></a>
+</div>
+
+<main class="page" id="conteudo">
+  <section>
+    <h1 class="page-title">Cultura</h1>
+    <div class="list">
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/secretaria-municipal-de-cultura"><img class="title-shot" src="screenshots_ui/L0_a_1765491816761.png" alt="SECRETARIA MUNICIPAL DE CULTURA"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/fundo-municipal-de-cultura-1"><img class="title-shot" src="screenshots_ui/L0_a_1765491817202.png" alt="Departamento vai coordenar políticas públicas de igualdade racial em Limeira"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/igualdaderacial"><img class="title-shot" src="screenshots_ui/L0_a_1765491817476.png" alt="DEPARTAMENTO DE PROMOÇÃO DA IGUALDADE RACIAL"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/eventos"><img class="title-shot" src="screenshots_ui/L0_a_1765491817634.png" alt="Agenda de Eventos - Cultura e Turismo Limeira"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/visita-virtual-ao-museu"><img class="title-shot" src="screenshots_ui/L0_a_1765491817806.png" alt="Visita Virtual ao Museu"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/visita-virtual-ao-museu"><img class="title-shot" src="screenshots_ui/L0_a_1765491817974.png" alt="LEI ALDIR BLANC 2 - 2025"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/oficinas-culturais-2024-edital-de-chamamento"><img class="title-shot" src="screenshots_ui/L0_a_1765491818146.png" alt="Oficinas culturais 2024 - Edital de Chamamento"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/solicitacao-de-data-para-o-teatro-vitoria"><img class="title-shot" src="screenshots_ui/L0_a_1765491818314.png" alt="Solicitação de data para o teatro vitória"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/cultura"><img class="title-shot" src="screenshots_ui/L0_a_1765491818484.png" alt="Parque da cidade"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/feriados-municipais-e-pontos-facultativos"><img class="title-shot" src="screenshots_ui/L0_a_1765491818657.png" alt="Agenda de Cultura e Eventos"></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/fundo-municipal-de-cultura-1"><span class="fallback-title">Fundo Municipal de Cultura</span></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/chamamento-publico"><span class="fallback-title">CHAMAMENTO PÚBLICO</span></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/cultura"><span class="fallback-title">Secretaria de Cultura de Limeira</span></a></div>
+      <div class="list-item"><a href="https://limeira.sp.gov.br/secretarias/cultura/feriados-municipais-e-pontos-facultativos"><span class="fallback-title">Feriados Municipais e Pontos Facultativos</span></a></div>
+    </div>
+    <div class="pager">
+      <img class="ui-shot" src="screenshots_ui/L0_select_1765491818831.png" alt="1
+                    2" loading="lazy">
+      <a class="ui-control" href="#" title="Anteriores"><img src="screenshots_ui/L0_button_1765491820003.png" alt="Anteriores"></a>
+    </div>
+  </section>
+
+  <aside class="sidebar" aria-label="Atalhos da Secretaria de Cultura">
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/teatro" title="REGULAMENTOS"><img class="ui-shot" src="screenshots_ui/L0_a_1765491820333.png" alt="REGULAMENTOS" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/teatro" title="TEATRO"><img class="ui-shot" src="screenshots_ui/L0_a_1765491820573.png" alt="TEATRO" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/bibliotecas" title="BIBLIOTECAS"><img class="ui-shot" src="screenshots_ui/L0_a_1765491820744.png" alt="BIBLIOTECAS" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/carta-de-servicos" title="CARTA DE SERVIÇOS"><img class="ui-shot" src="screenshots_ui/L0_a_1765491820912.png" alt="CARTA DE SERVIÇOS" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/conselho-municipal-de-cultura" title="CONSELHO MUNICIPAL DE CULTURA"><img class="ui-shot" src="screenshots_ui/L0_a_1765491821082.png" alt="CONSELHO MUNICIPAL DE CULTURA" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/editais" title="EDITAIS"><img class="ui-shot" src="screenshots_ui/L0_a_1765491821254.png" alt="EDITAIS" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/centro-de-ciencias-e-cultura" title="CENTRO DE CIÊNCIAS E CULTURA"><img class="ui-shot" src="screenshots_ui/L0_a_1765491821424.png" alt="CENTRO DE CIÊNCIAS E CULTURA" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/lei-aldir-blanc" title="LEI ALDIR BLANC"><img class="ui-shot" src="screenshots_ui/L0_a_1765491821594.png" alt="LEI ALDIR BLANC" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/oficinas-culturais-2022" title="OFICINAS CULTURAIS 2022"><img class="ui-shot" src="screenshots_ui/L0_a_1765491821768.png" alt="OFICINAS CULTURAIS 2022" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/fundo-municipal-de-cultura" title="FUNDO MUNICIPAL DE CULTURA"><img class="ui-shot" src="screenshots_ui/L0_a_1765491821933.png" alt="FUNDO MUNICIPAL DE CULTURA" loading="lazy"></a>
+    <a href="https://www.limeira.sp.gov.br/museu" title="MUSEU"><img class="ui-shot" src="screenshots_ui/L0_a_1765491822104.png" alt="MUSEU" loading="lazy"></a>
+    <a href="https://web1.limeira.sp.gov.br/cadastrocultura/ctrLoginCadCultura/" title="CADASTRO MUNICIPAL DE ARTISTAS E ESPAÇOS CULTURAIS"><img class="ui-shot" src="screenshots_ui/L0_a_1765491822274.png" alt="CADASTRO MUNICIPAL DE ARTISTAS E ESPAÇOS CULTURAIS" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/secretarias/cultura/lei-paulo-gustavo" title="LEI PAULO GUSTAVO"><img class="ui-shot" src="screenshots_ui/L0_a_1765491822445.png" alt="LEI PAULO GUSTAVO" loading="lazy"></a>
+    <a href="https://web1.limeira.sp.gov.br/artistaslimeirenses" title="CONSULTA PÚBLICA DE ARTISTAS LIMEIRENSES"><img class="ui-shot" src="screenshots_ui/L0_a_1765491822617.png" alt="CONSULTA PÚBLICA DE ARTISTAS LIMEIRENSES" loading="lazy"></a>
+    <a href="https://limeira.sp.gov.br/agenda-cultural" title="AGENDA CULTURAL"><img class="ui-shot" src="screenshots_ui/L0_a_1765491822786.png" alt="AGENDA CULTURAL" loading="lazy"></a>
+  </aside>
+</main>
+
+<footer class="footer" id="rodape">
+  <div class="footer-inner">
+    <div class="footer-audiences">
+      <a class="ui-control" href="#" title="Cidadão"><img src="screenshots_ui/L0_a_1765491823901.png" alt="Cidadão"></a>
+      <a class="ui-control" href="#" title="Empresa"><img src="screenshots_ui/L0_a_1765491823995.png" alt="Empresa"></a>
+      <a class="ui-control" href="#" title="Servidor"><img src="screenshots_ui/L0_a_1765491824173.png" alt="Servidor"></a>
+      <a class="ui-control" href="#" title="Turismo"><img src="screenshots_ui/L0_a_1765491824347.png" alt="Turismo"></a>
+    </div>
+    <div>
+      <div class="footer-nav">
+        <a class="ui-control" href="#" title="Leis Municipais"><img src="screenshots_ui/L0_a_1765491823029.png" alt="Leis Municipais"></a>
+        <a class="ui-control" href="#" title="Secretarias"><img src="screenshots_ui/L0_a_1765491823135.png" alt="Secretarias"></a>
+        <a class="ui-control" href="#" title="Imprensa"><img src="screenshots_ui/L0_a_1765491823315.png" alt="Imprensa"></a>
+        <a class="ui-control" href="#" title="Consultas"><img src="screenshots_ui/L0_a_1765491823486.png" alt="Consultas"></a>
+        <a class="ui-control" href="#" title="Autarquias e Conselhos"><img src="screenshots_ui/L0_a_1765491823655.png" alt="Autarquias e Conselhos"></a>
+      </div>
+      <div class="footer-meta">
+        <strong>Endereço</strong>
+        Paço Municipal Prefeito Waldemar Mattos Silveira<br>
+        Rua Prefeito Doutor Alberto Ferreira nº 179<br>
+        Centro, Limeira/SP — CEP: 13481-900<br><br>
+        <strong>Telefone</strong>
+        (19) 3404-9600
+      </div>
+      <div class="footer-social">
+        <a class="ui-control" href="#" title="Facebook"><img src="screenshots_ui/L0_a_1765491824594.png" alt="Facebook"></a>
+        <a class="ui-control" href="#" title="Instagram"><img src="screenshots_ui/L0_a_1765491824684.png" alt="Instagram"></a>
+        <a class="ui-control" href="#" title="Youtube"><img src="screenshots_ui/L0_a_1765491824854.png" alt="Youtube"></a>
+        <a class="ui-control" href="#" title="Linkedin"><img src="screenshots_ui/L0_a_1765491825027.png" alt="Linkedin"></a>
+        <a class="ui-control" href="#" title="Rss"><img src="screenshots_ui/L0_a_1765491825197.png" alt="Rss"></a>
+        <a class="ui-control" href="#" title="eOuve - Atendimento ao Cidadão"><img src="screenshots_ui/L0_a_1765491825364.png" alt="eOuve - Atendimento ao Cidadão"></a>
+      </div>
+    </div>
+    <div>
+      <a href="https://limeira.sp.gov.br/"><img class="ui-shot" src="screenshots_ui/L0_a_1765491805190.png" alt="" loading="lazy" style="filter:brightness(0) invert(1); width:220px"></a>
+    </div>
+  </div>
+  <div class="footer-legal">
+    <a class="ui-control" href="#" title="Termo de Uso e Políticas de Privacidade"><img src="screenshots_ui/L0_a_1765491826032.png" alt="Termo de Uso e Políticas de Privacidade"></a>
+    <a class="ui-control" href="#" title="LGPD - Pesquisa de Satisfação"><img src="screenshots_ui/L0_a_1765491826267.png" alt="LGPD - Pesquisa de Satisfação"></a>
+    <a class="ui-control" href="#" title="eCrie - Sistema de Gerenciamento de Site"><img src="screenshots_ui/L0_a_1765491826627.png" alt="eCrie - Sistema de Gerenciamento de Site"></a>
+  </div>
+</footer>
+
+<p class="note">
+  Reconstrução estática a partir de <code>estrutura_ui.json</code> + <code>screenshots_ui/</code>,
+  com títulos/links atualizados de
+  <a href="https://limeira.sp.gov.br/secretarias/cultura">limeira.sp.gov.br/secretarias/cultura</a>.
+  Sem JavaScript de menu/carrossel.
+</p>
+</body>
+</html>

@@ -1,0 +1,247 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Sun with small cloud (weather icon), enabled, top right.
+  - Text: "26°", enabled, top right, next to weather icon.
+  - Text: "Céu limpo", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2026", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2026".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+  - Link: "Mobiliário 2026", enabled, below "Em alta:", next to "Licitações".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Topo", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Link: "Notícias", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Geral" with a down arrow, enabled, next to separator.
+
+Main Content Area (Geral News Section)
+
+  - Title: "Geral", enabled, below breadcrumbs.
+
+  - Floating Element: Icon (Hand symbol for Libras), enabled, right side of the
+    page, partially obscured.
+
+      - News Article Card 1:
+
+          - Image: Public audience in a hall with a speaker on stage and
+            presentation screen showing "LEITURA TÉCNICA E COMUNITÁRIA", "20
+            participantes", "Oficinas Comunitárias da Etapa 05", "Oficinas
+            Comunitárias da Etapa 04", enabled.
+          - Date and Time: "21/07/2026 às 16h39", enabled.
+          - Headline: "Prefeitura de Limeira realiza 5ª Audiência Pública para
+            apresentar resultados da revisão do Plano Diretor", enabled.
+          - Summary: "Evento será realizado em 6 de agosto, às 17h, no
+            anfiteatro da FT da Unicamp", enabled.
+
+      - News Article Card 2:
+
+          - Image: Aerial view of a city with many buildings, enabled.
+          - Date and Time: "21/07/2026 às 15h30", enabled.
+          - Headline: "Limeira reúne representantes de mais de 50 cidades em
+            Fórum de Cidades Digitais e Inteligentes", enabled.
+          - Summary: "Evento acontece nesta quinta-feira (23) e debate inovação,
+            inteligência artificial e transformação digital na gestão pública",
+            enabled.
+
+      - News Article Card 3:
+
+          - Image: Classroom with students and a teacher at desks, some facing a
+            screen, enabled.
+          - Date and Time: "21/07/2026 às 14h17", enabled.
+          - Headline: "Sest Senat Limeira abre 90 vagas gratuitas para cursos de
+            inglês e Gestão de Pessoas", enabled.
+          - Summary: "Interessados podem se inscrever até 2 de agosto pelo site
+            do programa", enabled.
+
+      - News Article Card 4:
+
+          - Image: Group of people seated in a room, one person standing and
+            speaking at the front, enabled.
+          - Date and Time: "21/07/2026 às 12h15", enabled.
+          - Headline: "Unicamp Limeira oferece Curso Básico Intensivo de Libras
+            em agosto e setembro", enabled.
+          - Summary: "Capacitação é promovida pelo Programa Ecoedu e conta com
+            apoio da Prefeitura de Limeira", enabled.
+
+      - News Article Card 5:
+
+          - Image: Utility truck with a cherry picker arm working on electrical
+            wires on a pole, enabled.
+          - Date and Time: "21/07/2026 às 11h46", enabled.
+          - Headline: "Prefeitura conserta 7 mil pontos de iluminação pública em
+            menos de 4 meses", enabled.
+          - Summary: "Equipes em campo atuam diariamente e reduzem em 80% o
+            número de protocolos em aberto", enabled.
+
+      - News Article Card 6:
+
+          - Image: Blue banner with "PREFEITURA MUNICIPAL DE LIMEIRA ESTADO DE
+            SÃO PAULO - BRASIL" logo, enabled.
+          - Date and Time: "21/07/2026 às 11h36", enabled.
+          - Headline: "Conselho Municipal de Saúde lamenta morte de Raul Nilsen
+            Filho", enabled.
+          - Summary: "Dr. Raul foi presidente do Conselho e secretário de
+            Saúde", enabled.
+
+      - News Article Card 7:
+
+          - Image: Hands holding a smartphone, with fingers typing, in a dimly
+            lit setting, enabled.
+          - Date and Time: "21/07/2026 às 9h46", enabled.
+          - Headline: "Prefeitura abre inscrições para curso gratuito sobre
+            segurança no uso de aplicativos e redes sociais", enabled.
+          - Summary: "Capacitação ensina práticas de privacidade, proteção de
+            dados e prevenção a golpes no ambiente digital", enabled.
+
+      - News Article Card 8:
+
+          - Image: Tractor on a dirt road next to a field with green plants
+            under a blue sky, enabled.
+          - Date and Time: "20/07/2026 às 16h19", enabled.
+          - Headline: "Limeira incentiva o protagonismo feminino no agronegócio
+            com nova edição do "Semeadoras do Agro"", enabled.
+          - Summary: "Evento reúne capacitação, networking e troca de
+            experiências para fortalecer a atuação das mulheres no campo",
+            enabled.
+
+      - News Article Card 9:
+
+          - Image: Aerial view of an outdoor event with many trucks,
+            construction equipment, and a large banner saying "BRAZIL EQUIPO
+            SHOW", enabled.
+          - Date and Time: "20/07/2026 às 15h10", enabled.
+          - Headline: "Caravana gratuita leva produtores de Limeira a evento de
+            máquinas em Jaguariúna", enabled.
+          - Summary: "Visita a um dos principais eventos de tecnologia para
+            construção, mineração e agronegócio acontece em 7 de agosto",
+            enabled.
+
+      - News Article Card 10:
+
+          - Image: Three women standing on a podium (labeled 1, 2, 3) holding
+            flags and medals, possibly after a swimming competition, enabled.
+          - Date and Time: "20/07/2026 às 14h41", enabled.
+          - Headline: "Jogos Regionais: Limeira conquista 15 medalhas no fim de
+            semana e sobe para a 5ª colocação geral", enabled.
+          - Summary: "Competição segue até quinta-feira (23)", enabled.
+
+  - Pagination:
+
+      - Dropdown: "1" with a down arrow, enabled, bottom center.
+      - Text: "/ 1728", enabled, next to dropdown.
+      - Icon: Right arrow (next page), enabled, next to total pages.
+
+Right Sidebar (Quick Access/Services)
+
+  - Button: "Limeira Digital" with a document icon, enabled, top of sidebar.
+  - Button: "IPTU e Dívida Ativa/ Mobiliário" with a document icon, enabled.
+  - Button: "Consulta Medicamentos" with a heart icon, enabled.
+  - Button: "Consulta de Processos" with a speech bubble icon, enabled.
+  - Button: "Multas de Trânsito" with a document icon, enabled.
+  - Button: "Certidões" with an envelope icon, enabled.
+  - Button: "Leis Orçamentárias" with a document icon, enabled.
+  - Button: "Vagas do PAT" with a document icon, enabled.
+  - Button: "PROCON" with a computer monitor icon, enabled.
+  - Button: "Chamamento Público" with a hand icon, enabled.
+  - Button: "Parcelamento Online" with a globe icon, enabled.
+  - Button: "Licitações" with a handshake icon, enabled.
+  - Button: "Plano Diretor 2025-2035" with a magnifying glass icon, enabled.
+  - Button: "Dengue" with a mosquito icon, enabled.
+  - Button: "Cadastro Habitacional" with a house icon, enabled.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

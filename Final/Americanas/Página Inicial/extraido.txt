@@ -1,0 +1,443 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Top Header Bar
+
+  - Text: especial beleza
+  - Text: • seu cuidado começa aqui
+  - Text: • tudo em até 12x no cartão*
+  - Text: • queeero
+  - Icon: Right arrow (next to 'queeero')
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: User profile
+  - Text: olá, faça seu lo... ou cadastre-se
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 0 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Button: baixe o app
+  - Button: faça seu cartão
+  - Button: mais vendidos
+  - Button: nossas lojas
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: outlet
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Link: brinquedos
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+  - Link: especial beleza
+
+Promotional Banner (Top)
+
+  - Text: só no app você aproveita ofertas exclusivas
+  - Text: R$15 de desconto com o cupom APP15
+  - Icon: Tag (oba, cupom)
+  - Text: * válido em pedidos a partir de R$100. Confira as regras.
+  - Button: baixe o app
+
+Main Banner: "Cestaaaço"
+
+  - Text: a semana acabou, mas o cestaaaço tá só começando
+  - Text: olha só essas ofertas!
+  - Text: até 50%
+  - Text: cestaaaço
+  - Button: aproveite
+  - Pagination Dots: 5 dots, first is red (selected).
+  - Information text: até 50% de desconto em itens selecionados.
+      - Icon: Information circle
+
+Quick Access Buttons (below main banner)
+
+  - Button: especial beleza
+      - Icon: Sparkle star
+  - Button: baixe o app!
+      - Icon: Americanas app logo
+  - Button: entrega rápida
+      - Text: *consulte seu cep (small text below button label)
+  - Button: leve+ pague-
+      - Icon: Plus sign
+  - Button: oferta do dia
+  - Button: ofertas da TV
+  - Button: oba, cupom
+  - Button: frete grátis
+      - Text: *consulte seu cep (small text below button label)
+  - Button: gift card
+      - Text: voltou!
+  - Button: outlet
+      - Text: até 75% de desconto (small text below button label)
+
+Promotional Banner (Middle, red background with white text)
+
+  - Text: oba, cupom!
+  - Text: 10% de desconto
+  - Small text box: só no app! (with small app icon)
+  - Text: cupom: TOMA10 (with dashed border)
+  - Text: em itens selecionados
+  - Icon: Information circle
+  - Link: confira as regras.
+
+"Retire na loja em 2h" Product Section (Grid Layout, 3 columns)
+
+  - Heading: retire na loja em 2h
+  - Product Card 1: Bis Xtra - leve 4 por
+      - Image: Various Bis Xtra chocolate bars.
+      - Tag: retire na loja em 2h
+      - Tag: oferta exclusiva online
+      - Text: Bis Xtra - leve 4 por
+      - Price: R$ 2,74 cada
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 2: tabletes Lacta 80g/90g/98g/104g - leve 2 por
+      - Image: Various Lacta chocolate bars.
+      - Tag: retire na loja em 2h
+      - Tag: oferta exclusiva online
+      - Text: tabletes Lacta 80g/90g/98g/104g - leve 2 por
+      - Price: R$ 5,99 cada
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 3: Kit Kat 41,5g Nestlé leve 4 por
+      - Image: Various Kit Kat chocolate bars.
+      - Tag: retire na loja em 2h
+      - Text: Kit Kat 41,5g Nestlé leve 4 por
+      - Price: R$ 3,25 cada
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 4: Bis - leve 3 por
+      - Image: Bis chocolate bars.
+      - Tag: retire na loja em 2h
+      - Tag: oferta exclusiva online
+      - Text: Bis - leve 3 por
+      - Price: R$ 5,33 cada
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 5: shampoo + condicionador Seda + de R$19,99 por
+      - Image: Seda shampoo and conditioner bottles.
+      - Tag: oferta do dia
+      - Text: kit shampoo + condicionador Seda + de R$19,99 por
+      - Price: R$ 15,99 cada
+      - Button: queeero
+  - Product Card 6: salgadinhos Doritos 75g/ Cheetos 66g leve 2 por
+      - Image: Doritos and Cheetos bags.
+      - Tag: retire na loja em 2h
+      - Badge: leve 2
+      - Text: salgadinhos Doritos 75g/ Cheetos 66g leve 2 por
+      - Price: R$ 11,99 cada
+      - Button: queeero
+      - Coupon Text: cupom: ELMACHIPS (partially visible in image, inferred)
+  - Product Card 7: fraldas Huggies ou Pampers com até R$6,98 por
+      - Image: Huggies and Pampers diapers.
+      - Tag: retire na loja em 2h
+      - Text: tudo para seu bebê a partir de
+      - Price: R$ 6,98
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 8: sanduicheira fast s12 Mondial de R$99 por
+      - Image: Mondial sandwich maker.
+      - Tag: retire na loja em 2h
+      - Text: sanduicheira fast s12 Mondial de R$99 por
+      - Price: R$ 69 no Pix
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 9: caixa de bombom Lacta ou Ouro Branco e Sonho de Valsa leve 2
+    por
+      - Image: Lacta chocolate box.
+      - Tag: retire na loja em 2h
+      - Tag: oferta exclusiva online
+      - Badge: leve 2
+      - Text: caixa de bombom Lacta ou Ouro Branco e Sonho de Valsa leve 2 por
+      - Price: R$ 11,99 cada
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 10: Samsung Galaxy A16 5G 128GB de R$1.499 por
+      - Image: Multiple Samsung Galaxy A16 smartphones.
+      - Tag: retire na loja em 2h
+      - Text: Samsung Galaxy A16 5G 128GB de R$1.499 por
+      - Price: R$ 987,30 no Pix
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 11: secador de cabelos Britânia 2100W BSC2150 bivolt de R$179
+    por
+      - Image: Hair dryer.
+      - Tag: retire na loja em 2h
+      - Text: secador de cabelos Britânia 2100W BSC2150 bivolt de R$179 por
+      - Price: R$ 95
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+  - Product Card 12: smartphones em até 8x sem juros*
+      - Image: Smartphones.
+      - Tag: retire na loja em 2h
+      - Text: smartphones em até
+      - Text: 8x sem juros*
+      - Button: queeero
+      - Information text: vendido por Americanas.
+          - Icon: Information circle
+
+"As melhoooores ofertas pra você:" Section (Grid Layout, 3 columns)
+
+  - Heading: as melhoooores ofertas pra você:
+  - Offer Card 1: celular Samsung com até 12% de desconto no Pix
+      - Image: Smartphones.
+      - Text: celular Samsung com até
+      - Text: 12% de desconto no Pix
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 2: ar-condicionados e ventiladores com até 12% de desconto no Pix
+      - Image: Air conditioner and fan.
+      - Text: ar-condicionados e ventiladores com até
+      - Text: 12% de desconto no Pix
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 3: smart TVs, caixas de som e mais com até 15% de desconto no Pix
+      - Image: Smart TV and sound box.
+      - Text: smart TVs, caixas de som e mais com até
+      - Text: 15% de desconto no Pix
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 4: fogões, geladeiras e mais com até 14% de desconto no Pix
+      - Image: Stove and refrigerator.
+      - Text: fogões, geladeiras e mais com até
+      - Text: 14% de desconto no Pix
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 5: colchão novo com frete grátis Brasil
+      - Image: Mattress and bed frame.
+      - Text: colchão novo com
+      - Text: frete grátis Brasil
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 6: seleção de móveis com até 17% de desconto
+      - Image: Sofa.
+      - Text: seleção de móveis com até
+      - Text: 17% de desconto
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 7: desktops e notebooks com até 15% de desconto
+      - Image: Desktop PC and laptop.
+      - Text: desktops e notebooks com até
+      - Text: 15% de desconto
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+  - Offer Card 8: freezers e cervejeiras com 10% de desconto no Pix
+      - Image: Freezers and beer cooler.
+      - Text: freezers e cervejeiras com
+      - Text: 10% de desconto no Pix
+      - Button: queeero
+      - Information text: confira as regras.
+          - Icon: Information circle
+
+Category Navigation (Horizontal scrollable section)
+
+  - Text: navegue por categoria :)
+  - Category Card:
+      - Icon: Bear head (red)
+      - Text: brinquedos
+  - Category Card:
+      - Icon: Smartphone (red outline)
+      - Text: telefonia
+  - Category Card:
+      - Icon: Chocolate bar (red)
+      - Text: chocolate
+  - Category Card:
+      - Icon: Cookies (red)
+      - Text: biscoitos
+  - Category Card:
+      - Icon: Air fryer (red)
+      - Text: eletroportáteis
+  - Category Card:
+      - Icon: Diaper (red)
+      - Text: fraldas
+  - Category Card:
+      - Icon: Beauty products (red bottles)
+      - Text: beleza e perfumaria
+  - Category Card:
+      - Icon: Refrigerator (red)
+      - Text: eletrodomésticos
+  - Icon: Right arrow (chevron) - indicates scrollable area
+
+"Os Mais Vendidos" Products (Horizontal scrollable section)
+
+  - Text: os mais vendidos
+  - Product Card 1:
+      - Image: Smartphone Motorola Moto G15 256GB 12GB RAM Boo... (dark gray
+        phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.299,00
+      - Discount Badge: 38% (green)
+      - Price (new): R$ 809,10 no Pix
+      - Installment info: em 8x de R$ 112,37 sem juros no cartão de crédito
+  - Product Card 2:
+      - Image: Smartphone Samsung Galaxy A06 128GB 4GB RA... (dark blue phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 4.5 filled stars, 1 half-filled (text: 4.8)
+      - Price (old): R$ 749,00
+      - Discount Badge: 16% (green)
+      - Price (new): R$ 629,10 no Pix
+      - Installment info: em 8x de R$ 87,37 sem juros no cartão de crédito
+  - Product Card 3:
+      - Image: Smartphone Samsung Galaxy A16 128GB 4GB RA... (black phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.299,00
+      - Discount Badge: 31% (green)
+      - Price (new): R$ 899,00 no Pix
+      - Installment info: em 8x de R$ 112,37 sem juros no cartão de crédito
+  - Product Card 4:
+      - Image: Smartphone Motorola Moto G05 128GB 12GB RAM Boo... (blue-gray
+        phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.099,00
+      - Discount Badge: 43% (green)
+      - Price (new): R$ 629,10 no Pix
+      - Installment info: em 8x de R$ 87,37 sem juros no cartão de crédito
+  - Product Card 5:
+      - Image: Smartphone Samsung Galaxy A25 5G 256GB 8GB ... (dark blue phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.749,00
+      - Discount Badge: 25% (green)
+      - Price (new): R$ 1.304,10 no Pix
+      - Installment info: em 8x de R$ 181,12 sem juros no cartão de crédito
+  - Icon: Right arrow (chevron) - indicates scrollable area
+
+Promotional Banners (Bottom)
+
+  - Banner 1: cliente a
+      - Image: Credit card graphic.
+      - Tag: novidade!
+      - Text: chegou o cartão
+      - Text: cliente a
+      - Text: com benefícios exclusivos, perfeito pra você!
+      - Button: conheça agora
+      - Icon: Information circle
+      - Text: sujeito a análise de crédito.
+  - Banner 2: anuncie na Americanas
+      - Image: Man smiling with phone.
+      - Text: anuncie na Americanas
+      - Text: transformando audiência qualificada em vendas
+      - Button: quero anunciar
+  - Banner 3: vem pro app
+      - Image: Shopping cart with items.
+      - Text: mas barato no app!
+      - Text: aqui tem cupom e ofertas exclusivas
+      - Icon: QR code
+      - Button: baixe o app
+  - Banner 4: americanas [• ao vivo]
+      - Image: Various products.
+      - Text: americanas [• ao vivo]
+      - Text: aproveite ofertas exclusivas e descubra produtos
+      - Button: veeem
+
+"Ofertas que você também precisa ver" Section (Links in Columns)
+
+  - Heading: ofertas que você também precisa ver
+  - Column 1
+      - Link: fogão 4 bocas
+      - Link: geladeira frost free
+      - Link: iphone
+  - Column 2
+      - Link: geladeira
+      - Link: guarda roupa casal
+      - Link: fone de ouvido bluetooth
+  - Column 3
+      - Link: celular samsung
+      - Link: celular
+      - Link: notebook
+  - Column 4
+      - Link: nintendo switch
+      - Link: ps5
+      - Link: microondas
+  - Column 5
+      - Link: air fryer
+      - Link: panela de pressão
+      - Link: liquidificador
+  - Column 6
+      - Link: jogo de panelas
+      - Link: cafeteira
+      - Link: celular motorola
+
+Floating Icon (Left side)
+
+  - Icon: Red clock icon
+
+Floating Accessibility Icon (Right side)
+
+  - Icon: Blue accessibility icon
+
+Footer Section
+
+  - Link: sobre nós
+  - Link: política de privacidade
+  - Link: política de cookies
+  - Link: trocas e devoluções
+  - Link: regulamentos
+  - Link: como comprar
+  - Link: americanas business
+  - Link: trabalhe com a gente
+  - Link: americanas marketing place
+  - Link: política de entrega
+  - Link: vale presente
+  - Link: baixe o app
+  - Link: cartões americanas
+  - Link: americanas delivery
+  - Link: programa de parceiros
+  - Link: termos e condições
+  - Link: americanas advertising
+  - Link: vendas para empresas
+  - Link: sac 4003 4848
+  - Link: guia de segurança
+  - Link: especial beleza
+  - Link: americanas advertising
+  - Link: entregas e devoluções
+  - Logo: americanas (red text)
+  - Dropdown Menu: mais informações (state: collapsed)
+      - Icon: Down arrow (next to 'mais informações')
+  - Social Media Icon: Instagram
+  - Social Media Icon: YouTube
+  - Social Media Icon: Facebook
+  - Social Media Icon: TikTok
+  - Text: americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição
+    Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 – Rio de Janeiro,
+    RJ – 20081-902
+  - Link: Mapa do site

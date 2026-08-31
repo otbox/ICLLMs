@@ -1,0 +1,164 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Secretarias", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Cultura" with a down arrow, enabled, next to separator.
+
+Main Content Area - Cultura Section
+
+  - Title: "Cultura", enabled, below breadcrumbs.
+  - Section Title: "SECRETARIA MUNICIPAL DE CULTURA", enabled, below title.
+      - Icon: Red pushpin, enabled, right of section title.
+  - Paragraph: "Departamento vai coordenar políticas públicas para promoção da
+    igualdade racial em Limeira", enabled, below section title.
+  - Paragraph: "Nova estrutura ligada à Secretaria de Cultura foi oficialmente
+    lançada nesta quarta-feira (1º)", enabled, below previous paragraph.
+  - Horizontal Rule, enabled.
+  - Section Title: "DEPARTAMENTO DE PROMOÇÃO DA IGUALDADE RACIAL", enabled,
+    below horizontal rule.
+  - Horizontal Rule, enabled.
+  - Link: "Agenda de Eventos - Cultura e Turismo Limeira", enabled, below
+    horizontal rule.
+  - Horizontal Rule, enabled.
+  - Link: "Visita Virtual ao Museu", enabled, below horizontal rule.
+  - Horizontal Rule, enabled.
+  - Link: "LEI ALDIR BLANC 2 - (2025)", enabled, below horizontal rule.
+  - Horizontal Rule, enabled.
+  - Link: "Oficinas Culturais 2024 - Edital de Chamamento", enabled, below
+    horizontal rule.
+  - Horizontal Rule, enabled.
+  - Link: "Solicitação de data para o Teatro Vitória", enabled, below horizontal
+    rule.
+  - Horizontal Rule, enabled.
+  - Link: "Parque Cidade", enabled, below horizontal rule.
+  - Horizontal Rule, enabled.
+  - Link: "Agenda de Cultura e Eventos", enabled, below horizontal rule.
+  - Horizontal Rule, enabled.
+  - Pagination Dropdown: "1" (selected) with a down arrow icon, enabled, bottom
+    center.
+  - Pagination Text: "/ 2", enabled, next to dropdown.
+  - Pagination Button: Right arrow icon, enabled, next to pagination text.
+  - Floating Element: Icon (Hand symbol for Libras), enabled, right side of the
+    page.
+
+Right Sidebar (Quick Access/Services)
+
+  - Button: "REGULAMENTOS" with a document icon, enabled, top of sidebar.
+  - Button: "TEATRO" with a document icon, enabled.
+  - Button: "BIBLIOTECAS" with a book icon, enabled.
+  - Button: "CARTA DE SERVIÇOS" with a document icon, enabled.
+  - Button: "CONSELHO MUNICIPAL DE CULTURA" with a document icon, enabled.
+  - Button: "EDITAIS" with a document icon, enabled.
+  - Button: "CENTRO DE CIÊNCIAS E CULTURA" with a building icon, enabled.
+  - Button: "LEI ALDIR BLANC" with a document icon, enabled.
+  - Button: "OFICINAS CULTURAIS 2022" with a document icon, enabled.
+  - Button: "FUNDO MUNICIPAL DE CULTURA" with a document icon, enabled.
+  - Button: "MUSEU" with a building icon, enabled.
+  - Button: "CADASTRO MUNICIPAL DE ARTISTAS E ESPAÇOS CULTURAIS" with a document
+    icon, enabled.
+  - Button: "LEI PAULO GUSTAVO" with a document icon, enabled.
+  - Button: "CONSULTA PÚBLICA DE ARTISTAS LIMEIRENSES" with a document icon,
+    enabled.
+  - Button: "AGENDA CULTURAL" with a document icon, enabled.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below
+    "Endereço:".
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

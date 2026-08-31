@@ -1,0 +1,44 @@
+{
+  "pasta": "/home/otbox/Documentos/Projetos/ICLLMs/extracoes/americanas",
+  "arquivos": {
+    "estrutura_ui.json": {
+      "components": 680
+    },
+    "nossaslojas/estrutura_ui.json": {
+      "components": 266
+    },
+    "nossaslojas1/estrutura_ui.json": {
+      "components": 41
+    },
+    "nossaslojas2/estrutura_ui.json": {
+      "components": 319
+    },
+    "bis/estrutura_ui.json": {
+      "components": 266
+    },
+    "celular/estrutura_ui.json": {
+      "components": 710
+    },
+    "conta/estrutura_ui.json": {
+      "components": 40
+    },
+    "dinossauro0/estrutura_ui.json": {
+      "components": 312
+    },
+    "dinossauro1/estrutura_ui.json": {
+      "components": 490
+    },
+    "inicial/estrutura_ui.json": {
+      "components": 52
+    },
+    "dinossauro1/f1/estrutura_ui.json": {
+      "components": 526
+    },
+    "conta/1/estrutura_ui.json": {
+      "components": 30
+    },
+    "bis/2/estrutura_ui.json": {
+      "components": 282
+    }
+  }
+}

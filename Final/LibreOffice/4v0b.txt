@@ -1,0 +1,225 @@
+Here is the transcription of the visible elements in the image:
+
+Top Bar (Main Window):
+
+  - Application Title: "Sem título 1 — LibreOffice Writer" (Text, enabled, top
+    bar)
+  - Window Control Button: Minimize (Icon, enabled, top right of window)
+  - Window Control Button: Maximize/Restore Down (Icon, enabled, top right of
+    window)
+  - Window Control Button: Close (Icon, enabled, top right of window)
+
+Menu Bar (Main Window):
+
+  - Menu: Arquivo (Text, enabled, top left)
+  - Menu: Editar (Text, enabled, top left)
+  - Menu: Exibir (Text, enabled, top left)
+  - Menu: Inserir (Text, enabled, top left)
+  - Menu: Formatar (Text, enabled, top left)
+  - Menu: Estilos (Text, enabled, top left)
+  - Menu: Tabela (Text, enabled, top left)
+  - Menu: Formulário (Text, enabled, top left)
+  - Menu: Ferramentas (Text, enabled, top left)
+  - Menu: Janela (Text, enabled, top left)
+  - Menu: Ajuda (Text, enabled, top left)
+
+Standard Toolbar (Main Window, Below Menu Bar):
+
+  - Button: New Document (Icon: Document with plus sign, enabled, top left
+    toolbar)
+  - Dropdown Arrow Button: (Next to New Document icon, enabled, top left
+    toolbar)
+  - Button: Open Document (Icon: Folder, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Open Document icon, enabled, top left
+    toolbar)
+  - Button: Save (Icon: Floppy disk, enabled, top left toolbar)
+  - Button: Print (Icon: Printer, enabled, top left toolbar)
+  - Button: Print Preview (Icon: Magnifying glass over document, enabled, top
+    left toolbar)
+  - Button: Cut (Icon: Scissors, disabled, top left toolbar)
+  - Button: Copy (Icon: Two documents, disabled, top left toolbar)
+  - Button: Paste (Icon: Clipboard, disabled, top left toolbar)
+  - Button: Undo (Icon: Left-curved arrow, disabled, top left toolbar)
+  - Button: Redo (Icon: Right-curved arrow, disabled, top left toolbar)
+  - Button: Find & Replace (Icon: Magnifying glass over 'A', enabled, top left
+    toolbar)
+  - Dropdown Arrow Button: (Next to Find & Replace icon, enabled, top left
+    toolbar)
+  - Button: Navigator (Icon: Compass, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Navigator icon, enabled, top left toolbar)
+  - Button: Table (Icon: Grid, enabled, top left toolbar)
+  - Button: Insert Image (Icon: Mountains and sun, enabled, top left toolbar)
+  - Button: Text Box (Icon: 'T' in a box, enabled, top left toolbar)
+  - Button: Insert Page Break (Icon: Document with dashed line, enabled, top
+    left toolbar)
+  - Button: Hyperlink (Icon: Chain link, enabled, top left toolbar)
+  - Button: Special Characters (Icon: Omega symbol, enabled, top left toolbar)
+  - Button: Insert Comment (Icon: Speech bubble with plus, enabled, top left
+    toolbar)
+  - Button: Signature Line (Icon: Line with signature, enabled, top left
+    toolbar)
+  - Button: Track Changes (Icon: Document with pencil, enabled, top left
+    toolbar)
+  - Dropdown Arrow Button: (Next to Track Changes icon, enabled, top left
+    toolbar)
+  - Button: Macros (Icon: Gear, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Macros icon, enabled, top left toolbar)
+  - Button: Extension Manager (Icon: Puzzle piece, enabled, top left toolbar)
+  - Dropdown Arrow Button: (Next to Extension Manager icon, enabled, top left
+    toolbar)
+
+Formatting Toolbar (Main Window, Below Standard Toolbar):
+
+  - Dropdown List: "Estilo de parágrafo Padrão" (Text, selected: "Estilo de
+    parágrafo Padrão", enabled, left side of formatting toolbar)
+  - Button: Character Style (Icon: 'A' with a line below, enabled, left side of
+    formatting toolbar)
+  - Button: Font Color (Icon: 'A' with a small color bar, enabled, left side of
+    formatting toolbar)
+  - Dropdown List: Font Name (Text: "Arial", selected: "Arial", enabled, left
+    side of formatting toolbar)
+  - Dropdown List: Font Size (Text: "12 pt", selected: "12 pt", enabled, left
+    side of formatting toolbar)
+  - Button: Bold (Icon: 'B', enabled, not selected, formatting toolbar)
+  - Button: Italic (Icon: 'I', enabled, not selected, formatting toolbar)
+  - Button: Underline (Icon: 'U', enabled, not selected, formatting toolbar)
+  - Button: Strikethrough (Icon: 'S', enabled, not selected, formatting toolbar)
+  - Button: Superscript (Icon: 'x²', enabled, not selected, formatting toolbar)
+  - Button: Subscript (Icon: 'x₂', enabled, not selected, formatting toolbar)
+  - Button: Clear Direct Formatting (Icon: 'A' with an eraser, enabled,
+    formatting toolbar)
+  - Button: Font Color (Icon: 'A' with a red bar below, enabled, formatting
+    toolbar)
+  - Button: Highlight Color (Icon: Marker pen, enabled, formatting toolbar)
+  - Button: Align Left (Icon: Left-aligned lines, enabled, selected, formatting
+    toolbar)
+  - Button: Align Center (Icon: Centered lines, enabled, not selected,
+    formatting toolbar)
+  - Button: Align Right (Icon: Right-aligned lines, enabled, not selected,
+    formatting toolbar)
+  - Button: Justify (Icon: Justified lines, enabled, not selected, formatting
+    toolbar)
+  - Button: Increase Indent (Icon: Right arrow into lines, enabled, formatting
+    toolbar)
+  - Button: Decrease Indent (Icon: Left arrow out of lines, enabled, formatting
+    toolbar)
+  - Button: Numbered List (Icon: 1.2.3. list, enabled, formatting toolbar)
+  - Button: Bulleted List (Icon: Bulleted list, enabled, formatting toolbar)
+  - Button: Line Spacing (Icon: Lines with up/down arrows, enabled, formatting
+    toolbar)
+  - Dropdown Arrow Button: (Next to Line Spacing icon, enabled, formatting
+    toolbar)
+  - Button: Background Color (Icon: Paint bucket, enabled, formatting toolbar)
+  - Button: Borders (Icon: Square with borders, enabled, formatting toolbar)
+  - Dropdown Arrow Button: (Next to Borders icon, enabled, formatting toolbar)
+  - Button: Table (Icon: Grid, enabled, formatting toolbar)
+  - Button: Page Formatting (Icon: Document with margins, enabled, formatting
+    toolbar)
+  - Button: Insert Chart (Icon: Bar chart, enabled, formatting toolbar)
+  - Button: Insert Object (Icon: Cube, enabled, formatting toolbar)
+  - Dropdown Arrow Button: (Next to Insert Object icon, enabled, formatting
+    toolbar)
+
+Ruler (Main Window, Below Formatting Toolbar):
+
+  - Ruler: Horizontal ruler (Graduated, with numbers 1 through 18, enabled,
+    below formatting toolbar)
+  - Ruler Marker: Left Margin Indent (L-shaped icon, gray, at 0 mark, enabled,
+    on horizontal ruler)
+  - Ruler Marker: Right Margin Indent (L-shaped icon, gray, at 16 cm mark,
+    enabled, on horizontal ruler)
+  - Ruler Marker: Tab Stop (Icon: Hourglass, at approximately 2 cm mark,
+    enabled, on horizontal ruler)
+  - Ruler Marker: Tab Stop (Icon: Hourglass, at approximately 17 cm mark,
+    enabled, on horizontal ruler)
+
+Work Area (Main Window):
+
+  - Document Page: White rectangular area (Blank, enabled, central work area,
+    partially obscured by dialog)
+  - Text Cursor: (Blinking vertical line, enabled, top-left of the white
+    document page, partially obscured)
+  - Page Margin Area: Gray area (Enabled, surrounding the white document page)
+
+Right Sidebar (Main Window, Docked Panel - Collapsed):
+
+  - Button: Properties (Icon: Wrench, enabled, not selected, right side vertical
+    tab bar)
+  - Button: Styles (Icon: Paint brush, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Gallery (Icon: Mountains and sun, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Navigator (Icon: Compass, enabled, not selected, right side vertical
+    tab bar)
+  - Button: Pages (Icon: Stacked documents, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Styles (Icon: 'A' with a brush, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Comments (Icon: Speech bubble, enabled, not selected, right side
+    vertical tab bar)
+  - Button: Track Changes (Icon: Document with pencil, enabled, not selected,
+    right side vertical tab bar)
+  - Button: Find & Replace (Icon: Magnifying glass, enabled, not selected, right
+    side vertical tab bar)
+  - Scrollbar: Vertical scrollbar (Enabled, on the rightmost edge of the
+    application, for the vertical tab bar)
+
+Status Bar (Main Window, Bottom of Window):
+
+  - Icon: Save (Floppy disk, enabled, bottom left status bar)
+  - Text Field: "Página 1 de 1" (Text, enabled, bottom left status bar)
+  - Text Field: "0 palavra, 0 caractere" (Text, enabled, bottom left status bar)
+  - Text Field: "Estilo de página Padrão" (Text, enabled, bottom left status
+    bar)
+  - Text Field: "Português (Brasil)" (Text, enabled, bottom left status bar)
+  - Text Cursor: (Blinking vertical line, enabled, next to language setting)
+  - Button: Single Page View (Icon: Single page, enabled, selected, bottom right
+    status bar)
+  - Button: Multiple Pages View (Icon: Two pages, enabled, not selected, bottom
+    right status bar)
+  - Button: Book View (Icon: Book, enabled, not selected, bottom right status
+    bar)
+  - Button: Zoom Out (Icon: Minus sign, enabled, bottom right status bar)
+  - Slider: Zoom Level (Horizontal slider, enabled, approximately in the middle
+    position, bottom right status bar)
+  - Button: Zoom In (Icon: Plus sign, enabled, bottom right status bar)
+  - Text Field: "100%" (Text, enabled, bottom right status bar)
+
+Modal Dialog: "Linha de assinatura"
+
+Dialog Title Bar:
+
+  - Icon: LibreOffice Writer application icon (Icon, top left of dialog)
+  - Dialog Title: "Linha de assinatura" (Text, enabled, top bar of dialog)
+  - Window Control Button: Up arrow (Icon, enabled, top right of dialog)
+  - Window Control Button: Down arrow (Icon, enabled, top right of dialog)
+  - Window Control Button: Close (Icon: 'X', enabled, top right of dialog)
+
+Dialog Section: Signatário sugerido
+
+  - Section Header: "Signatário sugerido" (Text, enabled, in dialog)
+  - Label: "Nome:" (Text, enabled, in Signatário sugerido section)
+  - Text Field: "José da Silva" (Text input, enabled, with current value "José
+    da Silva", in Signatário sugerido section)
+  - Label: "Título:" (Text, enabled, in Signatário sugerido section)
+  - Text Field: "Diretor" (Text input, enabled, with current value "Diretor", in
+    Signatário sugerido section)
+  - Label: "E-mail:" (Text, enabled, in Signatário sugerido section)
+  - Text Field: "silva@exemplo.org" (Text input, enabled, with current value
+    "silva@exemplo.org", in Signatário sugerido section)
+
+Dialog Section: Mais
+
+  - Section Header: "Mais" (Text, enabled, in dialog)
+  - Checkbox: "Signatário pode adicionar anotações" (Text, checked, enabled, in
+    Mais section)
+  - Checkbox: "Mostrar data da assinatura na linha de assinatura" (Text,
+    checked, enabled, in Mais section)
+  - Label: "Instruções para o signatário:" (Text, enabled, in Mais section)
+  - Text Area: (Multiline text input, empty, enabled, in Mais section)
+
+Dialog Buttons (Bottom of Dialog):
+
+  - Button: "Ajuda" (Text, enabled, bottom left of dialog)
+  - Button: "OK" (Text, enabled, default/highlighted, bottom center of dialog)
+  - Button: "Cancelar" (Text, enabled, bottom right of dialog)

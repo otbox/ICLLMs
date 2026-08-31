@@ -1,0 +1,185 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Topo", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Link: "Notícias", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Geral" with a down arrow, expanded, next to separator.
+
+Open Dropdown Menu (from "Geral" breadcrumb)
+
+  - Menu item: "Administração", enabled.
+  - Menu item: "Agronegócios e Áreas Rurais", enabled.
+  - Menu item: "Assuntos Jurídicos", enabled.
+  - Menu item: "Ceprosom", enabled.
+  - Menu item: "Comunicação", enabled.
+  - Menu item: "Cultura", enabled.
+  - Menu item: "Desenvolvimento Econômico", enabled.
+  - Menu item: "Destaques", enabled.
+  - Menu item: "Educação", enabled.
+  - Menu item: "Esporte e Lazer", enabled.
+  - Menu item: "Fundo Social de Limeira", enabled.
+  - Menu item: "Geral", selected.
+  - Menu item: "Governo", enabled.
+  - Menu item: "Habitação", enabled.
+  - Menu item: "Meio Ambiente", enabled.
+  - Menu item: "Obras e Serviços Públicos", enabled.
+  - Menu item: "Saúde", enabled.
+  - Menu item: "Segurança", enabled.
+  - Menu item: "Trânsito e Transporte", enabled.
+  - Menu item: "Turismo", enabled.
+  - Menu item: "Urbanismo", enabled.
+
+Main Content Area (Geral News Section)
+
+  - Title: "Geral", enabled, below breadcrumbs.
+
+  - Floating Element: Icon (Hand symbol for Libras), enabled, right side of the
+    page.
+
+      - News Article Card 1:
+
+          - Image: White truck with "SÓ CACARECO" logo on the side, parked on a
+            street next to trees, enabled.
+          - Date and Time: "17/10/2025 às 14h12", enabled.
+          - Headline: "Operação Só Cacareco percorrerá 15 bairros na próxima
+            semana; veja quais áreas serão atendidas", enabled.
+          - Summary: "Materiais inservíveis serão recolhidos e devem ser
+            colocados na calçada no dia anterior", enabled.
+
+      - News Article Card 2:
+
+          - Image: Outdoor vaccination station with people queuing and a banner
+            "Plantão de Vacinação", enabled.
+          - Date and Time: "17/10/2025 às 11h48", enabled.
+          - Headline: "Limeira registra aumento de 33% nas vacinas aplicadas
+            em 2025 e consolida avanço na imunização", enabled.
+          - Summary: "Crescimento reflete ações descentralizadas da Secretaria
+            de Saúde e maior adesão da população", enabled.
+
+      - News Article Card 3 (partially visible):
+
+          - Image: Group of children and adults outdoors, some holding small pet
+            carriers or items, enabled.
+
+Right Sidebar (Quick Access/Services)
+
+  - Button: "Limeira Digital" with a document icon, enabled, top of sidebar.
+  - Button: "IPTU e Dívida Ativa/ Mobiliário" with a document icon, enabled.
+  - Button: "Consulta Medicamentos" with a heart icon, enabled.
+  - Button: "Consulta de Processos" with a speech bubble icon, enabled.
+  - Button: "Multas de Trânsito" with a document icon, enabled.
+  - Button: "Certidões" with an envelope icon, enabled.
+  - Button: "Leis Orçamentárias" with a document icon, enabled.
+  - Button: "Vagas do PAT" with a document icon, enabled.
+  - Button: "PROCON" with a computer monitor icon, enabled.
+  - Button: "Chamamento Público" with a hand icon, enabled.
+  - Button: "Parcelamento Online" with a globe icon, enabled.
+  - Button: "Licitações" with a handshake icon, enabled.
+  - Button: "Plano Diretor 2025-2035" with a magnifying glass icon, enabled.
+  - Button: "Dengue" with a mosquito icon, enabled.
+  - Button: "Cadastro Habitacional" with a house icon, enabled.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

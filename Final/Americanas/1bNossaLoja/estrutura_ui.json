@@ -1,0 +1,1726 @@
+{
+    "ui_structure": [
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 37,
+                "w": 1248,
+                "h": 19
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509119870.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "HeaderDesktop_logo__zH5Gr",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 81,
+                "w": 152,
+                "h": 30
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509120187.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "busque aqui seu produto",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 530,
+                "y": 76,
+                "w": 615,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "search-input",
+            "ignorado": false,
+            "screenshot": "L0_input_1765509120349.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1114,
+                "y": 76,
+                "w": 48,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509120468.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "olá, faça seu login\nou cadastre-se",
+            "classe": "ButtonLogin_Container__sgzuk",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1212,
+                "y": 76,
+                "w": 171,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509120647.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Lista de lojas",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1432,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509120846.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Favoritos",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1488,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509121011.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "0",
+            "classe": "CartToggle_cartToggle__nPfqA",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1544,
+                "y": 80,
+                "w": 32,
+                "h": 32
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509121187.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "informe seu CEP",
+            "classe": "RegionalizationBar_RegionBar__so5Ut",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 140,
+                "w": 136,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509121418.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "RegionModal_Close__YIXPX",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Digite o seu CEP",
+            "classe": "",
+            "tag": "input",
+            "tipo_controle": "Input",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "shipping-input",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "confirmar CEP",
+            "classe": "RegionModal_ButtonSubmit__dnUOr",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 0,
+                "y": 0,
+                "w": 0,
+                "h": 0
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "baixe o app",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 545,
+                "y": 140,
+                "w": 94,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509121864.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "peça seu cartão",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 642,
+                "y": 140,
+                "w": 124,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509122109.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "cliente a",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 770,
+                "y": 140,
+                "w": 73,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509122293.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "mais vendidos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 847,
+                "y": 140,
+                "w": 113,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509122474.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "nossas lojas",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 965,
+                "y": 140,
+                "w": 100,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509122662.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "entrega rápida",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1069,
+                "y": 140,
+                "w": 114,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509122825.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "leve+ pague-",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1187,
+                "y": 140,
+                "w": 102,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509122992.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "ofertas da TV",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1292,
+                "y": 140,
+                "w": 105,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509123173.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "outlet",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1402,
+                "y": 140,
+                "w": 55,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509123342.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "oferta do dia",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1460,
+                "y": 140,
+                "w": 116,
+                "h": 40
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509123514.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "todos os departamentos",
+            "classe": "MenuDesktop_allDepartments__Fca7J false",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 188,
+                "w": 232,
+                "h": 20
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509123723.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "mercado",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 614,
+                "y": 180,
+                "w": 55,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509123892.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "brinquedos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 713,
+                "y": 180,
+                "w": 70,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509124033.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "celulares",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 826,
+                "y": 180,
+                "w": 56,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509124212.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eletrodomésticos",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 925,
+                "y": 180,
+                "w": 108,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509124382.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "informática",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1076,
+                "y": 180,
+                "w": 70,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509124555.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "áudio e vídeo",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1189,
+                "y": 180,
+                "w": 82,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509124733.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "eletroportáteis",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1314,
+                "y": 180,
+                "w": 91,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509124906.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "móveis",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1448,
+                "y": 180,
+                "w": 44,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509125072.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "natal",
+            "classe": "",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 1535,
+                "y": 180,
+                "w": 33,
+                "h": 36
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509125256.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "página inicial",
+            "classe": "Breadcrumb_breadcrumbLink__Tgqwu",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 375,
+                "w": 82,
+                "h": 19
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509125482.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "nossas lojas",
+            "classe": "Breadcrumb_breadcrumbLink__Tgqwu",
+            "tag": "a",
+            "tipo_controle": "A",
+            "nivel": 0,
+            "posicao": {
+                "x": 438,
+                "y": 375,
+                "w": 78,
+                "h": 19
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_a_1765509125621.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "AC",
+            "classe": "ListStores_activeTab__Y6fJr",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 466,
+                "w": 37,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509125811.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "AL",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 366,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509125928.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "AM",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 401,
+                "y": 466,
+                "w": 40,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509126099.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "AP",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 441,
+                "y": 466,
+                "w": 37,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509126270.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "BA",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 478,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509126439.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "CE",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 514,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509126610.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "DF",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 550,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509126783.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "ES",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 585,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509126949.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "GO",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 619,
+                "y": 466,
+                "w": 38,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509127120.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "MA",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 657,
+                "y": 466,
+                "w": 41,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509127290.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "MG",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 698,
+                "y": 466,
+                "w": 41,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509127461.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "MS",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 739,
+                "y": 466,
+                "w": 39,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509127631.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "MT",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 778,
+                "y": 466,
+                "w": 39,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509127802.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "PA",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 818,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509127970.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "PB",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 853,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509128143.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "PE",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 889,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509128311.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "PI",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 924,
+                "y": 466,
+                "w": 30,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509128481.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "PR",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 955,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509128653.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "RJ",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 991,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509128821.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "RN",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1025,
+                "y": 466,
+                "w": 37,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509128990.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "RO",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1063,
+                "y": 466,
+                "w": 37,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509129163.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "RR",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1100,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509129328.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "RS",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1135,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509129501.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "SC",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509129671.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "SE",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1206,
+                "y": 466,
+                "w": 35,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509129842.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "SP",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1241,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509130012.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "TO",
+            "classe": "ListStores_defaultTab__tsa4X",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1277,
+                "y": 466,
+                "w": 36,
+                "h": 42
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509130184.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Tarauaca - Americanas\nRua Quintino Bocaiuva, 70, Tarauaca - AC\n08h00 às 19h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 580,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509130409.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Feijó Express - Americanas\nAvenida Marechal Deodoro, 96, Feijó - AC\n08h00 às 18h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 580,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509130524.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "SHC VIA VERDE\nBR 364 VIA VERDE - SHOPPING 1707 LOJA 041, , RIO BRANCO - AC\n10h00 às 22h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 580,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509130695.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Sena Madureira - Americanas\nRUA PADRE EGIDIO, 119, Sena Madureira - AC\n08h00 às 18h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 715,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509130864.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Senador Guiomard Express - Americanas\nAvenida Castelo Branco, 1418, Senador Guiomard - AC\n08h00 às 1",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 715,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509131035.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Epitaciolandia - Americanas\nAvenida Santos Dumont, 385, Epitaciolandia - AC\n08h00 às 19h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 715,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509131207.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Cruzeiro Do Sul - Centro - Americanas\nAvenida Boulevard Thaumaturgo, 338, Cruzeiro Do Sul - AC\n09h00",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 850,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509131376.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Americanas - Rio Branco\nRua Rui Barbosa, 400, Rio Branco - AC\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 850,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509131545.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Copacabana Shopping - Americanas\nRua 28 de Setembro, 751, Cruzeiro do Sul - AC\n09h00 às 21h00\nfechad",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 1171,
+                "y": 850,
+                "w": 405,
+                "h": 119
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509131715.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Quintino Bocaiuva - Americanas\nRua Quintino Bocaiuva, 162, Rio Branco - AC\n08h00 às 18h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 328,
+                "y": 985,
+                "w": 405,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509131886.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Getulio Vargas - Americanas\nAvenida Getulio Vargas, 1348, Rio Branco - AC\n08h00 às 18h00\nfechada",
+            "classe": "ListStores_card___c5mU",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 750,
+                "y": 985,
+                "w": 405,
+                "h": 100
+            },
+            "visivel": true,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": false,
+            "screenshot": "L0_button_1765509132067.png",
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+a",
+            "classe": "_menu-close-btn _menu-btn material-icons",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2091,
+                "y": 585,
+                "w": 36,
+                "h": 26
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Redefinir configurações",
+            "classe": "_menu-reset-btn _menu-btn material-icons",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2343,
+                "y": 585,
+                "w": 36,
+                "h": 26
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 635,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 683,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 731,
+                "w": 281,
+                "h": 63
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 799,
+                "w": 281,
+                "h": 63
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 868,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 915,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+i",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 963,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+g",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 1011,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+c",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 1058,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+r",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 1106,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+u",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 1154,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        },
+        {
+            "is_dropdown": false,
+            "nome": "Atalho: ctrl+alt+q",
+            "classe": "",
+            "tag": "button",
+            "tipo_controle": "Button",
+            "nivel": 0,
+            "posicao": {
+                "x": 2094,
+                "y": 1201,
+                "w": 281,
+                "h": 43
+            },
+            "visivel": false,
+            "habilitado": true,
+            "id_automacao": "",
+            "ignorado": true,
+            "filhos": []
+        }
+    ]
+}

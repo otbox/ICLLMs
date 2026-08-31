@@ -1,0 +1,115 @@
+{
+  "pasta": "/home/otbox/Documentos/Projetos/ICLLMs/extracoes/americanas",
+  "arquivos": {
+    "estrutura_ui.json": {
+      "components": {
+        "detectado": 340,
+        "detectado_por_origem": {
+          "ui_structure": 340
+        }
+      }
+    },
+    "relatorio_componentes.json": {
+      "components": {
+        "detectado": null,
+        "detectado_por_origem": {}
+      }
+    },
+    "nossaslojas/estrutura_ui.json": {
+      "components": {
+        "detectado": 133,
+        "detectado_por_origem": {
+          "ui_structure": 133
+        }
+      }
+    },
+    "nossaslojas1/estrutura_ui.json": {
+      "components": {
+        "detectado": 24,
+        "detectado_por_origem": {
+          "ui_structure": 24
+        }
+      }
+    },
+    "nossaslojas2/estrutura_ui.json": {
+      "components": {
+        "detectado": 164,
+        "detectado_por_origem": {
+          "ui_structure": 164
+        }
+      }
+    },
+    "bis/estrutura_ui.json": {
+      "components": {
+        "detectado": 133,
+        "detectado_por_origem": {
+          "ui_structure": 133
+        }
+      }
+    },
+    "celular/estrutura_ui.json": {
+      "components": {
+        "detectado": 355,
+        "detectado_por_origem": {
+          "ui_structure": 355
+        }
+      }
+    },
+    "conta/estrutura_ui.json": {
+      "components": {
+        "detectado": 20,
+        "detectado_por_origem": {
+          "ui_structure": 20
+        }
+      }
+    },
+    "dinossauro0/estrutura_ui.json": {
+      "components": {
+        "detectado": 156,
+        "detectado_por_origem": {
+          "ui_structure": 156
+        }
+      }
+    },
+    "dinossauro1/estrutura_ui.json": {
+      "components": {
+        "detectado": 245,
+        "detectado_por_origem": {
+          "ui_structure": 245
+        }
+      }
+    },
+    "inicial/estrutura_ui.json": {
+      "components": {
+        "detectado": 26,
+        "detectado_por_origem": {
+          "ui_structure": 26
+        }
+      }
+    },
+    "dinossauro1/f1/estrutura_ui.json": {
+      "components": {
+        "detectado": 263,
+        "detectado_por_origem": {
+          "ui_structure": 263
+        }
+      }
+    },
+    "conta/1/estrutura_ui.json": {
+      "components": {
+        "detectado": 15,
+        "detectado_por_origem": {
+          "ui_structure": 15
+        }
+      }
+    },
+    "bis/2/estrutura_ui.json": {
+      "components": {
+        "detectado": 141,
+        "detectado_por_origem": {
+          "ui_structure": 141
+        }
+      }
+    }
+  }
+}

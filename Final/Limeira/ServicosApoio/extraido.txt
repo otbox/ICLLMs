@@ -1,0 +1,330 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", selected, blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Topo", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Link: "Saúde", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Locais de Atendimentos" with a down arrow, enabled, next to
+    separator.
+
+Main Content Area - Serviços de Apoio
+
+  - Title: "Serviços de Apoio", enabled, below breadcrumbs.
+
+  - Text: "Compartilhe", enabled, top right of article content.
+
+  - Icon: Printer icon (Share button), enabled, right of "Compartilhe".
+
+  - Icon: Instagram icon (Share button), enabled, next to printer icon.
+
+  - Icon: Facebook icon (Share button), enabled, next to Instagram icon.
+
+  - Icon: "X" icon (Share button), enabled, next to Facebook icon.
+
+  - Icon: WhatsApp icon (Share button), enabled, next to "X" icon.
+
+      - POLICLÍNICA
+
+          - Text: "POLICLÍNICA", enabled.
+          - Text: "Endereço: Avenida Ana Carolina de Barros Levy, 220 – Centro",
+            enabled.
+          - Text: "Telefone: (19) 3441-2453 / 3441-2065 / 3442-5240", enabled.
+
+      - VIGILÂNCIA SANITÁRIA (VISA)
+
+          - Text: "VIGILÂNCIA SANITÁRIA (VISA)", enabled.
+          - Text: "Endereço: Av.: Rua Prefeito Dr. Alberto Ferreira, 179 –
+            Centro.", enabled.
+          - Text: "Telefone: (19) 3441-6152/ 3404-9867 / 3404-9606", enabled.
+
+      - VIGILÂNCIA EPIDEMIOLÓGICA
+
+          - Text: "VIGILÂNCIA EPIDEMIOLÓGICA", enabled.
+          - Text: "Endereço: Av.: Ana Carolina de Barros Levy, 650 – Centro.",
+            enabled.
+          - Text: "Telefone: (19) 3442.5984/3441.1914", enabled.
+
+      - ASSESSORIA DEPARTAMENTAL DE SAÚDE MENTAL
+
+          - Text: "ASSESSORIA DEPARTAMENTAL DE SAÚDE MENTAL", enabled.
+          - Text: "Telefone: (19) 3497-3853 / 3451-3643", enabled.
+          - Text: "Endereço: Avenida: Ana Carolina de Barros Levy, 650 –
+            Centro", enabled.
+
+      - ZOONOSES
+
+          - Text: "ZOONOSES", enabled.
+          - Text: "Endereço: Rua Caminho da Servidão, 251 - Campos Elíseos",
+            enabled.
+          - Text: "Telefone: (19) 3441.3548 / 3451.3546", enabled.
+
+      - ASSESSORIA DEPARTAMENTAL DE ODONTOLOGIA MUNICIPAL – ADOM
+
+          - Text: "ASSESSORIA DEPARTAMENTAL DE ODONTOLOGIA MUNICIPAL – ADOM",
+            enabled.
+          - Text: "Endereço: Rua Alagoas, 701 – Vila Cláudia.", enabled.
+          - Text: "Telefone: (19) 3442.4598/3446.1555", enabled.
+
+      - CENTRO DE ESPECIALIZAÇÃO MUNICIPAL DO AUTISTA – CEMA
+
+          - Text: "CENTRO DE ESPECIALIZAÇÃO MUNICIPAL DO AUTISTA – CEMA",
+            enabled.
+          - Text: "Endereço: Rua José Conegundes, 375 - Jardim Vanessa",
+            enabled.
+          - Text: "Telefone: (19) 3442. 8746", enabled.
+
+      - AMBULATÓRIO DST/ AIDS – SEMIL
+
+          - Text: "AMBULATÓRIO DST/ AIDS – SEMIL (Serviço Especializado em
+            Moléstias Infecto-Contagiosas)", enabled.
+          - Text: "Endereço: Rua Sergipe, 908 – Vila Cláudia.", enabled.
+          - Text: "Telefone: (19) 3442.4796 / 3444-2020", enabled.
+
+      - PAD – PROGRAMA DE ATENDIMENTO DOMICILIAR
+
+          - Text: "PAD – PROGRAMA DE ATENDIMENTO DOMICILIAR", enabled.
+          - Text: "Endereço: Vereador Samuel Berto, s/nº, Jd. Nova Suíça",
+            enabled.
+          - Text: "Telefone: (19) 3495.0702", enabled.
+
+      - CASM – Centro de Atenção à Saúde da Mulher
+
+          - Text: "CASM – Centro de Atenção à Saúde da Mulher", enabled.
+          - Text: "Endereço: Av. Antônio Ometto, 1300, Vila Cláudia", enabled.
+          - Text: "Telefone: (19) 3441-5060 / 3495-6098", enabled.
+
+      - FARMÁCIA MUNICIPAL
+
+          - Text: "FARMÁCIA MUNICIPAL", enabled.
+          - Text: "Endereço: Rua Boa Morte, 656 - Centro", enabled.
+          - Text: "Telefone: (19) 3443-5395", enabled.
+
+      - FARMÁCIA ALTO CUSTO
+
+          - Text: "FARMÁCIA ALTO CUSTO", enabled.
+          - Text: "Endereço: R. Des. Júlio César da Silveira, 1114 - Vila
+            Claudia", enabled.
+          - Text: "Telefone: (19) 3451-3643", enabled.
+
+      - CENTRAL DE MEDICAMENTOS
+
+          - Text: "CENTRAL DE MEDICAMENTOS", enabled.
+          - Text: "Endereço: Rua Dr. Alberto Ferreira, nº 179 - Centro.",
+            enabled.
+          - Text: "Telefone: (19) 3442.5983", enabled.
+
+      - CENTRAL DE AMBULÂNCIAS
+
+          - Text: "CENTRAL DE AMBULÂNCIAS", enabled.
+          - Text: "Endereço: Rua Cunha Bastos ,210, centro", enabled.
+          - Text: "Telefone: (19) 3442.4896 / 3443.1930 / 3441.8314", enabled.
+
+      - CENTRO DE PATOLOGIA CLÍNICA MUNICIPAL – LABORATÓRIO
+
+          - Text: "CENTRO DE PATOLOGIA CLÍNICA MUNICIPAL – LABORATÓRIO",
+            enabled.
+          - Text: "Endereço: Rua João Machado Gomes Júnior, nº54 / Esquina c/
+            Rua Piauí - Vila Cláudia", enabled.
+          - Text: "Telefone: (19) 3442.3761 / 3444.1744", enabled.
+
+      - Centro do Idoso
+
+          - Text: "Centro do Idoso", enabled.
+          - Text: "Telefone: (19) 3441-1316", enabled.
+          - Text: "Endereço: Avenida Campinas, s/nº - Centro", enabled.
+
+      - SAMU
+
+          - Text: "SAMU", enabled.
+          - Text: "Endereço: Gustavo Dória, nº400 - Santa Cecília", enabled.
+          - Text: "Telefone: (19) 3446-4766 / 192", enabled.
+
+      - CSB (Centro de Saúde Bucal)
+
+          - Text: "CSB (Centro de Saúde Bucal)", enabled.
+          - Text: "Telefone: (19) 3445-7984", enabled.
+          - Text: "Endereço: Rua Senador Vergueiro nº 1230", enabled.
+
+      - Pronto Atendimento do Jardim Aeroporto – 24 horas
+
+          - Text: "Pronto Atendimento do Jardim Aeroporto – 24 horas", enabled.
+          - Text: "Telefone: (19) 3452-9938", enabled.
+          - Text: "Endereço: Rua Antônio de Luna, esquina com a Rua Emília.",
+            enabled.
+
+      - Pronto Atendimento Parque Hipólito– 24 horas
+
+          - Text: "Pronto Atendimento Parque Hipólito– 24 horas", enabled.
+          - Text: "Telefone: (19) 3452-0187", enabled.
+          - Text: "Endereço: Rua Arlindo A Ribeiro s/nº - Parque Hipólito",
+            enabled.
+
+      - CAPS IJ (Centro de Atenção Psicossocial Infantojuvenil)
+
+          - Text: "CAPS IJ (Centro de Atenção Psicossocial Infantojuvenil)",
+            enabled.
+          - Text: "Telefone: (19) 3444-3892", enabled.
+          - Text: "Endereço: Rua Samuel Chequi, 355 - Jardim Montezuma",
+            enabled.
+
+      - CAPS II (Centro de Atenção Psicossocial II)
+
+          - Text: "CAPS II (Centro de Atenção Psicossocial II)", enabled.
+          - Text: "Telefone: (19) 3443-3432", enabled.
+          - Text: "Endereço: Rua 13 de maio, 82 - Centro", enabled.
+
+      - CAPS AD Centro de Atenção Psicossocial Álcool e Drogas)
+
+          - Text: "CAPS AD Centro de Atenção Psicossocial Álcool e Drogas)",
+            enabled.
+          - Text: "Telefone: (19) 3443-4428", enabled.
+          - Text: "Endereço: Rua Vicente de Felice, 112 - Jardim Ouro Verde",
+            enabled.
+
+      - PST – Programa Saúde do Trabalhador
+
+          - Text: "PST – Programa Saúde do Trabalhador", enabled.
+          - Text: "Telefone: (19) 3442-5859", enabled.
+          - Text: "Endereço: Farmacêutico Jacob Fanelli, nº 660 - Vila São
+            João", enabled.
+
+      - Humanitária
+
+          - Text: "Humanitária", enabled.
+          - Text: "Telefone: (19) 3446-7700", enabled.
+          - Text: "Rua Antônia Valverde Cruanes, 70 - Jd. Nova Itália", enabled.
+
+      - Santa Casa
+
+          - Text: "Santa Casa", enabled.
+          - Text: "Telefone: (19) 3446-6100", enabled.
+          - Text: "Avenida antônio Ometto, 675 - vila Cláudia", enabled.
+
+      - Hospital Dia
+
+          - Text: "Hospital Dia", enabled.
+          - Text: "Telefone: (19) 3404-3111", enabled.
+          - Text: "Rua: benedito kuhl, 999 - vila Cláudia", enabled.
+
+Right Sidebar - Quick Access/Services
+
+  - Button: "Limeira Digital" with a document icon, enabled, top of sidebar.
+  - Button: "IPTU e Dívida Ativa/ Mobiliário" with a document icon, enabled.
+  - Button: "Consulta Medicamentos" with a heart icon, enabled.
+  - Button: "Consulta de Processos" with a speech bubble icon, enabled.
+  - Button: "Multas de Trânsito" with a document icon, enabled.
+  - Button: "Certidões" with an envelope icon, enabled.
+  - Button: "Leis Orçamentárias" with a document icon, enabled.
+  - Button: "Vagas do PAT" with a document icon, enabled.
+  - Button: "PROCON" with a computer monitor icon, enabled.
+  - Button: "Chamamento Público" with a hand icon, enabled.
+  - Button: "Parcelamento Online" with a globe icon, enabled.
+  - Button: "Licitações" with a handshake icon, enabled.
+  - Button: "Plano Diretor 2025-2035" with a magnifying glass icon, enabled.
+  - Button: "Dengue" with a mosquito icon, enabled.
+  - Button: "Cadastro Habitacional" with a house icon, enabled.
+  - Icon: Hand icon (Libras/sign language), enabled, floating over the right
+    sidebar.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, selected, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below
+    "Endereço:".
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.
+s

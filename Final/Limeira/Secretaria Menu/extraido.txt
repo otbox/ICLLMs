@@ -1,0 +1,350 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Open Menu (from "Secretarias" dropdown)
+
+  - Menu item: "Administração", enabled, below "Secretarias" in primary
+    navigation.
+  - Menu item: "Assuntos Jurídicos", enabled, below "Administração".
+  - Menu item: "Comunicação", enabled, below "Assuntos Jurídicos".
+  - Menu item: "Cultura", selected, blue background, enabled, below
+    "Comunicação".
+  - Menu item: "Educação", enabled, below "Cultura".
+  - Menu item: "Esporte e Lazer", enabled, below "Educação".
+  - Menu item: "Fazenda", enabled, below "Esporte e Lazer".
+  - Menu item: "Gabinete do Prefeito", enabled, below "Fazenda".
+  - Menu item: "Tecnologia e Eficiência", enabled, below "Gabinete do Prefeito".
+
+Main Content Area (News/Events List)
+
+  - Breadcrumbs:
+
+      - Link: "Início", enabled, below primary navigation bar.
+      - Separator: ">", enabled.
+      - Link: "Secretarias", enabled, next to separator.
+      - Separator: ">", enabled.
+      - Link: "Cultura", enabled, next to separator.
+      - (Note: The breadcrumbs reflect the menu navigation, not the current
+        article category "Geral").
+
+  - Article: Ação inclusiva garante acesso à mamografia
+
+      - Image: Woman at a mammography machine, with smaller circular thumbnails
+        (various images) below, enabled.
+      - Date and Time: "Há 23 horas", enabled, below image.
+      - Headline: "Ação inclusiva garante acesso à mamografia para mulheres com
+        deficiência em Limeira", enabled, below date.
+      - Summary: "Exames podem ser feitos na Policlínica, dia (23), sem
+        necessidade de agendamento", enabled, below headline.
+      - Icon: Share icon (square with an arrow), enabled, bottom right of the
+        article card.
+
+  - Chat Banner (Lia)
+
+      - Image: Banner with a cartoon woman's face and text "o chat inteligente
+        da Prefeitura de Limeira" and button "Clique aqui para falar com a Lia",
+        enabled, below first article.
+
+  - Section: Acontece em Limeira
+
+      - Section Title: "Acontece em Limeira", enabled, below Lia Chat Banner.
+
+      - Dropdown: "Selecionar categoria" with a green down arrow, enabled, top
+        right of "Acontece em Limeira" section.
+
+      - Button: "Ver todos" with a green right arrow, enabled, next to
+        "Selecionar categoria".
+
+      - News Article Card 1 (Acontece em Limeira):
+
+          - Image: White truck with "Só Cacareco" logo on the side, enabled.
+          - Text: "Geral", enabled, category.
+          - Headline: "Operação Só Cacareco percorrerá 15 bairros na próxima
+            semana; veja quais áreas serão atendidas", enabled.
+          - Summary: "Materiais inservíveis serão recolhidos e devem ser
+            colocados na calçada no dia anterior", enabled.
+          - Text: "há 1 hora", enabled, time stamp.
+          - Icon: Share icon, enabled.
+
+      - News Article Card 2 (Acontece em Limeira):
+
+          - Image: Orchestra playing, enabled.
+          - Text: "Cultura", enabled, category.
+          - Headline: "Banda Henrique Marques toca especiais da Disney para
+            comemorar mês das crianças no domingo na Praça Toledo Barros",
+            enabled.
+          - Text: "há 6 horas", enabled, time stamp.
+          - Icon: Share icon, enabled.
+
+      - News Article Card 3 (Acontece em Limeira):
+
+          - Image: Outdoor vaccination station with people, enabled.
+          - Text: "Geral", enabled, category.
+          - Headline: "Limeira registra aumento de 33% nas vacinas aplicadas
+            em 2025 e consolida avanço na imunização", enabled.
+          - Summary: "Crescimento reflete ações descentralizadas da Secretaria
+            de Saúde e maior adesão da população", enabled.
+          - Text: "há 3 horas", enabled, time stamp.
+          - Icon: Share icon, enabled.
+
+      - News Article Card 4 (Acontece em Limeira):
+
+          - Image: Band performing on stage, enabled.
+          - Text: "Cultura", enabled, category.
+          - Headline: "Banda limeirense "Eu, a Véia e os Caras" lança EP
+            "fissuras" no dia 21 de outubro", enabled.
+          - Text: "há 6 horas", enabled, time stamp.
+          - Icon: Share icon, enabled.
+
+      - News Article Card 5 (Acontece em Limeira):
+
+          - Image: School building, enabled.
+          - Text: "Cultura", enabled, category.
+          - Headline: "Espetáculo infantil "A Biblioteca Mágica e os
+            Sentimentos" tem apresentações gratuitas", enabled.
+          - Text: "há 6 horas", enabled, time stamp.
+          - Icon: Share icon, enabled.
+
+      - News Article Card 6 (Acontece em Limeira):
+
+          - Image: Warning sign "ALERTA DE GOLPE" with a red "X" over a house
+            icon, enabled.
+          - Text: "Geral", enabled, category.
+          - Headline: "Prefeitura alerta sobre possível golpe envolvendo
+            cadastro habitacional em Limeira", enabled.
+          - Text: "há 22 horas", enabled, time stamp.
+          - Icon: Share icon, enabled.
+
+  - Section: As mais lidas da semana
+
+      - Section Title: "As mais lidas da semana" with a fire icon, enabled,
+        bottom left.
+      - Numbered List Item: "01 Mês dos Animais: alunos participam de trilha e
+        simulam resgate de animais", enabled.
+      - Numbered List Item: "02 Banda Henrique Marques toca especiais da Disney
+        para comemorar mês das crianças no dom", enabled.
+      - Numbered List Item: "03 Espetáculo infantil "A Biblioteca Mágica e os
+        Sentimentos" tem apresentações gratuitas", enabled.
+      - Numbered List Item: "04 Banda limeirense "Eu, a Véia e os Caras" lança
+        EP "fissuras" no dia 21 de outubro", enabled.
+      - Numbered List Item: "05 Prefeitura alerta sobre possível golpe
+        envolvendo cadastro habitacional em Limeira", enabled.
+      - Numbered List Item: "06 Ruas do Jardim Ipiranga terão sentido único a
+        partir de segunda-feira (20)", enabled.
+      - Numbered List Item: "07 Ceprosom é referência no Congresso Nacional de
+        Vigilância Socioassistencial", enabled.
+      - Numbered List Item: "08 Ação inclusiva garante acesso à mamografia para
+        mulheres com deficiência em Limeira", enabled.
+
+  - Section: Vagas de Emprego
+
+      - Section Title: "Vagas de Emprego" with a magnifying glass icon, enabled,
+        bottom center.
+      - Button: "Ver todos" with a green right arrow, enabled, top right of the
+        section.
+      - Paragraph: "O PAT Limeira tem a vaga ideal para dar uma guinada na sua
+        trajetória profissional. Confira as oportunidades:", enabled.
+      - Job Listing: "VAGA PARA: CONSULTOR DE VENDAS MTE ACEITA PcD", enabled.
+          - Text: "Escolaridade: Ensino Médio", enabled, nested under job
+            listing.
+      - Job Listing: "VAGA PARA: PEDREIRO MTE", enabled.
+          - Text: "Escolaridade: Ensino Fundamental Incompleto", enabled, nested
+            under job listing.
+      - Job Listing: "VAGA PARA: AJUDANTE GERAL II MTE", enabled.
+          - Text: "Escolaridade: Ensino Médio Incompleto", enabled, nested under
+            job listing.
+      - Job Listing: "VAGA PARA: ATENDENTE MTE VAGA TEMPORÁRIA", enabled.
+          - Text: "Escolaridade: Ensino Fundamental", enabled, nested under job
+            listing.
+      - Job Listing: "VAGA PARA: COZINHEIRO MTE ACEITA PcD", enabled.
+          - Text: "Escolaridade: Ensino Fundamental", enabled, nested under job
+            listing.
+      - Job Listing: "VAGA PARA: ASSISTENTE DE CASA LAR MTE ACEITA PcD",
+        enabled.
+          - Text: "Escolaridade: Ensino Médio", enabled, nested under job
+            listing.
+
+  - Section: Histórias
+
+      - Section Title: "Histórias" with a play button icon, enabled, bottom
+        right.
+      - Paragraph: "Vídeos curtinhos para você acompanhar o dia a dia de
+        Limeira.", enabled.
+      - Image: Vertical video preview of a woman talking, with text "como IPTU,
+        ISS, ITBI, taxas municipais.", enabled.
+      - Button: Green right arrow, enabled, overlaying the video preview.
+      - Button: Green left arrow, enabled, overlaying the video preview.
+
+  - Section: Desbrave nossa terra
+
+      - Section Title: "Desbrave nossa terra", enabled, spanning width.
+      - Image: Aerial view of a city, enabled.
+      - Title: "Limeira", enabled, below the city image.
+      - Paragraph: "Limeira, no coração do interior paulista, é uma cidade que
+        surpreende quem a visita. Conhecida nacionalmente como a Capital da
+        Semijoia, uma tradição industrial, charme urbano e uma energia
+        acolhedora típica do interior.", enabled.
+      - Link: "Descubra como um improviso transformou Limeira numa potência de
+        semijoias", enabled, below paragraph.
+      - Button: "Acesse nosso portal de turismo" with a green right arrow,
+        enabled, right of the "Limeira" text block.
+      - Information Card: Icon (person), Text: "População", Text: "300.728",
+        enabled.
+      - Information Card: Icon (heart), Text: "Fundação", Text: "1826", enabled.
+      - Information Card: Icon (starburst/flower), Text: "Gentílico", Text:
+        "Limeirense", enabled.
+      - Information Card: Icon (house), Text: "CEP", Text: "13480-000", enabled.
+      - Information Card: Icon (phone), Text: "DDD", Text: "19", enabled.
+      - Information Card: Icon (map marker), Text: "Território", Text: "580,711
+        km²", enabled.
+      - Information Card: Icon (building), Text: "Prefeito", Text: "Murilo
+        Félix", enabled.
+      - Image: Old train station and tracks, enabled, in a row of images.
+      - Image: Modern building exterior, enabled, next to train station image.
+      - Image: "EDIFÍCIO PRADA" building, enabled, next to modern building.
+      - Image: Church building, enabled, next to Prada building.
+      - Guide Card: Text: "Guia", Text: "Hospedagem", Image: Bed with blanket
+        and pillows, enabled.
+      - Guide Card: Text: "Guia", Text: "Gastronômico", Image: Pizza, enabled.
+      - Guide Card: Text: "Guia", Text: "Lugares Incríveis", Image: World map,
+        enabled.
+
+Right Sidebar (Quick Access/Services)
+
+  - Campaign Banner: "Não perca essa oportunidade! Dívidas com a Prefeitura?
+    Pague com até 90% de desconto de juros e multa", with buttons "Saiba mais"
+    and "IPTU, ISS, ITBI e taxas municipais" with city logo, enabled, top of
+    sidebar.
+  - Section Title: "Acesso Rápido", enabled, below campaign banner.
+  - Button: "Mais serviços" with a green right arrow, enabled, right of section
+    title.
+  - Grid Item: Icon (monitor), Text: "Limeira Digital", enabled.
+  - Grid Item: Icon (calendar), Text: "Agenda de Eventos", enabled.
+  - Grid Item: Icon (medical cross), Text: "Medicamentos", enabled.
+  - Grid Item: Icon (syringe), Text: "Vacinação", enabled.
+  - Grid Item: Icon (house with money symbol), Text: "IPTU e Dívida
+    Ativa/Mobiliário", enabled.
+  - Grid Item: Icon (magnifying glass), Text: "Consulta de Processos", enabled.
+  - Grid Item: Icon (calendar), Text: "Agenda Fácil Saúde", enabled.
+  - Grid Item: Icon (money bag), Text: "Multas de Trânsito", enabled.
+  - Grid Item: Icon (paw print), Text: "Castra +", enabled.
+  - Banner: "Limeirense, aqui você tem voz!", with text "Nossa central de
+    atendimento ao cidadão está pronta para receber sua participação nos
+    assuntos cotidianos do município.", image of mobile app screens, text
+    "LIMEIRA 156" and button "Acesse aqui", enabled, below quick access grid.
+  - Section Title: "Serviços", enabled, below "Limeirense, aqui você tem voz!"
+    banner.
+  - Grid Item: Icon (star), Text: "Certidões", enabled.
+  - Grid Item: Icon (document), Text: "Refis 2025", enabled.
+  - Grid Item: Icon (gavel/law book), Text: "Leis Orçamentárias", enabled.
+  - Grid Item: Icon (map pin), Text: "LIMEIRA GEO", enabled.
+  - Grid Item: Icon (credit card), Text: "Parcelamento Online", enabled.
+  - Grid Item: Icon (handshake), Text: "Licitações", enabled.
+  - Grid Item: Icon (pie chart), Text: "Plano Diretor 2025-2035", enabled.
+  - Grid Item: Icon (mosquito), Text: "Dengue", enabled.
+  - Grid Item: Icon (briefcase), Text: "Vagas do PAT", enabled.
+  - Grid Item: Icon (document), Text: "Convênios BNDES", enabled.
+  - Grid Item: Icon (happy face), Text: "Vagas em creche", enabled.
+  - Grid Item: Icon (footprints), Text: "Posição Fila (exames consultas)",
+    enabled.
+  - Icon: Hand icon (Libras/sign language), enabled, floating over the right
+    sidebar.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

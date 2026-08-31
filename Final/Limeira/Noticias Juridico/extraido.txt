@@ -1,0 +1,240 @@
+Here is a structured description of all visible elements in the provided image:
+
+Top Bar (Accessibility and Meta Navigation)
+
+  - Icon: Circle with a sun symbol (toggle light/dark mode), enabled, top left.
+  - Button: "A+" (increase font size), enabled, top left.
+  - Button: "A-" (decrease font size), enabled, top left.
+  - Icon: Magnifying glass (screen reader search), enabled, top left.
+  - Icon: Speaker (audio reader), enabled, top left.
+  - Icon: Hand (Libras/sign language), enabled, top left.
+  - Link: "Ir para o conteúdo", enabled, top center.
+  - Link: "Ir para o menu", enabled, top center.
+  - Link: "Ir para a busca", enabled, top center.
+  - Link: "Ir para o rodapé", enabled, top center.
+  - Icon: Information circle, enabled, top right, next to "PORTAL DA
+    TRANSPARÊNCIA".
+  - Link: "PORTAL DA TRANSPARÊNCIA", enabled, top right.
+  - Icon: Cloud with rain (weather icon), enabled, top right.
+  - Text: "34°", enabled, top right, next to weather icon.
+  - Text: "Chuva Fraca", enabled, top right, below temperature.
+  - Icon: Facebook logo, enabled, top right, in a social media icon group.
+  - Icon: Instagram logo, enabled, top right, in a social media icon group.
+  - Icon: YouTube logo, enabled, top right, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, top right, in a social media icon group.
+  - Icon: RSS feed logo, enabled, top right, in a social media icon group.
+  - Icon: Spotify logo, enabled, top right, in a social media icon group.
+  - Icon: Envelope (email), enabled, top right, in a social media icon group.
+  - Icon: "X" logo (Twitter), enabled, top right, in a social media icon group.
+
+Main Header
+
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    top left, below top bar.
+  - Text field: "Digite a sua busca", enabled, top center, next to logo.
+      - Icon: Magnifying glass (search icon), enabled, inside text field.
+  - Text: "Em alta:", enabled, below search field.
+  - Link: "IPTU 2025", enabled, below "Em alta:".
+  - Link: "Nota Fiscal Eletrônica", enabled, below "Em alta:", next to
+    "IPTU 2025".
+  - Link: "Licitações", enabled, below "Em alta:", next to "Nota Fiscal
+    Eletrônica".
+
+Primary Navigation Bar
+
+  - Menu button: "A Prefeitura" with a hamburger icon, enabled, left side of
+    navigation bar.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "A
+    Prefeitura".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Navigation link: "Leis Municipais", enabled, next to "Imprensa".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+
+Audience Tabs (Right side of Primary Navigation Bar)
+
+  - Button: "Cidadão", green background, enabled, top right.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", selected, orange background, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+
+Breadcrumbs
+
+  - Link: "Início", enabled, below primary navigation bar.
+  - Separator: ">", enabled.
+  - Link: "Topo", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Link: "Notícias", enabled, next to separator.
+  - Separator: ">", enabled.
+  - Dropdown: "Assuntos Jurídicos" with a down arrow, enabled, next to
+    separator.
+
+Main Content Area (Assuntos Jurídicos News Section)
+
+  - Title: "Assuntos Jurídicos", enabled, below breadcrumbs.
+
+  - Floating Element: Icon (Hand symbol for Libras), enabled, right side of the
+    page, partially obscured.
+
+      - News Article Card 1:
+
+          - Image: Yellow warning triangle with exclamation mark, text
+            "PREFEITURA DE LIMEIRA ALERTA", and city logo, enabled.
+          - Date and Time: "09/10/2025 às 18h26", enabled.
+          - Headline: "Prefeitura de Limeira alerta: golpistas usam nomes de
+            procuradores para aplicar golpes", enabled.
+          - Summary: "Pessoas lesadas devem registrar boletim de ocorrência
+            no 1º DP", enabled.
+
+      - News Article Card 2:
+
+          - Image: Street light pole with security cameras and wires against a
+            blue sky, enabled.
+          - Date and Time: "01/09/2025 às 17h22", enabled.
+          - Headline: "Prefeitura notifica empresa de câmeras por
+            irregularidades no serviço", enabled.
+          - Summary: "Administração apurou pagamento indevido de R$ 746,1 mil
+            por itens não entregues ou não executados", enabled.
+
+      - News Article Card 3:
+
+          - Image: Various hands of different skin tones stacked on top of each
+            other, enabled.
+          - Date and Time: "22/08/2025 às 15h31", enabled.
+          - Headline: "Entidades devem se credenciar para participar de eleição
+            no Conselho Municipal de Direitos Humanos", enabled.
+          - Summary: "Credenciamento vai até o dia 25 de setembro e assembleia
+            geral de eleição dos representantes da sociedade civil será no
+            dia 29", enabled.
+
+      - News Article Card 4:
+
+          - Image: Two men in suits standing and smiling, enabled.
+          - Date and Time: "20/08/2025 às 9h47", enabled.
+          - Headline: "Fabiano D'Andréa assume interinamente Secretaria de
+            Assuntos Jurídicos", enabled.
+          - Summary: "Com sólida trajetória na advocacia, D'Andréa passa a
+            responder pela assistência e representação jurídica da administração
+            municipal a partir desta quarta-feira (20).", enabled.
+
+      - News Article Card 5:
+
+          - Image: Blue abstract background with laptop and design tools, text
+            "Comunicado", and city logo, enabled.
+          - Date and Time: "17/07/2025 às 17h41", enabled.
+          - Headline: "Prefeitura tomará medidas contra cessão arbitrária de
+            área do Horto ao Incra", enabled.
+          - Summary: "NOTA À IMPRENSA", enabled.
+
+      - News Article Card 6:
+
+          - Image: Historic building "EDIFÍCIO PRADA" with palm trees and a
+            fountain in front, enabled.
+          - Date and Time: "11/07/2025 às 14h44", enabled.
+          - Headline: "Prefeitura apura falta de AVCB em prédios públicos e
+            inicia processo de regularização", enabled.
+          - Summary: "SINDICÂNCIA", enabled.
+
+      - News Article Card 7:
+
+          - Image: Black and white photo of the "EDIFÍCIO PRADA" building with a
+            black ribbon and text "NOTA DE PESAR" overlay, and city logo,
+            enabled.
+          - Date and Time: "06/06/2025 às 14h29", enabled.
+          - Headline: "NOTA DE PESAR", enabled.
+          - Summary: "NOTA DE PESAR", enabled.
+
+      - News Article Card 8:
+
+          - Image: Yellow public bus parked at a bus stop under an arched roof,
+            with an "EMERGÊNCIA" sign on a pole, enabled.
+          - Date and Time: "30/05/2025 às 17h43", enabled.
+          - Headline: "Justiça determina manutenção de 70% da frota de ônibus em
+            Limeira durante possível greve", enabled.
+          - Summary: "TRANSPORTE PÚBLICO", enabled.
+
+      - News Article Card 9:
+
+          - Image: Aerial view of the "EDIFÍCIO PRADA" complex with surrounding
+            city and greenery, enabled.
+          - Date and Time: "19/05/2025 às 21h06", enabled.
+          - Headline: "Prefeitura esclarece à Câmara que tratativas com a
+            Microsoft foram encerradas em outubro de 2024", enabled.
+          - Summary: "REQUERIMENTO", enabled.
+
+      - News Article Card 10:
+
+          - Image: Aerial view of the "EDIFÍCIO PRADA" complex with surrounding
+            city and greenery, enabled.
+          - Date and Time: "27/03/2025 às 9h00", enabled.
+          - Headline: "Prefeitura fará vistoria para garantir 70% dos serviços
+            essenciais", enabled.
+          - Summary: "SAÚDE E EDUCAÇÃO", enabled.
+
+  - Pagination:
+
+      - Dropdown: "1" with a down arrow, enabled, bottom center.
+      - Text: "/ 3", enabled, next to dropdown.
+      - Icon: Right arrow (next page), enabled, next to total pages.
+
+Right Sidebar (Quick Access/Services)
+
+  - Button: "Limeira Digital" with a document icon, enabled, top of sidebar.
+  - Button: "Plano Diretor" with a magnifying glass icon, enabled. (Note: Label
+    in image "Plano Diretor 2025-2035" is partially obscured by dropdown
+    content).
+  - Button: "Consulta Medicamentos" with a heart icon, enabled.
+  - Button: "Consulta de Processos" with a speech bubble icon, enabled.
+  - Button: "Multas de Trânsito" with a document icon, enabled.
+  - Button: "Certidões" with an envelope icon, enabled.
+  - Button: "Leis Orçamentárias" with a document icon, enabled.
+  - Button: "Vagas do PAT" with a document icon, enabled.
+  - Button: "PROCON" with a computer monitor icon, enabled.
+  - Button: "Chamamento Público" with a hand icon, enabled.
+  - Button: "Parcelamento Online" with a globe icon, enabled.
+  - Button: "Licitações" with a handshake icon, enabled.
+  - Button: "Plano Diretor 2025-2035" with a magnifying glass icon, enabled.
+  - Button: "Dengue" with a mosquito icon, enabled.
+  - Button: "Cadastro Habitacional" with a house icon, enabled.
+  - Icon: Up arrow, enabled, bottom right of the sidebar, indicating scroll to
+    top.
+
+Footer
+
+  - Button: "Cidadão", green background, enabled, bottom left.
+  - Button: "Empresa", blue background, enabled, next to "Cidadão".
+  - Button: "Servidor", orange background, selected, enabled, next to "Empresa".
+  - Button: "Turismo", yellow background, enabled, next to "Servidor".
+  - Menu button: "Leis Municipais" with a hamburger icon, enabled, top of footer
+    navigation.
+  - Menu button: "Secretarias" with a hamburger icon, enabled, next to "Leis
+    Municipais".
+  - Menu button: "Imprensa" with a hamburger icon, enabled, next to
+    "Secretarias".
+  - Menu button: "Consultas" with a hamburger icon, enabled, next to "Imprensa".
+  - Menu button: "Autarquias e Conselhos" with a hamburger icon, enabled, next
+    to "Consultas".
+  - Image: "PREFEITURA DE LIMEIRA ESTADO DE SÃO PAULO - BRASIL" logo, enabled,
+    below footer navigation buttons.
+  - Icon: Facebook logo, enabled, below logo, in a social media icon group.
+  - Icon: Instagram logo, enabled, below logo, in a social media icon group.
+  - Icon: YouTube logo, enabled, below logo, in a social media icon group.
+  - Icon: LinkedIn logo, enabled, below logo, in a social media icon group.
+  - Icon: RSS feed logo, enabled, below logo, in a social media icon group.
+  - Icon: Spotify logo, enabled, below logo, in a social media icon group.
+  - Section title: "Endereço:", enabled, center of footer.
+  - Text: "Paço Municipal Prefeito Waldemar Mattos Silveira", enabled, below
+    "Endereço:".
+  - Text: "Rua Prefeito Doutor Alberto Ferreira nº 179", enabled, below previous
+    text.
+  - Text: "Centro, Limeira/SP - CEP: 13481-900", enabled, below previous text.
+  - Section title: "CNPJ:", enabled, below address.
+  - Text: "45.132.495/0001-40", enabled, below "CNPJ:".
+  - Icon: Phone, enabled, right side of footer.
+  - Section title: "Telefone:", enabled, next to phone icon.
+  - Text: "(19) 3404-9600", enabled, below "Telefone:".
+  - Icon: Lock, enabled, bottom right of footer.
+  - Link: "Termo de Uso e Políticas de Privacidade", enabled, next to lock icon.
+  - Link: "LGPD - Pesquisa de Satisfação", enabled, below previous link.
+  - Image: "eCrie" logo, enabled, bottom right corner of the page.

@@ -1,0 +1,83 @@
+{
+  "pasta": "/home/otbox/Documentos/Projetos/ICLLMs/extracoes/limeira",
+  "arquivos": {
+    "relatorio_componentes.json": {
+      "components": {
+        "detectado": null,
+        "detectado_por_origem": {}
+      }
+    },
+    "cidadao/estrutura_ui_interativa.json": {
+      "components": {
+        "detectado": 183,
+        "detectado_por_origem": {
+          "ui_structure": 183
+        }
+      }
+    },
+    "cultura/estrutura_ui.json": {
+      "components": {
+        "detectado": 170,
+        "detectado_por_origem": {
+          "ui_structure": 170
+        }
+      }
+    },
+    "divisaozoonose/estrutura_ui.json": {
+      "components": {
+        "detectado": 74,
+        "detectado_por_origem": {
+          "ui_structure": 74
+        }
+      }
+    },
+    "geral/estrutura_ui.json": {
+      "components": {
+        "detectado": 185,
+        "detectado_por_origem": {
+          "ui_structure": 185
+        }
+      }
+    },
+    "inicio/estrutura_ui_final_sem_fallback.json": {
+      "components": {
+        "detectado": 213,
+        "detectado_por_origem": {
+          "ui_structure": 213
+        }
+      }
+    },
+    "transparecia/estrutura_ui.json": {
+      "components": {
+        "detectado": 151,
+        "detectado_por_origem": {
+          "ui_structure": 151
+        }
+      }
+    },
+    "transparecia/obras/estrutura_ui.json": {
+      "components": {
+        "detectado": 651,
+        "detectado_por_origem": {
+          "ui_structure": 651
+        }
+      }
+    },
+    "saude/locais-de-atendimentos/estrutura_ui.json": {
+      "components": {
+        "detectado": 162,
+        "detectado_por_origem": {
+          "ui_structure": 162
+        }
+      }
+    },
+    "divisaozoonose/febre/estrutura_ui.json": {
+      "components": {
+        "detectado": 77,
+        "detectado_por_origem": {
+          "ui_structure": 77
+        }
+      }
+    }
+  }
+}

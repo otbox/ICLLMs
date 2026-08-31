@@ -1,0 +1,550 @@
+Here is the exhaustive, literal transcription of all visible user interface elements in the provided image:
+
+---
+
+### Top Advertisement Banner
+
+* **Banner Image/Link:**
+* **Type:** Clickable advertisement banner
+* **Label / Text:** "cadence", "Viva o que importa", "simplifique", "saiba mais >", "PUBLICIDADE"
+* **State:** Enabled
+* **Position:** Topmost horizontal bar across the full screen width
+* **Hierarchy:** Root level (header ad space)
+
+
+
+---
+
+### Header Navigation Bar (Main Header - Red Background)
+
+* **Brand Logo:**
+* **Type:** Image / Interactive Logo Link
+* **Label / Text:** "americanas"
+* **State:** Enabled
+* **Position:** Top header bar, far left
+* **Hierarchy:** Inside Header Navigation Bar
+
+
+* **Search Input Field:**
+* **Type:** Text Input Box
+* **Placeholder Text:** "busque aqui seu produto"
+* **State:** Enabled
+* **Position:** Top header bar, center
+* **Hierarchy:** Inside Header Navigation Bar
+
+
+* **Search Button:**
+* **Type:** Icon Button
+* **Label / Icon:** Magnifying glass icon
+* **State:** Enabled
+* **Position:** Inside search input field, right side
+* **Hierarchy:** Child of Search Input Field
+
+
+* **User Account Menu:**
+* **Type:** Dropdown Button / Link
+* **Label / Text:** User icon + "olá, stoco8718... minha conta" + down chevron arrow
+* **State:** Enabled, Collapsed
+* **Position:** Top header bar, right side
+* **Hierarchy:** Inside Header Navigation Bar
+
+
+* **Store Locator Button:**
+* **Type:** Icon Link / Button
+* **Label / Icon:** Store building icon
+* **State:** Enabled
+* **Position:** Top header bar, right side (next to account menu)
+* **Hierarchy:** Inside Header Navigation Bar
+
+
+* **Wishlist Button:**
+* **Type:** Icon Link / Button
+* **Label / Icon:** Heart icon
+* **State:** Enabled
+* **Position:** Top header bar, right side
+* **Hierarchy:** Inside Header Navigation Bar
+
+
+* **Shopping Cart Button:**
+* **Type:** Icon Link / Button with Counter Badge
+* **Label / Icon:** Shopping bag icon + Badge overlay containing "1"
+* **State:** Enabled
+* **Position:** Top header bar, right side
+* **Hierarchy:** Inside Header Navigation Bar
+
+
+
+---
+
+### Sub-Header Strip 1 (Red Bar below Main Header)
+
+* **Location Selector:**
+* **Type:** Icon Link / Button
+* **Label / Text:** Location pin icon + "informe seu CEP"
+* **State:** Enabled
+* **Position:** Far left of the red sub-header strip
+* **Hierarchy:** Sub-header strip 1
+
+
+* **Promo Navigation Links:**
+* **Type:** Navigation Links (Horizontal list)
+* **Labels / Text:**
+* "baixe o app"
+* "faça seu cartão"
+* "mais vendidos"
+* "nossas lojas"
+* "entrega rápida"
+* "leve+ pague-"
+* "ofertas da TV"
+* "outlet"
+* Hourglass icon + "oferta do dia"
+
+
+* **State:** Enabled
+* **Position:** Right-aligned across sub-header strip 1
+* **Hierarchy:** Sub-header strip 1
+
+
+
+---
+
+### Sub-Header Strip 2 (White Category Bar)
+
+* **All Categories Menu:**
+* **Type:** Dropdown Menu Button
+* **Label / Text:** Hamburger menu icon + "todos os departamentos" + down chevron arrow
+* **State:** Enabled, Collapsed
+* **Position:** Left side of category bar
+* **Hierarchy:** Sub-header strip 2
+
+
+* **Quick Category Links:**
+* **Type:** Text Links (Horizontal list)
+* **Labels / Text:**
+* "mercado"
+* "brinquedos"
+* "celulares"
+* "eletrodomésticos"
+* "informática"
+* "áudio e vídeo"
+* "eletroportáteis"
+* "móveis"
+* "dia das bruxas"
+
+
+* **State:** Enabled
+* **Position:** Right of "todos os departamentos" menu
+* **Hierarchy:** Sub-header strip 2
+
+
+
+---
+
+### Breadcrumb Trail
+
+* **Breadcrumb Item 1:**
+* **Type:** Text Link
+* **Label / Text:** "página inicial"
+* **State:** Enabled
+* **Position:** Below navigation header, top-left of content area
+* **Hierarchy:** Breadcrumb bar
+
+
+* **Breadcrumb Separator:**
+* **Type:** Text / Symbol
+* **Label / Text:** ">"
+* **Position:** Between breadcrumb links
+
+
+* **Breadcrumb Item 2 (Current Page):**
+* **Type:** Plain Text
+* **Label / Text:** "familia-bis-xtra-03-25-bu-bomboniere-cl"
+* **State:** Static text (current selection)
+* **Position:** End of breadcrumb trail
+* **Hierarchy:** Breadcrumb bar
+
+
+
+---
+
+### Main Content Area: Page Header
+
+* **Page Title Header:**
+* **Type:** Text Heading (H1)
+* **Label / Text:** "familia-bis-xtra-03-25-bu-bomboniere-cl"
+* **State:** Static Text
+* **Position:** Top of the main body, below breadcrumbs
+* **Hierarchy:** Main content wrapper
+
+
+
+---
+
+### Left Sidebar: Filters Panel ("filtrar por")
+
+* **Panel Heading:**
+* **Type:** Text Heading
+* **Label / Text:** "filtrar por"
+* **State:** Static Text
+* **Position:** Top of left sidebar
+* **Hierarchy:** Left Sidebar Filter Panel
+
+
+* **Filter Group: Departamento**
+* **Group Title:** "Departamento" (Static Text)
+* **Checkbox Item:**
+* **Type:** Checkbox with Text Label & Count
+* **Label / Text:** Checkbox + "alimentos e bebidas" + "(4)"
+* **State:** Enabled, Unchecked
+* **Hierarchy:** Left Sidebar > Departamento group
+
+
+
+
+* **Filter Group: Categoria**
+* **Group Title:** "Categoria" (Static Text)
+* **Checkbox Item:**
+* **Type:** Checkbox with Text Label & Count
+* **Label / Text:** Checkbox + "bomboniere" + "(4)"
+* **State:** Enabled, Unchecked
+* **Hierarchy:** Left Sidebar > Categoria group
+
+
+
+
+* **Filter Group: Subcategoria**
+* **Group Title:** "Subcategoria" (Static Text)
+* **Checkbox Item:**
+* **Type:** Checkbox with Text Label & Count
+* **Label / Text:** Checkbox + "chocolate" + "(4)"
+* **State:** Enabled, Unchecked
+* **Hierarchy:** Left Sidebar > Subcategoria group
+
+
+
+
+* **Filter Group: Preço**
+* **Group Title:** "Preço" (Static Text)
+* **Checkbox Items:**
+* Checkbox + "R$ 0 - R$ 25" (Unchecked)
+* Checkbox + "R$ 25 - R$ 50" (Unchecked)
+* Checkbox + "R$ 50 - R$ 100" (Unchecked)
+* Checkbox + "R$ 100 - R$ 250" (Unchecked)
+* Checkbox + "R$ 250 - R$ 500" (Unchecked)
+* Checkbox + "R$ 500 - R$ 1.000" (Unchecked)
+* **State:** All Enabled, Unchecked
+
+
+* **Text Link:** "ver tudo" (Enabled link below price list)
+* **Hierarchy:** Left Sidebar > Preço group
+
+
+* **Filter Group: Condição do Item**
+* **Group Title:** "Condição do Item" (Static Text)
+* **Checkbox Item:**
+* **Type:** Checkbox with Text Label & Count
+* **Label / Text:** Checkbox + "novo" + "(4)"
+* **State:** Enabled, Unchecked
+* **Hierarchy:** Left Sidebar > Condição do Item group
+
+
+
+
+* **Filter Group: Marca**
+* **Group Title:** "Marca" (Static Text)
+* **Checkbox Items:**
+* Checkbox + "lacta" + "(1)" (Unchecked)
+* Checkbox + "não disponível" + "(3)" (Unchecked)
+* **State:** Enabled, Unchecked
+
+
+* **Hierarchy:** Left Sidebar > Marca group
+
+
+* **Filter Group: Produto Internacional**
+* **Group Title:** "Produto Internacional" (Static Text)
+* **Checkbox Item:**
+* **Type:** Checkbox with Text Label & Count
+* **Label / Text:** Checkbox + "não" + "(4)"
+* **State:** Enabled, Unchecked
+* **Hierarchy:** Left Sidebar > Produto Internacional group
+
+
+
+
+
+---
+
+### Work Area: Product Listing ("listagem de produtos")
+
+* **Listing Heading:**
+* **Type:** Text Heading
+* **Label / Text:** "listagem de produtos"
+* **Position:** Top left of the product area
+* **Hierarchy:** Work area main container
+
+
+* **Result Count Indicator:**
+* **Type:** Static Text
+* **Label / Text:** "4 produtos encontrados"
+* **Position:** Below listing heading
+* **Hierarchy:** Work area main container
+
+
+* **Sorting Controls Bar:**
+* **Sort Dropdown:**
+* **Type:** Dropdown Select Menu
+* **Label / Text:** "ordenar por: mais relevantes" + down arrow
+* **State:** Enabled, Collapsed
+* **Position:** Left side of control bar
+* **Hierarchy:** Sorting bar
+
+
+* **View Mode Toggle Buttons:**
+* **Grid View Button:**
+* **Type:** Button (Icon + Label)
+* **Label / Text:** Grid icon + "grid"
+* **State:** Enabled, Selected (Active red highlight)
+* **Position:** Right side of control bar
+* **Hierarchy:** Sorting bar
+
+
+* **List View Button:**
+* **Type:** Button (Icon + Label)
+* **Label / Text:** List icon + "lista"
+* **State:** Enabled, Unselected
+* **Position:** Right side of control bar, adjacent to Grid button
+* **Hierarchy:** Sorting bar
+
+
+
+
+
+
+
+---
+
+### Work Area: Product Cards Grid (4 Visible Cards)
+
+#### Product Card 1 (Far Left)
+
+* **Container:**
+* **Type:** Interactive Card / Frame
+* **Hierarchy:** Work area grid > Item 1
+
+
+* **Product Image:**
+* **Type:** Image element displaying "Bis Extra Branco" packaging
+
+
+* **Quantity Selector Overlay Controls:**
+* **Type:** Stepper Input Group (Floating/Overlay)
+* **Elements:**
+* Trash Bin Icon Button (Left)
+* Quantity Value Text: "1" (Center)
+* Plus Icon Button (Right)
+
+
+* **State:** Enabled / Active
+
+
+* **Product Title Link:**
+* **Type:** Text Link
+* **Label / Text:** "Bis Xtra Branco 45g"
+
+
+* **Rating Display:**
+* **Type:** Composite Rating Element
+* **Label / Icon:** 5 yellow star icons + Text "4.9"
+
+
+* **Product Price:**
+* **Type:** Text Label
+* **Label / Text:** "R$ 3,99"
+
+
+
+#### Product Card 2 (Middle Left)
+
+* **Container:**
+* **Type:** Interactive Card / Frame
+* **Hierarchy:** Work area grid > Item 2
+
+
+* **Product Image:**
+* **Type:** Image element displaying "Bis Extra Chocolate Black" packaging
+
+
+* **Add to Cart Action Button:**
+* **Type:** Circular Floating Icon Button
+* **Icon:** Shopping bag with plus icon (Red circular background)
+* **State:** Enabled
+
+
+* **Product Title Link:**
+* **Type:** Text Link
+* **Label / Text:** "Bis Xtra Chocolate Black 45g"
+
+
+* **Rating Display:**
+* **Type:** Composite Rating Element
+* **Label / Icon:** 5 yellow star icons + Text "4.7"
+
+
+* **Product Price:**
+* **Type:** Text Label
+* **Label / Text:** "R$ 3,99"
+
+
+
+#### Product Card 3 (Middle Right)
+
+* **Container:**
+* **Type:** Interactive Card / Frame
+* **Hierarchy:** Work area grid > Item 3
+
+
+* **Product Image:**
+* **Type:** Image element displaying "Bis Extra Oreo" packaging
+
+
+* **Add to Cart Action Button:**
+* **Type:** Circular Floating Icon Button
+* **Icon:** Shopping bag with plus icon (Red circular background)
+* **State:** Enabled
+
+
+* **Product Title Link:**
+* **Type:** Text Link
+* **Label / Text:** "Bis Xtra Oreo 45g"
+
+
+* **Rating Display:**
+* **Type:** Composite Rating Element
+* **Label / Icon:** 5 yellow star icons + Text "4.7"
+
+
+* **Product Price:**
+* **Type:** Text Label
+* **Label / Text:** "R$ 3,99"
+
+
+
+#### Product Card 4 (Far Right)
+
+* **Container:**
+* **Type:** Interactive Card / Frame
+* **Hierarchy:** Work area grid > Item 4
+
+
+* **Product Image:**
+* **Type:** Image element displaying "Bis Extra ao Leite" packaging
+
+
+* **Add to Cart Action Button:**
+* **Type:** Circular Floating Icon Button
+* **Icon:** Shopping bag with plus icon (Red circular background)
+* **State:** Enabled
+
+
+* **Product Title Link:**
+* **Type:** Text Link
+* **Label / Text:** "Bis Xtra ao Leite Lacta 45g"
+
+
+* **Rating Display:**
+* **Type:** Composite Rating Element
+* **Label / Icon:** 5 yellow star icons + Text "4.6"
+
+
+* **Product Price:**
+* **Type:** Text Label
+* **Label / Text:** "R$ 3,99"
+
+
+
+---
+
+### Work Area Footer / Pagination Indicator
+
+* **Item Count Status:**
+* **Type:** Static Text
+* **Label / Text:** "Mostrando 4 de 4"
+* **Position:** Centered below the product grid
+* **Hierarchy:** Work area main container
+
+
+
+---
+
+### Floating Widget Overlay Elements
+
+* **Feedback / Cookie / Promotion Floating Button:**
+* **Type:** Floating Action Button (FAB)
+* **Icon:** Red circle with white icon (bottom-left overlay)
+* **State:** Enabled
+* **Position:** Bottom-left corner of the viewport
+
+
+* **Accessibility Floating Menu Button:**
+* **Type:** Floating Action Button (FAB)
+* **Icon:** Blue rectangle with white universal accessibility person icon
+* **State:** Enabled
+* **Position:** Bottom-right side overlay of the viewport
+
+
+
+---
+
+### Page Footer
+
+* **Footer Navigation Links (Upper Tier):**
+* **Type:** Text Links (Horizontal layout)
+* **Labels / Text:**
+* "sac 4003 4848"
+* "guia de segurança"
+* "dia das bruxas"
+* "black friday"
+* "entregas e devoluções"
+
+
+* **State:** Enabled
+* **Position:** Top section of footer area
+* **Hierarchy:** Footer container
+
+
+* **Footer Main Bar:**
+* **Brand Logo:**
+* **Type:** Image / Logo
+* **Label / Text:** "americanas" (Red text inside white box)
+* **Position:** Left side of footer middle section
+
+
+* **Expandable Information Dropdown:**
+* **Type:** Expandable Menu Button
+* **Label / Text:** "mais informações" + down arrow
+* **State:** Enabled, Collapsed
+* **Position:** Center of footer middle section
+
+
+* **Social Media Icon Links:**
+* **Type:** Icon Links (Horizontal list)
+* **Icons:** Instagram, YouTube, Facebook, TikTok
+* **State:** Enabled
+* **Position:** Right side of footer middle section
+
+
+
+
+* **Footer Legal Information (Bottom Tier):**
+* **Company Registration & Address Text:**
+* **Type:** Static Small Text
+* **Label / Text:** "americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 - Rio de Janeiro, RJ - 20081-902"
+* **Position:** Bottom center
+
+
+* **Sitemap Link:**
+* **Type:** Text Link
+* **Label / Text:** "Mapa do site"
+* **State:** Enabled
+* **Position:** Bottom center, below legal text

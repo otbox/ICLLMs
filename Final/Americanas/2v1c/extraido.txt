@@ -1,0 +1,499 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Topmost Header Bar
+
+  - Text: cartão cliente
+  - Icon: Americanas logo (red 'a' on white card graphic)
+  - Text: parcele em até 12x sem juros + benefícios exclusivos
+  - Link: peça agora
+      - Icon: Right arrow (next to 'peça agora')
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: User profile
+  - Text: olá, stoco8718... (truncated)
+      - Icon: Down arrow (next to user name)
+      - Link: minha conta
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 0 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Button: baixe o app
+  - Button: peça seu cartão
+  - Link: cliente a (text with small 'a' logo)
+  - Button: mais vendidos
+  - Button: nossas lojas
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Link: climatização
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+
+Main Content Area - Top Promotional Banner
+
+  - Banner Text: receba em casa ou retire na loja em 2h
+  - Images: Spider-Man, Paw Patrol characters (partially visible)
+  - Button: queeero (red button)
+  - Text: Tá procurando brinquedos para todas as idades e estilos? Aqui tem de
+    tudo! Desde brinquedos baratos para economizar até opções que fazem sucesso,
+    como bebê reborn, boneca Barbie e até urso de pelúcia fofinho. Quer diversão
+    em grupo? Aposte nos jogos de tabuleiro, carrinhos de controle remoto e
+    bicicletas infantis. Se tem uma coisa que a gente ama é ver a criança feliz,
+    né? E aqui na Americanas você encontra tudo para transformar qualquer dia em
+    um momento especial. Tem brinquedos baratos para todos os gostos, desde os
+    clássicos que nunca saem de moda, até os lançamentos mais desejados. Bora
+    conferir?
+  - Link: mostrar mais (partially visible)
+
+Heading
+
+  - Heading 2: os queridinhos do dia das crianças 2025:
+
+"Os Queridinhos" Product Category Cards (Grid Layout, 3 columns)
+
+  - Card 1:
+      - Image: PlayStation 5 console
+      - Text: video game
+      - Button: queeero
+  - Card 2:
+      - Image: Hoverboard
+      - Text: hoverboard
+      - Button: queeero
+  - Card 3:
+      - Image: Pink bicycle
+      - Text: bicicleta infantil
+      - Button: queeero
+  - Card 4:
+      - Image: Pink tablet for kids
+      - Text: tablet infantil
+  - Card 5:
+      - Image: Barbie dream house
+      - Text: casa da Barbie
+  - Card 6:
+      - Image: Barbie dolls
+      - Text: Barbie
+  - Card 7:
+      - Image: Baby reborn doll
+      - Text: bebê reborn
+  - Card 8:
+      - Image: Board game (Monopoly)
+      - Text: jogos de tabuleiro
+  - Card 9:
+      - Image: Scooter
+      - Text: patinete infantil
+
+Banner: Outlet Americanas
+
+  - Text: outlet americanas
+  - Image: Two kids with toy cars (partially visible)
+  - Text: ofertas imperdíveis com entrega rápida
+  - Button: queeero
+
+Main Content Area - Product Listing Section
+
+Heading
+
+  - Heading 2: Brinquedos
+
+Contextual Information / Call to Action
+
+  - Icon: Information circle
+  - Link: Quer ver ofertas e frete da sua região? insira seu CEP.
+
+Left Sidebar - Filter Section
+
+  - Heading: filtrar por
+
+      - Filter Category: Categoria
+          - Checkbox: Acessórios para bicicleta (11)
+          - Checkbox: Artes e atividades (362)
+          - Checkbox: Bicicleta de equilíbrio (3)
+          - Checkbox: Bicicleta infantil (23)
+          - Checkbox: Blocos de montar (707)
+          - Checkbox: Boneca (602)
+          - Checkbox: Boneco (322)
+          - Checkbox: Brinquedos de controle remoto (10)
+          - Checkbox: Brinquedos eletrônicos (54)
+          - Checkbox: Brinquedos esportivos (35)
+          - Checkbox: Colecionáveis e miniaturas (196)
+          - Checkbox: Dinossauros (21)
+          - Checkbox: Faz de conta (188)
+          - Checkbox: Jogos (528)
+          - Checkbox: Lançadores (75)
+          - Checkbox: Mini veículos e triciclos (61)
+          - Checkbox: Modelismo (2)
+          - Checkbox: Móveis para crianças (59)
+          - Checkbox: Patins, patinetes e skates (60)
+          - Checkbox: Pelúcias (194)
+          - Checkbox: Playground (79)
+          - Checkbox: Praia e piscina (47)
+          - Checkbox: Quebra-cabeça (163)
+          - Checkbox: Veículos de brinquedo (422)
+          - Link: ver menos (state: appears collapsed/hidden when filters
+            extend, but label indicates state of filter visibility)
+      - Filter Category: Subcategoria
+          - Checkbox: Acessórios para quebra-cabeça (1)
+          - Checkbox: Autoramas e pistas (39)
+          - Checkbox: Avião e helicóptero de controle remoto (11)
+          - Checkbox: Balanço, escorregador e gangorra (2)
+          - Checkbox: Baldinho e acessórios (16)
+          - Checkbox: Barraca e toca (8)
+          - Link: ver tudo
+      - Filter Category: Vendido Por
+          - Checkbox: a costa rica colchões (7)
+          - Checkbox: americanas sa (2732)
+          - Checkbox: carrefour.com (50)
+          - Checkbox: loja iplace (1)
+          - Checkbox: lojas colombo sa (2)
+          - Checkbox: lojas vettore (55)
+          - Link: ver tudo
+      - Filter Category: Aro
+          - Checkbox: aro 12 (5)
+          - Checkbox: aro 14 (1)
+          - Checkbox: aro 16 (1)
+          - Checkbox: aro 20 (1)
+      - Filter Category: Gênero
+          - Checkbox: masculino (2)
+          - Checkbox: menina (819)
+          - Checkbox: menino (55)
+          - Checkbox: unissex (5735)
+      - Filter Category: Idade recomendada
+          - Checkbox: - (4)
+          - Checkbox: + 03 anos (2)
+          - Checkbox: + 1 ano (1)
+          - Checkbox: + 10 anos (5)
+          - Checkbox: + 12 anos (1)
+          - Checkbox: + 12 meses (1)
+          - Link: ver tudo
+      - Filter Category: Preço
+          - Checkbox: R 0 - R 25
+          - Checkbox: R 25 - R 50
+          - Checkbox: R 50 - R 100
+          - Checkbox: R 100 - R 250
+          - Checkbox: R 250 - R 500
+          - Checkbox: R 500 - R 1.000
+          - Link: ver tudo
+      - Filter Category: Condição do Item
+          - Checkbox: novo (2044)
+      - Filter Category: Marca
+          - Checkbox: aquabeads (21)
+          - Checkbox: arthi (1)
+          - Checkbox: baby (4)
+          - Checkbox: baby alive (2)
+          - Checkbox: baby brink (47)
+          - Checkbox: bambola (7)
+          - Link: ver tudo
+
+Right Content Area - Product Listing
+
+  - Heading: listagem de produtos
+  - Text: 6875 produtos encontrados
+  - Dropdown Menu: ordenar por: mais relevantes (state: collapsed)
+      - Icon: Down arrow (next to 'mais relevantes')
+  - Button: grid (state: selected)
+      - Icon: Grid layout
+  - Button: lista
+      - Icon: List layout
+
+Product Cards (Grid Layout)
+
+  - Product Card 1: Carrinho Colecionável Mattel Hot Wheels Kit 5...
+      - Image: Packaging with 5 Hot Wheels cars.
+      - Icon: Shopping cart (red square with white cart)
+      - Text: Carrinho Colecionável Mattel Hot Wheels Kit 5...
+      - Star Rating: 4.5 filled stars, 1 half-filled star (text: 4.8)
+      - Price: R$ 84,99
+      - Installment info: em 1x de R$ 84,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 2: Boneca Articulada Barbie Bailarina Mat...
+      - Image: Doll wearing a pink tutu.
+      - Icon: Shopping cart
+      - Text: Boneca Articulada Barbie Bailarina Mat...
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 34,99
+      - Discount Badge: 46% (green)
+      - Price (new): R$ 18,89
+      - Installment info: em 1x de R$ 34,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 3: Boneca Articulada Mattel Barbie Fashion T7439...
+      - Image: Three Barbie dolls in different pink outfits.
+      - Icon: Shopping cart
+      - Text: Boneca Articulada Mattel Barbie Fashion T7439...
+      - Star Rating: 4.5 filled stars (text: 4.5)
+      - Price (old): R$ 39,99
+      - Discount Badge: 30% (green)
+      - Price (new): R$ 27,99
+      - Installment info: em 1x de R$ 27,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 4: Chapéu Infantil Cowboy Faz de Conta Brink+...
+      - Image: Two cowboy hats, one brown, one red.
+      - Icon: Shopping cart
+      - Text: Chapéu Infantil Cowboy Faz de Conta Brink+...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 19,99
+      - Installment info: em 1x de R$ 19,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 5: Boneco Colecionável Toy Story Woody Brink+ em...
+      - Image: Woody doll from Toy Story.
+      - Icon: Shopping cart
+      - Text: Boneco Colecionável Toy Story Woody Brink+ em...
+      - Star Rating: 4 filled stars (text: 4.0)
+      - Price: R$ 29,99
+      - Installment info: em 1x de R$ 29,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 6: Boneco Colecionável Minia...
+      - Image: Buzz Lightyear toy.
+      - Icon: Shopping cart
+      - Text: Boneco Colecionável Minia... (truncated)
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price (old): R$ 24,99
+      - Discount Badge: 24% (green)
+      - Price (new): R$ 18,89
+      - Installment info: em 1x de R$ 18,89 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 7: Jogo de Cartas Interativo Mattel UNO W2087...
+      - Image: UNO card game.
+      - Icon: Shopping cart
+      - Text: Jogo de Cartas Interativo Mattel UNO W2087...
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 24,99
+      - Discount Badge: 24% (green)
+      - Price (new): R$ 18,89
+      - Installment info: em 1x de R$ 18,89 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 8: Carrinho Colecionável Die Cast Mattel Hot Wheels...
+      - Image: Monster truck toy.
+      - Icon: Shopping cart
+      - Text: Carrinho Colecionável Die Cast Mattel Hot Wheels...
+      - Star Rating: 3.5 filled stars (text: 3.6)
+      - Price: R$ 64,99
+      - Installment info: em 1x de R$ 64,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 9: Blocos de Montar Criativo Troféu Oficial da...
+      - Image: Lego-like trophy kit.
+      - Icon: Shopping cart
+      - Text: Blocos de Montar Criativo Troféu Oficial da...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price (old): R$ 24,99
+      - Discount Badge: 24% (green)
+      - Price (new): R$ 10,49 no Pix
+      - Installment info: em 2x de R$ 198,74 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 10: Boneca Gigante Interativa Estrela Amiguinha...
+      - Image: Baby doll with pink dress.
+      - Icon: Shopping cart
+      - Text: Boneca Gigante Interativa Estrela Amiguinha...
+      - Star Rating: 4 filled stars, 1 half-filled star (text: 4.2)
+      - Price: R$ 139,99
+      - Installment info: em 2x de R$ 69,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 11: João Teimoso Inflável Spider-Man brink+ 87cm
+      - Image: Inflatable Spider-Man punch bag.
+      - Icon: Shopping cart
+      - Text: João Teimoso Inflável Spider-Man brink+ 87cm
+      - Star Rating: 4.5 filled stars (text: 4.6)
+      - Price: R$ 29,99
+      - Installment info: em 1x de R$ 29,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+  - Product Card 12: Boneco Interativo com Som Toyng Buzz Lightye...
+      - Image: Buzz Lightyear toy.
+      - Icon: Shopping cart
+      - Text: Boneco Interativo com Som Toyng Buzz Lightye...
+      - Star Rating: 4 empty stars, 1 half-filled star (text: 0.0)
+      - Price: R$ 219,99
+      - Installment info: em 4x de R$ 54,99 sem juros no cartão de crédito
+      - Button: retire em 2h
+
+Pagination / Load More
+
+  - Text: Mostrando 12 de 6875
+  - Button: ver mais produtos (red button)
+
+Brands Section
+
+  - Heading: as melhores marcas estão aqui na americanas
+  - Brand Logo: baby alive
+  - Brand Logo: Hot Wheels
+  - Brand Logo: LEGO
+  - Brand Logo: Mattel
+  - Brand Logo: Disney
+  - Brand Logo: Estrela
+  - Brand Logo: Fisher-Price
+  - Brand Logo: Grow
+  - Brand Logo: Caloi
+  - Brand Logo: Candide
+  - Brand Logo: Hasbro
+  - Brand Logo: Sylvanian Families
+
+"Jogos, bonecas..." Section
+
+  - Heading: jogos, bonecas, dinossauros e muito mais: tudo que os pequenos
+    amam!
+  - Category Card: Dinossauros
+      - Image: Dinosaur figures with egg
+      - Text: dinossauros
+      - Button: queeero
+  - Category Card: Jogos
+      - Image: UNO and Jogo da Vida game boxes
+      - Text: jogos
+  - Category Card: Pelúcias
+      - Image: Winnie the Pooh plush toy
+      - Text: pelúcias
+  - Category Card: Quebra-cabeça
+      - Image: Puzzle box
+      - Text: quebra-cabeça
+      - Button: queeero
+  - Category Card: Boneco
+      - Image: Spider-Man and other action figures
+      - Text: boneco
+
+"Mais ideias para presentear" Section (Grid Layout, 2 columns)
+
+  - Suggestion Card 1:
+      - Icon/Image: Toy gun
+      - Text: lançadores
+  - Suggestion Card 2:
+      - Icon/Image: Toy kitchen set
+      - Text: faz de conta
+  - Suggestion Card 3:
+      - Icon/Image: Toy car
+      - Text: veículos de brinquedo
+  - Suggestion Card 4:
+      - Icon/Image: Roller skates
+      - Text: patins, patinetes e skates
+  - Suggestion Card 5:
+      - Icon/Image: Small pool
+      - Text: playground
+  - Suggestion Card 6:
+      - Icon/Image: Building blocks
+      - Text: blocos de montar
+  - Suggestion Card 7:
+      - Icon/Image: Toy truck
+      - Text: mini veículos e triciclos
+  - Suggestion Card 8:
+      - Icon/Image: Stitch character plush
+      - Text: colecionáveis e miniaturas
+
+"Veja também" Section (Grid Layout, 3 columns)
+
+  - Suggestion Card 1:
+      - Image: Batman themed child bed
+      - Text: cama infantil
+  - Suggestion Card 2:
+      - Image: Child dresser
+      - Text: cama infantil
+  - Suggestion Card 3:
+      - Image: Child wardrobe
+      - Text: guarda-roupa infantil
+  - Suggestion Card 4:
+      - Image: Toy storage unit
+      - Text: organizador de brinquedos
+  - Suggestion Card 5:
+      - Image: Child backpack
+      - Text: mochila infantil
+  - Suggestion Card 6:
+      - Image: Inflatable child pool
+      - Text: piscina infantil
+
+Descriptive Text Block
+
+  - Text: brinquedos para todas as idades: diversão garantida com preços que
+    cabem no bolso!
+  - Text: Se tem uma coisa que a gente ama é ver a criança feliz, né? E aqui na
+    Americanas você encontra tudo para transformar qualquer dia em um momento
+    especial. Tem brinquedos baratos para todos os gostos, desde os clássicos
+    que nunca saem de moda, até os lançamentos mais desejados. Bora conferir?
+
+FAQ Section
+
+  - Heading: dúvidas sobre brinquedos? a gente descomplica pra você!
+  - Collapsible Panel: O que tem de brinquedo para criança? (state: collapsed)
+      - Icon: Down arrow
+  - Collapsible Panel: Qual o brinquedo mais vendido hoje? (state: collapsed)
+      - Icon: Down arrow
+  - Collapsible Panel: Quais são os brinquedos populares? (state: collapsed)
+      - Icon: Down arrow
+  - Collapsible Panel: O que são brinquedos eletrônicos? (state: collapsed)
+      - Icon: Down arrow
+  - Collapsible Panel: O que são brinquedos tradicionais? (state: collapsed)
+      - Icon: Down arrow
+
+Footer Navigation Links (Columnar)
+
+  - Column 1
+      - Link: artes e atividades
+      - Link: bicicleta infantil
+      - Link: blocos de montar
+      - Link: boneca
+      - Link: boneco
+  - Column 2
+      - Link: brinquedos de controle remoto
+      - Link: brinquedos eletrônicos
+      - Link: brinquedos esportivos
+      - Link: colecionáveis e miniaturas
+      - Link: dinossauros
+  - Column 3
+      - Link: faz de conta
+      - Link: jogos
+      - Link: lançadores
+      - Link: mini veículos e triciclos
+      - Link: modelismo
+  - Column 4
+      - Link: patins, patinetes e skates
+      - Link: pelúcias
+      - Link: playground
+      - Link: praia e piscina
+      - Link: quebra-cabeça
+
+Floating Social Media Icons (Left side)
+
+  - Icon: Facebook (red square, white icon)
+  - Icon: Instagram (red square, white icon)
+  - Icon: Pinterest (red square, white icon)
+
+Floating Icons (Left bottom)
+
+  - Icon: Red icon with hands
+  - Icon: Red icon with person walking
+  - Icon: Red clock icon
+
+Bottom Footer
+
+  - Link: sac 4003 4848
+  - Link: guia de segurança
+  - Link: tudo em casa
+  - Link: entregas e devoluções
+  - Logo: americanas (red text)
+  - Dropdown Menu: mais informações (state: collapsed)
+      - Icon: Down arrow (next to 'mais informações')
+  - Social Media Icon: Instagram
+  - Social Media Icon: YouTube
+  - Social Media Icon: Facebook
+  - Social Media Icon: TikTok
+  - Text: americanas s.a. / CNPJ: 00.776.574/0006-60 / Inscrição
+    Estadual: 85.687.08-5 / Endereço Rua Sacadura Cabral, 102 – Rio de Janeiro,
+    RJ – 20081-902
+  - Link: Mapa do site

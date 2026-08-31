@@ -1,0 +1,132 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Top Header Banners (Partially visible)
+
+  - Banner 1 (Left, red background)
+      - Text: frete grátis Brasil
+      - Button: queeero
+      - Icon: Information circle
+      - Text: confira as regras.
+  - Banner 2 (Middle-left, red background)
+      - Text: 17% de desconto
+      - Button: queeero
+      - Icon: Information circle
+      - Text: confira as regras.
+  - Banner 3 (Middle-right, red background)
+      - Text: 15% de desconto
+      - Button: queeero
+      - Icon: Information circle
+      - Text: confira as regras.
+  - Banner 4 (Right, red background)
+      - Text: 10% de desconto no Pix
+      - Button: queeero
+      - Icon: Information circle
+      - Text: confira as regras.
+
+Shopping Cart Sidebar (Right side overlay)
+
+  - Sidebar Header
+      - Icon: Shopping cart
+      - Text: minha cesta
+      - Icon: Close (X) - top right corner of sidebar
+  - Product in Cart: Smartphone Samsung Galaxy A06 128GB 4GB RAM Tela 6,7...
+      - Image: Smartphone Samsung Galaxy A06 (dark blue)
+      - Text: Smartphone Samsung Galaxy A06 128GB 4GB RAM Tela 6,7...
+      - Icon: Close (X) - removes product from cart
+      - Quantity Selector:
+          - Button: Minus (-)
+          - Text Field: 1 (current quantity)
+          - Button: Plus (+)
+      - Price (old): R$ 749,00 (struck through)
+      - Price (current): R$ 629,10
+  - Subtotal and Total
+      - Text: subtotal
+      - Price: R$ 749,00
+      - Text: total (bold)
+      - Price: R$ 629,10 (bold)
+  - Action Buttons
+      - Button: continuar (white text, red background)
+      - Button: continuar comprando (red text, white background, red border)
+
+Background Content - Category Navigation (Horizontal scrollable section)
+
+  - Text: navegue por categoria :)
+  - Category Card:
+      - Icon: Bear head (red)
+      - Text: brinquedos
+  - Category Card:
+      - Icon: Smartphone (red outline)
+      - Text: telefonia
+  - Category Card:
+      - Icon: Chocolate bar (red)
+      - Text: chocolate
+  - Category Card:
+      - Icon: Cookies (red)
+      - Text: biscoitos
+  - Category Card:
+      - Icon: Air fryer (red)
+      - Text: eletroportáteis
+  - Category Card:
+      - Icon: Diaper (red)
+      - Text: fraldas
+  - Category Card:
+      - Icon: Beauty products (red bottles)
+      - Text: beleza e perfumaria
+  - Category Card:
+      - Icon: Refrigerator (red)
+      - Text: eletrodomé (truncated, likely 'eletrodomésticos')
+
+Background Content - "Os Mais Vendidos" Products (Horizontal scrollable section)
+
+  - Text: os mais vendidos
+  - Product Card 1:
+      - Image: Smartphone Motorola Moto G15 256GB 12GB RAM Boo... (dark gray
+        phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.299,00
+      - Discount Badge: 38% (green)
+      - Price (new): R$ 809,10 no Pix
+      - Installment info: em 8x de R$ 112,37 sem juros no cartão de crédito
+  - Product Card 2:
+      - Image: Smartphone Samsung Galaxy A06 128GB 4GB RA... (dark blue phone)
+      - Icon: Delete (red trash can) - replaces shopping cart icon, indicates
+        item is in cart and quantity can be managed
+      - Quantity Selector: 1 (text field)
+      - Star Rating: 4.5 filled stars, 1 half-filled (text: 4.8)
+      - Price (old): R$ 749,00
+      - Discount Badge: 16% (green)
+      - Price (new): R$ 629,10 no Pix
+      - Installment info: em 8x de R$ 87,37 sem juros no cartão de crédito
+  - Product Card 3:
+      - Image: Smartphone Samsung Galaxy A16 128GB 4GB RA... (black phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.299,00
+      - Discount Badge: 31% (green)
+      - Price (new): R$ 899,00 no Pix
+      - Installment info: em 8x de R$ 112,37 sem juros no cartão de crédito
+  - Product Card 4:
+      - Image: Smartphone Motorola Moto G05 128GB 12GB RAM Boo... (blue-gray
+        phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.099,00
+      - Discount Badge: 43% (green)
+      - Price (new): R$ 629,10 no Pix
+      - Installment info: em 8x de R$ 87,37 sem juros no cartão de crédito
+  - Product Card 5:
+      - Image: Smartphone Samsung Galaxy A25 5G 256GB 8GB ... (dark blue phone)
+      - Icon: Shopping cart (red)
+      - Star Rating: 5 filled stars (text: 5.0)
+      - Price (old): R$ 1.749,00
+      - Discount Badge: 25% (green)
+      - Price (new): R$ 1.304,10 no Pix
+      - Installment info: em 8x de R$ 181,12 sem juros no cartão de crédito
+  - Icon: Right arrow (chevron) - indicates scrollable area
+
+Floating Icons
+
+  - Icon: Red clock icon (bottom left)
+  - Icon: Blue accessibility icon (bottom right)

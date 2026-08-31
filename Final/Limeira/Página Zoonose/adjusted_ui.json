@@ -1,0 +1,1410 @@
+{
+  "ui_structure": [
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "a11y-controls__theme",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 68,
+        "y": 5,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765467288672899060.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "a11y-controls__inc-font",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 108,
+        "y": 5,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765467288939546208.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "a11y-controls__dec-font",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 148,
+        "y": 5,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765467289091999390.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "a11y-controls__zoom",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 188,
+        "y": 5,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765467289263373911.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 228,
+        "y": 5,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467289443337520.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Acesse o mapa do site",
+      "classe": "a11y-mapa",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 268,
+        "y": 5,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467289611973522.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Ir para o conteúdo",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 794,
+        "y": 12,
+        "w": 130,
+        "h": 16
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467289779690789.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Ir para o menu",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 928,
+        "y": 12,
+        "w": 105,
+        "h": 16
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467289920522974.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Ir para a busca",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1037,
+        "y": 12,
+        "w": 108,
+        "h": 16
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467290088692781.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Ir para o rodapé",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1149,
+        "y": 12,
+        "w": 114,
+        "h": 16
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467290259158857.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "site-title  ",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 62,
+        "y": 73,
+        "w": 235,
+        "h": 74
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467290474384719.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Digite a sua busca",
+      "classe": "",
+      "tipo_controle": "Input",
+      "nivel": 0,
+      "posicao": {
+        "x": 350,
+        "y": 60,
+        "w": 334,
+        "h": 40
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "busca",
+      "ignorado": false,
+      "screenshot": "L0_input_1765467290649412796.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 655,
+        "y": 71,
+        "w": 19,
+        "h": 19
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765467290877009403.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "IPTU 2025",
+      "classe": "em-alta__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 350,
+        "y": 139,
+        "w": 78,
+        "h": 17
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467291209716490.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Nota Fiscal Eletrônica",
+      "classe": "em-alta__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 443,
+        "y": 139,
+        "w": 151,
+        "h": 17
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467291440240180.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Licitações",
+      "classe": "em-alta__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 609,
+        "y": 139,
+        "w": 75,
+        "h": 17
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467291613649517.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Acessar o Portal da Transparência",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 689,
+        "y": 93,
+        "w": 150,
+        "h": 33
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467291772472102.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Facebook",
+      "classe": "facebook",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1046,
+        "y": 95,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467292135337412.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Instagram",
+      "classe": "instagram",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1080,
+        "y": 95,
+        "w": 30,
+        "h": 29
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467292382463007.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Youtube",
+      "classe": "youtube",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1116,
+        "y": 95,
+        "w": 30,
+        "h": 29
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467292574869487.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Linkedin",
+      "classe": "linkedin",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1150,
+        "y": 95,
+        "w": 30,
+        "h": 30
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467292740371617.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Rss",
+      "classe": "rss",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1186,
+        "y": 95,
+        "w": 30,
+        "h": 29
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467292897061150.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eOuve - Atendimento ao Cidadão",
+      "classe": "eouve",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1214,
+        "y": 89,
+        "w": 48,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467293064139749.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "menu-icon",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": -290,
+        "y": 0,
+        "w": 34,
+        "h": 22
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "screenshot": "L0_button_1765467293434663372.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Leis Municipais",
+      "classe": "site-nav__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 488,
+        "y": 184,
+        "w": 108,
+        "h": 47
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467293733723026.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "A Prefeitura",
+      "classe": "site-nav__link dropdown__main-button",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 62,
+        "y": 184,
+        "w": 101,
+        "h": 47
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467293832501163.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Secretarias",
+      "classe": "site-nav__link dropdown__main-button",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 212,
+        "y": 184,
+        "w": 98,
+        "h": 47
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467294232563909.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Imprensa",
+      "classe": "site-nav__link dropdown__main-button",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 357,
+        "y": 184,
+        "w": 83,
+        "h": 47
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467296079533405.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Consultas",
+      "classe": "site-nav__link dropdown__main-button",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 645,
+        "y": 184,
+        "w": 88,
+        "h": 47
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467296532184988.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Cidadão",
+      "classe": "submenu-header__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 803,
+        "y": 187,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467298089020089.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Empresa",
+      "classe": "submenu-header__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 922,
+        "y": 187,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467298314305248.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Servidor",
+      "classe": "submenu-header__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1041,
+        "y": 187,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467298483837011.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Turismo",
+      "classe": "submenu-header__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1160,
+        "y": 187,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467298654812202.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Início",
+      "classe": "breadcrumbs__item",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 80,
+        "y": 284,
+        "w": 72,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467298938969361.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Topo",
+      "classe": "breadcrumbs__item",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 188,
+        "y": 284,
+        "w": 70,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467299176445988.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Saúde",
+      "classe": "breadcrumbs__item",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 296,
+        "y": 284,
+        "w": 80,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467299347392856.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Divisão de Vigilância de Zoonoses",
+      "classe": "dropdown__main-button",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": 413,
+        "y": 284,
+        "w": 313,
+        "h": 44
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_button_1765467299530287415.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Febre Maculosa",
+      "classe": "list-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 80,
+        "y": 436,
+        "w": 120,
+        "h": 21
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467300970709554.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Vacinação antirrábica",
+      "classe": "list-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 80,
+        "y": 518,
+        "w": 163,
+        "h": 20
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467301362002533.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "menu-icon",
+      "tipo_controle": "Button",
+      "nivel": 0,
+      "posicao": {
+        "x": -290,
+        "y": 0,
+        "w": 34,
+        "h": 22
+      },
+      "visivel": false,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": true,
+      "screenshot": "L0_button_1765467301596451709.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Limeira Digital",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 284,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467301825663026.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "IPTU e Dívida Ativa/Mobiliário",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 362,
+        "w": 280,
+        "h": 78
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467301973632775.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Consulta Medicamentos",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 447,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467302137456937.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Consulta de Processos",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 525,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467302306514209.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Multas de Trânsito",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 602,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467302477508766.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Certidões",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 680,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467302646515934.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Leis orçamentárias",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 757,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467302816677979.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Vagas do PAT",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 835,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467302986732111.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "PROCON",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 912,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467303157019592.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Chamamento Público",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 990,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467303328682674.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Parcelamento Online",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 1067,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467303503180636.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Licitações",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 1145,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467303674883652.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Plano Diretor 2025-2035",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 1222,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467303846772438.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Dengue",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 1300,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467304017449319.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Cadastro Habitacional",
+      "classe": "sidebar__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 926,
+        "y": 1377,
+        "w": 280,
+        "h": 70
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467304190980928.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Leis Municipais",
+      "classe": "lista-menu-rodape__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 232,
+        "y": 1512,
+        "w": 126,
+        "h": 18
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467304409414219.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Secretarias",
+      "classe": "lista-menu-rodape__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 431,
+        "y": 1512,
+        "w": 97,
+        "h": 18
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467304704351788.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Imprensa",
+      "classe": "lista-menu-rodape__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 601,
+        "y": 1512,
+        "w": 81,
+        "h": 18
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467304871385302.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Consultas",
+      "classe": "lista-menu-rodape__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 756,
+        "y": 1512,
+        "w": 87,
+        "h": 18
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467305041609554.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Autarquias e Conselhos",
+      "classe": "lista-menu-rodape__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 916,
+        "y": 1512,
+        "w": 187,
+        "h": 18
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467305211541427.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Cidadão",
+      "classe": "lista-menu__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 62,
+        "y": 1532,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467305437650933.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Empresa",
+      "classe": "lista-menu__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 62,
+        "y": 1588,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467305656926405.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Servidor",
+      "classe": "lista-menu__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 62,
+        "y": 1644,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467305829238022.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Turismo",
+      "classe": "lista-menu__grid-item__link",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 62,
+        "y": 1700,
+        "w": 103,
+        "h": 41
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467305999031445.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Facebook",
+      "classe": "facebook",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 206,
+        "y": 1686,
+        "w": 30,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467306221831501.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Instagram",
+      "classe": "instagram",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 241,
+        "y": 1686,
+        "w": 30,
+        "h": 35
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467306352969444.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Youtube",
+      "classe": "youtube",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 276,
+        "y": 1686,
+        "w": 30,
+        "h": 35
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467306544502253.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Linkedin",
+      "classe": "linkedin",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 311,
+        "y": 1686,
+        "w": 30,
+        "h": 36
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467306702198976.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Rss",
+      "classe": "rss",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 346,
+        "y": 1686,
+        "w": 30,
+        "h": 35
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467306862474639.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eOuve - Atendimento ao Cidadão",
+      "classe": "eouve",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 377,
+        "y": 1681,
+        "w": 46,
+        "h": 45
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467307033802793.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "Termo de Uso e Políticas de Privacidade",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 997,
+        "y": 1686,
+        "w": 266,
+        "h": 17
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467307692987755.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "LGPD - Pesquisa de Satisfação",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 997,
+        "y": 1707,
+        "w": 205,
+        "h": 17
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467307922610083.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "",
+      "classe": "icon back-to-top",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 1568,
+        "y": 1694,
+        "w": 32,
+        "h": 32
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467308083385553.png",
+      "filhos": []
+    },
+    {
+      "is_dropdown": false,
+      "nome": "eCrie - Sistema de Gerenciamento de Site",
+      "classe": "",
+      "tipo_controle": "A",
+      "nivel": 0,
+      "posicao": {
+        "x": 602,
+        "y": 1769,
+        "w": 120,
+        "h": 32
+      },
+      "visivel": true,
+      "habilitado": true,
+      "id_automacao": "",
+      "ignorado": false,
+      "screenshot": "L0_a_1765467308296399344.png",
+      "filhos": []
+    }
+  ]
+}

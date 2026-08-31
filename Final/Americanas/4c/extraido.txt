@@ -1,0 +1,167 @@
+Here is a structured transcription of all visible elements in the attached
+image:
+
+Topmost Header Bar
+
+  - Logo: cadence (text logo)
+  - Text: Viva o que importa
+  - Text: simplifique
+  - Link: saiba mais >
+  - Text: PUBLICIDADE (very small, right corner)
+
+Main Header Section
+
+  - Logo: americanas (white text on red background)
+  - Text Field: "busque aqui seu produto"
+      - Icon: Search (magnifying glass) - inside text field
+  - Icon: User profile
+  - Text: olá, stoco8718... (truncated)
+      - Icon: Down arrow (next to user name)
+      - Link: minha conta
+  - Icon: Bell (notification)
+  - Icon: Heart (favorites)
+  - Icon: Shopping bag
+  - Text: 0 (count, next to shopping bag icon)
+
+Top Navigation Menu (Horizontal)
+
+  - Icon: Location pin
+  - Link: informe seu CEP
+  - Button: baixe o app
+  - Button: faça seu cartão
+  - Button: mais vendidos
+  - Button: nossas lojas
+  - Button: entrega rápida
+  - Button: leve+ pague-
+  - Button: ofertas da TV
+  - Button: outlet
+  - Button: oferta do dia
+      - Icon: Clock (next to 'oferta do dia')
+
+Secondary Navigation Menu (Horizontal, below primary)
+
+  - Icon: Hamburger menu (three horizontal lines)
+  - Link: todos os departamentos
+      - Icon: Down arrow (next to 'todos os departamentos')
+  - Link: mercado
+  - Link: brinquedos
+  - Link: celulares
+  - Link: eletrodomésticos
+  - Link: informática
+  - Link: áudio e vídeo
+  - Link: eletroportáteis
+  - Link: móveis
+  - Link: dia das bruxas
+
+Breadcrumbs
+
+  - Link: página inicial
+  - Icon: Right arrow (chevron)
+  - Text: familia-bis-xtra-03-25-bu-bomboniere-cl
+
+Shopping Cart Sidebar (Right side overlay)
+
+  - Sidebar Header
+      - Icon: Shopping cart
+      - Text: minha cesta
+      - Icon: Close (X) - top right corner of sidebar
+  - Product in Cart: Bis Xtra Branco 45g
+      - Image: Bis Xtra Branco chocolate bar packaging.
+      - Text: Bis Xtra Branco 45g
+      - Icon: Close (X) - removes product from cart
+      - Quantity Selector:
+          - Button: Minus (-)
+          - Text Field: 1 (current quantity)
+          - Button: Plus (+)
+      - Price (current): R$ 3,99
+  - Subtotal and Total
+      - Text: subtotal
+      - Price: R$ 3,99 (struck through)
+      - Text: total (bold)
+      - Price: R$ 3,99 (bold)
+  - Action Buttons
+      - Button: continuar (white text, red background)
+      - Button: continuar comprando (red text, white background, red border)
+
+Background Content - Heading
+
+  - Heading 2: familia-bis-xtra-03-25-bu-bomboniere-cl (Likely a product
+    category or search result heading)
+
+Background Content - Left Sidebar - Filter Section
+
+  - Heading: filtrar por
+
+      - Filter Category: Departamento
+          - Checkbox: alimentos e bebidas (4)
+      - Filter Category: Categoria
+          - Checkbox: bomboniere (4)
+      - Filter Category: Subcategoria
+          - Checkbox: chocolate (4)
+      - Filter Category: Preço
+          - Checkbox: R 0 - R 25
+          - Checkbox: R 25 - R 50
+          - Checkbox: R 50 - R 100
+          - Checkbox: R 100 - R 250
+          - Checkbox: R 250 - R 500
+          - Checkbox: R 500 - R 1.000
+          - Link: ver tudo
+      - Filter Category: Condição do Item
+          - Checkbox: novo (4)
+      - Filter Category: Marca
+          - Checkbox: lacta (1)
+          - Checkbox: não disponível (3)
+      - Filter Category: Produto Internacional
+          - Checkbox: não (4)
+
+Background Content - Right Content Area - Product Listing
+
+  - Heading: listagem de produtos
+  - Text: 4 produtos encontrados
+  - Dropdown Menu: ordenar por: mais relevantes (state: collapsed)
+      - Icon: Down arrow (next to 'mais relevantes')
+  - Button: grid (state: selected)
+      - Icon: Grid layout
+  - Button: lista
+      - Icon: List layout
+
+Background Content - Product Cards (Grid Layout)
+
+  - Product Card 1: Bis Xtra Branco 45g
+      - Image: Bis Xtra Branco chocolate bar packaging.
+      - Icon: Delete (red trash can) - replaces shopping cart icon, indicates
+        item is in cart and quantity can be managed
+      - Quantity Selector: 1 (text field)
+      - Text: Bis Xtra Branco 45g
+      - Star Rating: 4.5 filled stars, 1 half-filled star (text: 4.9)
+      - Price: R$ 3,99
+  - Product Card 2: Bis Xtra Chocolate Black 45g
+      - Image: Bis Xtra Chocolate Black chocolate bar packaging.
+      - Icon: Shopping cart (red square with white cart)
+      - Text: Bis Xtra Chocolate Black 45g
+      - Star Rating: 4.5 filled stars, 1 half-filled star (text: 4.7)
+      - Price: R$ 3,99
+  - Product Card 3: Bis Xtra Oreo 45g
+      - Image: Bis Xtra Oreo chocolate bar packaging.
+      - Icon: Shopping cart
+      - Text: Bis Xtra Oreo 45g
+      - Star Rating: 4.5 filled stars, 1 half-filled star (text: 4.7)
+      - Price: R$ 3,99
+  - Product Card 4: Bis Xtra ao Leite Lacta 45g
+      - Image: Bis Xtra Original chocolate bar packaging.
+      - Icon: Shopping cart
+      - Text: Bis Xtra ao Leite Lacta 45g
+      - Star Rating: 4.5 filled stars, 1 half-filled star (text: 4.6)
+      - Price: R$ 3,99
+
+Background Content - Pagination / Load More
+
+  - Text: Mostrando 4 de 4
+
+Floating Cookie Icon (Left bottom)
+
+  - Icon: Red cookie icon
+
+Floating Accessibility Icon (Right bottom)
+
+  - Icon: Blue accessibility icon
